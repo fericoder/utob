@@ -326,6 +326,7 @@ header .woocommerce ul.product_list_widget {
 		</nav>
 
 @yield('content')
+@yield('grid')
 
 		<!-- FOOTER-->
 		<footer>
