@@ -12,13 +12,12 @@
 		<!-- MAIN CONTENT-->
 		<div class="main-content">
 		<!-- Page Title -->
-		<section class=" page-title">
+		<section style="background-image: url(wp-content/uploads/2016/07/old-1130738_1920.jpg);!important;" class=" page-title">
 		<div class="container">
 		<div class="page-title-wrapper">
 		<div class="page-title-content">
 		<ol class="breadcrumb"><li><a href="http://wp.swlabs.co/exploore/" class="link home">صفحه اصلی</a></li><li class="active"><a href="http://wp.swlabs.co/exploore/hotel-grid/" class="link">هتل ها</a></li></ol>				<div class="clearfix"></div>
-		<h2 class="captions" style="margin-bottom:35px;">
-		لیست هتل ها</h2>
+		<h2 class="captions" style="margin-bottom:35px;">لیست هتل ها</h2>
 		</div>
 		</div>
 		</div>

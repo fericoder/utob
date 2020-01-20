@@ -20,6 +20,9 @@
 	!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
 	</script>
 	<style type="text/css">
+		section.page-banner{
+			margin-bottom: -95px!important;
+		}
 	img.wp-smiley,
 	img.emoji {
 		display: inline !important;
@@ -158,7 +161,7 @@ header .woocommerce ul.product_list_widget {
 		<div class="header-topbar">
 		<div class="topbar-search search-mobile">
 		<form role="search" method="get" class="search-form" action="http://wp.swlabs.co/exploore/">
-		<input type="text" placeholder ="Search here..." class="search-field search-input form-control searchbox" name="s"/>
+		<input type="text" placeholder ="عبارت مورد نظر را اینجا وارد کنید ..." class="search-field search-input form-control searchbox" name="s"/>
 		<button type="submit" class="searchbutton btn-search fa fa-search"></button>
 		</form>					</div>
 		</div>
@@ -309,18 +312,19 @@ header .woocommerce ul.product_list_widget {
 		<img src="wp-content/uploads/2016/06/Logo.png" alt="">							</a>
 		</div>
 		</div>
-		<nav class="navigation"><ul id="menu-main-navigation-1" class="nav-links nav navbar-nav slzexploore-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-45 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-548 active dropdown menu-item-depth1" ><a class="main-menu"  href="index.html"><i class="fa fa-home utob-font"></i>صفحه اصلی<span class="icons-dropdown"></span></a></li>
+		<nav class="navigation"><ul id="menu-main-navigation-1" class="nav-links nav navbar-nav slzexploore-menu">
+        <li class="{{ request()->is('/') ? 'active' : '' }} menu-item menu-item-type-post_type menu-item-object-page  page_item page-item-45  current_page_parent current_page_ancestor menu-item-has-children menu-item-548 dropdown menu-item-depth1" ><a class="main-menu"  href="/"><i class="fa fa-home utob-font"></i>صفحه اصلی<span class="icons-dropdown"></span></a></li>
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-555 dropdown menu-item-depth1" ><a class="main-menu"  href="shop/tours-list/index.html"><i class="fa  "></i><i class="fa fa-stethoscope utob-font"></i>بیماری ها<span class="label label-danger">پر بازدیدترین</span></a></li>
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-554 dropdown menu-item-depth1" ><a class="main-menu"  href="hotels-list/index.html"><i class="fa  "></i><i class="fa fa-medkit utob-font"></i>پکیج ها<span class="label label-danger">پر بازدیدترین</span></a></li>
 		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1342 dropdown menu-item-depth1" ><a class="main-menu"  href="#"><i class="fa  "></i><i class="fa fa-user-md utob-font"></i>دکتر ها</a></li>
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-562 dropdown menu-item-depth1" ><a class="main-menu"  href="blog-list-sidebar-right/index.html"><i class="fa  "></i><i class="fa fa-hospital-o utob-font"></i>بیمارستان ها</a></li>
 		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-536 dropdown menu-item-depth1" ><a class="main-menu"  href="#"><i class="fa  "></i><i class="fa fa-users utob-font"></i>تجربه مشتریان</a></li>
-		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1239 mega-menu dropdown" ><a class="main-menu"  href="/hotels"><span class="text"><i class="fa  "></i><i class="fa fa-building-o utob-font"></i>هتل ها</span></a></li>
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-681 mega-menu dropdown" ><a class="main-menu"  href="shop/index.html"><span class="text"><i class="fa  "></i><i class="fa fa-pencil-square utob-font"></i>فرم درخواست</span></a></li>
-		</ul>							<div class="button-search"><span class="main-menu"><i class="fa fa-search utob-font"></i></span></div>
+		<li class="{{ request()->is('*hotel*') ? 'active' : '' }} menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1239 mega-menu dropdown" ><a class="main-menu"  href="/hotels"><span class="text"><i class="fa  "></i><i class="fa fa-building-o utob-font"></i>هتل ها</span></a></li>
+		</ul>
+			<div class="button-search"><span class="main-menu"><i class="fa fa-search utob-font"></i></span></div>
 		<div class="nav-search hide">
 		<form role="search" method="get" class="search-form" action="http://wp.swlabs.co/exploore/">
-		<input type="text" placeholder ="Search here..." class="search-field search-input form-control searchbox" name="s"/>
+		<input type="text" placeholder ="عبارت مورد نظر را وارد کنید ..." class="search-field search-input form-control searchbox" name="s"/>
 		<button type="submit" class="searchbutton btn-search fa fa-search"></button>
 		</form>							</div>
 		</nav>
