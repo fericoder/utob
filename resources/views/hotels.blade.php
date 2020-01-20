@@ -39,6 +39,7 @@
 		</div>
 		</div>
 
+
 		<div class="main-right f-none hotel-result-content sc-block-15015746545e24334581b1b">
 		<div class="hotel-list">
 		<div class="row">
