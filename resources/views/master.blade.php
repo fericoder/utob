@@ -315,7 +315,7 @@ header .woocommerce ul.product_list_widget {
 		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1342 dropdown menu-item-depth1" ><a class="main-menu"  href="#"><i class="fa  "></i><i class="fa fa-user-md utob-font"></i>دکتر ها</a></li>
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-562 dropdown menu-item-depth1" ><a class="main-menu"  href="blog-list-sidebar-right/index.html"><i class="fa  "></i><i class="fa fa-hospital-o utob-font"></i>بیمارستان ها</a></li>
 		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-536 dropdown menu-item-depth1" ><a class="main-menu"  href="#"><i class="fa  "></i><i class="fa fa-users utob-font"></i>تجربه مشتریان</a></li>
-		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1239 mega-menu dropdown" ><a class="main-menu"  href="#"><span class="text"><i class="fa  "></i><i class="fa fa-building-o utob-font"></i>هتل ها</span></a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1239 mega-menu dropdown" ><a class="main-menu"  href="/hotels"><span class="text"><i class="fa  "></i><i class="fa fa-building-o utob-font"></i>هتل ها</span></a></li>
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-681 mega-menu dropdown" ><a class="main-menu"  href="shop/index.html"><span class="text"><i class="fa  "></i><i class="fa fa-pencil-square utob-font"></i>فرم درخواست</span></a></li>
 		</ul>							<div class="button-search"><span class="main-menu"><i class="fa fa-search utob-font"></i></span></div>
 		<div class="nav-search hide">
@@ -326,7 +326,7 @@ header .woocommerce ul.product_list_widget {
 		</nav>
 
 @yield('content')
-@yield('grid')
+
 
 		<!-- FOOTER-->
 		<footer>

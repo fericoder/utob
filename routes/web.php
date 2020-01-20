@@ -18,3 +18,11 @@ Route::get('/', function () {
 Route::get('/hotels', function () {
     return view('hotels');
 });
+
+Route::get('/about', function () {
+    return view('about');
+});
+
+Route::get('/contact', function () {
+    return view('contact');
+});
