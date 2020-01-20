@@ -7,6 +7,7 @@
 		</div>
 		</div>
 		</header>				<!-- WRAPPER-->
+
 		<div id="wrapper-content">
 		<!-- MAIN CONTENT-->
 		<div class="main-content">
