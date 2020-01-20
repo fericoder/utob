@@ -12,7 +12,7 @@
 		<!-- MAIN CONTENT-->
 		<div class="main-content">
 		<!-- Page Title -->
-		<section style="background-image: url(wp-content/uploads/2016/07/old-1130738_1920.jpg);!important;" class=" page-title">
+		<section style="background-image: url(wp-content/uploads/2016/07/old-1130738_1920.jpg);!important;"  class=" page-title">
 		<div class="container">
 		<div class="page-title-wrapper">
 		<div class="page-title-content">

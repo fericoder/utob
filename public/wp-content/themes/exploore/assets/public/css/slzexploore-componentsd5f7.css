@@ -4898,17 +4898,20 @@ div[class*="icon-box"] .contact-list-media .text {
   margin-bottom: 0;
 }
 .our-content .our-icon {
-  font-size: 40px;
-  color: #ffdd00;
+  font-size: 80px;
+  color: #0e99b6;
+  text-align: center;
   margin-bottom: 15px;
   display: block;
   line-height: 1;
 }
 .our-content .our-title {
   font-size: 16px;
+  text-align: center;
 }
 .our-content .text {
   color: #cdd1d6;
+  text-align: center;
   margin-bottom: 0;
   font-weight: 300;
 }

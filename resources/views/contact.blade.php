@@ -12,13 +12,13 @@
 <!-- MAIN CONTENT-->
 <div class="main-content">
 <!-- Page Title -->
-<section class=" page-title">
+<section style="background-image: url(wp-content/uploads/2016/05/location.jpg);!important;"   class=" page-title">
 <div class="container">
 <div class="page-title-wrapper">
 <div class="page-title-content">
-<ol class="breadcrumb"><li><a href="../index.html" class="link home">Home</a></li><li class="active"><a href="index.html" class="link">Contact</a></li></ol>				<div class="clearfix"></div>
-<h2 class="captions">
-Contact					</h2>
+<ol class="breadcrumb"><li><a href="../index.html" class="link home">صفحه اصلی</a></li><li class="active"><a href="index.html" class="link">راه های ارتباطی</a></li></ol>				<div class="clearfix"></div>
+<h2 class="captions" style="margin-bottom: 35px;">
+	تماس باما</h2>
 </div>
 </div>
 </div>
@@ -109,21 +109,21 @@ Contact					</h2>
 <div class="contact style-1 page-contact-form padding-top padding-bottom">
 <div class="container">		<div class="wrapper-contact-form">
 <div data-wow-delay="0.5s" class="contact-wrapper wow fadeInLeft">
-<div class="contact-box">
-<h5 class="title">CONTACT FORM</h5>
-<p class="text">Subcribe to receive new properties with good price.</p>
-<div role="form" class="wpcf7" id="wpcf7-f46-p547-o1" lang="en" dir="ltr">
+	<div class="contact-box">
+<h5 class="title">باما در ارتباط باشید</h5>
+<p class="text">لحظاتی خوش در کنار یوتاب</p>
+<div role="form" class="wpcf7" id="wpcf7-f46-p45-o1" lang="en" dir="ltr">
 <div class="screen-reader-response"></div>
-<form action="http://wp.swlabs.co/exploore/contact/#wpcf7-f46-p547-o1" method="post" class="wpcf7-form contact-form" novalidate="novalidate" id="contact-form-7154784075e1e7affbd1b9">
+<form action="http://wp.swlabs.co/exploore/?d=rtl#wpcf7-f46-p45-o1" method="post" class="wpcf7-form contact-form" novalidate="novalidate" id="contact-form-6023684715e1ec8d47cbee">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="46" />
 <input type="hidden" name="_wpcf7_version" value="4.5.1" />
 <input type="hidden" name="_wpcf7_locale" value="en" />
-<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f46-p547-o1" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f46-p45-o1" />
 <input type="hidden" name="_wpnonce" value="3d209936a5" />
 </div>
-<p><span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control form-input" aria-required="true" aria-invalid="false" placeholder="Your Name" /></span><span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form-control form-input" aria-required="true" aria-invalid="false" placeholder="Your Email" /></span><span class="wpcf7-form-control-wrap your-subject"><textarea name="your-subject" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required form-control form-input" aria-required="true" aria-invalid="false" placeholder="Your Message"></textarea></span></p>
-<div class="contact-submit"><input type="submit" value="SEND MESSENGER" class="wpcf7-form-control wpcf7-submit btn btn-slide" /></div>
+<p><span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control form-input" aria-required="true" aria-invalid="false" placeholder="نام و نام خانوادگی" /></span><span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form-control form-input" aria-required="true" aria-invalid="false" placeholder="آدرس ایمیل" /></span><span class="wpcf7-form-control-wrap your-subject"><textarea name="your-subject" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required form-control form-input" aria-required="true" aria-invalid="false" placeholder="پیام خود را وارد کنید"></textarea></span></p>
+<div class="contact-submit"><input type="submit" value="ارسال پیام" class="wpcf7-form-control wpcf7-submit btn btn-slide" /></div>
 <div class="wpcf7-response-output wpcf7-display-none"></div></form></div>				</div>
 </div>
 <div data-wow-delay="0.5s" class="wrapper-form-images wow fadeInRight"><img width="870" height="550" src="../wp-content/uploads/2016/05/bg-banner-contact-form.jpg" class="img-responsive attachment-full" alt="bg-banner-contact-form" srcset="http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/bg-banner-contact-form.jpg 870w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/bg-banner-contact-form-300x190.jpg 300w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/bg-banner-contact-form-768x486.jpg 768w" sizes="(max-width: 870px) 100vw, 870px" /></div>

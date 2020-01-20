@@ -15,12 +15,12 @@
 <div class="main-content">
 
 
-<section class=" page-title">
+<section style="background-image: url(wp-content/uploads/2016/07/milad.jpg);!important;" class=" page-title">
 <div class="container">
 <div class="page-title-wrapper">
 <div class="page-title-content">
 <ol class="breadcrumb"><li><a href="../index.html" class="link home">صفحه اصلی</a></li><li class="active"><a href="index.html" class="link">درباره ما</a></li></ol>				<div class="clearfix"></div>
-<h2 class="captions">
+<h2 class="captions"style="margin-bottom: 35px;">
 چرا یوتاب؟</h2>
 </div>
 </div>
