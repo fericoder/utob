@@ -126,7 +126,7 @@
 <div class="contact-submit"><input type="submit" value="ارسال پیام" class="wpcf7-form-control wpcf7-submit btn btn-slide" /></div>
 <div class="wpcf7-response-output wpcf7-display-none"></div></form></div>				</div>
 </div>
-<div data-wow-delay="0.5s" class="wrapper-form-images wow fadeInRight"><img width="870" height="550" src="../wp-content/uploads/2016/05/bg-banner-contact-form.jpg" class="img-responsive attachment-full" alt="bg-banner-contact-form" srcset="http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/bg-banner-contact-form.jpg 870w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/bg-banner-contact-form-300x190.jpg 300w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/bg-banner-contact-form-768x486.jpg 768w" sizes="(max-width: 870px) 100vw, 870px" /></div>
+<div data-wow-delay="0.5s" class="wrapper-form-images wow fadeInRight"><img width="870" height="550" src="../wp-content/uploads/2016/05/waze2.jpeg" class="img-responsive attachment-full" alt="bg-banner-contact-form"  sizes="(max-width: 870px) 100vw, 870px" /></div>
 </div>
 <div class="clear"></div>
 </div>	</div>
@@ -134,7 +134,7 @@
 <div class="slz-shortcode contact-15710631765e1e7affc22ff ">
 <div class="map-block" data-id="15710631765e1e7affc22ff">
 <div class="map-info">
-<h3 class="title-style-2">HOW TO FIND US</h3>
+<h3 class="title-style-2">چطور ما را پیدا کنید</h3>
 <p class="address"><i class="fa fa-map-marker"></i> 333 Moo 10, Chert Wudthakas Road, Srikan, Don Mueang, Bangkok, Thailand</p>
 <p class="phone"><i class="fa fa-phone"></i> 910-740-6026</p>
 <p class="mail"><a href="mailto:domain@expooler.com"> <i class="fa fa-envelope"></i> domain@expooler.com</a></p>
