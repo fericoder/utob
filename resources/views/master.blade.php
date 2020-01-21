@@ -16,7 +16,7 @@
 	<link rel="alternate" type="application/rss+xml" title="Exploore - Travel, Exploration, Booking WordPress Theme &raquo; Feed" href="feed/index.html" />
 	<link rel="alternate" type="application/rss+xml" title="Exploore - Travel, Exploration, Booking WordPress Theme &raquo; Comments Feed" href="comments/feed/index.html" />
 	<script type="text/javascript">
-	window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/wp.swlabs.co\/exploore\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.3"}};
+	window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/\/exploore\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.3"}};
 	!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
 	</script>
 	<style type="text/css">
@@ -84,7 +84,7 @@
 <script type='text/javascript' src='wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min7923.js?ver=5.3.1'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
-var wc_add_to_cart_params = {"ajax_url":"\/exploore\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/exploore\/?d=rtl&wc-ajax=%%endpoint%%","i18n_view_cart":"View Cart","cart_url":"http:\/\/wp.swlabs.co\/exploore\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+var wc_add_to_cart_params = {"ajax_url":"\/exploore\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/exploore\/?d=rtl&wc-ajax=%%endpoint%%","i18n_view_cart":"View Cart","cart_url":"http:\/\/\/exploore\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min32bb.js?ver=2.6.14'></script>
@@ -96,8 +96,8 @@ var wc_add_to_cart_params = {"ajax_url":"\/exploore\/wp-admin\/admin-ajax.php","
 <meta name="generator" content="WooCommerce 2.6.14" />
 <link rel="canonical" href="index.html" />
 <link rel='shortlink' href='index.html' />
-<link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed3567.json?url=http%3A%2F%2Fwp.swlabs.co%2Fexploore%2F" />
-<link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embed6364?url=http%3A%2F%2Fwp.swlabs.co%2Fexploore%2F&amp;format=xml" />
+<link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed3567.json?url=http%3A%2F%2F%2Fexploore%2F" />
+<link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embed6364?url=http%3A%2F%2F%2Fexploore%2F&amp;format=xml" />
 <!-- Start Dynamic Styling -->
 <style type="text/css">
 @media screen {#wrapper-content .section.page-detail{padding-top:0px;padding-bottom:0px;}.homepage-banner-content .group-title .banner{font-size:px;}.homepage-banner-content .group-title .sub-banner{font-size:px;}body {background-color: #ffffff;background-repeat: no-repeat;background-attachment: ;background-position:center center;background-size:cover;}.page-title{background-image: url("wp-content/uploads/2016/07/old-1130738_1920.jpg");}.page-title:before{content:"";position: absolute;width: 100%;height: 100%;left: 0;top: 0;background-color:rgba(52,73,94,0.23)}.page-title .page-title-wrapper .breadcrumb > li .link.home{color:#ffffff;font-weight:400;text-transform:uppercase;}.page-title .page-title-wrapper .breadcrumb > li .link{color:#ffffff;}.page-title .page-title-wrapper .breadcrumb > li .link{font-weight:400;text-transform:uppercase;}.page-title .page-title-wrapper .breadcrumb > li + li:before,.page-title .page-title-wrapper li.active .link:after{color:#ffffff;}.page-title-wrapper .breadcrumb li.active .link:after{background-color:#ffdd00;}.page-title .page-title-wrapper .breadcrumb{border-bottom:1px solid #ffdd00;}.page-title-wrapper .breadcrumb li.active .link:after{background-color:#ffdd00;}.page-title .page-title-wrapper .breadcrumb > li a{opacity: 0.8}.page-title .captions{color:#ffffff;font-weight:900;text-transform:uppercase;}#page-sidebar .widget{margin-bottom:50px}.footer-main-container {background-color: #292F32;background-image: url("wp-content/uploads/2016/12/bg-footer.jpg");background-repeat: no-repeat;background-attachment: fixed;background-position:center center;background-size:cover;}.footer-main {background-color:rgba(0, 0, 0, 0);}.page-404{background-color: #ffffff;background-image: url("../../swlabs.co/exploore/assets/images/background/bg-section-404.jpg");background-repeat: no-repeat;background-attachment: ;background-position: center center;background-size:cover;}.page-register {background-image: url("wp-content/uploads/2016/05/hotel-result.jpg");}.page-login {background-image: url("wp-content/uploads/2016/05/hotel-result.jpg");}a{color:#555e69}a:hover{color:#ffdd00}a:active{color:#ffdd00}}</style> <!-- End Dynamic Styling -->
@@ -147,12 +147,12 @@ header .woocommerce ul.product_list_widget {
 	<!-- Custom JS -->
 
 		<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
-		<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://wp.swlabs.co/exploore/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><meta name="generator" content="Powered by Slider Revolution 5.3.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+		<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><meta name="generator" content="Powered by Slider Revolution 5.3.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
 		<link rel="icon" href="wp-content/uploads/2018/10/Asset_29_2x.png" sizes="32x32" />
 		<link rel="icon" href="wp-content/uploads/2018/10/Asset_29_2x.png" sizes="192x192" />
 		<link rel="apple-touch-icon-precomposed" href="wp-content/uploads/2018/10/Asset_29_2x.png" />
-		<meta name="msapplication-TileImage" content="http://wp.swlabs.co/exploore/wp-content/uploads/2018/10/Asset_29_2x.png" />
-		<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1463096648310{padding-top: 100px !important;padding-bottom: 60px !important;}.vc_custom_1463027505022{padding-top: 65px !important;padding-bottom: 100px !important;background-image: url(wp-content/uploads/2016/05/bg-section-tour78d7.jpg?id=405) !important;}.vc_custom_1463028221790{padding-top: 65px !important;padding-bottom: 100px !important;background-image: url(http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/bg-section-hotel.jpg?id=218) !important;}.vc_custom_1463017194672{background-color: #cccccc !important;}.vc_custom_1462950433649{padding-top: 100px !important;padding-bottom: 100px !important;}.vc_custom_1463037646466{padding-top: 65px !important;padding-bottom: 100px !important;background-color: #fafafa !important;}.vc_custom_1468574547376{padding-bottom: 30px !important;}.vc_custom_1463109325289{padding-bottom: 40px !important;}.vc_custom_1463027357222{margin-bottom: 0px !important;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>	</head>
+		<meta name="msapplication-TileImage" content="/wp-content/uploads/2018/10/Asset_29_2x.png" />
+		<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1463096648310{padding-top: 100px !important;padding-bottom: 60px !important;}.vc_custom_1463027505022{padding-top: 65px !important;padding-bottom: 100px !important;background-image: url(wp-content/uploads/2016/05/bg-section-tour78d7.jpg?id=405) !important;}.vc_custom_1463028221790{padding-top: 65px !important;padding-bottom: 100px !important;background-image: url(/wp-content/uploads/2016/05/bg-section-hotel.jpg?id=218) !important;}.vc_custom_1463017194672{background-color: #cccccc !important;}.vc_custom_1462950433649{padding-top: 100px !important;padding-bottom: 100px !important;}.vc_custom_1463037646466{padding-top: 65px !important;padding-bottom: 100px !important;background-color: #fafafa !important;}.vc_custom_1468574547376{padding-bottom: 30px !important;}.vc_custom_1463109325289{padding-bottom: 40px !important;}.vc_custom_1463027357222{margin-bottom: 0px !important;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>	</head>
 
 		<body class="rtl home page page-id-45 page-template-default  sticky-enable  searchbar-type-2 wpb-js-composer js-comp-ver-5.0.1 vc_responsive" data-class="header-four">
 		<div class="body-wrapper   header-four">
@@ -160,7 +160,7 @@ header .woocommerce ul.product_list_widget {
 		<div class="wrapper-mobile-nav">
 		<div class="header-topbar">
 		<div class="topbar-search search-mobile">
-		<form role="search" method="get" class="search-form" action="http://wp.swlabs.co/exploore/">
+		<form role="search" method="get" class="search-form" action="/">
 		<input type="text" placeholder ="عبارت مورد نظر را اینجا وارد کنید ..." class="search-field search-input form-control searchbox" name="s"/>
 		<button type="submit" class="searchbutton btn-search fa fa-search"></button>
 		</form>					</div>
@@ -266,13 +266,13 @@ header .woocommerce ul.product_list_widget {
 		<div class="mega-menu-column col-md-4"><ul class="mega-menu-column-box">	<li id="menu-item-1546" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1546 mega-menu-title sub-menu " ><a href="javascript:void(0)" class="sf-with-ul"><i class="fa  "></i><span>Widgetized</span></a><div class="tab-pane shop-widget"><div class="box woocommerce widget_products widget slz-widget "><ul class="product_list_widget">
 		<li>
 		<a href="product/best-chicago-gift/index.html" title="Best Chicago Gift">
-		<img width="180" height="180" src="wp-content/uploads/2013/06/pDSP1-21052452v750-180x180.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="pDSP1-21052452v750" srcset="http://wp.swlabs.co/exploore/wp-content/uploads/2013/06/pDSP1-21052452v750-180x180.jpg 180w, http://wp.swlabs.co/exploore/wp-content/uploads/2013/06/pDSP1-21052452v750-150x150.jpg 150w, http://wp.swlabs.co/exploore/wp-content/uploads/2013/06/pDSP1-21052452v750-300x300.jpg 300w, http://wp.swlabs.co/exploore/wp-content/uploads/2013/06/pDSP1-21052452v750-600x600.jpg 600w, http://wp.swlabs.co/exploore/wp-content/uploads/2013/06/pDSP1-21052452v750-200x200.jpg 200w, http://wp.swlabs.co/exploore/wp-content/uploads/2013/06/pDSP1-21052452v750-100x100.jpg 100w, http://wp.swlabs.co/exploore/wp-content/uploads/2013/06/pDSP1-21052452v750.jpg 750w" sizes="(max-width: 180px) 100vw, 180px" />		<span class="product-title">Best Chicago Gift</span>
+		<img width="180" height="180" src="wp-content/uploads/2013/06/pDSP1-21052452v750-180x180.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="pDSP1-21052452v750" srcset="/wp-content/uploads/2013/06/pDSP1-21052452v750-180x180.jpg 180w, /wp-content/uploads/2013/06/pDSP1-21052452v750-150x150.jpg 150w, /wp-content/uploads/2013/06/pDSP1-21052452v750-300x300.jpg 300w, /wp-content/uploads/2013/06/pDSP1-21052452v750-600x600.jpg 600w, /wp-content/uploads/2013/06/pDSP1-21052452v750-200x200.jpg 200w, /wp-content/uploads/2013/06/pDSP1-21052452v750-100x100.jpg 100w, /wp-content/uploads/2013/06/pDSP1-21052452v750.jpg 750w" sizes="(max-width: 180px) 100vw, 180px" />		<span class="product-title">Best Chicago Gift</span>
 		</a>
 		<del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>3.00</span></del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>2.00</span></ins></li>
 
 		<li>
 		<a href="product/beatiful-souvenir/index.html" title="Beatiful  Souvenir">
-		<img width="180" height="180" src="wp-content/uploads/2013/06/furla-candy-bag-transparent-rubber-3-1-180x180.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="furla-candy-bag-transparent-rubber-3" srcset="http://wp.swlabs.co/exploore/wp-content/uploads/2013/06/furla-candy-bag-transparent-rubber-3-1-180x180.jpg 180w, http://wp.swlabs.co/exploore/wp-content/uploads/2013/06/furla-candy-bag-transparent-rubber-3-1-150x150.jpg 150w, http://wp.swlabs.co/exploore/wp-content/uploads/2013/06/furla-candy-bag-transparent-rubber-3-1-300x300.jpg 300w, http://wp.swlabs.co/exploore/wp-content/uploads/2013/06/furla-candy-bag-transparent-rubber-3-1-200x200.jpg 200w, http://wp.swlabs.co/exploore/wp-content/uploads/2013/06/furla-candy-bag-transparent-rubber-3-1-100x100.jpg 100w, http://wp.swlabs.co/exploore/wp-content/uploads/2013/06/furla-candy-bag-transparent-rubber-3-1.jpg 584w" sizes="(max-width: 180px) 100vw, 180px" />		<span class="product-title">Beatiful  Souvenir</span>
+		<img width="180" height="180" src="wp-content/uploads/2013/06/furla-candy-bag-transparent-rubber-3-1-180x180.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="furla-candy-bag-transparent-rubber-3" srcset="/wp-content/uploads/2013/06/furla-candy-bag-transparent-rubber-3-1-180x180.jpg 180w, /wp-content/uploads/2013/06/furla-candy-bag-transparent-rubber-3-1-150x150.jpg 150w, /wp-content/uploads/2013/06/furla-candy-bag-transparent-rubber-3-1-300x300.jpg 300w, /wp-content/uploads/2013/06/furla-candy-bag-transparent-rubber-3-1-200x200.jpg 200w, /wp-content/uploads/2013/06/furla-candy-bag-transparent-rubber-3-1-100x100.jpg 100w, /wp-content/uploads/2013/06/furla-candy-bag-transparent-rubber-3-1.jpg 584w" sizes="(max-width: 180px) 100vw, 180px" />		<span class="product-title">Beatiful  Souvenir</span>
 		</a>
 		<span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>9.00</span></li>
 		</ul></div></div></li></ul></div>
@@ -308,7 +308,7 @@ header .woocommerce ul.product_list_widget {
 		</div>
 		<div class="navbar-header pull-left">
 		<div class="logo">
-		<a href="http://wp.swlabs.co/exploore" class="header-logo">
+		<a href="" class="header-logo">
 		<img src="wp-content/uploads/2016/06/Logo.png" alt="">							</a>
 		</div>
 		</div>
@@ -323,7 +323,7 @@ header .woocommerce ul.product_list_widget {
 		</ul>
 			<div class="button-search"><span class="main-menu"><i class="fa fa-search utob-font"></i></span></div>
 		<div class="nav-search hide">
-		<form role="search" method="get" class="search-form" action="http://wp.swlabs.co/exploore/">
+		<form role="search" method="get" class="search-form" action="/">
 		<input type="text" placeholder ="عبارت مورد نظر را وارد کنید ..." class="search-field search-input form-control searchbox" name="s"/>
 		<button type="submit" class="searchbutton btn-search fa fa-search"></button>
 		</form>							</div>
@@ -369,7 +369,7 @@ header .woocommerce ul.product_list_widget {
 		//]]>
 		</script>
 
-		<form action="http://wp.swlabs.co/exploore/?na=s" onsubmit="return newsletter_check(this)" method="post"><div class="input-group form-subscribe-email"><input type="hidden" name="nr" value="widget"/><input class="form-control" type="email" required name="ne" placeholder="ایمیل خود را وارد کنید" onclick="if (this.defaultValue==this.value) this.value=''" onblur="if (this.value=='') this.value=this.defaultValue"/><span class="input-group-btn-custom"><button type="submit" class="btn-email">&#8594;</button></span></div></form>					            </div>
+		<form action="/?na=s" onsubmit="return newsletter_check(this)" method="post"><div class="input-group form-subscribe-email"><input type="hidden" name="nr" value="widget"/><input class="form-control" type="email" required name="ne" placeholder="ایمیل خود را وارد کنید" onclick="if (this.defaultValue==this.value) this.value=''" onblur="if (this.value=='') this.value=this.defaultValue"/><span class="input-group-btn-custom"><button type="submit" class="btn-email">&#8594;</button></span></div></form>					            </div>
 		<div class="clearfix"></div>
 		</div>
 		</div>
@@ -378,7 +378,7 @@ header .woocommerce ul.product_list_widget {
 		<div class="footer-main padding-top padding-bottom ">
 		<div class="container">
 		<div class="footer-main-wrapper">
-		<a href="http://wp.swlabs.co/exploore" class="logo-footer"><img src="wp-content/uploads/2016/06/Logo.png" alt="Logo Footer" class="img-responsive" /></a>
+		<a href="" class="logo-footer"><img src="wp-content/uploads/2016/06/Logo.png" alt="Logo Footer" class="img-responsive" /></a>
 		<div class="row">
 		<div class="col-2">
 		<div id="footer_c1" class="footer-area col-md-3 col-xs-5">
@@ -419,7 +419,7 @@ header .woocommerce ul.product_list_widget {
 		//]]>
 		</script>
 
-		<form action="http://wp.swlabs.co/exploore/?na=s" onsubmit="return newsletter_check(this)" method="post"><div class="input-group"><input type="hidden" name="nr" value="widget"/><input class="form-control form-email-widget" type="email" required name="ne" placeholder="ایمیل خود را وارد کنید" onclick="if (this.defaultValue==this.value) this.value=''" onblur="if (this.value=='') this.value=this.defaultValue"/><span class="input-group-btn-custom"><button type="submit" class="btn-email">&#10004;</button></span></div></form></div></div>								</div>
+		<form action="/?na=s" onsubmit="return newsletter_check(this)" method="post"><div class="input-group"><input type="hidden" name="nr" value="widget"/><input class="form-control form-email-widget" type="email" required name="ne" placeholder="ایمیل خود را وارد کنید" onclick="if (this.defaultValue==this.value) this.value=''" onblur="if (this.value=='') this.value=this.defaultValue"/><span class="input-group-btn-custom"><button type="submit" class="btn-email">&#10004;</button></span></div></form></div></div>								</div>
 		<div id="footer_c2" class="footer-area col-md-2 col-xs-3">
 		<div id="slzexploore_custom_link-1" class="widget_slz_widget_custom_link slz-widget widget widget-footer">			<div class="booking-widget widget text-center"><div class="title-widget">اکنون ثبت کن
 </div>				<div class="content-widget">					<ul class="list-unstyled">
@@ -448,10 +448,14 @@ header .woocommerce ul.product_list_widget {
 		<div id="slzexploore_gallery-1" class="widget_slzexploore_gallery slz-widget widget widget-footer"><div class="title-widget">گالری تصاویر</div>			<div class="destination-widget widget">
 		<div class="content-widget ">
 		<ul class="list-unstyled list-inline">
-		<li><a class="thumb" href="accommodations/edemil-hotel/index.html"><img width="100" height="100" src="wp-content/uploads/2016/05/hotelbeauti-100x100.jpg" class="img-responsive" alt="hotelbeauti" srcset="http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/hotelbeauti-100x100.jpg 100w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/hotelbeauti-150x150.jpg 150w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/hotelbeauti-180x180.jpg 180w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/hotelbeauti-300x300.jpg 300w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/hotelbeauti-600x600.jpg 600w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/hotelbeauti-200x200.jpg 200w" sizes="(max-width: 100px) 100vw, 100px" /></a></li><li><a class="thumb" href="accommodations/turhal-hotel/index.html"><img width="100" height="100" src="wp-content/uploads/2016/05/316_langham_modern_Exterior-100x100.jpg" class="img-responsive" alt="316_langham_modern_Exterior" srcset="http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/316_langham_modern_Exterior-100x100.jpg 100w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/316_langham_modern_Exterior-150x150.jpg 150w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/316_langham_modern_Exterior-180x180.jpg 180w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/316_langham_modern_Exterior-300x300.jpg 300w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/316_langham_modern_Exterior-600x600.jpg 600w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/316_langham_modern_Exterior-200x200.jpg 200w" sizes="(max-width: 100px) 100vw, 100px" /></a></li><li><a class="thumb" href="accommodations/kadirly-hotel/index.html"><img width="100" height="100" src="wp-content/uploads/2016/05/280821-100x100.jpg" class="img-responsive" alt="280821" srcset="http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/280821-100x100.jpg 100w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/280821-150x150.jpg 150w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/280821-180x180.jpg 180w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/280821-300x300.jpg 300w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/280821-600x600.jpg 600w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/280821-200x200.jpg 200w" sizes="(max-width: 100px) 100vw, 100px" /></a></li><li><a class="thumb" href="accommodations/sarina-hotel/index.html"><img width="100" height="100" src="wp-content/uploads/2016/05/hanoi-top-luxury-hotel-100x100.jpg" class="img-responsive" alt="hanoi-top-luxury-hotel" srcset="http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/hanoi-top-luxury-hotel-100x100.jpg 100w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/hanoi-top-luxury-hotel-150x150.jpg 150w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/hanoi-top-luxury-hotel-180x180.jpg 180w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/hanoi-top-luxury-hotel-300x300.jpg 300w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/hanoi-top-luxury-hotel-600x600.jpg 600w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/hanoi-top-luxury-hotel-200x200.jpg 200w" sizes="(max-width: 100px) 100vw, 100px" /></a></li><li><a class="thumb" href="accommodations/amasya-hotel/index.html"><img width="100" height="100" src="wp-content/uploads/2016/05/inntel-zaandam-bigheader1-100x100.jpg" class="img-responsive" alt="inntel-zaandam-bigheader1" srcset="http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/inntel-zaandam-bigheader1-100x100.jpg 100w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/inntel-zaandam-bigheader1-150x150.jpg 150w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/inntel-zaandam-bigheader1-180x180.jpg 180w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/inntel-zaandam-bigheader1-300x300.jpg 300w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/inntel-zaandam-bigheader1-600x600.jpg 600w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/inntel-zaandam-bigheader1-200x200.jpg 200w" sizes="(max-width: 100px) 100vw, 100px" /></a></li><li><a class="thumb" href="accommodations/matel-hotel/index.html"><img width="100" height="100" src="wp-content/uploads/2016/05/Palais-Namaskar-luxury-dream-hotels-01-100x100.jpg" class="img-responsive" alt="Palais-Namaskar-luxury-dream-hotels-01" srcset="http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/Palais-Namaskar-luxury-dream-hotels-01-100x100.jpg 100w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/Palais-Namaskar-luxury-dream-hotels-01-150x150.jpg 150w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/Palais-Namaskar-luxury-dream-hotels-01-180x180.jpg 180w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/Palais-Namaskar-luxury-dream-hotels-01-300x300.jpg 300w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/Palais-Namaskar-luxury-dream-hotels-01-600x600.jpg 600w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/Palais-Namaskar-luxury-dream-hotels-01-200x200.jpg 200w" sizes="(max-width: 100px) 100vw, 100px" /></a></li>					</ul>
+		<li>
+			<a class="thumb" href=""><img width="100" height="100" src="wp-content/uploads/2016/05/es.jpg" class="img-responsive" alt="hotelbeauti"/></a></li><li><a class="thumb" href=""><img width="100" height="100" src="wp-content/uploads/2016/05/es.jpg" class="img-responsive" alt="316_langham_modern_Exterior" /></a></li><li><a class="thumb" href=""><img width="100" height="100" src="wp-content/uploads/2016/05/es.jpg" class="img-responsive" alt="280821"  /></a></li><li><a class="thumb" href=""><img width="100" height="100" src="wp-content/uploads/2016/05/es.jpg" class="img-responsive" alt="hanoi-top-luxury-hotel"  /></a></li><li><a class="thumb" href=""><img width="100" height="100" src="wp-content/uploads/2016/05/es.jpg" class="img-responsive" alt="inntel-zaandam-bigheader1" /></a></li><li><a class="thumb" href=""><img width="100" height="100" src="wp-content/uploads/2016/05/es.jpg" class="img-responsive" alt="Palais-Namaskar-luxury-dream-hotels-01" /></a>
+			</li>
+		</ul>
 		</div>
 		</div>
-		</div>								</div>
+		</div>
+		</div>
 		</div>
 		</div>
 		</div>
@@ -632,11 +636,6 @@ header .woocommerce ul.product_list_widget {
 </style>
 <link rel='stylesheet' id='animate-css-css'  href='wp-content/plugins/js_composer/assets/lib/bower/animate-css/animate.min972f.css?ver=5.0.1' type='text/css' media='' />
 <script type='text/javascript' src='wp-content/plugins/contact-form-7/includes/js/jquery.form.mind03d.js?ver=3.51.0-2014.06.20'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var _wpcf7 = {"loaderUrl":"http:\/\/wp.swlabs.co\/exploore\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"sending":"Sending ..."};
-/* ]]> */
-</script>
 <script type='text/javascript' src='wp-content/plugins/contact-form-7/includes/js/scripts8686.js?ver=4.5.1'></script>
 <script type='text/javascript' src='wp-content/plugins/slzexploore-core/assets/libs/bootstrap-datepicker/js/bootstrap-datepicker.min62d0.js?ver=4.5.3'></script>
 <script type='text/javascript' src='wp-content/plugins/slzexploore-core/assets/libs/fancybox/js/jquery.mousewheel-pack62d0.js?ver=4.5.3'></script>
@@ -656,61 +655,30 @@ var _wpcf7 = {"loaderUrl":"http:\/\/wp.swlabs.co\/exploore\/wp-content\/plugins\
 <script type='text/javascript' src='wp-content/plugins/slzexploore-core/assets/libs/nst-slider/js/jquery.nstSlider.min62d0.js?ver=4.5.3'></script>
 <script type='text/javascript' src='http://maps.googleapis.com/maps/api/js?key=AIzaSyBBU_zpkBrGVM46XQG3dUTz87S2Ig8wNvk&amp;libraries=places&amp;ver=4.5.3'></script>
 <script type='text/javascript' src='wp-content/plugins/slzexploore-core/assets/libs/google-map/markerclusterer62d0.js?ver=4.5.3'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var ajaxurl = "index5fec.html\/\/wp.swlabs.co\/exploore\/wp-admin\/admin-ajax.php";
-/* ]]> */
-</script>
 <script type='text/javascript' src='wp-content/plugins/slzexploore-core/assets/js/slzexploore-core-formd5f7.js?ver=2.0'></script>
 <script type='text/javascript' src='wp-content/plugins/slzexploore-core/assets/js/slzexploore-core-shortcoded5f7.js?ver=2.0'></script>
 <script type='text/javascript' src='wp-content/plugins/slzexploore-core/assets/js/slzexploore-core-mapsd5f7.js?ver=2.0'></script>
 <script type='text/javascript' src='wp-content/plugins/slzexploore-core/assets/js/slzexploore-core-multi-mapsd5f7.js?ver=2.0'></script>
 <script type='text/javascript' src='wp-content/plugins/slzexploore-core/assets/js/slzexploore-core-bookingd5f7.js?ver=2.0'></script>
 <script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min44fd.js?ver=2.70'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var woocommerce_params = {"ajax_url":"\/exploore\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/exploore\/?d=rtl&wc-ajax=%%endpoint%%"};
-/* ]]> */
-</script>
 <script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min32bb.js?ver=2.6.14'></script>
 <script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min330a.js?ver=1.4.1'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var wc_cart_fragments_params = {"ajax_url":"\/exploore\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/exploore\/?d=rtl&wc-ajax=%%endpoint%%","fragment_name":"wc_fragments"};
-/* ]]> */
-</script>
 <script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min32bb.js?ver=2.6.14'></script>
 <script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/prettyPhoto/jquery.prettyPhoto.minc6bd.js?ver=3.1.5'></script>
 <script type='text/javascript' src='wp-content/plugins/woocommerce/assets/js/prettyPhoto/jquery.prettyPhoto.init.min32bb.js?ver=2.6.14'></script>
 <script type='text/javascript' src='wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.selectBox.min7359.js?ver=1.2.0'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var yith_wcwl_l10n = {"ajax_url":"\/exploore\/wp-admin\/admin-ajax.php","redirect_to_cart":"no","multi_wishlist":"","hide_add_button":"1","is_user_logged_in":"","ajax_loader_url":"http:\/\/wp.swlabs.co\/exploore\/wp-content\/plugins\/yith-woocommerce-wishlist\/assets\/images\/ajax-loader.gif","remove_from_wishlist_after_add_to_cart":"yes","labels":{"cookie_disabled":"We are sorry, but this feature is available only if cookies are enabled on your browser.","added_to_cart_message":"<div class=\"woocommerce-message\">Product correctly added to cart<\/div>"},"actions":{"add_to_wishlist_action":"add_to_wishlist","remove_from_wishlist_action":"remove_from_wishlist","move_to_another_wishlist_action":"move_to_another_wishlsit","reload_wishlist_and_adding_elem_action":"reload_wishlist_and_adding_elem"}};
-/* ]]> */
-</script>
 <script type='text/javascript' src='wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.yith-wcwl9c6b.js?ver=2.0.16'></script>
 <script type='text/javascript' src='wp-content/themes/exploore/js/skip-link-focus-fix08e0.js?ver=20130115'></script>
 <script type='text/javascript' src='wp-content/themes/exploore/assets/public/libs/bootstrap/js/bootstrap.min62d0.js?ver=4.5.3'></script>
 <script type='text/javascript' src='wp-content/themes/exploore/assets/public/libs/background-video/video-bg62d0.js?ver=4.5.3'></script>
 <script type='text/javascript' src='wp-content/themes/exploore/assets/public/libs/detect-browser/browser62d0.js?ver=4.5.3'></script>
-<script type='text/javascript' src='http://www.google.com/recaptcha/api62d0.js?ver=4.5.3'></script>
 <script type='text/javascript' src='wp-content/themes/exploore/assets/public/libs/validation/js/jquery.validate.min62d0.js?ver=4.5.3'></script>
 <script type='text/javascript' src='wp-content/themes/exploore/assets/public/js/slzexploore-maind5f7.js?ver=2.0'></script>
 <script type='text/javascript' src='wp-content/themes/exploore/assets/public/js/slzexploore-customd5f7.js?ver=2.0'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var ajaxurl = "index5fec.html\/\/wp.swlabs.co\/exploore\/wp-admin\/admin-ajax.php";
-/* ]]> */
-</script>
 <script type='text/javascript' src='wp-content/themes/exploore/assets/public/js/slzexploore-ajaxd5f7.js?ver=2.0'></script>
 <script type='text/javascript' src='wp-content/plugins/contact-form-7/includes/js/jquery.form.mind03d.js?ver=3.51.0-2014.06.20'></script>
 <script type='text/javascript' src='wp-content/plugins/contact-form-7/includes/js/scripts8686.js?ver=4.5.1'></script>
 <script type='text/javascript' src='wp-content/themes/exploore/assets/public/js/slzexploore-woocommerced5f7.js?ver=2.0'></script>
-<script type='text/javascript'>
-/* <![CDATA[ */
-var newsletter = {"messages":{"email_error":"The email is not correct","name_error":"The name is not correct","surname_error":"The last name is not correct","privacy_error":"You must accept the privacy statement"},"profile_max":"20"};
-/* ]]> */
-</script>
 <script type='text/javascript' src='wp-content/plugins/newsletter/subscription/validate8bc9.js?ver=6.0.7'></script>
 <script type='text/javascript' src='wp-includes/js/wp-embed.min62d0.js?ver=4.5.3'></script>
 <script type='text/javascript' src='wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min972f.js?ver=5.0.1'></script>
