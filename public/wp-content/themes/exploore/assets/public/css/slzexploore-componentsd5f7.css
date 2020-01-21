@@ -3712,7 +3712,7 @@
 }
 .feature-item {
   vertical-align: middle;
-  border: 1px solid #cfcfcf;
+  border: 1px solid  #0e99b6;
   text-align: center;
   padding: 9.5px 0;
   margin: 0 15px;
@@ -3750,10 +3750,10 @@
   transform: translateY(6px);
 }
 .feature-item .icon-journey {
-  font-size: 26px;
+  font-size: 33px;
 }
 .feature-item .text {
-  font-size: 16px;
+  font-size: 18px;
   margin-bottom: 0px;
 }
 /* Timeline Block*/

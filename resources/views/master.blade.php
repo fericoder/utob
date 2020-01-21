@@ -291,7 +291,7 @@ header .woocommerce ul.product_list_widget {
 		<div class="header-topbar">
 		<div class="container">
 		<ul class="topbar-left list-unstyled list-inline pull-left">
-		<li><a href="void(0).html" class="monney dropdown-text"><i class="topbar-icon fa fa fa-phone"></i><span class=" utob-byekan"> 22574851 98+</span></a>
+		<li><a href="void(0).html" class="monney dropdown-text"><i class="topbar-icon fa fa fa-phone"></i><span class=" utob-byekan"> 22094188</span></a>
 		<li><a href="void(0).html" class="monney dropdown-text"><i class="topbar-icon fa fa fa-envelope-o" ></i><span style="margin-left: 10px;">Utob@gmail.com</span></a>
 		</li></ul><ul class="topbar-right pull-right list-unstyled list-inline login-widget">
 		<li><a href="indexf527.html?d=ltr" class="monney dropdown-text"><span>English</span></a></li>

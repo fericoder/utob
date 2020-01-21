@@ -135,10 +135,13 @@
 <div class="map-block" data-id="15710631765e1e7affc22ff">
 <div class="map-info">
 <h3 class="title-style-2">چطور ما را پیدا کنید</h3>
-<p class="address"><i class="fa fa-map-marker"></i> 333 Moo 10, Chert Wudthakas Road, Srikan, Don Mueang, Bangkok, Thailand</p>
-<p class="phone"><i class="fa fa-phone"></i> 910-740-6026</p>
-<p class="mail"><a href="mailto:domain@expooler.com"> <i class="fa fa-envelope"></i> domain@expooler.com</a></p>
-<div class="footer-block"><a class="btn btn-open-map">Open Map</a></div>
+<p class="address  utob-byekan"><i class="fa fa-map-marker"></i> آدرس: سعادت آباد، میدان بهرود، مجتمع تجاری-اداری پرواز، طبقه دوم اداری، واحد 1
+</p>
+<p class="phone utob-byekan"><i class="fa fa-phone"></i>  22094188-26742050
+</p>
+<p class="mail"><a href="mailto:domain@expooler.com"> <i class="fa fa-envelope"></i> https://1stquest.com/hotel
+</a></p>
+<div class="footer-block"><a class="btn btn-open-map">مشاهده نقشه</a></div>
 </div>
 <div id="googleMap" data-img-url="http://wp.swlabs.co/exploore/wp-content/plugins/slzexploore-core/assets/images/marker.png" data-address="333 Moo 10, Chert Wudthakas Road, Srikan, Don Mueang, Bangkok, Thailand"></div>	</div>
 </div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div>

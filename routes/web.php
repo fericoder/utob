@@ -26,3 +26,7 @@ Route::get('/about', function () {
 Route::get('/contact', function () {
     return view('contact');
 });
+
+Route::get('/hotel-view', function () {
+    return view('hotel-view');
+});
