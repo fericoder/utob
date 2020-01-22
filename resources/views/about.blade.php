@@ -383,9 +383,9 @@
                                                                 </div>
                                                                 <div class="item content-expert">
                                                                     <a class="img-expert"
-                                                                       href="../teams/peter-wilson/index.html"><img
+                                                                       href=""><img
                                                                                 width="260" height="365"
-                                                                                src="../wp-content/uploads/2016/05/team-260x365.jpg"
+                                                                                src="/wp-content/uploads/2018/10/j.jpg"
                                                                                 class="img img-responsive" alt="team"/></a>
                                                                     <div class="caption-expert"><a
                                                                                 href="../teams/peter-wilson/index.html"

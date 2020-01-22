@@ -13,7 +13,13 @@
             border-radius: 16px;
             -moz-border-radius: 16px;
             -webkit-border-radius: 16px;
-        }            </style>
+        }
+
+
+        .menu-mobile .dropdown-menu.dropdown-menu-1{
+            background-color: #97dcf1!important;
+        }
+    </style>
 
 
     <script type="text/javascript">
