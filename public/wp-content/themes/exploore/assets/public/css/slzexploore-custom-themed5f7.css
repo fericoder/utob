@@ -330,11 +330,11 @@ nav.navigation .label{
 .dropdown-menu>.active>a, .dropdown-menu>.active>a:focus, .dropdown-menu>.active>a:hover{
   color: #262626;
 }
-header .dropdown-menu>.active>a, 
-header .dropdown-menu>.active>a:focus, 
+header .dropdown-menu>.active>a,
+header .dropdown-menu>.active>a:focus,
 header .dropdown-menu>.active>a:hover,
-.menu-mobile .dropdown-menu>.active>a, 
-.menu-mobile .dropdown-menu>.active>a:focus, 
+.menu-mobile .dropdown-menu>.active>a,
+.menu-mobile .dropdown-menu>.active>a:focus,
 .menu-mobile .dropdown-menu>.active>a:hover {
     background-color: rgba(245,245,245,1);
 }
@@ -669,7 +669,7 @@ header.search-open .header-04 .nav-search form .searchbutton {
     content: '';
     width: 0;
     height: 1px;
-     background-color: #ffdd00; 
+     background-color: #ffdd00;
     left: 0;
     transition: all 0.4s ease;
     -webkit-transition: all 0.4s ease;
@@ -696,7 +696,7 @@ header.search-open .header-04 .nav-search form .searchbutton {
     display: block !important;
     height: 50px;
 }
-.header-01 .header-fixed .navigation .button-search, 
+.header-01 .header-fixed .navigation .button-search,
 .header-03 .header-fixed .navigation .button-search {
     line-height: 50px;
 }
@@ -831,7 +831,7 @@ header.search-open .header-04 .nav-search form .searchbutton {
     z-index: 5;
 }
 .search-form-widget  .form-control::-webkit-input-placeholder{
-    color: #ffffff; 
+    color: #ffffff;
 }
 .search-form-widget .label {
     color: #ffffff;
@@ -910,7 +910,7 @@ header.search-open .header-04 .nav-search form .searchbutton {
   background-attachment: fixed !important;
   background-position: center !important;
 }
-@media screen and (max-width: 769px) { 
+@media screen and (max-width: 769px) {
   .wrapper-content .slz_col-sm-12 {
     float: none;
     width: 100%;
@@ -959,10 +959,10 @@ header.search-open .header-04 .nav-search form .searchbutton {
   height: 100%;
 }
 .content-expert .caption-expert {
-  background-color: #fd0;
+  background-color:#0e99b6;
   width: 100%;
   border-left: 3px solid #3c3c3c;
-  color: #585858;
+  color: #ffffff;
   left: -100%;
   padding: 15px 0 20px 0;
   position: absolute;
@@ -978,7 +978,7 @@ header.search-open .header-04 .nav-search form .searchbutton {
   -o-transition: all 0.4s ease;
 }
 .content-expert .caption-expert .expert-icon {
-  color: #3c3c3c;
+  color: #ffffff;
   font-size: 15px;
   font-weight: 600;
 }
@@ -990,7 +990,7 @@ header.search-open .header-04 .nav-search form .searchbutton {
   opacity: 1;
 }
 .content-expert .caption-expert .title {
-  color: #585858;
+  color: #ffffff;
 }
 .content-expert .caption-expert .title:hover {
   color: #000;
@@ -1144,7 +1144,7 @@ header.search-open .header-04 .nav-search form .searchbutton {
 }
 .register-terms input[type=checkbox] {
   margin: 0;
-  width: 17px; 
+  width: 17px;
   height: 17px;
   -webkit-appearance: none;
   appearance: none;
@@ -1505,7 +1505,7 @@ header.search-open .header-04 .nav-search form .searchbutton {
   padding: 0;
   list-style: none;
 }
-.dropdown-menu-1 li:hover > .link-page, 
+.dropdown-menu-1 li:hover > .link-page,
 .dropdown-menu-2 li:hover > .link-page {
   padding-left: 30px;
 }
@@ -1683,7 +1683,7 @@ ul > li.dropdown-menu-03  .mega-menu-content.menu-tabs .tab-content .shw-widget 
 }
 .homepage-03 .wpml-language{
   margin-right: 0;
-} 
+}
 #lang_sel_list.lang_sel_list_vertical{
   display: inherit;
   z-index: 1000;
@@ -1713,7 +1713,7 @@ ul > li.dropdown-menu-03  .mega-menu-content.menu-tabs .tab-content .shw-widget 
 }
 .header-03 .wpml-language{
   margin-left: 10px;
-  
+
 }
 @media screen and (min-width:1024px) {
   .wpml-language{
@@ -1740,9 +1740,9 @@ ul > li.dropdown-menu-03  .mega-menu-content.menu-tabs .tab-content .shw-widget 
 .wpml-language a.lang_sel_other{
   background-color: transparent ;
   color: #ffffff !important;
- 
+
 }
-.wpml-language #lang_sel_list.lang_sel_list_horizontal li:not(:last-child) a, 
+.wpml-language #lang_sel_list.lang_sel_list_horizontal li:not(:last-child) a,
 .wpml-language #lang_sel_list.lang_sel_list_horizontal li:not(:last-child) a{
     margin-right: 20px;
 }

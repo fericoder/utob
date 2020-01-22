@@ -5108,7 +5108,7 @@ div[class*="icon-box"] .contact-list-media .text {
   -o-transition: all 0.3s;
 }
 .content-tours .wrapper-thin:hover .icon-thin {
-  color: #ffdd00;
+  color:#0e99b6;
   -webkit-transform: scale(1.4);
   -moz-transform: scale(1.4);
   -ms-transform: scale(1.4);
@@ -5116,7 +5116,7 @@ div[class*="icon-box"] .contact-list-media .text {
   transform: scale(1.4);
 }
 .content-tours .wrapper-thin:hover .tours-title {
-  color: #ffdd00;
+  color: #ffffff;
 }
 .wrapper-banner {
   overflow: hidden;
@@ -5161,7 +5161,7 @@ div[class*="icon-box"] .contact-list-media .text {
 }
 .content-organization:hover .wrapper-img {
   border-radius: 2%;
-  border: 1px solid #ffdd00;
+  border: 1px solid #0e99b6;
 }
 .content-organization:hover .wrapper-img .img {
   border-radius: 2%;
@@ -5201,7 +5201,7 @@ div[class*="icon-box"] .contact-list-media .text {
   color: #5d5d5d;
 }
 .content-organization .organization-title .title:hover {
-  color: #ffdd00;
+  color: #0e99b6;
 }
 .content-organization .organization-title .text {
   color: #7f7e7e;
@@ -5219,7 +5219,7 @@ div[class*="icon-box"] .contact-list-media .text {
   display: inherit;
 }
 .content-organization .content-widget .link:hover {
-  color: #ffdd00;
+  color: #0e99b6;
 }
 .content-organization .main-list {
   display: table;
