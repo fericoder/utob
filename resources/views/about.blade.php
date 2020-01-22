@@ -2,14 +2,7 @@
 
 @section('content')
 
-
-
-<div class="clearfix"></div>
-</div>
-</div>
-</div>
-</div>
-</header>				<!-- WRAPPER-->
+	<!-- WRAPPER-->
 <div id="wrapper-content">
 <!-- MAIN CONTENT-->
 <div class="main-content">
@@ -199,14 +192,14 @@
 <div class="contact style-1">
 <div class="container">		<div class="row">
 <div class="wrapper-contact-style">
-<div data-wow-delay="0.5s" class="contact-wrapper-images wow fadeInLeft"><img width="276" height="536" src="wp-content/uploads/2016/05/contact-people.png" class="img-responsive attachment-full" alt="contact-people" srcset="http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/contact-people.png 276w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/contact-people-154x300.png 154w" sizes="(max-width: 276px) 100vw, 276px" /></div>
+<div data-wow-delay="0.5s" class="contact-wrapper-images wow fadeInLeft"><img width="276" height="536" src="wp-content/uploads/2016/05/contact-people.png" class="img-responsive attachment-full" alt="contact-people"  /></div>
 <div class="col-lg-6 col-sm-7 col-lg-offset-4 col-sm-offset-5">
 <div data-wow-delay="0.4s" class="contact-wrapper padding-top padding-bottom wow fadeInRight">				<div class="contact-box">
 <h5 class="title">باما در ارتباط باشید</h5>
 <p class="text">لحظاتی خوش در کنار یوتاب</p>
 <div role="form" class="wpcf7" id="wpcf7-f46-p45-o1" lang="en" dir="ltr">
 <div class="screen-reader-response"></div>
-<form action="http://wp.swlabs.co/exploore/?d=rtl#wpcf7-f46-p45-o1" method="post" class="wpcf7-form contact-form" novalidate="novalidate" id="contact-form-6023684715e1ec8d47cbee">
+<form action="" method="post" class="wpcf7-form contact-form" novalidate="novalidate" id="contact-form-6023684715e1ec8d47cbee">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="46" />
 <input type="hidden" name="_wpcf7_version" value="4.5.1" />
@@ -234,6 +227,4 @@
 <!-- MAIN CONTENT-->
 </div>
 <!-- WRAPPER -->
-</div>
-<!-- WRAPPER CONTENT -->
 @endsection

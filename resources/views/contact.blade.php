@@ -2,12 +2,7 @@
 
 @section('content')
 
-<div class="clearfix"></div>
-</div>
-</div>
-</div>
-</div>
-</header>				<!-- WRAPPER-->
+<!-- WRAPPER-->
 <div id="wrapper-content">
 <!-- MAIN CONTENT-->
 <div class="main-content">
@@ -39,7 +34,7 @@
 <div class="col-md-4 col-sm-4 col-xs-4 md-organization">
 <div class="content-organization">
 <div class="wrapper-img">
-<a href="../teams/john-smith/index.html"><img width="200" height="200" src="../wp-content/uploads/2016/05/avatar-contact-1-200x200.jpg" class="img img-responsives" alt="avatar-contact-1" srcset="http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/avatar-contact-1.jpg 200w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/avatar-contact-1-150x150.jpg 150w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/avatar-contact-1-100x100.jpg 100w" sizes="(max-width: 200px) 100vw, 200px" /></a>
+<a href="../teams/john-smith/index.html"><img width="200" height="200" src="../wp-content/uploads/2016/05/avatar-contact-1-200x200.jpg" class="img img-responsives" alt="avatar-contact-1"  /></a>
 </div>
 <div class="main-organization">
 <div class="organization-title">
@@ -61,7 +56,7 @@
 <div class="col-md-4 col-sm-4 col-xs-4 md-organization">
 <div class="content-organization">
 <div class="wrapper-img">
-<a href="../teams/jason-williams/index.html"><img width="200" height="200" src="../wp-content/uploads/2016/05/avatar-contact-2-200x200.jpg" class="img img-responsives" alt="avatar-contact-2" srcset="http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/avatar-contact-2.jpg 200w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/avatar-contact-2-150x150.jpg 150w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/avatar-contact-2-100x100.jpg 100w" sizes="(max-width: 200px) 100vw, 200px" /></a>
+<a href="../teams/jason-williams/index.html"><img width="200" height="200" src="../wp-content/uploads/2016/05/avatar-contact-2-200x200.jpg" class="img img-responsives" alt="avatar-contact-2"  /></a>
 </div>
 <div class="main-organization">
 <div class="organization-title">
@@ -83,7 +78,7 @@
 <div class="col-md-4 col-sm-4 col-xs-4 md-organization">
 <div class="content-organization">
 <div class="wrapper-img">
-<a href="../teams/mark-letto/index.html"><img width="200" height="200" src="../wp-content/uploads/2016/05/avatar-contact-3-200x200.jpg" class="img img-responsives" alt="avatar-contact-3" srcset="http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/avatar-contact-3.jpg 200w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/avatar-contact-3-150x150.jpg 150w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/avatar-contact-3-100x100.jpg 100w" sizes="(max-width: 200px) 100vw, 200px" /></a>
+<a href="../teams/mark-letto/index.html"><img width="200" height="200" src="../wp-content/uploads/2016/05/avatar-contact-3-200x200.jpg" class="img img-responsives" alt="avatar-contact-3" /></a>
 </div>
 <div class="main-organization">
 <div class="organization-title">
@@ -114,7 +109,7 @@
 <p class="text">لحظاتی خوش در کنار یوتاب</p>
 <div role="form" class="wpcf7" id="wpcf7-f46-p45-o1" lang="en" dir="ltr">
 <div class="screen-reader-response"></div>
-<form action="http://wp.swlabs.co/exploore/?d=rtl#wpcf7-f46-p45-o1" method="post" class="wpcf7-form contact-form" novalidate="novalidate" id="contact-form-6023684715e1ec8d47cbee">
+<form action="" method="post" class="wpcf7-form contact-form" novalidate="novalidate" id="contact-form-6023684715e1ec8d47cbee">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="46" />
 <input type="hidden" name="_wpcf7_version" value="4.5.1" />
@@ -143,7 +138,7 @@
 </a></p>
 <div class="footer-block"><a class="btn btn-open-map">مشاهده نقشه</a></div>
 </div>
-<div id="googleMap" data-img-url="http://wp.swlabs.co/exploore/wp-content/plugins/slzexploore-core/assets/images/marker.png" data-address="333 Moo 10, Chert Wudthakas Road, Srikan, Don Mueang, Bangkok, Thailand"></div>	</div>
+<div id="googleMap" data-img-url="/wp-content/plugins/slzexploore-core/assets/images/marker.png" data-address="333 Moo 10, Chert Wudthakas Road, Srikan, Don Mueang, Bangkok, Thailand"></div>	</div>
 </div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div>
 </div>
 </div>
@@ -157,7 +152,5 @@
 <!-- MAIN CONTENT-->
 </div>
 <!-- WRAPPER -->
-</div>
-<!-- WRAPPER CONTENT -->
 
 @endsection

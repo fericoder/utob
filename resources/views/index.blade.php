@@ -1,12 +1,7 @@
 @extends('master')
 
 @section('content')
-<div class="clearfix"></div>
-</div>
-</div>
-</div>
-</div>
-</header>				<!-- WRAPPER-->
+			<!-- WRAPPER-->
 <div id="wrapper-content">
 <!-- MAIN CONTENT-->
 <div class="main-content">
@@ -532,6 +527,4 @@
 <!-- MAIN CONTENT-->
 </div>
 <!-- WRAPPER -->
-</div>
-<!-- WRAPPER CONTENT -->
 @endsection
