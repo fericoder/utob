@@ -1466,7 +1466,7 @@ a:hover {
   -o-transition: all 0.5s ease;
 }
 .wrapper-mobile-nav {
-  background: #ffdd00;
+  background: #0e99b6;
   color: #555e69;
   position: absolute;
   display: none;
@@ -1552,18 +1552,18 @@ a:hover {
   display: inline-block;
   width: 100%;
   position: relative !important;
-  border-bottom: 1px solid rgba(60, 60, 60, 0.9);
+  border-bottom: 1px solid #ffffff;
 }
 .menu-mobile .main-menu {
-  color: #3c3c3c;
+  color: #ffffff;
   font-size: 16px;
   font-weight: 500;
-  background-color: #ffdd00;
+  background-color: #0e99b6;
   text-transform: uppercase;
 }
 .menu-mobile .main-menu:active,
 .menu-mobile .main-menu:hover {
-  background-color: #ffdd00;
+  background-color:#97dcf1;
 }
 .menu-mobile .icons-dropdown {
   position: absolute;
@@ -1606,7 +1606,7 @@ a:hover {
 }
 .menu-mobile .dropdown-menu.dropdown-menu-1 .link-page {
   padding-left: 30px;
-  color: #3c3c3c;
+  color: #ffffff;
 }
 .menu-mobile .dropdown-menu.dropdown-menu-1 .link-page:hover {
   background-color: transparent;
