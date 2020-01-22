@@ -511,539 +511,66 @@
                 <ul id="menu-main-navigation" class="nav-links nav navbar-nav slzexploore-menu">
                     <li id="menu-item-548"
                         class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-45 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-548 active dropdown menu-item-depth1">
-                        <a class="main-menu" href=""><i class="fa  "></i>Home<span class="icons-dropdown"><i
-                                        class="fa fa-angle-down"></i></span></a>
-                        <ul class="dropdown-menu dropdown-menu-1 exploore-dropdown-menu-1">
-                            <li id="menu-item-553"
-                                class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-45 current_page_item menu-item-553 active">
-                                <a class="link-page" href=""><i class="fa  "></i>Home Page Default</a></li>
-                            <li id="menu-item-552"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-552"><a
-                                        class="link-page" href=""><i class="fa  "></i>Home Page
-                                    2<span class="label label-danger">New</span></a></li>
-                            <li id="menu-item-551"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-551"><a
-                                        class="link-page" href=""><i class="fa  "></i>Home Page 3</a>
-                            </li>
-                            <li id="menu-item-540"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-540"><a
-                                        class="link-page" href=""><i class="fa  "></i>Home Page 4</a>
-                            </li>
-                            <li id="menu-item-1620"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1620"><a
-                                        class="link-page" href=""><i class="fa  "></i>Home Page 5</a>
-                            </li>
-                        </ul>
+                        <a class="main-menu" href=""><i class="fa  "></i>صفحه اصلی<span class="icons-dropdown"><i
+                                        class="fa fa-home"></i></span></a>
+
                     </li>
                     <li id="menu-item-555"
                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-555 dropdown menu-item-depth1">
-                        <a class="main-menu" href=""><i class="fa  "></i>Tours<span
-                                    class="label label-danger">New</span><span class="icons-dropdown"><i
-                                        class="fa fa-angle-down"></i></span></a>
-                        <ul class="dropdown-menu dropdown-menu-1 exploore-dropdown-menu-1">
-                            <li id="menu-item-534"
-                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-534"><a
-                                        class="link-page" href=""><i class="fa  "></i>Tours Search</a>
-                            </li>
-                            <li id="menu-item-558"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-558"><a
-                                        class="link-page" href=""><i class="fa  "></i>Tours List Layout 01</a></li>
-                            <li id="menu-item-1640"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1640"><a
-                                        class="link-page" href=""><i class="fa  "></i>Tours List
-                                    Layout 02</a></li>
-                            <li id="menu-item-1687"
-                                class="menu-item menu-item-type-post_type menu-item-object-slzexploore_tour menu-item-1687">
-                                <a class="link-page" href=""><i class="fa  "></i>Tour
-                                    View</a></li>
-                            <li id="menu-item-2330"
-                                class="menu-item menu-item-type-post_type menu-item-object-slzexploore_tour menu-item-2330">
-                                <a class="link-page" href=""><i class="fa  "></i>Tour View
-                                    &#038; Deposit mode</a></li>
-                            <li id="menu-item-2739"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2739"><a
-                                        class="link-page" href=""><i class="fa  "></i>Tours Map<span
-                                            class="label label-danger">New</span></a></li>
-                            <li id="menu-item-3721"
-                                class="menu-item menu-item-type-post_type menu-item-object-slzexploore_tour menu-item-3721">
-                                <a class="link-page" href=""><i class="fa  "></i>Tour
-                                    With Different Price<span class="label label-danger">New</span></a></li>
-                            <li id="menu-item-2782"
-                                class="menu-item menu-item-type-post_type menu-item-object-slzexploore_tour menu-item-2782">
-                                <a class="link-page" href=""><i class="fa  "></i>Book Tour
-                                    With Contact Form<span class="label label-success">New</span></a></li>
-                            <li id="menu-item-2943"
-                                class="menu-item menu-item-type-post_type menu-item-object-slzexploore_tour menu-item-2943">
-                                <a class="link-page" href=""><i class="fa  "></i>Booking
-                                    Tour Or Book With Contact Form<span class="label label-success">New</span></a></li>
-                        </ul>
+                        <a class="main-menu" href=""><i class="fa  "></i>بیماری ها<span class="icons-dropdown"><i
+                                        class="fa fa-stethoscope"></i></span></a>
+
                     </li>
                     <li id="menu-item-554"
                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-554 dropdown menu-item-depth1">
-                        <a class="main-menu" href=""><i class="fa  "></i>Hotels<span
-                                    class="label label-danger">New</span><span class="icons-dropdown"><i
-                                        class="fa fa-angle-down"></i></span></a>
-                        <ul class="dropdown-menu dropdown-menu-1 exploore-dropdown-menu-1">
-                            <li id="menu-item-535"
-                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-535"><a
-                                        class="link-page" href=""><i class="fa  "></i>Hotels
-                                    Search</a></li>
-                            <li id="menu-item-557"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-557"><a
-                                        class="link-page" href=""><i class="fa  "></i>Hotels List
-                                    Layout 01</a></li>
-                            <li id="menu-item-1639"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1639"><a
-                                        class="link-page" href=""><i class="fa  "></i>Hotels
-                                    List Layout 02</a></li>
-                            <li id="menu-item-3813"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3813"><a
-                                        class="link-page" href=""><i class="fa  "></i>Hotel
-                                    Grid<span class="label label-danger">New</span></a></li>
-                            <li id="menu-item-1686"
-                                class="menu-item menu-item-type-post_type menu-item-object-slzexploore_hotel menu-item-1686">
-                                <a class="link-page" href=""><i class="fa  "></i>Hotel
-                                    View</a></li>
-                            <li id="menu-item-2331"
-                                class="menu-item menu-item-type-post_type menu-item-object-slzexploore_hotel menu-item-2331">
-                                <a class="link-page" href=""><i class="fa  "></i>Hotel
-                                    View &#038; Deposit mode</a></li>
-                            <li id="menu-item-2740"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2740"><a
-                                        class="link-page" href=""><i class="fa  "></i>Hotels
-                                    Map<span class="label label-danger">New</span></a></li>
-                            <li id="menu-item-2788"
-                                class="menu-item menu-item-type-post_type menu-item-object-slzexploore_hotel menu-item-2788">
-                                <a class="link-page" href=""><i class="fa  "></i>Book
-                                    Hotel With Contact Form<span class="label label-success">New</span></a></li>
-                            <li id="menu-item-2945"
-                                class="menu-item menu-item-type-post_type menu-item-object-slzexploore_hotel menu-item-2945">
-                                <a class="link-page" href=""><i class="fa  "></i>Booking
-                                    Hotel Or Book With Contact Form<span class="label label-success">New</span></a></li>
-                        </ul>
+                        <a class="main-menu" href=""><i class="fa  "></i>پکیج ها<span class="icons-dropdown"><i
+                                        class="fa fa-medkit"></i></span></a>
+
                     </li>
                     <li id="menu-item-1342"
                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1342 dropdown menu-item-depth1">
-                        <a class="main-menu" href="#"><i class="fa  "></i>Services<span class="icons-dropdown"><i
-                                        class="fa fa-angle-down"></i></span></a>
-                        <ul class="dropdown-menu dropdown-menu-1 exploore-dropdown-menu-1">
-                            <li id="menu-item-2741"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2741 dropdown ">
-                                <a class="link-page" href=""><span
-                                            class="fa fa-angle-right icons-dropdown"></span><i class="fa  "></i>Car
-                                    Rents</a>
-                                <ul class="dropdown-menu dropdown-menu-2 exploore-dropdown-menu-2 left">
-                                    <li id="menu-item-778"
-                                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-778"><a
-                                                class="link-page" href=""><i class="fa  "></i>Car
-                                            Rent Search</a></li>
-                                    <li id="menu-item-881"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-881">
-                                        <a class="link-page" href=""><i class="fa  "></i>Car Rent
-                                            List</a></li>
-                                    <li id="menu-item-1688"
-                                        class="menu-item menu-item-type-post_type menu-item-object-slzexploore_car menu-item-1688">
-                                        <a class="link-page" href=""><i class="fa  "></i>Car
-                                            View</a></li>
-                                    <li id="menu-item-2332"
-                                        class="menu-item menu-item-type-post_type menu-item-object-slzexploore_car menu-item-2332">
-                                        <a class="link-page" href=""><i class="fa  "></i>Car
-                                            View &#038; Deposit mode</a></li>
-                                    <li id="menu-item-2738"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2738">
-                                        <a class="link-page" href=""><i class="fa  "></i>Car Rent
-                                            Map<span class="label label-danger">New</span></a></li>
-                                    <li id="menu-item-2783"
-                                        class="menu-item menu-item-type-post_type menu-item-object-slzexploore_car menu-item-2783">
-                                        <a class="link-page" href=""><i class="fa  "></i>Book
-                                            Car With Contact Form<span class="label label-info">New</span></a></li>
-                                    <li id="menu-item-2946"
-                                        class="menu-item menu-item-type-post_type menu-item-object-slzexploore_car menu-item-2946">
-                                        <a class="link-page" href=""><i
-                                                    class="fa  "></i>Booking Car Or Book With Contact Form<span
-                                                    class="label label-danger">New</span></a></li>
-                                </ul>
-                            </li>
-                            <li id="menu-item-2742"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2742 dropdown ">
-                                <a class="link-page" href=""><span
-                                            class="fa fa-angle-right icons-dropdown"></span><i
-                                            class="fa  "></i>Cruise</a>
-                                <ul class="dropdown-menu dropdown-menu-2 exploore-dropdown-menu-2 left">
-                                    <li id="menu-item-787"
-                                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-787"><a
-                                                class="link-page" href=""><i class="fa  "></i>Cruises
-                                            Search</a></li>
-                                    <li id="menu-item-882"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-882">
-                                        <a class="link-page" href=""><i class="fa  "></i>Cruise
-                                            List</a></li>
-                                    <li id="menu-item-1689"
-                                        class="menu-item menu-item-type-post_type menu-item-object-slzexploore_cruise menu-item-1689">
-                                        <a class="link-page" href=""><i class="fa  "></i>Cruise
-                                            View</a></li>
-                                    <li id="menu-item-2333"
-                                        class="menu-item menu-item-type-post_type menu-item-object-slzexploore_cruise menu-item-2333">
-                                        <a class="link-page" href=""><i class="fa  "></i>Cruise
-                                            View &#038; Deposit mode</a></li>
-                                    <li id="menu-item-2737"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2737">
-                                        <a class="link-page" href=""><i class="fa  "></i>Cruise Map<span
-                                                    class="label label-danger">New</span></a></li>
-                                    <li id="menu-item-2785"
-                                        class="menu-item menu-item-type-post_type menu-item-object-slzexploore_cruise menu-item-2785">
-                                        <a class="link-page" href=""><i class="fa  "></i>Book
-                                            Cruise With Contact Form<span class="label label-warning">New</span></a>
-                                    </li>
-                                    <li id="menu-item-2947"
-                                        class="menu-item menu-item-type-post_type menu-item-object-slzexploore_cruise menu-item-2947">
-                                        <a class="link-page" href=""><i class="fa  "></i>Booking
-                                            Cruise Or Book With Contact Form<span class="label label-danger">New</span></a>
-                                    </li>
-                                </ul>
-                            </li>
-                        </ul>
+                        <a class="main-menu" href="#"><i class="fa  "></i>پزشکان<span class="icons-dropdown"><i
+                                        class="fa fa-user-md "></i></span></a>
+
                     </li>
                     <li id="menu-item-562"
                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-562 dropdown menu-item-depth1">
-                        <a class="main-menu" href=""><i class="fa  "></i>Blog<span
-                                    class="icons-dropdown"><i class="fa fa-angle-down"></i></span></a>
-                        <ul class="dropdown-menu dropdown-menu-1 exploore-dropdown-menu-1">
-                            <li id="menu-item-564"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-564"><a
-                                        class="link-page" href=""><i class="fa  "></i>Blog
-                                    List Sidebar Right</a></li>
-                            <li id="menu-item-629"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-629"><a
-                                        class="link-page" href=""><i class="fa  "></i>Blog
-                                    List Sidebar Left</a></li>
-                            <li id="menu-item-628"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-628"><a
-                                        class="link-page" href=""><i class="fa  "></i>Blog
-                                    List No Sidebar</a></li>
-                            <li id="menu-item-563"
-                                class="menu-item menu-item-type-post_type menu-item-object-post menu-item-563"><a
-                                        class="link-page"
-                                        href=""><i
-                                            class="fa  "></i>Blog Detail</a></li>
-                        </ul>
+                        <a class="main-menu" href=""><i class="fa  "></i>بیمارستان ها<span
+                                    class="icons-dropdown"><i class="fa fa-hospital-o"></i></span></a>
+
+                    </li>
+                    <li id="menu-item-562"
+                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-562 dropdown menu-item-depth1">
+                        <a class="main-menu" href=""><i class="fa  "></i>هتل ها<span
+                                    class="icons-dropdown"><i class="fa fa-building-o"></i></span></a>
+
                     </li>
                     <li id="menu-item-536"
                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-536 dropdown menu-item-depth1">
-                        <a class="main-menu" href="#"><i class="fa  "></i>Pages<span class="icons-dropdown"><i
+                        <a class="main-menu" href="#"><i class="fa  "></i>درباره ما<span
+                                    class="label label-danger">شرکت یوتاب</span><span class="icons-dropdown"><i
                                         class="fa fa-angle-down"></i></span></a>
                         <ul class="dropdown-menu dropdown-menu-1 exploore-dropdown-menu-1">
                             <li id="menu-item-556"
                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-556"><a
-                                        class="link-page" href=""><i class="fa  "></i>About</a></li>
-                            <li id="menu-item-1690"
-                                class="menu-item menu-item-type-post_type menu-item-object-slzexploore_team menu-item-1690">
-                                <a class="link-page" href=""><i class="fa  "></i>Team Detail</a>
-                            </li>
-                            <li id="menu-item-849"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-849"><a
-                                        class="link-page" href=""><i class="fa  "></i>FAQ</a></li>
-                            <li id="menu-item-561"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-561"><a
-                                        class="link-page" href=""><i class="fa  "></i>Contact</a></li>
-                            <li id="menu-item-652"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-652"><a
-                                        class="link-page" href=""><i
-                                            class="fa  "></i>Register</a></li>
-                            <li id="menu-item-653"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-653"><a
-                                        class="link-page" href=""><i class="fa  "></i>Login</a>
-                            </li>
-                            <li id="menu-item-565"
-                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-565"><a
-                                        class="link-page" href=""><i class="fa  "></i>404 Page</a></li>
+                                        class="link-page" href=""><i class="fa  "></i>تجربه مشتریان</a></li>
+                            <li id="menu-item-556"
+                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-556"><a
+                                        class="link-page" href=""><i class="fa  "></i>درباره ما</a></li>
+
                         </ul>
                     </li>
                     <li id="menu-item-1239"
                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1239 mega-menu dropdown">
-                        <a class="main-menu" href="#"><span class="text"><i class="fa  "></i>Elements</span><span
-                                    class="fa fa-angle-down icons-dropdown"></span></a>
-                        <div class="dropdown-menu mega-menu-content clearfix">
-                            <ul class="mega-content-wrap">
-                                <li class="mega-wrap">
-                                    <div class="mega-menu-column col-md-3">
-                                        <ul class="mega-menu-column-box">
-                                            <li id="menu-item-1156"
-                                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1156 mega-menu-title sub-menu ">
-                                                <a href="javascript:void(0)" class="sf-with-ul"><i
-                                                            class="fa  "></i><span>Sample 01</span></a>
-                                                <ul class="dropdown-menu dropdown-menu-1">
-                                                    <li id="menu-item-1010"><a class="link-page"
-                                                                               href=""><span
-                                                                    class="text"><i class="fa  fa-car menu-icon"></i>Car Shortcodes</span></a>
-                                                    </li>
-                                                    <li id="menu-item-1018"><a class="link-page"
-                                                                               href=""><span
-                                                                    class="text"><i class="fa  fa-ship menu-icon"></i>Cruise Shortcodes</span></a>
-                                                    </li>
-                                                    <li id="menu-item-982"><a class="link-page"
-                                                                              href=""><span
-                                                                    class="text"><i
-                                                                        class="fa  fa-umbrella menu-icon"></i>Tour Carousel &#038; Grid</span></a>
-                                                    </li>
-                                                    <li id="menu-item-981"><a class="link-page"
-                                                                              href=""><span
-                                                                    class="text"><i
-                                                                        class="fa   fa-calendar menu-icon"></i>Tour Schedule</span></a>
-                                                    </li>
-                                                    <li id="menu-item-992"><a class="link-page"
-                                                                              href=""><span
-                                                                    class="text"><i class="fa  fa-home menu-icon"></i>Room Types</span></a>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                    <div class="mega-menu-column col-md-3">
-                                        <ul class="mega-menu-column-box">
-                                            <li id="menu-item-1157"
-                                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1157 mega-menu-title sub-menu ">
-                                                <a href="javascript:void(0)" class="sf-with-ul"><i
-                                                            class="fa  "></i><span>Sample 02</span></a>
-                                                <ul class="dropdown-menu dropdown-menu-1">
-                                                    <li id="menu-item-1004"><a class="link-page"
-                                                                               href=""><span
-                                                                    class="text"><i class="fa  fa-home menu-icon"></i>Hotel Shortcodes</span></a>
-                                                    </li>
-                                                    <li id="menu-item-1306"><a class="link-page"
-                                                                               href=""><span
-                                                                    class="text"><i class="fa  fa-group menu-icon"></i>Team Carousel</span></a>
-                                                    </li>
-                                                    <li id="menu-item-1280"><a class="link-page"
-                                                                               href=""><span
-                                                                    class="text"><i class="fa  fa-child menu-icon"></i>Team Single &#038; List</span></a>
-                                                    </li>
-                                                    <li id="menu-item-1080"><a class="link-page"
-                                                                               href=""><span
-                                                                    class="text"><i class="fa  fa-users menu-icon"></i>Partner</span></a>
-                                                    </li>
-                                                    <li id="menu-item-960"><a class="link-page"
-                                                                              href=""><span
-                                                                    class="text"><i
-                                                                        class="fa  fa-quote-left menu-icon"></i>Testimonial</span></a>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                    <div class="mega-menu-column col-md-3">
-                                        <ul class="mega-menu-column-box">
-                                            <li id="menu-item-1116"
-                                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1116 mega-menu-title sub-menu ">
-                                                <a href="javascript:void(0)" class="sf-with-ul"><i
-                                                            class="fa  "></i><span>Sample 03</span></a>
-                                                <ul class="dropdown-menu dropdown-menu-1">
-                                                    <li id="menu-item-1117"><a class="link-page"
-                                                                               href=""><span
-                                                                    class="text"><i
-                                                                        class="fa   fa-newspaper-o menu-icon"></i>Recent News</span></a>
-                                                    </li>
-                                                    <li id="menu-item-1127"><a class="link-page"
-                                                                               href=""><span
-                                                                    class="text"><i class="fa   fa-book menu-icon"></i>Blogs</span></a>
-                                                    </li>
-                                                    <li id="menu-item-1126"><a class="link-page"
-                                                                               href=""><span
-                                                                    class="text"><i
-                                                                        class="fa  fa-sliders menu-icon"></i>Post Carousel</span></a>
-                                                    </li>
-                                                    <li id="menu-item-1170"><a class="link-page"
-                                                                               href=""><span
-                                                                    class="text"><i
-                                                                        class="fa  fa-envelope-o menu-icon"></i>Contact</span></a>
-                                                    </li>
-                                                    <li id="menu-item-1068"><a class="link-page"
-                                                                               href=""><span
-                                                                    class="text"><i
-                                                                        class="fa   fa-picture-o menu-icon"></i>Image Gallery</span></a>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                    <div class="mega-menu-column col-md-3">
-                                        <ul class="mega-menu-column-box">
-                                            <li id="menu-item-1543"
-                                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1543 mega-menu-title sub-menu ">
-                                                <a href="javascript:void(0)" class="sf-with-ul"><i
-                                                            class="fa  "></i><span>Sample 04</span></a>
-                                                <ul class="dropdown-menu dropdown-menu-1">
-                                                    <li id="menu-item-1075"><a class="link-page"
-                                                                               href=""><span
-                                                                    class="text"><i
-                                                                        class="fa   fa-search menu-icon"></i>Tab Search</span></a>
-                                                    </li>
-                                                    <li id="menu-item-1112"><a class="link-page"
-                                                                               href=""><span
-                                                                    class="text"><i
-                                                                        class="fa  fa-file-word-o menu-icon"></i>Block Title</span></a>
-                                                    </li>
-                                                    <li id="menu-item-1089"><a class="link-page"
-                                                                               href=""><span
-                                                                    class="text"><i
-                                                                        class="fa  fa-shopping-cart menu-icon"></i>Discount Box</span></a>
-                                                    </li>
-                                                    <li id="menu-item-1025"><a class="link-page"
-                                                                               href=""><span
-                                                                    class="text"><i
-                                                                        class="fa  fa-comments menu-icon"></i>FAQs &#038; Toggle Box</span></a>
-                                                    </li>
-                                                    <li id="menu-item-1155"><a class="link-page"
-                                                                               href=""><span
-                                                                    class="text"><i
-                                                                        class="fa  fa-th-list  menu-icon"></i>Item List &#038; Icon Box</span></a>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                    </li>
-                    <li id="menu-item-681"
-                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-681 mega-menu dropdown">
-                        <a class="main-menu" href=""><span class="text"><i
-                                        class="fa  "></i>Shop</span><span
-                                    class="fa fa-angle-down icons-dropdown"></span></a>
-                        <div class="dropdown-menu mega-menu-content clearfix">
-                            <ul class="mega-content-wrap">
-                                <li class="mega-wrap">
-                                    <div class="mega-menu-column col-md-4">
-                                        <ul class="mega-menu-column-box">
-                                            <li id="menu-item-1544"
-                                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1544 mega-menu-title sub-menu ">
-                                                <a href="javascript:void(0)" class="sf-with-ul"><i
-                                                            class="fa  "></i><span>Shop Pages 01</span></a>
-                                                <ul class="dropdown-menu dropdown-menu-1">
-                                                    <li id="menu-item-1219"><a class="link-page"
-                                                                               href=""><span
-                                                                    class="text"><i
-                                                                        class="fa  fa-caret-right menu-icon"></i>Shop 3 Columns No Sidebar</span></a>
-                                                    </li>
-                                                    <li id="menu-item-1235"><a class="link-page"
-                                                                               href=""><span
-                                                                    class="text"><i
-                                                                        class="fa  fa-caret-right menu-icon"></i>Shop 4 Columns No Sidebar</span></a>
-                                                    </li>
-                                                    <li id="menu-item-1218"><a class="link-page"
-                                                                               href=""><span
-                                                                    class="text"><i
-                                                                        class="fa  fa-caret-right menu-icon"></i>Shop 2 Columns Left Sidebar</span></a>
-                                                    </li>
-                                                    <li id="menu-item-1217"><a class="link-page"
-                                                                               href=""><span
-                                                                    class="text"><i
-                                                                        class="fa  fa-caret-right menu-icon"></i>Shop 2 Columns Right Sidebar</span></a>
-                                                    </li>
-                                                    <li id="menu-item-1222"><a class="link-page"
-                                                                               href=""><span
-                                                                    class="text"><i
-                                                                        class="fa  fa-caret-right menu-icon"></i>Product Detail No Sidebar</span></a>
-                                                    </li>
-                                                    <li id="menu-item-1221"><a class="link-page"
-                                                                               href=""><span
-                                                                    class="text"><i
-                                                                        class="fa  fa-caret-right menu-icon"></i>Product Detail Left Sidebar</span></a>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                    <div class="mega-menu-column col-md-4">
-                                        <ul class="mega-menu-column-box">
-                                            <li id="menu-item-1545"
-                                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1545 mega-menu-title sub-menu ">
-                                                <a href="javascript:void(0)" class="sf-with-ul"><i
-                                                            class="fa  "></i><span>Shop Pages 02</span></a>
-                                                <ul class="dropdown-menu dropdown-menu-1">
-                                                    <li id="menu-item-1220"><a class="link-page"
-                                                                               href=""><span
-                                                                    class="text"><i
-                                                                        class="fa  fa-product-hunt menu-icon"></i>Product Detail Right Sidebar</span></a>
-                                                    </li>
-                                                    <li id="menu-item-678"><a class="link-page"
-                                                                              href=""><span
-                                                                    class="text"><i class="fa  fa-user menu-icon"></i>My Account</span></a>
-                                                    </li>
-                                                    <li id="menu-item-682"><a class="link-page"
-                                                                              href=""><span
-                                                                    class="text"><i
-                                                                        class="fa  fa-heart-o menu-icon"></i>Wishlist</span></a>
-                                                    </li>
-                                                    <li id="menu-item-680"><a class="link-page"
-                                                                              href=""><span class="text"><i
-                                                                        class="fa  fa-shopping-cart menu-icon"></i>Shoping Cart</span></a>
-                                                    </li>
-                                                    <li id="menu-item-679"><a class="link-page"
-                                                                              href=""><span
-                                                                    class="text"><i class="fa  fa-money menu-icon"></i>Checkout</span></a>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                    <div class="mega-menu-column col-md-4">
-                                        <ul class="mega-menu-column-box">
-                                            <li id="menu-item-1546"
-                                                class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1546 mega-menu-title sub-menu ">
-                                                <a href="javascript:void(0)" class="sf-with-ul"><i
-                                                            class="fa  "></i><span>Widgetized</span></a>
-                                                <div class="tab-pane shop-widget">
-                                                    <div class="box woocommerce widget_products widget slz-widget ">
-                                                        <ul class="product_list_widget">
-                                                            <li>
-                                                                <a href=""
-                                                                   title="Best Chicago Gift">
-                                                                    <img width="180" height="180"
-                                                                         src="wp-content/uploads/2013/06/pDSP1-21052452v750-180x180.jpg"
-                                                                         class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image"
-                                                                         alt="pDSP1-21052452v750"
-                                                                         srcset="/wp-content/uploads/2013/06/pDSP1-21052452v750-180x180.jpg 180w, /wp-content/uploads/2013/06/pDSP1-21052452v750-150x150.jpg 150w, /wp-content/uploads/2013/06/pDSP1-21052452v750-300x300.jpg 300w, /wp-content/uploads/2013/06/pDSP1-21052452v750-600x600.jpg 600w, /wp-content/uploads/2013/06/pDSP1-21052452v750-200x200.jpg 200w, /wp-content/uploads/2013/06/pDSP1-21052452v750-100x100.jpg 100w, /wp-content/uploads/2013/06/pDSP1-21052452v750.jpg 750w"
-                                                                         sizes="(max-width: 180px) 100vw, 180px"/> <span
-                                                                            class="product-title">Best Chicago Gift</span>
-                                                                </a>
-                                                                <del><span class="woocommerce-Price-amount amount"><span
-                                                                                class="woocommerce-Price-currencySymbol">&#36;</span>3.00</span>
-                                                                </del>
-                                                                <ins><span class="woocommerce-Price-amount amount"><span
-                                                                                class="woocommerce-Price-currencySymbol">&#36;</span>2.00</span>
-                                                                </ins>
-                                                            </li>
+                        <a class="main-menu" href="#"><span class="text"><i class="fa  "></i>تماس باما</span><span
+                                    class="fa fa-phone icons-dropdown"></span></a>
 
-                                                            <li>
-                                                                <a href=""
-                                                                   title="Beatiful  Souvenir">
-                                                                    <img width="180" height="180"
-                                                                         src="wp-content/uploads/2013/06/furla-candy-bag-transparent-rubber-3-1-180x180.jpg"
-                                                                         class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image"
-                                                                         alt="furla-candy-bag-transparent-rubber-3"
-                                                                         srcset="/wp-content/uploads/2013/06/furla-candy-bag-transparent-rubber-3-1-180x180.jpg 180w, /wp-content/uploads/2013/06/furla-candy-bag-transparent-rubber-3-1-150x150.jpg 150w, /wp-content/uploads/2013/06/furla-candy-bag-transparent-rubber-3-1-300x300.jpg 300w, /wp-content/uploads/2013/06/furla-candy-bag-transparent-rubber-3-1-200x200.jpg 200w, /wp-content/uploads/2013/06/furla-candy-bag-transparent-rubber-3-1-100x100.jpg 100w, /wp-content/uploads/2013/06/furla-candy-bag-transparent-rubber-3-1.jpg 584w"
-                                                                         sizes="(max-width: 180px) 100vw, 180px"/> <span
-                                                                            class="product-title">Beatiful  Souvenir</span>
-                                                                </a>
-                                                                <span class="woocommerce-Price-amount amount"><span
-                                                                            class="woocommerce-Price-currencySymbol">&#36;</span>9.00</span>
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
                     </li>
+
                 </ul>
             </div>
             <ul class="topbar-right pull-right list-unstyled list-inline login-widget">
-                <li><a href="" class="monney dropdown-text"><span>English</span></a></li>
+                <li><a href="" class="monney dropdown-text"><span style="color:#ffffff;">English</span></a></li>
                 <li><a href="" class="item">العربیه</a></li>
                 <li><a href="" class="item">Turkish</a></li>
             </ul>
