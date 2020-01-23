@@ -1230,6 +1230,7 @@
             src='wp-content/plugins/js_composer/assets/lib/waypoints/waypoints.min972f.js?ver=5.0.1'></script>
     <script type='text/javascript'
             src='wp-content/themes/exploore/assets/public/js/slz-livesettingd5f7.js?ver=2.0'></script>
+
 </body>
 
 </html>

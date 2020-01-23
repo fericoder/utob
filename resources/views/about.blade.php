@@ -469,9 +469,9 @@
                                                                     <div class="content-tours"><i
                                                                                 class="icon fa fa-edit"></i>
                                                                         <div class="wrapper-thin">
-<span class="wrapper-icon-thin">
-<i class="icon-thin fa fa-circle-thin"></i>
-</span>
+                                                                            <span class="wrapper-icon-thin">
+                                                                            <i class="icon-thin fa fa-circle-thin"></i>
+                                                                            </span>
                                                                             <div class="tours-title">960</div>
                                                                         </div>
                                                                         <div class="text">ثبت درخواست</div>
