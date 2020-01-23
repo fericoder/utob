@@ -42,10 +42,10 @@
                         <div class="page-title-content">
                             <ol class="breadcrumb">
                                 <li><a href="/" class="link home">صفحه اصلی</a></li>
-                                <li class="active"><a href="/about" class="link">درباره یوتاب</a></li>
+                                <li class="active"><a href="/about" class="link">درباره یوتاب مد</a></li>
                             </ol>
                             <div class="clearfix"></div>
-                            <h2 class="captions" style="margin-bottom: 35px;">درباره یوتاب</h2>
+                            <h2 class="captions" style="margin-bottom: 35px;">درباره یوتاب مد</h2>
                         </div>
                     </div>
                 </div>
@@ -63,7 +63,7 @@
                                                 <div class="vc_column-inner vc_custom_1463110533434">
                                                     <div class="wpb_wrapper">
                                                         <div class="slz-shortcode block-title-19121327715e1e882a04520 ">
-                                                            <h3 class="title-style-2">چرا یوتاب؟</h3></div>
+                                                            <h3 class="title-style-2">چرا یوتاب مد؟</h3></div>
                                                         <div class="wpb_text_column wpb_content_element  vc_custom_1463035461905">
                                                             <div class="wpb_wrapper">
                                                                 <p>
@@ -74,7 +74,7 @@
                                                         <div class="wpb_text_column wpb_content_element  vc_custom_1463035502319">
                                                             <div class="wpb_wrapper">
                                                                 <p>
-                                                                    یوتاب مد پلت‌فرم گردشگری سلامت (مدیکال توریسم)، بستری برای جذب بیماران خارجی و معرفی آن‌ها به پزشکان و بیمارستان‌های باکیفیت ایرانی است. بیمارانی که به منظور دریافت خدمات پزشکی، درمانی و زیبایی به ایران سفر می‌کنند. آریامدتور در کنار خدمات درمانی برای بیماران، خدمات اقامتی و گردشگری را نیز توسط تامین‌کنندگان فراهم آورده است.
+                                                                    یوتاب مد مد پلت‌فرم گردشگری سلامت (مدیکال توریسم)، بستری برای جذب بیماران خارجی و معرفی آن‌ها به پزشکان و بیمارستان‌های باکیفیت ایرانی است. بیمارانی که به منظور دریافت خدمات پزشکی، درمانی و زیبایی به ایران سفر می‌کنند. آریامدتور در کنار خدمات درمانی برای بیماران، خدمات اقامتی و گردشگری را نیز توسط تامین‌کنندگان فراهم آورده است.
                                                                 </p>
                                                             </div>
                                                         </div>
@@ -105,7 +105,7 @@
                                                 <div class="vc_column-inner vc_custom_1463036613861">
                                                     <div class="wpb_wrapper">
                                                         <div class="slz-shortcode block-title-14075322915e1e882a0a90d ">
-                                                            <h3 style="color: white" class="title-style-2">ارزش های سازمانی یوتاب</h3></div>
+                                                            <h3 style="color: white" class="title-style-2">ارزش های سازمانی یوتاب مد</h3></div>
                                                         <div class="vc_row wpb_row vc_inner vc_row-fluid">
                                                             <div class="wpb_column vc_column_container vc_col-sm-3">
                                                                 <div class="vc_column-inner ">
@@ -255,7 +255,7 @@
                                                 <div class="vc_column-inner ">
                                                     <div class="wpb_wrapper">
                                                         <div class="slz-shortcode sc_team_carousel our-expert  slzexploore_team-16054575425e1e882a10973">
-                                                            <h3 class="title-style-2">تیم مدیریت یوتاب</h3>
+                                                            <h3 class="title-style-2">تیم مدیریت یوتاب مد</h3>
                                                             <div class="wrapper-expert">
                                                                 <div class="item content-expert">
                                                                     <a class="img-expert"
@@ -489,7 +489,7 @@
                                                 <div class="vc_column-inner ">
                                                     <div class="wpb_wrapper">
                                                         <div class="slz-shortcode about-banner "><h3
-                                                                    class="title-style-2">همکاران تجاری یوتاب</h3>
+                                                                    class="title-style-2">همکاران تجاری یوتاب مد</h3>
                                                             <div class="wrapper-banner">
                                                                 <div class="content-banner">
                                                                     <a class="img-banner" href="#">
@@ -605,7 +605,7 @@
                                                                                         <h5 class="title">باما در ارتباط
                                                                                             باشید</h5>
                                                                                         <p class="text">لحظاتی خوش در
-                                                                                            کنار یوتاب</p>
+                                                                                            کنار یوتاب مد</p>
                                                                                         <div role="form" class="wpcf7"
                                                                                              id="wpcf7-f46-p45-o1"
                                                                                              lang="en" dir="ltr">

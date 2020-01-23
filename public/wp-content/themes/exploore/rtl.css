@@ -416,10 +416,10 @@ footer .widget {
     content: '';
     position: absolute;
     height: 1px;
-    background-color: #515151;
+    background-color: #ffffff;
     width: 220px;
     right: -109px;
-    top: 7px;
+    top: 11px;
     pointer-events: none;
 }
 .subscribe-email-wrapper .subscribe-email-left {
@@ -513,8 +513,8 @@ footer .widget {
     text-align: right;
 }
 .result-meta .result-filter-wrapper .selection-bar .select-wrapper {
-    margin-left: 0; 
-    margin-right: 10px; 
+    margin-left: 0;
+    margin-right: 10px;
 }
 .result-meta .result-filter-wrapper .result-filter-label {
     margin-bottom: 0;
@@ -773,8 +773,8 @@ footer .widget {
     float: right;
 }
 .stars-rating a.star-1,
-.stars-rating a.star-2, 
-.stars-rating a.star-3, 
+.stars-rating a.star-2,
+.stars-rating a.star-3,
 .stars-rating a.star-4 {
     margin-left: 1em;
     margin-right: 0;

@@ -27,8 +27,8 @@
                         <div class="group-logo"><img src="wp-content/uploads/2016/06/logo.png" alt="logo"
                                                      class="img-logo"></div>
                         <div class="group-title">
-                            <h1 class="banner title">توریست سلامت</h1>
-                            <h4 class="sub-banner text">شرکت ارکان گستر یوتاب</h4>
+                            <h1 class="banner title">توریسم سلامت</h1>
+                            <h4 class="sub-banner text">شرکت ارکان گستر یوتاب مد</h4>
                         </div>
                         <div class="group-btn">
                             <a href="#" data-hover="کلیک کنید" class="btn-click"><span
@@ -69,7 +69,7 @@
                                                                 برای جذب بیماران خارجی و معرفی آن‌ها به پزشکان و
                                                                 بیمارستان‌های با کیفیت ایرانی است. بیمارانی که به منظور
                                                                 دریافت خدمات پزشکی، درمانی و زیبایی به ایران سفر
-                                                                می‌کنند. آریامدتور در کنار خدمات درمانی برای بیماران،
+                                                                می‌کنند. یوتاب مد در کنار خدمات درمانی برای بیماران،
                                                                 خدمات اقامتی و گردشگری را نیز توسط تامین‌کنندگان فراهم
                                                                 آورده است.
 
@@ -651,11 +651,11 @@
                                                                         <div class="video-wrapper padding-top padding-bottom">
                                                                             <div class="video-wrapper-title"><h5
                                                                                         class="sub-title"> چرا <strong>
-                                                                                        ایران </strong> و یوتاب؟</h5>
+                                                                                        ایران </strong> و یوتاب مد؟</h5>
                                                                                 <h2 class="title">مزایا درمان در
                                                                                     ایران</h2>
                                                                                 <div class="text">در این قسمت میتوانید
-                                                                                    مزایا استفاده از یوتاب را مشاهده
+                                                                                    مزایا استفاده از یوتاب مد را مشاهده
                                                                                     فرمایید. جهت کسب اطلاعات بیشتر
                                                                                     درباره درمان در ایران و مزایای آن
                                                                                     میتوانید مطالب بیشتری را مشاهده
@@ -1245,9 +1245,9 @@
 
                                                                 <div class="group-title">
                                                                     <div class="sub-title"><p class="text">از جدیدترین
-                                                                            اخبار یوتاب باخبر شوید</p><i
+                                                                            اخبار یوتاب مد باخبر شوید</p><i
                                                                                 class="icons flaticon-people"></i></div>
-                                                                    <h2 class="main-title">اخبار</h2>
+                                                                    <h2 class="main-title">مقالات</h2>
                                                                 </div>
                                                                 <div class="news-content margin-top70">
                                                                     <div class="news-list" data-autospeed=6000
@@ -1264,7 +1264,7 @@
                                                                                 <a href=""
                                                                                    class="title heading utob-byekan">150
                                                                                     بیمارستان در ایران به فهرست
-                                                                                    بیمارستان های یوتاب اظافه شد</a>
+                                                                                    بیمارستان های یوتاب مد اظافه شد</a>
 
                                                                                 <ul class="info list-inline list-unstyled">
                                                                                     <li><a href=""
@@ -1400,7 +1400,7 @@
                                                                         تخفیف</h2>
                                                                     <h2 class="title-overlay title-2">شگفت انگیز</h2>
                                                                     <h3 class="title-overlay title-3 padding-bottom">
-                                                                        یوتاب </h3>
+                                                                        یوتاب مد </h3>
                                                                 </div>
                                                             </div>
 
@@ -1445,13 +1445,13 @@
                                                         <div class="slz-shortcode block-title-20933987305e1ec8d472f4d ">
 
                                                             <div class="group-title">
-                                                                <div class="sub-title"><p class="text">یوتاب در جهان</p>
+                                                                <div class="sub-title"><p class="text">یوتاب مد در جهان</p>
                                                                     <i class="icons flaticon-people"></i>
                                                                 </div>
                                                                 <h2 class="main-title">پراکندگی جغرافیایی مشتریان</h2>
                                                             </div>
                                                             <p>
-                                                                مشتریان یوتاب از اقصی نقاط جهان جهت طی مراحل درمان به ایران سفر میکنند
+                                                                مشتریان یوتاب مد از اقصی نقاط جهان جهت طی مراحل درمان به ایران سفر میکنند
                                                             </p></div>
                                                         <div class="vc_empty_space" style="height: 5px"><span
                                                                     class="vc_empty_space_inner"></span></div>
@@ -1476,6 +1476,7 @@
                                                             بخوانید</a></div>
                                                 </div>
                                             </div>
+
                                             <div class="slz_col-sm-12 wpb_column vc_column_container vc_col-sm-7">
                                                 <div class="vc_column-inner ">
                                                     <div class="wpb_wrapper">
@@ -1532,6 +1533,10 @@
                                                 </div>
                                             </div>
                                         </div>
+
+
+
+
                                         <div class="vc_row-full-width vc_clearfix"></div>
                                         <div data-vc-full-width="true" data-vc-full-width-init="false"
                                              data-vc-stretch-content="true"
@@ -1553,6 +1558,9 @@
                                                                                      srcset="http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/contact-people.png 276w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/contact-people-154x300.png 154w"
                                                                                      sizes="(max-width: 276px) 100vw, 276px"/>
                                                                             </div>
+
+
+
                                                                             <div class="col-lg-6 col-sm-7 col-lg-offset-4 col-sm-offset-5">
                                                                                 <div data-wow-delay="0.4s"
                                                                                      class="contact-wrapper padding-top padding-bottom wow fadeInRight">
@@ -1560,7 +1568,7 @@
                                                                                         <h5 class="title">باما در ارتباط
                                                                                             باشید</h5>
                                                                                         <p class="text">لحظاتی خوش در
-                                                                                            کنار یوتاب</p>
+                                                                                            کنار یوتاب مد</p>
                                                                                         <div role="form" class="wpcf7"
                                                                                              id="wpcf7-f46-p45-o1"
                                                                                              lang="en" dir="ltr">
@@ -1635,6 +1643,7 @@
                                                 </div>
                                             </div>
                                         </div>
+
                                         <div class="vc_row-full-width vc_clearfix"></div>
                                     </div>
                                 </div>

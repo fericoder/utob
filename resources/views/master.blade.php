@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="profile" href="http://gmpg.org/xfn/11">
     <script type="text/javascript">document.documentElement.className = document.documentElement.className + ' yes-js js_active js'</script>
-    <title>یوتاب &#8211; توریست سلامت </title>
+    <title>یوتاب مد &#8211; توریسم سلامت </title>
 
     <style>
         .wishlist_table .add_to_cart, a.add_to_wishlist.button.alt {
@@ -554,7 +554,7 @@
                     <li id="menu-item-536"
                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-536 dropdown menu-item-depth1">
                         <a class="main-menu" href="#"><i class="fa  "></i>درباره ما<span
-                                    class="label label-danger">شرکت یوتاب</span><span class="icons-dropdown"><i
+                                    class="label label-danger">شرکت یوتاب مد</span><span class="icons-dropdown"><i
                                         class="fa fa-angle-down"></i></span></a>
                         <ul class="dropdown-menu dropdown-menu-1 exploore-dropdown-menu-1">
                             <li id="menu-item-556"
@@ -625,12 +625,12 @@
                                     <li class="{{ request()->is('/') ? 'active' : '' }} menu-item menu-item-type-post_type menu-item-object-page  page_item page-item-45  current_page_parent current_page_ancestor menu-item-has-children menu-item-548 dropdown menu-item-depth1">
                                         <a class="main-menu" href="/"><i class="fa fa-home utob-font"></i>صفحه اصلی<span
                                                     class="icons-dropdown"></span></a></li>
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-555 dropdown menu-item-depth1">
-                                        <a class="main-menu" href=""><i class="fa  "></i><i
-                                                    class="fa fa-stethoscope utob-font"></i>بیماری ها</a></li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-554 dropdown menu-item-depth1">
                                         <a class="main-menu" href=""><i class="fa  "></i><i
                                                     class="fa fa-medkit utob-font"></i>پکیج ها</a></li>
+                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-555 dropdown menu-item-depth1">
+                                                    <a class="main-menu" href=""><i class="fa  "></i><i
+                                                    class="fa fa-stethoscope utob-font"></i>درمان ها</a></li>
                                     <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1342 dropdown menu-item-depth1">
                                         <a class="main-menu" href="#"><i class="fa  "></i><i
                                                     class="fa fa-user-md utob-font"></i>پزشکان</a></li>
@@ -638,13 +638,29 @@
                                         <a class="main-menu" href=""><i
                                                     class="fa  "></i><i class="fa fa-hospital-o utob-font"></i>بیمارستان
                                             ها</a></li>
+                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-562 dropdown menu-item-depth1">
+                                        <a class="main-menu" href=""><i
+                                                    class="fa  "></i><i class="fa fa-check-square-o
+ utob-font"></i>تجربه مشتریان</a></li>
                                     <li class="{{ request()->is('*hotel*') ? 'active' : '' }} menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1239 mega-menu dropdown">
-                                        <a class="main-menu" href="/hotels"><span class="text"><i class="fa  "></i><i
-                                                        class="fa fa-building-o utob-font"></i>هتل ها</span></a></li>
+                                    <a class="main-menu" href=""><i class="fa  "></i>خدمات ما<span
+                                                class="icons-dropdown"><i class="fa fa-angle-down"></i></span></a>
+                                    <ul class="dropdown-menu dropdown-menu-1 exploore-dropdown-menu-1">
+                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-558">
+                                            <a class="link-page" href=""><i class="fa  "></i>تجربه مشتریان</a></li>
+                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1640">
+                                            <a class="link-page" href="/about"><i class="fa  "></i>درباره ما</a>
+                                        </li>
+                                        <li class="menu-item menu-item-type-post_type menu-item-object-slzexploore_tour menu-item-1687">
+                                            <a class="link-page" href="/contact"><i class="fa  "></i>تماس باما</a>
+                                        </li>
+                                    </ul>
+                                                        </li>
+
 
                                     <li class=" {{ request()->is('*about*') ? 'active' : '' }} {{ request()->is('*contact*') ? 'active' : '' }}  menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-555 dropdown menu-item-depth1">
                                         <a class="main-menu" href=""><i class="fa  "></i>درباره ما<span
-                                                    class="label label-danger">شرکت یوتاب</span><span
+                                                    class="label label-danger">شرکت یوتاب مد</span><span
                                                     class="icons-dropdown"><i class="fa fa-angle-down"></i></span></a>
                                         <ul class="dropdown-menu dropdown-menu-1 exploore-dropdown-menu-1">
                                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-558">
@@ -686,7 +702,7 @@
                 <div class="container">
                     <div class="subscribe-email-wrapper">
                         <div class="subscribe-email-left">
-                            <p class="subscribe-email-title"> جهت اطلاع از آخرین اخبار یوتاب در <span class="logo-text">خبر‌نامه</span> عضو
+                            <p class="subscribe-email-title"> جهت اطلاع از آخرین اخبار یوتاب مد در <span class="logo-text">خبر‌نامه</span> عضو
                                 شوید</p>
                             <p class="subscribe-email-text">نگران نباشید کسی شما را نمی بیند.</p>
                         </div>
@@ -835,7 +851,7 @@
                                                         <li><a href="" class="link">درباره
                                                                 ایران</a></li>
                                                         <li><a href="" class="link">درباره
-                                                                یوتاب</a></li>
+                                                                یوتاب مد</a></li>
                                                         <li><a href="" class="link">درباره
                                                                 بیماری ها</a></li>
                                                         <li><a href="" class="link">درباره
@@ -988,7 +1004,7 @@
                                             class="fa fa-pinterest"></i></a></li>
                         </ul>
                     </div>
-                    <div class="name-company"><span style="color: white">© طراحی شده توسط تیم برنامه نویسی یوتاب</span>
+                    <div class="name-company"><span style="color: white">© طراحی شده توسط تیم برنامه نویسی یوتاب مد</span>
                     </div>
                 </div>
             </div>

@@ -30,3 +30,7 @@ Route::get('/contact', function () {
 Route::get('/hotel-view', function () {
     return view('hotel-view');
 });
+
+Route::get('/treatments', function () {
+    return view('treatments');
+});
