@@ -34,3 +34,7 @@ Route::get('/hotel-view', function () {
 Route::get('/treatments', function () {
     return view('treatments');
 });
+
+Route::get('/treatment-view', function () {
+    return view('treatment-view');
+});

@@ -391,7 +391,7 @@
   font-size: 24px;
   text-transform: uppercase;
   position: relative;
-  color: #434a54;
+  color: #0e99b6;
   display: inline-block;
 }
 .title-style-2.white {
@@ -3712,7 +3712,7 @@
 }
 .feature-item {
   vertical-align: middle;
-  border: 1px solid  #0e99b6;
+  border: 1px solid  #434a54;
   text-align: center;
   padding: 9.5px 0;
   margin: 0 15px;
