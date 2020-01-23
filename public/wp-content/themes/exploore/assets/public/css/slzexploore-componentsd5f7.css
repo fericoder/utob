@@ -2741,10 +2741,10 @@
   color: #ffdd00;
 }
 .news .news-list .slick-dots li.slick-active button {
-  border: 1px solid #ffdd00;
+  border: 1px solid #0e99b6;
 }
 .news .news-list .slick-dots li.slick-active button:before {
-  color: #ffdd00;
+  color: #0e99b6;
 }
 /*----------  Banner sale 1  ----------*/
 .banner-sale-1 {

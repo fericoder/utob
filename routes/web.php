@@ -39,6 +39,14 @@ Route::get('/treatment-view', function () {
     return view('treatment-view');
 });
 
+Route::get('/Hospitals', function () {
+    return view('Hospitals');
+});
+
+Route::get('/Hospital-view', function () {
+    return view('Hospital-view');
+});
+
 
 
 
@@ -87,4 +95,3 @@ Route::namespace('Dashboard')->prefix('dashboard')->middleware('auth')->group(fu
     Route::get('/dashboard/ckeditorUpload', 'PostController@ckeditorUpload');
 });
 Auth::routes();
-
