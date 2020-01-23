@@ -8,7 +8,7 @@
                     <div class="m-stack__item m-stack__item--middle m-brand__logo">
                         <a href="/dashboard/index"
                            class="m-brand__logo-wrapper">
-                            <img alt="" style="width: 70px!important;" src="{{ asset($settings->logo) }}"/>
+                            <img alt="" style="width: 70px!important;" src="/wp-content/uploads/2016/06/logo.png"/>
                         </a>
                     </div>
                     <div class="m-stack__item m-stack__item--middle m-brand__tools">
@@ -53,7 +53,7 @@
 
                 <div id="m_header_menu"
                      class="m-header-menu m-aside-header-menu-mobile m-aside-header-menu-mobile--offcanvas  m-header-menu--skin-light m-header-menu--submenu-skin-light m-aside-header-menu-mobile--skin-dark m-aside-header-menu-mobile--submenu-skin-dark ">
-                    <h5 style="margin: 25px;">اکو سیستم اسنپ کست</h5>
+                    <h5 style="margin: 25px;"> یوتاب مد</h5>
                 </div>
                 <!-- END: Horizontal Menu -->                                <!-- BEGIN: Topbar -->
                 <div id="m_header_topbar" class="m-topbar  m-stack m-stack--ver m-stack--general m-stack--fluid">

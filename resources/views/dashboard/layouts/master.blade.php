@@ -11,7 +11,7 @@ Contact: rahmani@rieco.ir
 <head>
     <meta charset="utf-8"/>
 
-    <title>{{ $settings->title }}</title>
+    <title>یوتاب مد - داشبورد مدیریت</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no">
 
     <!--begin::Web font -->
@@ -72,7 +72,7 @@ Contact: rahmani@rieco.ir
             <div class="m-subheader ">
                 <div class="d-flex align-items-center">
                     <div class="mr-auto">
-                        <h3 class="m-subheader__title m-subheader__title--separator">داشبورد اسنپ کست</h3>
+                        <h3 class="m-subheader__title m-subheader__title--separator">داشبورد یوتاب مد</h3>
                         <ul class="m-subheader__breadcrumbs m-nav m-nav--inline">
 
 
@@ -119,34 +119,10 @@ Contact: rahmani@rieco.ir
             <div class="m-stack m-stack--flex-tablet-and-mobile m-stack--ver m-stack--desktop">
                 <div class="m-stack__item m-stack__item--left m-stack__item--middle m-stack__item--last">
 				<span class="m-footer__copyright">
-					2018 &copy; تمامی حقوق محفوظ است.| طراحی شده در دپارتمان توسعه ریکو </a>
+					2020 &copy; تمامی حقوق محفوظ است.| طراحی شده در دپارتمان توسعه یوتاب </a>
 				</span>
                 </div>
-                <div class="m-stack__item m-stack__item--right m-stack__item--middle m-stack__item--first">
-                    <ul class="m-footer__nav m-nav m-nav--inline m--pull-right">
-                        <li class="m-nav__item">
-                            <a href="#" class="m-nav__link">
-                                <span class="m-nav__link-text">اسنپ کست</span>
-                            </a>
-                        </li>
-                        <li class="m-nav__item">
-                            <a href="#" class="m-nav__link">
-                                <span class="m-nav__link-text">شرکت گسترش اندیشه دارا</span>
-                            </a>
-                        </li>
-                        <li class="m-nav__item">
-                            <a href="#" class="m-nav__link">
-                                <span class="m-nav__link-text">دارا سیستم</span>
-                            </a>
-                        </li>
-                        <li class="m-nav__item">
-                            <a href="#" class="m-nav__link">
-                                <span class="m-nav__link-text">تماس باما</span>
-                            </a>
-                        </li>
 
-                    </ul>
-                </div>
             </div>
         </div>
     </footer>
