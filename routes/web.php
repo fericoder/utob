@@ -47,6 +47,10 @@ Route::get('/Hospital-view', function () {
     return view('Hospital-view');
 });
 
+Route::get('/Customer-Experience', function () {
+    return view('Customer-Experience');
+});
+
 
 
 
