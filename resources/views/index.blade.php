@@ -253,7 +253,7 @@
                                                      class="img-logo"></div>
                         <div class="group-title">
                             <h1 class="banner title">توریسم سلامت</h1>
-                            <h4 class="sub-banner text">شرکت ارکان گستر یوتاب مد</h4>
+                            <h4 class="sub-banner text">شرکت ارکان گستر یوتاب مد مد</h4>
                         </div>
                         <div class="group-btn">
                             <a href="#" data-hover="کلیک کنید" class="btn-click"><span
@@ -289,16 +289,7 @@
                                                                 <h2 class="main-title">با یک سفر ساده بیماری خود را
                                                                     درمان کنید</h2>
                                                             </div>
-                                                            <p>
-                                                                یوباب مد، پلت‌فرم گردشگری سلامت (مدیکال توریسم)، بستری
-                                                                برای جذب بیماران خارجی و معرفی آن‌ها به پزشکان و
-                                                                بیمارستان‌های با کیفیت ایرانی است. بیمارانی که به منظور
-                                                                دریافت خدمات پزشکی، درمانی و زیبایی به ایران سفر
-                                                                می‌کنند. یوتاب مد در کنار خدمات درمانی برای بیماران،
-                                                                خدمات اقامتی و گردشگری را نیز توسط تامین‌کنندگان فراهم
-                                                                آورده است.
-
-                                                            </p></div>
+                                                        </div>
                                                         <div class="vc_empty_space" style="height: 10px"><span
                                                                     class="vc_empty_space_inner"></span></div>
                                                         <div class="vc_row wpb_row vc_inner vc_row-fluid">
@@ -395,9 +386,9 @@
 
                                                             <figure class="wpb_wrapper vc_figure">
                                                                 <div class="vc_single_image-wrapper   vc_box_border_grey">
-                                                                    <img style="margin-top: 70px" width="600"
+                                                                    <img style="margin-top: 70px; Border-radius:25px;" width="600"
                                                                          height="367"
-                                                                         src="wp-content/uploads/2016/05/health.png"
+                                                                         src="wp-content/uploads/2016/07/amal2.jpeg"
                                                                          class="vc_single_image-img attachment-full"
                                                                          alt="about-us-1"
                                                                          sizes="(max-width: 450px) 100vw, 450px"/></div>
@@ -993,11 +984,11 @@
                                                                         <div class="video-wrapper padding-top padding-bottom">
                                                                             <div class="video-wrapper-title"><h5
                                                                                         class="sub-title"> چرا <strong>
-                                                                                        ایران </strong> و یوتاب مد؟</h5>
+                                                                                        ایران </strong> و یوتاب مد مد؟</h5>
                                                                                 <h2 class="title">مزایا درمان در
                                                                                     ایران</h2>
                                                                                 <div class="text">در این قسمت میتوانید
-                                                                                    مزایا استفاده از یوتاب مد را مشاهده
+                                                                                    مزایا استفاده از یوتاب مد مد را مشاهده
                                                                                     فرمایید. جهت کسب اطلاعات بیشتر
                                                                                     درباره درمان در ایران و مزایای آن
                                                                                     میتوانید مطالب بیشتری را مشاهده
@@ -1587,7 +1578,7 @@
 
                                                                 <div class="group-title">
                                                                     <div class="sub-title"><p class="text">از جدیدترین
-                                                                            اخبار یوتاب مد باخبر شوید</p><i
+                                                                            اخبار یوتاب مد مد باخبر شوید</p><i
                                                                                 class="icons flaticon-people"></i></div>
                                                                     <h2 class="main-title">مقالات</h2>
                                                                 </div>
@@ -1606,7 +1597,7 @@
                                                                                 <a href=""
                                                                                    class="title heading utob-byekan">150
                                                                                     بیمارستان در ایران به فهرست
-                                                                                    بیمارستان های یوتاب مد اظافه شد</a>
+                                                                                    بیمارستان های یوتاب مد مد اظافه شد</a>
 
                                                                                 <ul class="info list-inline list-unstyled">
                                                                                     <li><a href=""
@@ -1742,7 +1733,7 @@
                                                                         تخفیف</h2>
                                                                     <h2 class="title-overlay title-2">شگفت انگیز</h2>
                                                                     <h3 class="title-overlay title-3 padding-bottom">
-                                                                        یوتاب مد </h3>
+                                                                        یوتاب مد مد </h3>
                                                                 </div>
                                                             </div>
 
@@ -1766,10 +1757,8 @@
                                                                             درباره تخفیف توضیحات درباره تخفیف توضیحات
                                                                             درباره تخفیف توضیحات درباره تخفیف </p>
                                                                         <div class="group-button"><a href="#"
-                                                                                                     class="btn btn-maincolor btn-maincolor1-12960595115e1ec8d471431">Book
-                                                                                Now</a><a href="#"
-                                                                                          class="btn btn-maincolor btn-maincolor2-12960595115e1ec8d471431">Read
-                                                                                More</a></div>
+                                                                                                     class="btn btn-maincolor btn-maincolor1-12960595115e1ec8d471431">اکنون ثبت کنید</a><a href="#"
+                                                                                          class="btn btn-maincolor btn-maincolor2-12960595115e1ec8d471431" style="background-color:#ffffff!important; color:#3c3c3c;">بیشتر بخوانید</a></div>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -1787,13 +1776,13 @@
                                                         <div class="slz-shortcode block-title-20933987305e1ec8d472f4d ">
 
                                                             <div class="group-title">
-                                                                <div class="sub-title"><p class="text">یوتاب مد در جهان</p>
+                                                                <div class="sub-title"><p class="text">یوتاب مد مد در جهان</p>
                                                                     <i class="icons flaticon-people"></i>
                                                                 </div>
                                                                 <h2 class="main-title">پراکندگی جغرافیایی مشتریان</h2>
                                                             </div>
                                                             <p>
-                                                                مشتریان یوتاب مد از اقصی نقاط جهان جهت طی مراحل درمان به ایران سفر میکنند
+                                                                مشتریان یوتاب مد مد از اقصی نقاط جهان جهت طی مراحل درمان به ایران سفر میکنند
                                                             </p></div>
                                                         <div class="vc_empty_space" style="height: 5px"><span
                                                                     class="vc_empty_space_inner"></span></div>
@@ -1910,7 +1899,7 @@
                                                                                         <h5 class="title">باما در ارتباط
                                                                                             باشید</h5>
                                                                                         <p class="text">لحظاتی خوش در
-                                                                                            کنار یوتاب مد</p>
+                                                                                            کنار یوتاب مد مد</p>
                                                                                         <div role="form" class="wpcf7"
                                                                                              id="wpcf7-f46-p45-o1"
                                                                                              lang="en" dir="ltr">

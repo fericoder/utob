@@ -517,13 +517,13 @@
                 <ul id="menu-main-navigation" class="nav-links nav navbar-nav slzexploore-menu">
                     <li id="menu-item-548"
                         class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-45 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-548 active dropdown menu-item-depth1">
-                        <a class="main-menu" href=""><i class="fa  "></i>صفحه اصلی<span class="icons-dropdown"><i
+                        <a class="main-menu" href="/index"><i class="fa  "></i>صفحه اصلی<span class="icons-dropdown"><i
                                         class="fa fa-home"></i></span></a>
 
                     </li>
                     <li id="menu-item-555"
                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-555 dropdown menu-item-depth1">
-                        <a class="main-menu" href=""><i class="fa  "></i>بیماری ها<span class="icons-dropdown"><i
+                        <a class="main-menu" href="/treatments"><i class="fa  "></i>بیماری ها<span class="icons-dropdown"><i
                                         class="fa fa-stethoscope"></i></span></a>
 
                     </li>
@@ -535,40 +535,40 @@
                     </li>
                     <li id="menu-item-1342"
                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1342 dropdown menu-item-depth1">
-                        <a class="main-menu" href="#"><i class="fa  "></i>پزشکان<span class="icons-dropdown"><i
+                        <a class="main-menu" href=""><i class="fa  "></i>پزشکان<span class="icons-dropdown"><i
                                         class="fa fa-user-md "></i></span></a>
 
                     </li>
                     <li id="menu-item-562"
                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-562 dropdown menu-item-depth1">
-                        <a class="main-menu" href=""><i class="fa  "></i>بیمارستان ها<span
+                        <a class="main-menu" href="/Hospitals"><i class="fa  "></i>بیمارستان ها<span
                                     class="icons-dropdown"><i class="fa fa-hospital-o"></i></span></a>
 
                     </li>
                     <li id="menu-item-562"
                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-562 dropdown menu-item-depth1">
-                        <a class="main-menu" href=""><i class="fa  "></i>هتل ها<span
+                        <a class="main-menu" href="/hotels"><i class="fa  "></i>هتل ها<span
                                     class="icons-dropdown"><i class="fa fa-building-o"></i></span></a>
 
                     </li>
                     <li id="menu-item-536"
                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-536 dropdown menu-item-depth1">
-                        <a class="main-menu" href="#"><i class="fa  "></i>درباره ما<span
+                        <a class="main-menu" href="/about"><i class="fa  "></i>درباره ما<span
                                     class="label label-danger">شرکت یوتاب مد</span><span class="icons-dropdown"><i
                                         class="fa fa-angle-down"></i></span></a>
                         <ul class="dropdown-menu dropdown-menu-1 exploore-dropdown-menu-1">
                             <li id="menu-item-556"
                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-556"><a
-                                        class="link-page" href=""><i class="fa  "></i>تجربه مشتریان</a></li>
+                                        class="link-page" href="/customer-Experience"><i class="fa  "></i>تجربه مشتریان</a></li>
                             <li id="menu-item-556"
                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-556"><a
-                                        class="link-page" href=""><i class="fa  "></i>درباره ما</a></li>
+                                        class="link-page" href="/about"><i class="fa  "></i>درباره ما</a></li>
 
                         </ul>
                     </li>
                     <li id="menu-item-1239"
                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1239 mega-menu dropdown">
-                        <a class="main-menu" href="#"><span class="text"><i class="fa  "></i>تماس باما</span><span
+                        <a class="main-menu" href="/Contact"><span class="text"><i class="fa  "></i>تماس باما</span><span
                                     class="fa fa-phone icons-dropdown"></span></a>
 
                     </li>
@@ -623,23 +623,23 @@
                             <nav class="navigation">
                                 <ul id="menu-main-navigation-1" class="nav-links nav navbar-nav slzexploore-menu">
                                     <li class="{{ request()->is('/') ? 'active' : '' }} menu-item menu-item-type-post_type menu-item-object-page  page_item page-item-45  current_page_parent current_page_ancestor menu-item-has-children menu-item-548 dropdown menu-item-depth1">
-                                        <a class="main-menu" href="/"><i class="fa fa-home utob-font"></i>صفحه اصلی<span
+                                        <a class="main-menu" href="/index"><i class="fa fa-home utob-font"></i>صفحه اصلی<span
                                                     class="icons-dropdown"></span></a></li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-554 dropdown menu-item-depth1">
                                         <a class="main-menu" href=""><i class="fa  "></i><i
                                                     class="fa fa-medkit utob-font"></i>پکیج ها</a></li>
                                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-555 dropdown menu-item-depth1">
-                                                    <a class="main-menu" href=""><i class="fa  "></i><i
+                                                    <a class="main-menu" href="/treatments"><i class="fa  "></i><i
                                                     class="fa fa-stethoscope utob-font"></i>درمان ها</a></li>
                                     <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1342 dropdown menu-item-depth1">
                                         <a class="main-menu" href="#"><i class="fa  "></i><i
                                                     class="fa fa-user-md utob-font"></i>پزشکان</a></li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-562 dropdown menu-item-depth1">
-                                        <a class="main-menu" href=""><i
+                                        <a class="main-menu" href="/Hospitals"><i
                                                     class="fa  "></i><i class="fa fa-hospital-o utob-font"></i>بیمارستان
                                             ها</a></li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-562 dropdown menu-item-depth1">
-                                        <a class="main-menu" href=""><i
+                                        <a class="main-menu" href="/Customer-Experience"><i
                                                     class="fa  "></i><i class="fa fa-check-square-o
  utob-font"></i>تجربه مشتریان</a></li>
                                     <li class="{{ request()->is('*hotel*') ? 'active' : '' }} menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1239 mega-menu dropdown">
@@ -647,7 +647,7 @@
                                                 class="icons-dropdown"><i class="fa fa-angle-down"></i></span></a>
                                     <ul class="dropdown-menu dropdown-menu-1 exploore-dropdown-menu-1">
                                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-558">
-                                            <a class="link-page" href=""><i class="fa  "></i>تجربه مشتریان</a></li>
+                                            <a class="link-page" href="/Customer-Experience"><i class="fa  "></i>تجربه مشتریان</a></li>
                                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1640">
                                             <a class="link-page" href="/about"><i class="fa  "></i>درباره ما</a>
                                         </li>
@@ -659,12 +659,12 @@
 
 
                                     <li class=" {{ request()->is('*about*') ? 'active' : '' }} {{ request()->is('*contact*') ? 'active' : '' }}  menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-555 dropdown menu-item-depth1">
-                                        <a class="main-menu" href=""><i class="fa  "></i>درباره ما<span
+                                        <a class="main-menu" href="/about"><i class="fa  "></i>درباره ما<span
                                                     class="label label-danger">شرکت یوتاب مد</span><span
                                                     class="icons-dropdown"><i class="fa fa-angle-down"></i></span></a>
                                         <ul class="dropdown-menu dropdown-menu-1 exploore-dropdown-menu-1">
                                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-558">
-                                                <a class="link-page" href=""><i class="fa  "></i>تجربه مشتریان</a></li>
+                                                <a class="link-page" href="/Customer-Experience"><i class="fa  "></i>تجربه مشتریان</a></li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1640">
                                                 <a class="link-page" href="/about"><i class="fa  "></i>درباره ما</a>
                                             </li>

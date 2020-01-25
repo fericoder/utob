@@ -255,7 +255,7 @@
                             </ul>
                         </div><!-- /comment-form --></div>
                     <div class="slz-shortcode special-offer margin-top70">
-                        <h3 class="title-style-2">پیشنهادات یوتاب
+                        <h3 class="title-style-2">پیشنهادات یوتاب مد
                         </h3>
                         <div class="special-offer-list">
                             <div class="special-offer-layout post-185 slzexploore_hotel">
