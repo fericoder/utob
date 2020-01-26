@@ -559,7 +559,7 @@
                         <ul class="dropdown-menu dropdown-menu-1 exploore-dropdown-menu-1">
                             <li id="menu-item-556"
                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-556"><a
-                                        class="link-page" href="/customer-Experience"><i class="fa  "></i>تجربه مشتریان</a></li>
+                                        class="link-page" href="/customer-Experience"><i class="fa  "></i>هتل ها</a></li>
                             <li id="menu-item-556"
                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-556"><a
                                         class="link-page" href="/about"><i class="fa  "></i>درباره ما</a></li>
@@ -647,7 +647,7 @@
                                                 class="icons-dropdown"><i class="fa fa-angle-down"></i></span></a>
                                     <ul class="dropdown-menu dropdown-menu-1 exploore-dropdown-menu-1">
                                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-558">
-                                            <a class="link-page" href="/Customer-Experience"><i class="fa  "></i>تجربه مشتریان</a></li>
+                                            <a class="link-page" href="/Customer-Experience"><i class="fa  "></i>هتل ها</a></li>
                                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1640">
                                             <a class="link-page" href="/about"><i class="fa  "></i>درباره ما</a>
                                         </li>
@@ -664,7 +664,7 @@
                                                     class="icons-dropdown"><i class="fa fa-angle-down"></i></span></a>
                                         <ul class="dropdown-menu dropdown-menu-1 exploore-dropdown-menu-1">
                                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-558">
-                                                <a class="link-page" href="/Customer-Experience"><i class="fa  "></i>تجربه مشتریان</a></li>
+                                                <a class="link-page" href="/Customer-Experience"><i class="fa  "></i>هتل ها</a></li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1640">
                                                 <a class="link-page" href="/about"><i class="fa  "></i>درباره ما</a>
                                             </li>

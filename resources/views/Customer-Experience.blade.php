@@ -29,35 +29,35 @@
   <div class="col-lg-4">
 
     <div class="avatar">
-    <div class="image-wrapper">
-    <a href=""><img width="200" height="200" src="/wp-content/uploads/2016/05/moshtari.jpg" class="img img-responsive" alt="team-thumbnail"  sizes="(max-width: 200px) 100vw, 200px"></a>
-    </div>
+      <div class="image-wrapper">
+      <a href="/treatment-view"><img width="200" height="200" src="/wp-content/uploads/2016/05/moshtari.jpg" class="img img-responsive" alt="team-thumbnail"  sizes="(max-width: 200px) 100vw, 200px"></a>
+      </div>
     <div class="content-wrapper">
-    <p class="name"><a href="" class="title">هدی جمال</a></p>
-    <p class="position">Commercial Director</p>
+    <p class="name"><a href="/treatment-view" class="title">هدی جمال</a></p>
+    <p class="position">عمل بینی/ عمان</p>
     </div>
     </div>
 </div>
 
   <div class="col-lg-4">
           <div class="avatar">
-          <div class="image-wrapper">
-          <a href="http://wp.swlabs.co/exploore/teams/peter-wilson/"><img width="200" height="200" src="http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-200x200.jpg" class="img img-responsive" alt="team-thumbnail" srcset="http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-200x200.jpg 200w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-150x150.jpg 150w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-180x180.jpg 180w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-100x100.jpg 100w" sizes="(max-width: 200px) 100vw, 200px"></a>
-          </div>
+            <div class="image-wrapper">
+            <a href="/treatment-view"><img width="200" height="200" src="/wp-content/uploads/2016/05/moshtari.jpg" class="img img-responsive" alt="team-thumbnail"  sizes="(max-width: 200px) 100vw, 200px"></a>
+            </div>
           <div class="content-wrapper">
-          <p class="name"><a href="http://wp.swlabs.co/exploore/teams/peter-wilson/" class="title">هدی جمال</a></p>
-          <p class="position">Commercial Director</p>
+          <p class="name"><a href="/treatment-view" class="title">هدی جمال</a></p>
+          <p class="position">عمل بینی/ عمان</p>
           </div>
           </div>
   </div>
   <div class="col-lg-4">
           <div class="avatar">
-          <div class="image-wrapper">
-          <a href="http://wp.swlabs.co/exploore/teams/peter-wilson/"><img width="200" height="200" src="http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-200x200.jpg" class="img img-responsive" alt="team-thumbnail" srcset="http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-200x200.jpg 200w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-150x150.jpg 150w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-180x180.jpg 180w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-100x100.jpg 100w" sizes="(max-width: 200px) 100vw, 200px"></a>
-          </div>
+            <div class="image-wrapper">
+            <a href="/treatment-view"><img width="200" height="200" src="/wp-content/uploads/2016/05/moshtari.jpg" class="img img-responsive" alt="team-thumbnail"  sizes="(max-width: 200px) 100vw, 200px"></a>
+            </div>
           <div class="content-wrapper">
-          <p class="name"><a href="http://wp.swlabs.co/exploore/teams/peter-wilson/" class="title">هدی جمال</a></p>
-          <p class="position">Commercial Director</p>
+          <p class="name"><a href="/treatment-view" class="title">هدی جمال</a></p>
+          <p class="position">عمل بینی/ عمان</p>
           </div>
           </div>
   </div>
@@ -74,35 +74,35 @@
             <div class="col-lg-4">
 
               <div class="avatar">
-              <div class="image-wrapper">
-              <a href="http://wp.swlabs.co/exploore/teams/peter-wilson/"><img width="200" height="200" src="http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-200x200.jpg" class="img img-responsive" alt="team-thumbnail" srcset="http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-200x200.jpg 200w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-150x150.jpg 150w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-180x180.jpg 180w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-100x100.jpg 100w" sizes="(max-width: 200px) 100vw, 200px"></a>
-              </div>
+                <div class="image-wrapper">
+                <a href="/treatment-view"><img width="200" height="200" src="/wp-content/uploads/2016/05/moshtari.jpg" class="img img-responsive" alt="team-thumbnail"  sizes="(max-width: 200px) 100vw, 200px"></a>
+                </div>
               <div class="content-wrapper">
-              <p class="name"><a href="http://wp.swlabs.co/exploore/teams/peter-wilson/" class="title">هدی جمال</a></p>
-              <p class="position">Commercial Director</p>
+              <p class="name"><a href="/treatment-view" class="title">هدی جمال</a></p>
+              <p class="position">عمل بینی/ عمان</p>
               </div>
               </div>
           </div>
 
             <div class="col-lg-4">
                     <div class="avatar">
-                    <div class="image-wrapper">
-                    <a href="http://wp.swlabs.co/exploore/teams/peter-wilson/"><img width="200" height="200" src="http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-200x200.jpg" class="img img-responsive" alt="team-thumbnail" srcset="http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-200x200.jpg 200w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-150x150.jpg 150w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-180x180.jpg 180w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-100x100.jpg 100w" sizes="(max-width: 200px) 100vw, 200px"></a>
-                    </div>
+                      <div class="image-wrapper">
+                      <a href="/treatment-view"><img width="200" height="200" src="/wp-content/uploads/2016/05/moshtari.jpg" class="img img-responsive" alt="team-thumbnail"  sizes="(max-width: 200px) 100vw, 200px"></a>
+                      </div>
                     <div class="content-wrapper">
-                    <p class="name"><a href="http://wp.swlabs.co/exploore/teams/peter-wilson/" class="title">هدی جمال</a></p>
-                    <p class="position">Commercial Director</p>
+                    <p class="name"><a href="/treatment-view" class="title">هدی جمال</a></p>
+                    <p class="position">عمل بینی/ عمان</p>
                     </div>
                     </div>
             </div>
             <div class="col-lg-4">
                     <div class="avatar">
-                    <div class="image-wrapper">
-                    <a href="http://wp.swlabs.co/exploore/teams/peter-wilson/"><img width="200" height="200" src="http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-200x200.jpg" class="img img-responsive" alt="team-thumbnail" srcset="http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-200x200.jpg 200w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-150x150.jpg 150w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-180x180.jpg 180w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-100x100.jpg 100w" sizes="(max-width: 200px) 100vw, 200px"></a>
-                    </div>
+                      <div class="image-wrapper">
+                      <a href="/treatment-view"><img width="200" height="200" src="/wp-content/uploads/2016/05/moshtari.jpg" class="img img-responsive" alt="team-thumbnail"  sizes="(max-width: 200px) 100vw, 200px"></a>
+                      </div>
                     <div class="content-wrapper">
-                    <p class="name"><a href="http://wp.swlabs.co/exploore/teams/peter-wilson/" class="title">هدی جمال</a></p>
-                    <p class="position">Commercial Director</p>
+                    <p class="name"><a href="/treatment-view" class="title">هدی جمال</a></p>
+                    <p class="position">عمل بینی/ عمان</p>
                     </div>
                     </div>
             </div>
@@ -119,35 +119,34 @@
                       <div class="col-lg-4">
 
                         <div class="avatar">
-                        <div class="image-wrapper">
-                        <a href="http://wp.swlabs.co/exploore/teams/peter-wilson/"><img width="200" height="200" src="http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-200x200.jpg" class="img img-responsive" alt="team-thumbnail" srcset="http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-200x200.jpg 200w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-150x150.jpg 150w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-180x180.jpg 180w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-100x100.jpg 100w" sizes="(max-width: 200px) 100vw, 200px"></a>
-                        </div>
+                          <div class="image-wrapper">
+                          <a href="/treatment-view"><img width="200" height="200" src="/wp-content/uploads/2016/05/moshtari.jpg" class="img img-responsive" alt="team-thumbnail"  sizes="(max-width: 200px) 100vw, 200px"></a>
+                          </div>
                         <div class="content-wrapper">
-                        <p class="name"><a href="http://wp.swlabs.co/exploore/teams/peter-wilson/" class="title">هدی جمال</a></p>
-                        <p class="position">Commercial Director</p>
+                        <p class="name"><a href="/treatment-view" class="title">هدی جمال</a></p>
+                        <p class="position">عمل بینی/ عمان</p>
                         </div>
                         </div>
                     </div>
 
                       <div class="col-lg-4">
                               <div class="avatar">
-                              <div class="image-wrapper">
-                              <a href="http://wp.swlabs.co/exploore/teams/peter-wilson/"><img width="200" height="200" src="http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-200x200.jpg" class="img img-responsive" alt="team-thumbnail" srcset="http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-200x200.jpg 200w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-150x150.jpg 150w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-180x180.jpg 180w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-100x100.jpg 100w" sizes="(max-width: 200px) 100vw, 200px"></a>
+                                <div class="image-wrapper">
+                                <a href="/treatment-view"><img width="200" height="200" src="/wp-content/uploads/2016/05/moshtari.jpg" class="img img-responsive" alt="team-thumbnail"  sizes="(max-width: 200px) 100vw, 200px"></a>
+                                </div>
+                              <p class="name"><a href="/treatment-view" class="title">هدی جمال</a></p>
+                              <p class="position">عمل بینی/ عمان</p>
                               </div>
-                              <div class="content-wrapper">
-                              <p class="name"><a href="http://wp.swlabs.co/exploore/teams/peter-wilson/" class="title">هدی جمال</a></p>
-                              <p class="position">Commercial Director</p>
                               </div>
-                              </div>
-                      </div>
+
                       <div class="col-lg-4">
                               <div class="avatar">
-                              <div class="image-wrapper">
-                              <a href="http://wp.swlabs.co/exploore/teams/peter-wilson/"><img width="200" height="200" src="http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-200x200.jpg" class="img img-responsive" alt="team-thumbnail" srcset="http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-200x200.jpg 200w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-150x150.jpg 150w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-180x180.jpg 180w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-100x100.jpg 100w" sizes="(max-width: 200px) 100vw, 200px"></a>
-                              </div>
+                                <div class="image-wrapper">
+                                <a href="/treatment-view"><img width="200" height="200" src="/wp-content/uploads/2016/05/moshtari.jpg" class="img img-responsive" alt="team-thumbnail"  sizes="(max-width: 200px) 100vw, 200px"></a>
+                                </div>
                               <div class="content-wrapper">
-                              <p class="name"><a href="http://wp.swlabs.co/exploore/teams/peter-wilson/" class="title">هدی جمال</a></p>
-                              <p class="position">Commercial Director</p>
+                              <p class="name"><a href="/treatment-view" class="title">هدی جمال</a></p>
+                              <p class="position">عمل بینی/ عمان</p>
                               </div>
                               </div>
                       </div>
@@ -165,35 +164,35 @@
                                 <div class="col-lg-4">
 
                                   <div class="avatar">
-                                  <div class="image-wrapper">
-                                  <a href="http://wp.swlabs.co/exploore/teams/peter-wilson/"><img width="200" height="200" src="http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-200x200.jpg" class="img img-responsive" alt="team-thumbnail" srcset="http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-200x200.jpg 200w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-150x150.jpg 150w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-180x180.jpg 180w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-100x100.jpg 100w" sizes="(max-width: 200px) 100vw, 200px"></a>
-                                  </div>
+                                    <div class="image-wrapper">
+                                    <a href="/treatment-view"><img width="200" height="200" src="/wp-content/uploads/2016/05/moshtari.jpg" class="img img-responsive" alt="team-thumbnail"  sizes="(max-width: 200px) 100vw, 200px"></a>
+                                    </div>
                                   <div class="content-wrapper">
-                                  <p class="name"><a href="http://wp.swlabs.co/exploore/teams/peter-wilson/" class="title">هدی جمال</a></p>
-                                  <p class="position">Commercial Director</p>
+                                  <p class="name"><a href="/treatment-view" class="title">هدی جمال</a></p>
+                                  <p class="position">عمل بینی/ عمان</p>
                                   </div>
                                   </div>
                               </div>
 
                                 <div class="col-lg-4">
                                         <div class="avatar">
-                                        <div class="image-wrapper">
-                                        <a href="http://wp.swlabs.co/exploore/teams/peter-wilson/"><img width="200" height="200" src="http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-200x200.jpg" class="img img-responsive" alt="team-thumbnail" srcset="http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-200x200.jpg 200w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-150x150.jpg 150w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-180x180.jpg 180w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-100x100.jpg 100w" sizes="(max-width: 200px) 100vw, 200px"></a>
-                                        </div>
+                                          <div class="image-wrapper">
+                                          <a href="/treatment-view"><img width="200" height="200" src="/wp-content/uploads/2016/05/moshtari.jpg" class="img img-responsive" alt="team-thumbnail"  sizes="(max-width: 200px) 100vw, 200px"></a>
+                                          </div>
                                         <div class="content-wrapper">
-                                        <p class="name"><a href="http://wp.swlabs.co/exploore/teams/peter-wilson/" class="title">هدی جمال</a></p>
-                                        <p class="position">Commercial Director</p>
+                                        <p class="name"><a href="/treatment-view" class="title">هدی جمال</a></p>
+                                        <p class="position">عمل بینی/ عمان</p>
                                         </div>
                                         </div>
                                 </div>
                                 <div class="col-lg-4">
                                         <div class="avatar">
-                                        <div class="image-wrapper">
-                                        <a href="http://wp.swlabs.co/exploore/teams/peter-wilson/"><img width="200" height="200" src="http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-200x200.jpg" class="img img-responsive" alt="team-thumbnail" srcset="http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-200x200.jpg 200w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-150x150.jpg 150w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-180x180.jpg 180w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/team-thumbnail-100x100.jpg 100w" sizes="(max-width: 200px) 100vw, 200px"></a>
-                                        </div>
+                                          <div class="image-wrapper">
+                                          <a href="/treatment-view"><img width="200" height="200" src="/wp-content/uploads/2016/05/moshtari.jpg" class="img img-responsive" alt="team-thumbnail"  sizes="(max-width: 200px) 100vw, 200px"></a>
+                                          </div>
                                         <div class="content-wrapper">
-                                        <p class="name"><a href="http://wp.swlabs.co/exploore/teams/peter-wilson/" class="title">هدی جمال</a></p>
-                                        <p class="position">Commercial Director</p>
+                                        <p class="name"><a href="/treatment-view" class="title">هدی جمال</a></p>
+                                        <p class="position">عمل بینی/ عمان</p>
                                         </div>
                                         </div>
                                 </div>
