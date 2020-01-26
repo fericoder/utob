@@ -45,7 +45,7 @@
                                         برای جذب بیماران خارجی و معرفی آن‌ها به پزشکان و
                                         بیمارستان‌های با کیفیت ایرانی است. بیمارانی که به منظور
                                         دریافت خدمات پزشکی، درمانی و زیبایی به ایران سفر
-                                        می‌کنند. یوتاب مد در کنار خدمات درمانی برای بیماران،
+                                        می‌کنند. یوتاب مد مد در کنار خدمات درمانی برای بیماران،
                                         خدمات اقامتی و گردشگری را نیز توسط تامین‌کنندگان فراهم
                                         آورده است.
 
@@ -89,66 +89,28 @@
                                                          data-item=6>
                                                         <div class="item feature-item"><i
                                                                     class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text">افزایش حجم / پروتز</div>
+                                                            <div class="text"><a href="/treatment-view">افزایش حجم / پروتز</a></div>
                                                         </div>
                                                         <div class="item feature-item"><i
                                                                     class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text">جراحی بینی</div>
+                                                            <div class="text"><a href="/treatment-view">جراحی بینی</a></div>
                                                         </div>
                                                         <div class="item feature-item"><i
                                                                     class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text">جراحی زیبایی پلک</div>
+                                                            <div class="text"><a href="/treatment-view">جراحی زیبایی پلک</a></div>
                                                         </div>
                                                         <div class="item feature-item"><i
                                                                     class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text"> لیپوساکشن</div>
+                                                            <div class="text"><a href="/treatment-view"> لیپوساکشن</a></div>
                                                         </div>
                                                         <div class="item feature-item"><i
                                                                     class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text"> ابدومینوپلاستی
-                                                            </div>
+                                                            <div class="text"><a href="/treatment-view"> ابدومینوپلاستی
+                                                            </a></div>
                                                         </div>
                                                         <div class="item feature-item"><i
                                                                     class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text">جراحی زیبایی‌ گوش</div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="entry-content">
-                                    <div class="vc_row wpb_row vc_row-fluid">
-                                        <div class="wpb_column vc_column_container vc_col-sm-12">
-                                            <div class="vc_column-inner ">
-                                                <div class="wpb_wrapper">
-                                                    <div class="slz-shortcode item-list-style06 item-list-20322406125e273ad44b5af wrapper-journey "
-                                                         data-item=6>
-                                                        <div class="item feature-item"><i
-                                                                    class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text">تزریق ژل و چربی</div>
-                                                        </div>
-                                                        <div class="item feature-item"><i
-                                                                    class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text">برجسته‌سازی گونه</div>
-                                                        </div>
-                                                        <div class="item feature-item"><i
-                                                                    class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text">جراحی پلکی</div>
-                                                        </div>
-                                                        <div class="item feature-item"><i
-                                                                    class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text"> بوتاکس</div>
-                                                        </div>
-                                                        <div class="item feature-item"><i
-                                                                    class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text"> کشیدن صورت
-                                                            </div>
-                                                        </div>
-                                                        <div class="item feature-item"><i
-                                                                    class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text">جراحی فک</div>
+                                                            <div class="text"><a href="/treatment-view">جراحی زیبایی‌ گوش</a></div>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -165,28 +127,66 @@
                                                          data-item=6>
                                                         <div class="item feature-item"><i
                                                                     class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text">جراحی قلب</div>
+                                                            <div class="text"><a href="/treatment-view">تزریق ژل و چربی</a></div>
                                                         </div>
                                                         <div class="item feature-item"><i
                                                                     class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text"> آنژیوگرافی </div>
+                                                            <div class="text"><a href="/treatment-view">برجسته‌سازی گونه</a></div>
                                                         </div>
                                                         <div class="item feature-item"><i
                                                                     class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text">جراحی دندان و لثه</div>
+                                                            <div class="text"><a href="/treatment-view">جراحی پلکی</a></div>
                                                         </div>
                                                         <div class="item feature-item"><i
                                                                     class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text">جراحی مغز و اعصاب</div>
+                                                            <div class="text"><a href="/treatment-view"> بوتاکس</a></div>
                                                         </div>
                                                         <div class="item feature-item"><i
                                                                     class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text">جراحی پلاستیک
-                                                            </div>
+                                                            <div class="text"><a href="/treatment-view"> کشیدن صورت
+                                                          </a>  </div>
                                                         </div>
                                                         <div class="item feature-item"><i
                                                                     class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text">جراحی اتوپدی</div>
+                                                            <div class="text"><a href="/treatment-view">جراحی فک</a></div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="entry-content">
+                                    <div class="vc_row wpb_row vc_row-fluid">
+                                        <div class="wpb_column vc_column_container vc_col-sm-12">
+                                            <div class="vc_column-inner ">
+                                                <div class="wpb_wrapper">
+                                                    <div class="slz-shortcode item-list-style06 item-list-20322406125e273ad44b5af wrapper-journey "
+                                                         data-item=6>
+                                                        <div class="item feature-item"><i
+                                                                    class="fa fa-stethoscope utob-fa"></i>
+                                                            <div class="text"><a href="/treatment-view">جراحی قلب</a></div>
+                                                        </div>
+                                                        <div class="item feature-item"><i
+                                                                    class="fa fa-stethoscope utob-fa"></i>
+                                                            <div class="text"><a href="/treatment-view"> آنژیوگرافی </a></div>
+                                                        </div>
+                                                        <div class="item feature-item"><i
+                                                                    class="fa fa-stethoscope utob-fa"></i>
+                                                            <div class="text"><a href="/treatment-view">جراحی دندان و لثه</a></div>
+                                                        </div>
+                                                        <div class="item feature-item"><i
+                                                                    class="fa fa-stethoscope utob-fa"></i>
+                                                            <div class="text"><a href="/treatment-view">جراحی مغز و اعصاب</a></div>
+                                                        </div>
+                                                        <div class="item feature-item"><i
+                                                                    class="fa fa-stethoscope utob-fa"></i>
+                                                            <div class="text"><a href="/treatment-view">جراحی پلاستیک
+                                                        </a>    </div>
+                                                        </div>
+                                                        <div class="item feature-item"><i
+                                                                    class="fa fa-stethoscope utob-fa"></i>
+                                                            <div class="text"><a href="/treatment-view">جراحی اتوپدی</a></div>
                                                         </div>
                                                     </div>
                                                  </div>

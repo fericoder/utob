@@ -36,7 +36,7 @@
                                                 <div class="vc_column-inner ">
                                                     <div class="wpb_wrapper">
                                                         <div class="slz-shortcode block-title-10253275145e1e7affb5174 ">
-                                                            <h3 class="title-style-2">دفاتر یوتاب</h3></div>
+                                                            <h3 class="title-style-2">نمایندگی های یوتاب مد</h3></div>
                                                         <div class="slz-shortcode row ">
                                                             <div class="wrapper-organization teamlist-1463878591">
                                                                 <div class="row-3">
@@ -171,7 +171,7 @@
                                                                                 <h5 class="title">باما در ارتباط
                                                                                     باشید</h5>
                                                                                 <p class="text">لحظاتی خوش در کنار
-                                                                                    یوتاب</p>
+                                                                                    یوتاب مد</p>
                                                                                 <div role="form" class="wpcf7"
                                                                                      id="wpcf7-f46-p45-o1" lang="en"
                                                                                      dir="ltr">

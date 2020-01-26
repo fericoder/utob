@@ -43,8 +43,8 @@ Route::get('/Hospitals', function () {
     return view('Hospitals');
 });
 
-Route::get('/Hospital-view', function () {
-    return view('Hospital-view');
+Route::get('/hospital-view', function () {
+    return view('hospital-view');
 });
 
 Route::get('/Customer-Experience', function () {

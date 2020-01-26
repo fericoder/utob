@@ -29,8 +29,8 @@
           <div class="vc_row wpb_row vc_row-fluid vc_custom_1462955928964"><div class="slz_col-sm-12 wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner vc_custom_1463129635373"><div class="wpb_wrapper"><div class="slz-shortcode block-title-17606704565e2bd8c2de42f ">
           <div class="group-title">
           <div class="sub-title"><p class="text">تجربه مشتریان</p><i class="icons flaticon-people"></i>
-          </div><h2 class="main-title">درمان لذت بخش با یوتاب مد</h2>
-        </div><p>هرساله تعداد زیادی برای درمان بیماری های خاص و جراحی های زیبایی به ایران سفر می کنند که افراد زیادی به کمک یوتاب مد درمان راحت تری را تجربه می کنند، در این بخش با تعدادی از مشتریان ما آشنا میشوید و نحوه عملکرد یوتاب مد را مورد بررسی قرار می دهیم.</p></div>
+          </div><h2 class="main-title">درمان لذت بخش با یوتاب مد مد</h2>
+        </div><p>هرساله تعداد زیادی برای درمان بیماری های خاص و جراحی های زیبایی به ایران سفر می کنند که افراد زیادی به کمک یوتاب مد مد درمان راحت تری را تجربه می کنند، در این بخش با تعدادی از مشتریان ما آشنا میشوید و نحوه عملکرد یوتاب مد مد را مورد بررسی قرار می دهیم.</p></div>
           <div class="vc_empty_space" style="height: 35px"><span class="vc_empty_space_inner"></span></div>
           <div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="slz-shortcode icon-box-16145814275e2bd8c2dfc7f "><div class="media box-media">
           <div class="media-left">
@@ -113,7 +113,7 @@
 
   <div class="container">
   <div class="col-md-12 blog-post post-249 post type-post status-publish format-video has-post-thumbnail hentry category-adventure category-discover category-explore tag-adventure tag-explore tag-traveler post_format-post-format-video">
-  <div class="blog-video"><div class="video-thumbnail"><div class="video-bg"><a href="http://wp.swlabs.co/exploore/travel-explore-the-world-with-a-backpack/" class="link"><img width="750" height="350" src="http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/maxresdefault-750x350.jpg" class="img-responsive" alt="249"></a></div><div class="video-button-play"><i class="icons fa fa-play"></i></div><div class="video-button-close"></div></div></div>
+  <div class="blog-video"><div class="video-thumbnail"><div class="video-bg"><a href="http://wp.swlabs.co/exploore/travel-explore-the-world-with-a-backpack/" class="link"><img width="750" height="350" src="/wp-content/uploads/2016/05/moshtari4.jpg" class="img-responsive" alt="249" style="margin-top:130px;"></a></div><div class="video-button-close"></div></div></div>
   <div class="blog-content">
   <div class="col-xs-2">
   <div class="row"><div class="date"><h1 class="day utob-byekan">21</h1><div class="month">خرداد</div><div class="year utob-byekan">1396</div></div></div>

@@ -34,7 +34,7 @@
                     <div class="journey-block">
                         <div class="row">
                             <div id="page-content" class="col-md-12 col-xs-12">
-                                <h3 class="title-style-2">امکانات هتل</h3>
+                                <h3 class="title-style-2">امکانات بیمارستان</h3>
                                 <div class="tours-layout">
                                     <div class="content-wrapper">
                                         <ul class="list-info list-inline list-unstyle">
@@ -74,23 +74,23 @@
                                                          data-item=6>
                                                         <div class="item feature-item"><i
                                                                     class="icon-journey flaticon-people-3"></i>
-                                                            <div class="text">تناسب اندام</div>
+                                                            <div class="text">پذیرفتن همراه</div>
                                                         </div>
                                                         <div class="item feature-item"><i
                                                                     class="icon-journey flaticon-cup"></i>
-                                                            <div class="text">کافی شاپ</div>
+                                                            <div class="text">لباس بیمارستان</div>
                                                         </div>
                                                         <div class="item feature-item"><i
                                                                     class="icon-journey flaticon-food-2"></i>
-                                                            <div class="text">رستوران</div>
+                                                            <div class="text">وعده غذایی</div>
                                                         </div>
                                                         <div class="item feature-item"><i
                                                                     class="icon-journey flaticon-people-5"></i>
-                                                            <div class="text">مراقبت کودک</div>
+                                                            <div class="text">حضور متخصص</div>
                                                         </div>
                                                         <div class="item feature-item"><i
                                                                     class="icon-journey flaticon-interface"></i>
-                                                            <div class="text">اتاق خدمت
+                                                            <div class="text">ویزیت
                                                             </div>
                                                         </div>
                                                         <div class="item feature-item"><i
@@ -106,12 +106,12 @@
                             </div>
                         </div>
                         <div class="overview-block clearfix slz-shortcode sc-block-13351890685e273ad44c072 ">
-                            <h3 class="title-style-3">نمای کلی هتل</h3>
+                            <h3 class="title-style-3">نمای کلی بیمارستان</h3>
                             <div class="timeline-container">
                                 <div class="timeline timeline-hotel-view">
 
                                     <div class="timeline-block">
-                                        <div class="timeline-title"><span>Luxury Room</span></div>
+                                        <div class="timeline-title"><span>بخش بستری</span></div>
                                         <div class="timeline-point">
                                             <i class="fa fa-circle-o"></i>
                                         </div>
@@ -121,17 +121,17 @@
                                                     <div class="image-hotel-view-block">
                                                         <div class="slider-for">
                                                             <div class="item"><img width="600" height="270"
-                                                                                   src="/wp-content/uploads/2018/10/1.jpeg"
+                                                                                   src="/wp-content/uploads/2018/10/7.jpg"
                                                                                    class="" alt="img-2"
                                                                                    />
                                                             </div>
                                                             <div class="item"><img width="600" height="270"
-                                                                                   src="/wp-content/uploads/2018/10/2.jpeg"
+                                                                                   src="/wp-content/uploads/2018/10/2.jpg"
                                                                                    class=""
                                                                                    alt="wall-interior-design-ideas-12"/>
                                                             </div>
                                                             <div class="item"><img width="600" height="270"
-                                                                                   src="/wp-content/uploads/2018/10/3.jpeg"
+                                                                                   src="/wp-content/uploads/2018/10/3.jpg"
                                                                                    class=""
                                                                                    alt="elderly-person-home-3"/></div>
 
@@ -139,34 +139,34 @@
                                                         </div>
                                                         <div class="slider-nav">
                                                             <div class="item"><img width="116" height="63"
-                                                                                   src="/wp-content/uploads/2018/10/1.jpeg"
+                                                                                   src="/wp-content/uploads/2018/10/9.jpg"
                                                                                    class="" alt="img-2"/></div>
                                                             <div class="item"><img width="116" height="63"
-                                                                                   src="/wp-content/uploads/2018/10/1.jpeg"
+                                                                                   src="/wp-content/uploads/2018/10/5.jpg"
                                                                                    class=""
                                                                                    alt="wall-interior-design-ideas-12"/>
                                                             </div>
                                                             <div class="item"><img width="116" height="63"
-                                                                                   src="/wp-content/uploads/2018/10/1.jpeg"
+                                                                                   src="/wp-content/uploads/2018/10/6.jpg"
                                                                                    class=""
                                                                                    alt="elderly-person-home-3"/></div>
                                                             <div class="item"><img width="116" height="63"
-                                                                                   src="/wp-content/uploads/2018/10/1.jpeg"
+                                                                                   src="/wp-content/uploads/2018/10/7.jpg"
                                                                                    class=""
                                                                                    alt="Classic-With-A-Twist10"/></div>
                                                             <div class="item"><img width="116" height="63"
-                                                                                   src="/wp-content/uploads/2018/10/1.jpeg"
+                                                                                   src="/wp-content/uploads/2018/10/6.jpg"
                                                                                    class="" alt="1401766004"/></div>
                                                             <div class="item"><img width="116" height="63"
-                                                                                   src="/wp-content/uploads/2018/10/1.jpeg"
+                                                                                   src="/wp-content/uploads/2018/10/9.jpg"
                                                                                    class=""
                                                                                    alt="141ee95937e2a3229f6830c5dd0ec2ad"/>
                                                             </div>
                                                             <div class="item"><img width="116" height="63"
-                                                                                   src="/wp-content/uploads/2018/10/1.jpeg"
+                                                                                   src="/wp-content/uploads/2018/10/1.jpg"
                                                                                    class="" alt="img-2"/></div>
                                                             <div class="item"><img width="116" height="63"
-                                                                                   src="/wp-content/uploads/2018/10/1.jpeg"
+                                                                                   src="/wp-content/uploads/2018/10/2.jpg"
                                                                                    class="" alt="img-1"/></div>
                                                         </div>
                                                     </div>
@@ -255,7 +255,7 @@
                             </ul>
                         </div><!-- /comment-form --></div>
                     <div class="slz-shortcode special-offer margin-top70">
-                        <h3 class="title-style-2">پیشنهادات یوتاب
+                        <h3 class="title-style-2">دیگر بیمارستان ها
                         </h3>
                         <div class="special-offer-list">
                             <div class="special-offer-layout post-185 slzexploore_hotel">
@@ -263,13 +263,13 @@
                                     <a class="link"
                                        href=""><img width="342"
                                                                                                              height="257"
-                                                                                                             src="wp-content/uploads/2016/05/es.jpg"
+                                                                                                             src="wp-content/uploads/2016/05/kosar.jpg"
                                                                                                              class="img-responsive"
                                                                                                              alt="316_langham_modern_Exterior"
                                                                                                              /></a>
                                     <div class="title-wrapper"><a
                                                 href=""
-                                                class="title">هتل استقلال</a><i class="icons flaticon-circle"></i>
+                                                class="title">بیمارستان کوثر</a><i class="icons flaticon-circle"></i>
                                     </div>
                                 </div>
                             </div>
@@ -278,13 +278,13 @@
                                     <a class="link"
                                        href=""><img width="342"
                                                     height="257"
-                                                    src="wp-content/uploads/2016/05/es.jpg"
+                                                    src="wp-content/uploads/2016/05/kosar.jpg"
                                                     class="img-responsive"
                                                     alt="316_langham_modern_Exterior"
                                         /></a>
                                     <div class="title-wrapper"><a
                                                 href=""
-                                                class="title">هتل استقلال</a><i class="icons flaticon-circle"></i>
+                                                class="title">بیمارستان کوثر</a><i class="icons flaticon-circle"></i>
                                     </div>
                                 </div>
                             </div>
@@ -293,13 +293,13 @@
                                     <a class="link"
                                        href=""><img width="342"
                                                     height="257"
-                                                    src="wp-content/uploads/2016/05/es.jpg"
+                                                    src="wp-content/uploads/2016/05/kosar.jpg"
                                                     class="img-responsive"
                                                     alt="316_langham_modern_Exterior"
                                         /></a>
                                     <div class="title-wrapper"><a
                                                 href=""
-                                                class="title">هتل استقلال</a><i class="icons flaticon-circle"></i>
+                                                class="title">بیمارستان کوثر</a><i class="icons flaticon-circle"></i>
                                     </div>
                                 </div>
                             </div>
@@ -308,13 +308,13 @@
                                     <a class="link"
                                        href=""><img width="342"
                                                     height="257"
-                                                    src="wp-content/uploads/2016/05/es.jpg"
+                                                    src="wp-content/uploads/2016/05/kosar.jpg"
                                                     class="img-responsive"
                                                     alt="316_langham_modern_Exterior"
                                         /></a>
                                     <div class="title-wrapper"><a
                                                 href=""
-                                                class="title">هتل استقلال</a><i class="icons flaticon-circle"></i></div>
+                                                class="title">بیمارستان کوثر</a><i class="icons flaticon-circle"></i></div>
                                 </div>
                             </div>
                         </div>
