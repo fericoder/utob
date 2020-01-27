@@ -252,7 +252,7 @@
                                                      class="img-logo"></div>
                         <div class="group-title">
                             <h1 class="banner title">توریسم سلامت</h1>
-                            <h4 class="sub-banner text">شرکت ارکان گستر یوتاب مد مد</h4>
+                            <h4 class="sub-banner text">شرکت ارکان گستر یوتاب مد</h4>
                         </div>
                         <div class="group-btn">
                             <a href="#" data-hover="کلیک کنید" class="btn-click"><span
@@ -373,9 +373,9 @@
                                                         </div>
                                                         <div class="vc_empty_space" style="height: 35px"><span
                                                                     class="vc_empty_space_inner"></span></div>
-                                                        <a href=""
+                                                        <a href="/treatments"
                                                            class="slz-shortcode btn btn-maincolor btn-maincolor-15450137705e1ec8d10dfcd mrm mbm">مشاهده
-                                                            تمامی بیماری ها</a></div>
+                                                            تمامی درمان ها</a></div>
                                                 </div>
                                             </div>
                                             <div class="slz_col-sm-12 wpb_column vc_column_container vc_col-sm-5">
@@ -533,20 +533,20 @@
                                                                 <div class="tours-list tours-carousel" data-count="3">
                                                                     <div class="tours-layout post-588 slzexploore_tour">
                                                                         <div class="image-wrapper">
-                                                                            <a class="link" href=""><img width="400"
+                                                                            <a class="link" href="/hospital-view"><img width="400"
                                                                                                          height="270"
-                                                                                                         src="wp-content/uploads/2016/05/jjj.jpg"
+                                                                                                         src="wp-content/uploads/2016/05/parsian.jpg"
                                                                                                          class="img-responsive"
                                                                                                          alt="coast-863378_960_7201"
                                                                                                          sizes="(max-width: 400px) 100vw, 400px"/></a>
-                                                                            <div class="title-wrapper"><a href=""
+                                                                            <div class="title-wrapper"><a href="/hospital-view"
                                                                                                           class="title">بیمارستان
-                                                                                    فوق تخصصی جم</a><i
+                                                                                    فوق تخصصی پارسیان</a><i
                                                                                         class="icons flaticon-circle"></i>
                                                                             </div>
 
                                                                             <div class="ribbon-sale"><i
-                                                                                        class="fa fa-bolt"></i><span>Hot</span>
+                                                                                        class="fa fa-bolt"></i><span>بهترین</span>
                                                                             </div>
                                                                         </div>
                                                                         <div class="content-wrapper">
@@ -601,7 +601,7 @@
                                                                                     </div>
                                                                                 </div>
                                                                                 <div class="text">بیمارستان ۱۲۰ تختخوابی
-                                                                                    جم یکی از مجهز ترین بیمارستان های
+                                                                              جم یکی از مجهز ترین بیمارستان ها
                                                                                     کشورمی باشد. این بیمارستان از سال ۴۷
                                                                                     شمسی تاسیس شده و تا به امروز بیش از
                                                                                     یک میلیون بیمار با استفاده از
@@ -609,7 +609,7 @@
                                                                                     کردند. بیمارستان جم شامل بخش های
                                                                                     جراحی، داخلی و ...
                                                                                 </div>
-                                                                                <div class="group-btn-tours"><a href=""
+                                                                                <div class="group-btn-tours"><a href="/hospital-view"
                                                                                                                 class="left-btn">بیشتر
                                                                                         بخوانید</a></div>
                                                                             </div>
@@ -617,15 +617,15 @@
                                                                     </div>
                                                                     <div class="tours-layout post-155 slzexploore_tour">
                                                                         <div class="image-wrapper">
-                                                                            <a class="link" href=""><img width="400"
+                                                                            <a class="link" href="/hospital-view"><img width="400"
                                                                                                          height="270"
-                                                                                                         src="wp-content/uploads/2016/05/Milad_hospital.jpg"
+                                                                                                         src="wp-content/uploads/2016/05/kosar.jpg"
                                                                                                          class="img-responsive"
                                                                                                          alt="bg-section-banner-1"
                                                                                                          sizes="(max-width: 400px) 100vw, 400px"/></a>
-                                                                            <div class="title-wrapper"><a href=""
+                                                                            <div class="title-wrapper"><a href="/hospital-view"
                                                                                                           class="title">
-                                                                                    بیمارستان فوق تخصصی میلاد </a><i
+                                                                                    بیمارستان فوق تخصصی کوثر</a><i
                                                                                         class="icons flaticon-circle"></i>
                                                                             </div>
 
@@ -690,7 +690,7 @@
                                                                                     مغزی و پریفرال، سی تی اسکن، طب هسته
                                                                                     ای، پلاسما فرزیس و….
                                                                                 </div>
-                                                                                <div class="group-btn-tours"><a href=""
+                                                                                <div class="group-btn-tours"><a href="/hospital-view"
                                                                                                                 class="left-btn">بیشتر
                                                                                         بخوانید</a></div>
                                                                             </div>
@@ -698,15 +698,15 @@
                                                                     </div>
                                                                     <div class="tours-layout post-152 slzexploore_tour">
                                                                         <div class="image-wrapper">
-                                                                            <a class="link" href=""><img width="400"
+                                                                            <a class="link" href="/hospital-view"><img width="400"
                                                                                                          height="270"
-                                                                                                         src="wp-content/uploads/2016/05/raziii.jpg"
+                                                                                                         src="wp-content/uploads/2016/05/erfan.jpg"
                                                                                                          class="img-responsive"
                                                                                                          alt="City-of-Rome-Great-View"
                                                                                                          sizes="(max-width: 400px) 100vw, 400px"/></a>
-                                                                            <div class="title-wrapper"><a href=""
+                                                                            <div class="title-wrapper"><a href="/hospital-view"
                                                                                                           class="title">
-                                                                                    بیمارستان فوق تخصصی دی</a><i
+                                                                                    بیمارستان فوق تخصصی عرفان</a><i
                                                                                         class="icons flaticon-circle"></i>
                                                                             </div>
 
@@ -772,7 +772,7 @@
                                                                                     توان گفت بیمارستان دی یکی از بهترین
                                                                                     و ...
                                                                                 </div>
-                                                                                <div class="group-btn-tours"><a href=""
+                                                                                <div class="group-btn-tours"><a href="/hospital-view"
                                                                                                                 class="left-btn">بیشتر
                                                                                         بخوانید</a></div>
                                                                             </div>
@@ -780,15 +780,15 @@
                                                                     </div>
                                                                     <div class="tours-layout post-148 slzexploore_tour">
                                                                         <div class="image-wrapper">
-                                                                            <a class="link" href=""><img width="400"
+                                                                            <a class="link" href="/hospital-view"><img width="400"
                                                                                                          height="270"
-                                                                                                         src="wp-content/uploads/2016/05/milad.jpg"
+                                                                                                         src="wp-content/uploads/2016/05/bahhman.jpg"
                                                                                                          class="img-responsive"
                                                                                                          alt="shanghaicity"
                                                                                                          sizes="(max-width: 400px) 100vw, 400px"/></a>
-                                                                            <div class="title-wrapper"><a href=""
+                                                                            <div class="title-wrapper"><a href="/hospital-view"
                                                                                                           class="title">بیمارستان
-                                                                                    فوق تخصصی فجر </a><i
+                                                                                    فوق تخصصی بهمن</a><i
                                                                                         class="icons flaticon-circle"></i>
                                                                             </div>
 
@@ -853,7 +853,7 @@
                                                                                     بیمار و مراجعه کننده دارد. این
                                                                                     بیمارستان ۱۱۶ تخت فعال دارد و ...
                                                                                 </div>
-                                                                                <div class="group-btn-tours"><a href=""
+                                                                                <div class="group-btn-tours"><a href="/hospital-view"
                                                                                                                 class="left-btn">بیشتر
                                                                                         بخوانید</a></div>
                                                                             </div>
@@ -861,15 +861,15 @@
                                                                     </div>
                                                                     <div class="tours-layout post-146 slzexploore_tour">
                                                                         <div class="image-wrapper">
-                                                                            <a class="link" href=""><img width="400"
+                                                                            <a class="link" href="/hospital-view"><img width="400"
                                                                                                          height="270"
-                                                                                                         src="wp-content/uploads/2016/05/raziii.jpg"
+                                                                                                         src="wp-content/uploads/2016/05/laleh.jpg"
                                                                                                          class="img-responsive"
                                                                                                          alt="du-lich-tokyo"
                                                                                                          sizes="(max-width: 400px) 100vw, 400px"/></a>
-                                                                            <div class="title-wrapper"><a href=""
+                                                                            <div class="title-wrapper"><a href="/hospital-view"
                                                                                                           class="title">
-                                                                                    بیمارستان فوق تخصصی رازی</a><i
+                                                                                    بیمارستان فوق تخصصی لاله</a><i
                                                                                         class="icons flaticon-circle"></i>
                                                                             </div>
                                                                         </div>
@@ -932,7 +932,7 @@
                                                                                     می کنند. بیمارستان رازی شامل بخش های
                                                                                     درمانگاه پوست و ...
                                                                                 </div>
-                                                                                <div class="group-btn-tours"><a href=""
+                                                                                <div class="group-btn-tours"><a href="/hospital-view"
                                                                                                                 class="left-btn">بیشتر
                                                                                         بخوانید</a></div>
                                                                             </div>
@@ -951,7 +951,7 @@
                                                             </div>
                                                             <div class="text-center wpb_column vc_column_container vc_col-sm-4">
                                                                 <div class="vc_column-inner ">
-                                                                    <div class="wpb_wrapper"><a href=""
+                                                                    <div class="wpb_wrapper"><a href="/Hospitals"
                                                                                                 class="slz-shortcode btn btn-maincolor btn-maincolor-4943618765e1ec8d423916 ">جهت
                                                                             مشاهده تمامی بیمارستان ها کلیک کنید</a>
                                                                     </div>
@@ -981,18 +981,14 @@
                                                                         <div class="video-wrapper padding-top padding-bottom">
                                                                             <div class="video-wrapper-title"><h5
                                                                                         class="sub-title"> چرا <strong>
-                                                                                        ایران </strong> و یوتاب مد مد؟</h5>
+                                                                                        ایران </strong> و یوتاب مد؟</h5>
                                                                                 <h2 class="title">مزایا درمان در
                                                                                     ایران</h2>
-                                                                                <div class="text">در این قسمت میتوانید
-                                                                                    مزایا استفاده از یوتاب مد مد را مشاهده
-                                                                                    فرمایید. جهت کسب اطلاعات بیشتر
-                                                                                    درباره درمان در ایران و مزایای آن
-                                                                                    میتوانید مطالب بیشتری را مشاهده
-                                                                                    فرمایید.
+                                                                                <div class="text">ایران در جهان به خدمات پزشکی با کیفیت مخصوصا جراحیهای زیبایی شناخته شده است. به عنوان مثال در سال 2017 خدمات تورسیم پزشکی درآمدی بالغ بر 1.7 میلیارد دلار درآمد داشته است که این عدد در سال 2020 رشدی تا 4 برابر خواهد داشت. ایران کشور مقصد توریست هایی است که برای درمان هایی همچون جراحی بینی، عمل های لاغری، کاشت مو، جراحی سینه، اسلیو معده ، چشم پزشکی و دندانپزشکی است. شاید مهمترین علت تمایل افراد به استفاده از خدمات پزشکی ایران را هزینه بسیار پایین تر آن با حفظ کیفیت مشابه با برترین کشور های دنیا دانست. به عنوان مثال پکیج کامل عمل بینی در ایران 90% ارزانتر از ایلات متحده است.
+
                                                                                 </div>
                                                                             </div>
-                                                                            <a href="#" class="btn btn-maincolor">بیشتر
+                                                                            <a href="/about" class="btn btn-maincolor">بیشتر
                                                                                 بخوانید</a></div>
                                                                     </div>
                                                                     <div class="col-md-7">
@@ -1566,7 +1562,7 @@
 
                                                                 <div class="group-title">
                                                                     <div class="sub-title"><p class="text">از جدیدترین
-                                                                            اخبار یوتاب مد مد باخبر شوید</p><i
+                                                                            اخبار یوتاب مد باخبر شوید</p><i
                                                                                 class="icons flaticon-people"></i></div>
                                                                     <h2 class="main-title">مقالات</h2>
                                                                 </div>
@@ -1578,14 +1574,13 @@
                                                                             <div class="image-wrapper"><a href=""
                                                                                                           class="link"><img
                                                                                             width="670" height="440"
-                                                                                            src="wp-content/uploads/2016/05/-Medical-Tourism.jpg"
+                                                                                            src="wp-content/uploads/2016/05/taqzie.jpeg"
                                                                                             class="img-responsive"
                                                                                             alt="249"/></a></div>
                                                                             <div class="content-wrapper">
-                                                                                <a href=""
-                                                                                   class="title heading utob-byekan">150
-                                                                                    بیمارستان در ایران به فهرست
-                                                                                    بیمارستان های یوتاب مد مد اظافه شد</a>
+                                                                                <a href="/blog-view"
+                                                                                   class="title heading utob-byekan">قبل از جراحی زیبایی بینی 
+ چه رژیم غذایی را رعایت کنیم؟</a>
 
                                                                                 <ul class="info list-inline list-unstyled">
                                                                                     <li><a href=""
@@ -1594,24 +1589,13 @@
                                                                                     <li><a href="" class="link"><span>اضافه شده توسط شیرازی</span></a>
                                                                                     </li>
                                                                                 </ul>
-                                                                                <div class="text"><p> توضیحات توضیحات
-                                                                                        توضیحات توضیحات توضیحات توضیحات
-                                                                                        توضیحات توضیحات توضیحات توضیحات
-                                                                                        توضیحات توضیحات توضیحات </p>
+                                                                                <div class="text"><p>
+تغذیه مناسب باعث  سرعت در بهبودی و کاهش خطر ابتلا به عفونت می شود. بنابراین در هفته های آخر نزدیک به عمل  جراحی،  رعایت رژیم غذایی سالم برای بیماران مهم است.  به طورکلی مصرف سبزیجات و میوه ها ، دانه های غلات حاوی پروتئین و همینطور مکمل های تغذیه بسیار مفید می باشد . مصرف مکمل های خاصی از جمله ویتامین A، ویتامین C و بروملین را به کسانی که قصد انجام عمل زیبایی بینی را دارند، توصیه میشود .
+همچنین بعضی از مواد غذایی باعث کند شدن روند درمان میشود . به طور خاص، بیماران باید مکمل های حاوی ویتامین E، زنجبیل، گینگو و جینسنگ را استفاده نکنند؛ به علاوه  برخی از مکملهای هومیوپاتی و گیاهی می توانند عوارض ناشی از بیهوشی را ایجاد کنند، بنابراین بیماران قبل از هر تغزیه اضافه ای  باید با پزشک خود مشورت کنند.
+</p>
 
-                                                                                    <p> توضیحات توضیحات توضیحات توضیحات
-                                                                                        توضیحات توضیحات توضیحات توضیحات
-                                                                                        توضیحات توضیحات توضیحات توضیحات
-                                                                                        توضیحات توضیحات توضیحات توضیحات
-                                                                                        توضیحات توضیحات توضیحات توضیحات
-                                                                                        توضیحات توضیحات توضیحات توضیحات
-                                                                                        توضیحات توضیحات توضیحات توضیحات
-                                                                                        توضیحات توضیحات توضیحات توضیحات
-                                                                                        توضیحات توضیحات توضیحات توضیحات
-                                                                                        توضیحات توضیحات توضیحات توضیحات
-                                                                                        توضیحات توضیحات توضیحات توضیحات
-                                                                                        توضیحات </p></div>
-                                                                                <a href="" class="btn btn-maincolor">بیشتر
+                                                                                    </div>
+                                                                                <a href="/blog-view" class="btn btn-maincolor">بیشتر
                                                                                     بخوانید</a>
 
 
@@ -1622,13 +1606,12 @@
                                                                             <div class="image-wrapper"><a href=""
                                                                                                           class="link"><img
                                                                                             width="670" height="440"
-                                                                                            src="wp-content/uploads/2016/05/map55.jpg"
+                                                                                            src="wp-content/uploads/2016/05/cheshm.jpg"
                                                                                             class="img-responsive"
                                                                                             alt="about-us-1"/></a></div>
                                                                             <div class="content-wrapper">
-                                                                                <a href="" class="title heading">آمار
-                                                                                    دقیق از مراجعه کنندگان یکسال
-                                                                                    اخیر</a>
+                                                                                <a href="/blog-view" class="title heading">عمل لیزیک و قرنیه ی نازک چشم
+</a>
 
                                                                                 <ul class="info list-inline list-unstyled">
                                                                                     <li><a href=""
@@ -1637,22 +1620,12 @@
                                                                                     <li><a href="" class="link"><span>اضافه شده توسط شیرازی</span></a>
                                                                                     </li>
                                                                                 </ul>
-                                                                                <div class="text"><p> توضیحات توضیحات
-                                                                                        توضیحات توضیحات توضیحات توضیحات
-                                                                                        توضیحات توضیحات توضیحات توضیحات
-                                                                                        توضیحات توضیحات توضیحات توضیحات
-                                                                                        توضیحات توضیحات توضیحات </p>
+                                                                                <div class="text"><p>در عمل لیزیک چشم ، بینایی با تغییر شکلِ قرنیه (سطح جلویی چشم) ، با یک لیزر فوق العاده دقیق بهبود میبخشد . در طی این فرآیند ، برخی از بافت های قرنیه حذف می گردند و به بیانی دیگر لایه ای بسیار نازک از سطح قرنیه برداشته شده و قرنیه ی چشم تصحیح میشود.
+ </p>
 
-                                                                                    <p> توضیحات توضیحات توضیحات توضیحات
-                                                                                        توضیحات توضیحات توضیحات توضیحات
-                                                                                        توضیحات توضیحات توضیحات توضیحات
-                                                                                        توضیحات توضیحات توضیحات توضیحات
-                                                                                        توضیحات توضیحات توضیحات توضیحات
-                                                                                        توضیحات توضیحات توضیحات توضیحات
-                                                                                        توضیحات توضیحات توضیحات توضیحات
-                                                                                        توضیحات توضیحات توضیحات
-                                                                                        توضیحات </p></div>
-                                                                                <a href="" class="btn btn-maincolor">بیشتر
+                                                                                    <p> در طی معاینات و مشاوره پیش از عمل جراحی لیزیک ، اندازه گیری های دقیق قرنیه شما ، توسط دستگاههای پیشرفته انجام میشود تا اطمینان حاصل گردد شما دارای قرنیه نرمال و ضخامت قرنیه مناسب برای ایمن بودنِ عمل لیزیک هستید.
+</p></div>
+                                                                                <a href="/blog-view" class="btn btn-maincolor">بیشتر
                                                                                     بخوانید</a>
 
 
@@ -1663,15 +1636,14 @@
                                                                             <div class="image-wrapper"><a href=""
                                                                                                           class="link"><img
                                                                                             width="670" height="440"
-                                                                                            src="wp-content/uploads/2016/05/map.jpg"
+                                                                                            src="wp-content/uploads/2016/05/moo.jpg"
                                                                                             class="img-responsive"
                                                                                             alt="Luxury-Private-Jet"/></a>
                                                                             </div>
                                                                             <div class="content-wrapper">
-                                                                                <a href=""
-                                                                                   class="title heading utob-byekan">32
-                                                                                    ماشین حاضر برای خدمت رسانی به توریست
-                                                                                    های گرامی به صورت 24 ساعته</a>
+                                                                                <a href="/blog-view"
+                                                                                   class="title heading utob-byekan">روش های کاشت مو
+</a>
 
                                                                                 <ul class="info list-inline list-unstyled">
                                                                                     <li><a href=""
@@ -1680,21 +1652,12 @@
                                                                                     <li><a href="" class="link"><span>اضافه شده توسط رحمانی</span></a>
                                                                                     </li>
                                                                                 </ul>
-                                                                                <div class="text"><p> توضیحات توضیحات
-                                                                                        توضیحات توضیحات توضیحات توضیحات
-                                                                                        توضیحات توضیحات توضیحات توضیحات
-                                                                                        توضیحات توضیحات </p>
+                                                                                <div class="text"><p> روش FIT :عمل برداشت در این روش از ناحیه بانک مو یعنی پشت سر و بالای گوش ها و به وسیله پانچ صورت خواهد گرفت و سپس به صورت مجدد به وسیله پانچ عمل پیوند صورت می گیرد. با توجه به نیاز هر فرد از هر 5-3 واحد فولیکولی که در بانک مو وجود دارد یکی خارج خواهد شد. این روش کاشت در برخی از بخش های خود شبیه روش FUT است که با ایجاد شکاف های ریز، گرافت ها کاشته خواهند شد. در روش غیر ترکیبی این روش مناسب افرادی خواهد بود که ناحیه کاشت موی آن ها محدود و کوچک است و یا افرادی که کاشت مو را برای بخش هایی مثل صورت، ابرو و زخم های قدیمی می خواهند.
+ </p>
 
-                                                                                    <p> توضیحات توضیحات توضیحات توضیحات
-                                                                                        توضیحات توضیحات توضیحات توضیحات
-                                                                                        توضیحات توضیحات توضیحات توضیحات
-                                                                                        توضیحات توضیحات توضیحات توضیحات
-                                                                                        توضیحات توضیحات توضیحات توضیحات
-                                                                                        توضیحات توضیحات توضیحات توضیحات
-                                                                                        توضیحات توضیحات توضیحات توضیحات
-                                                                                        توضیحات توضیحات توضیحات </p>
+
                                                                                 </div>
-                                                                                <a href="" class="btn btn-maincolor">بیشتر
+                                                                                <a href="/blog-view" class="btn btn-maincolor">بیشتر
                                                                                     بخوانید</a>
 
 
@@ -1721,7 +1684,7 @@
                                                                         تخفیف</h2>
                                                                     <h2 class="title-overlay title-2">شگفت انگیز</h2>
                                                                     <h3 class="title-overlay title-3 padding-bottom">
-                                                                        یوتاب مد مد </h3>
+                                                                        یوتاب مد </h3>
                                                                 </div>
                                                             </div>
 
@@ -1764,13 +1727,13 @@
                                                         <div class="slz-shortcode block-title-20933987305e1ec8d472f4d ">
 
                                                             <div class="group-title">
-                                                                <div class="sub-title"><p class="text">یوتاب مد مد در جهان</p>
+                                                                <div class="sub-title"><p class="text">یوتاب مد در جهان</p>
                                                                     <i class="icons flaticon-people"></i>
                                                                 </div>
                                                                 <h2 class="main-title">پراکندگی جغرافیایی مشتریان</h2>
                                                             </div>
                                                             <p>
-                                                                مشتریان یوتاب مد مد از اقصی نقاط جهان جهت طی مراحل درمان به ایران سفر میکنند
+                                                                مشتریان یوتاب مد از اقصی نقاط جهان جهت طی مراحل درمان به ایران سفر میکنند
                                                             </p></div>
                                                         <div class="vc_empty_space" style="height: 5px"><span
                                                                     class="vc_empty_space_inner"></span></div>
@@ -1887,7 +1850,7 @@
                                                                                         <h5 class="title">باما در ارتباط
                                                                                             باشید</h5>
                                                                                         <p class="text">لحظاتی خوش در
-                                                                                            کنار یوتاب مد مد</p>
+                                                                                            کنار یوتاب مد</p>
                                                                                         <div role="form" class="wpcf7"
                                                                                              id="wpcf7-f46-p45-o1"
                                                                                              lang="en" dir="ltr">

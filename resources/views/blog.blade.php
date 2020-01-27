@@ -39,62 +39,68 @@
     <div class="blog-wrapper">
     <div class="row multi-column">
     <div class="col-md-6 blog-post post-249 post type-post status-publish format-video has-post-thumbnail hentry category-adventure category-discover category-explore tag-adventure tag-explore tag-traveler post_format-post-format-video">
-    <div class="blog-video"><div class="video-thumbnail"><div class="video-bg"><a href="http://wp.swlabs.co/exploore/travel-explore-the-world-with-a-backpack/" class="link"><img width="750" height="350" src="http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/maxresdefault-750x350.jpg" class="img-responsive" alt="249" /></a></div><div class="video-button-play"><i class="icons fa fa-play"></i></div><div class="video-button-close"></div></div></div>
+      <div class="blog-image"><a href="/blog-view" class="link"><img width="750" height="350" src="/wp-content/uploads/2016/05/jk.jpg" class="img-responsive" alt="about-us-1" /></a></div>
     <div class="blog-content">
     <div class="col-xs-2">
-    <div class="row"><div class="date"><h1 class="day">11</h1><div class="month">May</div><div class="year">2016</div></div></div>
+    <div class="row"><div class="date"><h1 class="day utob-byekan">15</h1><div class="month">بهمن</div><div class="year utob-byekan">1398</div></div></div>
     </div>
     <div class="col-xs-10 content-wrapper">
-    <a href="http://wp.swlabs.co/exploore/travel-explore-the-world-with-a-backpack/" class=" heading" >Travel &#8211; Explore the world with a backpack</a>
-    <h5 class="meta-info"><span>Posted by:</span> <a href="http://wp.swlabs.co/exploore/author/admin/" class=""><span>Exploorer</span></a> <span class="sep">/</span><span class="view-count fa-custom">6400</span><span class="comment-count fa-custom"><a href="http://wp.swlabs.co/exploore/travel-explore-the-world-with-a-backpack/#respond">0</a></span></h5>
-    <div class="preview"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
-    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa. </p></div>
-    <a href="http://wp.swlabs.co/exploore/travel-explore-the-world-with-a-backpack/" class="btn btn-gray btn-fit btn-capitalize">بیشتر بخوانید</a>
+    <a href="/blog-view" class=" heading" >جراحی بینی &#8211; مصرف دارو</a>
+    <h5 class="meta-info"><span>اضافه شده توسط: </span> <a href="/blog-view" class=""><span>خانم شیرازی </span></a> <span class="sep">/</span><span class="view-count fa-custom utob-byekan">6400</span><span class="comment-count fa-custom"><a href="http://wp.swlabs.co/exploore/travel-explore-the-world-with-a-backpack/#respond"><span class="utob-byekan">5</span></a></span></h5>
+    <div class="preview"><p>
+      در هنگام آماده شدن برای جراحی بینی، بیماران باید پزشکان خود را در مورد تمام داروهایی که مصرف می کنند مطلع کنند. چرا که برخی از داروها  می توانند عوارض قبل یا بعد از عمل جراحی ایجاد کنند</p>
+    </div>
+    <a href="/blog-view" class="btn btn-gray btn-fit btn-capitalize">بیشتر بخوانید</a>
     </div>
     </div>
     </div>
     <div class="col-md-6 blog-post post-220 post type-post status-publish format-image has-post-thumbnail hentry category-discover category-the-world category-travel tag-adventure tag-europe tag-explore post_format-post-format-image">
-    <div class="blog-image"><a href="http://wp.swlabs.co/exploore/milan-shopping-8-independent-boutiques-you-need-to-know/" class="link"><img width="750" height="350" src="http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/about-us-1-1-750x350.jpg" class="img-responsive" alt="about-us-1" /></a></div>
+    <div class="blog-image"><a href="/blog-view" class="link"><img width="750" height="350" src="/wp-content/uploads/2016/05/mashroob.jpg" class="img-responsive" alt="about-us-1" /></a></div>
     <div class="blog-content">
     <div class="col-xs-2">
-    <div class="row"><div class="date"><h1 class="day">11</h1><div class="month">May</div><div class="year">2016</div></div></div>
+    <div class="row"><div class="date"><h1 class="day utob-byekan">4</h1><div class="month">بهمن</div><div class="year utob-byekan">1398</div></div></div>
     </div>
     <div class="col-xs-10 content-wrapper">
-    <a href="http://wp.swlabs.co/exploore/milan-shopping-8-independent-boutiques-you-need-to-know/" class=" heading" >Milan shopping: 8 independent boutiques you need to know</a>
-    <h5 class="meta-info"><span>Posted by:</span> <a href="http://wp.swlabs.co/exploore/author/admin/" class=""><span>Exploorer</span></a> <span class="sep">/</span><span class="view-count fa-custom">6070</span><span class="comment-count fa-custom"><a href="http://wp.swlabs.co/exploore/milan-shopping-8-independent-boutiques-you-need-to-know/#respond">0</a></span></h5>
-    <div class="preview"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
-    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa. </p></div>
-    <a href="http://wp.swlabs.co/exploore/milan-shopping-8-independent-boutiques-you-need-to-know/" class="btn btn-gray btn-fit btn-capitalize">بیشتر بخوانید</a>
+    <a href="/blog-view" class=" heading" >رژیم غذایی قبل از جراحی بینی</a>
+    <h5 class="meta-info"><span>اضافه شده توسط: </span> <a href="" class=""><span>خانم شیرازی </span></a> <span class="sep">/</span><span class="view-count fa-custom utob-byekan">6070</span><span class="comment-count fa-custom"><a href=""><span class="utob-byekan">50</span></a></span></h5>
+    <div class="preview"><p>در مورد مصرف الکل ، چون الکل می تواند توانایی کبد برای متابولیزه کردن صحیح را تحت تاثیر قرار دهد، بسیاری از پزشکان توصیه می کنند بیماران در هفته های پیش از جراحی خود، از نوشیدن مشروبات الکلی نیز خودداری کنند.
+</p>
+  </div>
+    <a href="/blog-view" class="btn btn-gray btn-fit btn-capitalize">بیشتر بخوانید</a>
     </div>
     </div>
     </div></div><div class="row multi-column">
     <div class="col-md-6 blog-post post-208 post type-post status-publish format-standard has-post-thumbnail hentry category-adventure category-discover category-explore category-the-world category-travel tag-dream tag-europe tag-traveller">
-    <div class="blog-image"><a href="http://wp.swlabs.co/exploore/mystery-as-british-airways-a380-plane-lands-in-london-with-square-tire/" class="link"><img width="750" height="350" src="http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/Luxury-Private-Jet-750x350.jpg" class="img-responsive" alt="Luxury-Private-Jet" /></a></div>
+    <div class="blog-image"><a href="/blog-view" class="link"><img width="750" height="350" src="/wp-content/uploads/2016/05/sigar.jpg" class="img-responsive" alt="Luxury-Private-Jet" /></a></div>
     <div class="blog-content">
     <div class="col-xs-2">
-    <div class="row"><div class="date"><h1 class="day">11</h1><div class="month">May</div><div class="year">2016</div></div></div>
+    <div class="row"><div class="date"><h1 class="day utob-byekan">28</h1><div class="month">آبان</div><div class="year utob-byekan">1398</div></div></div>
     </div>
     <div class="col-xs-10 content-wrapper">
-    <a href="http://wp.swlabs.co/exploore/mystery-as-british-airways-a380-plane-lands-in-london-with-square-tire/" class=" heading" >Mystery as British Airways A380 in London</a>
-    <h5 class="meta-info"><span>Posted by:</span> <a href="http://wp.swlabs.co/exploore/author/admin/" class=""><span>Exploorer</span></a> <span class="sep">/</span><span class="view-count fa-custom">6011</span><span class="comment-count fa-custom"><a href="http://wp.swlabs.co/exploore/mystery-as-british-airways-a380-plane-lands-in-london-with-square-tire/#respond">0</a></span></h5>
-    <div class="preview"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
-    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa. </p></div>
-    <a href="http://wp.swlabs.co/exploore/mystery-as-british-airways-a380-plane-lands-in-london-with-square-tire/" class="btn btn-gray btn-fit btn-capitalize">بیشتر بخوانید</a>
+    <a href="/blog-view" class=" heading" >مصرف دخانیات قبل و بعد جراحی</a>
+    <h5 class="meta-info"><span>اضافه شده توسط: </span> <a href="" class=""><span>خانم شیرازی
+    </span></a> <span class="sep">/</span><span class="view-count fa-custom utob-byekan">6011</span><span class="comment-count fa-custom"><a href=""><span class="utob-byekan">14</span></a></span></h5>
+    <div class="preview"><p>مصرف تنباکو جریان خون را در سراسر بدن کاهش می دهد. از آنجا که اکسیژن نمی تواند به سرعت به محل برش برسد، افراد سیگاری ممکن است زمان بیشتری برای بهبودی بعد از عمل نیاز  داشته و خطر ابتلا به عفونت و زخم های نامطلوب هم در آنها بیشتر است. اگرچه سیگاریها به طور خودکار از انجام عمل جراحی بینی رد صلاحیت نمی شوند، آنها باید حداقل دو هفته قبل و دو هفته بعد از عمل جراحی سیگار را کنار بگذارند.
+</p>
+  </div>
+    <a href="/blog-view" class="btn btn-gray btn-fit btn-capitalize">بیشتر بخوانید</a>
     </div>
     </div>
     </div>
     <div class="col-md-6 blog-post post-207 post type-post status-publish format-standard has-post-thumbnail hentry category-explore category-travel tag-adventure tag-dream tag-explore">
-    <div class="blog-image"><a href="http://wp.swlabs.co/exploore/wada-to-investigate-fresh-russian-olympic-doping-claims/" class="link"><img width="750" height="350" src="http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/hotel-6-750x350.jpg" class="img-responsive" alt="hotel-6" /></a></div>
+    <div class="blog-image"><a href="/blog-view" class="link"><img width="750" height="350" src="/wp-content/uploads/2016/05/mooo.jpg" class="img-responsive" alt="hotel-6" /></a></div>
     <div class="blog-content">
     <div class="col-xs-2">
-    <div class="row"><div class="date"><h1 class="day">11</h1><div class="month">May</div><div class="year">2016</div></div></div>
+    <div class="row"><div class="date"><h1 class="day utob-byekan">11</h1><div class="month">آذر</div><div class="year utob-byekan">1398</div></div></div>
     </div>
     <div class="col-xs-10 content-wrapper">
-    <a href="http://wp.swlabs.co/exploore/wada-to-investigate-fresh-russian-olympic-doping-claims/" class=" heading" >WADA to investigate fresh Russian Olympic doping claims</a>
-    <h5 class="meta-info"><span>Posted by:</span> <a href="http://wp.swlabs.co/exploore/author/admin/" class=""><span>Exploorer</span></a> <span class="sep">/</span><span class="view-count fa-custom">5437</span><span class="comment-count fa-custom"><a href="http://wp.swlabs.co/exploore/wada-to-investigate-fresh-russian-olympic-doping-claims/#respond">0</a></span></h5>
-    <div class="preview"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
-    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa. Ut enim ad minim veniam, quis trud tionco laboris nisi ut aliquip.</p></div>
-    <a href="http://wp.swlabs.co/exploore/wada-to-investigate-fresh-russian-olympic-doping-claims/" class="btn btn-gray btn-fit btn-capitalize">بیشتر بخوانید</a>
+    <a href="/blog-view" class=" heading" >روش های کاشت مو (روش FUT)
+</a>
+    <h5 class="meta-info"><span>اضافه شده توسط: </span> <a href="" class=""><span>خانم شیرازی </span></a> <span class="sep">/</span><span class="view-count fa-custom utob-byekan">5437</span><span class="comment-count fa-custom"><a href=""><span class="utob-byekan">32</span></a></span></h5>
+    <div class="preview"><p>در این روش برداشت مو از نوار کوچکی در ناحیه پشت سر صورت می گیرد که تحت بی حسی موضعی قرار گرفته است و تعداد 2500-1500 گرافت و 9000-7000 تار مو دارد. محل عمل با ظرافت خاصی ترمیم می شود و از آنجا که خط برداشت درست در مسیر رویش مو می باشد محل ترمیم مشخص نخواهد شد. تیم جراحی گرافت های فولیکول مو را زیر میکروسکوپ و به صورت واحدهای 2،1 و سه تایی جدا کرده و برای کاشت آماده می کنند و ...
+</p>
+  </div>
+    <a href="/blog-view" class="btn btn-gray btn-fit btn-capitalize">بیشتر بخوانید</a>
     </div>
     </div>
     </div></div><div class="row multi-column"></div><div class="clearfix"></div><nav class="pagination-list margin-top70"><ul class="pagination"><li class=" disable"><a href="http://wp.swlabs.co/exploore/blog-list-no-sidebar/" rel="prev" class="btn-pagination previous"><span aria-hidden="true" class="fa fa-angle-left"></span></a></li><li><span class="btn-pagination active">1</span></li><li><a href="http://wp.swlabs.co/exploore/blog-list-no-sidebar/page/2/" class="btn-pagination" >2</a></li><li><a href="http://wp.swlabs.co/exploore/blog-list-no-sidebar/page/3/" class="btn-pagination" >3</a></li><li class=""><a href="http://wp.swlabs.co/exploore/blog-list-no-sidebar/page/2/" rel="next" class="btn-pagination next"><span aria-hidden="true" class="fa fa-angle-right"></span></a></li></ul>
