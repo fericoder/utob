@@ -51,6 +51,10 @@ Route::get('/Customer-Experience', function () {
     return view('Customer-Experience');
 });
 
+Route::get('/Customer-view', function () {
+    return view('Customer-view');
+});
+
 
 
 
