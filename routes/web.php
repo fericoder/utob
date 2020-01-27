@@ -55,6 +55,14 @@ Route::get('/Customer-view', function () {
     return view('Customer-view');
 });
 
+Route::get('/blog', function () {
+    return view('blog');
+});
+
+Route::get('/blog-view', function () {
+    return view('blog-view');
+});
+
 
 
 
