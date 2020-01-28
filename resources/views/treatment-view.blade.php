@@ -2,12 +2,7 @@
 
 @section('content')
 
-<div class="clearfix"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </header>
+
 
 
     <!-- WRAPPER-->

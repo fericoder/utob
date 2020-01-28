@@ -600,29 +600,32 @@
                                         <a class="main-menu" href="/Customer-Experience"><i
                                                     class="fa  "></i><i class="fa fa-check-square-o
  utob-font"></i>تجربه مشتریان</a></li>
-                                    <li class="{{ request()->is('*hotel*') ? 'active' : '' }} menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1239 mega-menu dropdown">
-                                    <a class="main-menu" href=""><i class="fa  "></i>خدمات ما<span
-                                                class="icons-dropdown"><i class="fa fa-angle-down"></i></span></a>
-                                    <ul class="dropdown-menu dropdown-menu-1 exploore-dropdown-menu-1">
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-558">
-                                            <a class="link-page" href="/Customer-Experience"><i class="fa  "></i>هتل ها</a></li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1640">
-                                            <a class="link-page" href="/about"><i class="fa  "></i>درباره ما</a>
-                                        </li>
-                                        <li class="menu-item menu-item-type-post_type menu-item-object-slzexploore_tour menu-item-1687">
-                                            <a class="link-page" href="/contact"><i class="fa  "></i>تماس باما</a>
-                                        </li>
-                                    </ul>
-                                                        </li>
 
 
-                                    <li class=" {{ request()->is('*about*') ? 'active' : '' }} {{ request()->is('*contact*') ? 'active' : '' }}  menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-555 dropdown menu-item-depth1">
-                                        <a class="main-menu" href="/about"><i class="fa  "></i>درباره ما<span
-                                                    class="label label-danger">شرکت یوتاب مد</span><span
+
+
+                                    <li class=" {{ request()->is('*hotels*') ? 'active' : '' }}  menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-555 dropdown menu-item-depth1">
+                                        <a class="main-menu" href="/about"><i class="fa  "></i>خدمات <span
                                                     class="icons-dropdown"><i class="fa fa-angle-down"></i></span></a>
                                         <ul class="dropdown-menu dropdown-menu-1 exploore-dropdown-menu-1">
                                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-558">
-                                                <a class="link-page" href="/Customer-Experience"><i class="fa  "></i>هتل ها</a></li>
+                                                <a class="link-page" href="/hotels"><i class="fa  "></i>هتل ها</a></li>
+
+                                            <li class="menu-item menu-item-type-post_type menu-item-object-slzexploore_tour menu-item-1687">
+                                                <a class="link-page" href="/login"><i class="fa  "></i>ورود به سیستم</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+
+
+
+
+                                    <li class=" {{ request()->is('*about*') ? 'active' : '' }} {{ request()->is('*contact*') ? 'active' : '' }}  menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-555 dropdown menu-item-depth1">
+                                        <a class="main-menu" href="/about"><i class="fa  "></i>درباره<span
+                                                    class="label label-danger"> یوتاب مد</span><span
+                                                    class="icons-dropdown"><i class="fa fa-angle-down"></i></span></a>
+                                        <ul class="dropdown-menu dropdown-menu-1 exploore-dropdown-menu-1">
+
                                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1640">
                                                 <a class="link-page" href="/about"><i class="fa  "></i>درباره ما</a>
                                             </li>

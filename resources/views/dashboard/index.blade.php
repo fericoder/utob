@@ -14,7 +14,7 @@
                         <div class="m-widget24">
                             <div class="m-widget24__item">
                                 <h4 class="m-widget24__title">
-                                    تعداد پست ها
+                                    تعداد درمان ها
                                 </h4><br>
                                 <span class="m-widget24__desc">
 				            منتشر شده و منتشر نشده
@@ -33,7 +33,7 @@
                         <div class="m-widget24">
                             <div class="m-widget24__item">
                                 <h4 class="m-widget24__title">
-                                    تعداد دوره های آموزشی
+                                    تعداد پزشک ها
                                 </h4><br>
                                 <span class="m-widget24__desc byekan">
 				            منتشر شده و منتشر نشده
@@ -52,7 +52,7 @@
                     <div class="m-widget24">
                         <div class="m-widget24__item">
                             <h4 class="m-widget24__title">
-                                تعداد پادکست های صوتی
+                                تعداد بیمارستان ها
                             </h4><br>
                             <span class="m-widget24__desc byekan">
 				            منتشر شده و منتشر نشده
@@ -69,7 +69,7 @@
                     <div class="m-widget24">
                         <div class="m-widget24__item">
                             <h4 class="m-widget24__title">
-                                تعداد پادکست های تصویری
+                                تعداد نظرات کاربران
                             </h4><br>
                             <span class="m-widget24__desc">
 				            منتشر شده و منتشر نشده
