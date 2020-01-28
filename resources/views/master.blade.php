@@ -517,7 +517,7 @@
                         <ul class="dropdown-menu dropdown-menu-1 exploore-dropdown-menu-1">
                             <li id="menu-item-556"
                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-556"><a
-                                        class="link-page" href="/customer-Experience"><i class="fa  "></i>هتل ها</a></li>
+                                        class="link-page" href="/customer-Experience"><i class="fa  "></i>مقالات</a></li>
                             <li id="menu-item-556"
                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-556"><a
                                         class="link-page" href="/about"><i class="fa  "></i>درباره ما</a></li>
@@ -610,6 +610,8 @@
                                         <ul class="dropdown-menu dropdown-menu-1 exploore-dropdown-menu-1">
                                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-558">
                                                 <a class="link-page" href="/hotels"><i class="fa  "></i>هتل ها</a></li>
+                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-558">
+                                                <a class="link-page" href="/hotels"><i class="fa  "></i>مقالات</a></li>
 
                                             <li class="menu-item menu-item-type-post_type menu-item-object-slzexploore_tour menu-item-1687">
                                                 <a class="link-page" href="/login"><i class="fa  "></i>ورود به سیستم</a>

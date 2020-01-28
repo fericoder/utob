@@ -1449,13 +1449,10 @@
                                                                                              srcset="http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/avatar-4.jpg 200w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/avatar-4-150x150.jpg 150w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/avatar-4-100x100.jpg 100w"
                                                                                              sizes="(max-width: 200px) 100vw, 200px"/>
                                                                                     </div>
-                                                                                    <p class="name">John Smith</p>
+                                                                                    <p class="name">جان اسمیت</p>
                                                                                     <p class="address">نیویورک ، ایالات
                                                                                         متحده</p>
-                                                                                    <div class="description">"<p>جان
-                                                                                            اسمیت از سفری می گوید که
-                                                                                            برایش جنبه های معنوی داشت
-                                                                                            ...</p>
+                                                                                    <div class="description">"<p>پزشکان ایرانی در دنیا بهترین هستند. من از نتیجه عملم بسیار راضی ام و عالی شده به نظرم</p>
                                                                                         "
                                                                                     </div>
                                                                                 </div>
@@ -1464,7 +1461,7 @@
                                                                             <div class="traveler">
                                                                                 <div class="cover-image"><img
                                                                                             width="400" height="200"
-                                                                                            src="wp-content/uploads/2016/05/france.png"
+                                                                                            src="wp-content/uploads/2016/05/azar.jpg"
                                                                                             class="img-responsive"
                                                                                             alt="cover-image-3"
                                                                                             sizes="(max-width: 400px) 100vw, 400px"/>
@@ -1472,18 +1469,16 @@
                                                                                 <div class="wrapper-content">
                                                                                     <div class="avatar">
                                                                                         <img width="200" height="200"
-                                                                                             src="wp-content/uploads/2016/05/avatar-3-200x200.jpg"
+                                                                                             src="wp-content/uploads/2016/05/azarr.jpg"
                                                                                              class="img-responsive"
                                                                                              alt="avatar-3"
-                                                                                             srcset="http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/avatar-3.jpg 200w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/avatar-3-150x150.jpg 150w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/avatar-3-100x100.jpg 100w"
+
                                                                                              sizes="(max-width: 200px) 100vw, 200px"/>
                                                                                     </div>
-                                                                                    <p class="name">Taylor Rose</p>
-                                                                                    <p class="address">پاریس، فرانسه</p>
+                                                                                    <p class="name">جاسم خانی</p>
+                                                                                    <p class="address">آذربایجان</p>
                                                                                     <div class="description">
-                                                                                        <p>سفری عجیب برای تیلور، در
-                                                                                            ایران دوست های زیادی پیدا
-                                                                                            کردم...</p>
+                                                                                        <p> من به علت بیماری قند بیناییم به شدت کاهش یافته بود و هیچ کدوم از دکترهای کشورم حاضر به عمل پر ریسک من نمیشدند</p>
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
@@ -1505,13 +1500,10 @@
                                                                                              srcset="http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/avatar-2.jpg 200w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/avatar-2-150x150.jpg 150w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/avatar-2-100x100.jpg 100w"
                                                                                              sizes="(max-width: 200px) 100vw, 200px"/>
                                                                                     </div>
-                                                                                    <p class="name">Kown Jiyong</p>
-                                                                                    <p class="address">لندن،
-                                                                                        انگلستان</p>
-                                                                                    <div class="description"><p>دوست
-                                                                                            دارم چندین بار دیگر به ایران
-                                                                                            سفر کنم، شهر های ایران برایم
-                                                                                            بسیار دیدنی و خاص بود
+                                                                                    <p class="name">جک استیم</p>
+                                                                                    <p class="address">
+                                                                                    انگلستان</p>
+                                                                                    <div class="description"><p>من برای کاشت مو به ایران سفر کردم
                                                                                         <p>
                                                                                     </div>
                                                                                 </div>
@@ -1520,7 +1512,7 @@
                                                                             <div class="traveler">
                                                                                 <div class="cover-image"><img
                                                                                             width="400" height="200"
-                                                                                            src="wp-content/uploads/2016/05/iT.png"
+                                                                                            src="wp-content/uploads/2016/05/afqanestan.png"
                                                                                             class="img-responsive"
                                                                                             alt="cover-image-1"
                                                                                             sizes="(max-width: 400px) 100vw, 400px"/>
@@ -1528,14 +1520,14 @@
                                                                                 <div class="wrapper-content">
                                                                                     <div class="avatar">
                                                                                         <img width="200" height="200"
-                                                                                             src="wp-content/uploads/2016/05/avatar-1-200x200.jpg"
+                                                                                             src="wp-content/uploads/2016/05/afqan.jpg"
                                                                                              class="img-responsive"
                                                                                              alt="avatar-1"
-                                                                                             srcset="http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/avatar-1.jpg 200w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/avatar-1-150x150.jpg 150w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/avatar-1-100x100.jpg 100w"
+
                                                                                              sizes="(max-width: 200px) 100vw, 200px"/>
                                                                                     </div>
-                                                                                    <p class="name">Sandara park</p>
-                                                                                    <p class="address">روم ، ایتالیا</p>
+                                                                                    <p class="name">مقبوله</p>
+                                                                                    <p class="address">کابل، افغانستان</p>
                                                                                     <div class="description">"<p>اگر باز
                                                                                             هم برای درمان قصد سفر داشته
                                                                                             باشم به ایران میایم...
