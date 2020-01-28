@@ -117,14 +117,14 @@
                                                                             <div class="wrapper-img">
                                                                                 <a href=""><img
                                                                                             width="200" height="200"
-                                                                                            src="/wp-content/uploads/2018/10/iran.png"
+                                                                                            src="/wp-content/uploads/2018/10/iraq.png"
                                                                                             class="img img-responsives"
                                                                                             alt="avatar-contact-3"/></a>
                                                                             </div>
                                                                             <div class="main-organization">
                                                                                 <div class="organization-title">
-                                                                                    <a href="/wp-content/uploads/2018/10/iran.png"
-                                                                                       class="title">دفتر امارات</a>
+                                                                                    <a href="/wp-content/uploads/2018/10/iraq.png"
+                                                                                       class="title">دفتر اربیل</a>
                                                                                     <p class="text">مدیر: رضا رضایی</p>
                                                                                 </div>
                                                                                 <div class="content-widget">

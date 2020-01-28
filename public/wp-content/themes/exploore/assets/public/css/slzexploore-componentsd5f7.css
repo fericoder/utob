@@ -1466,7 +1466,7 @@
   display: block;
 }
 .new-layout .content-wrapper .title:hover {
-  color: #ffdd00;
+  color:#0e99b6;
 }
 .new-layout .content-wrapper .info {
   margin-bottom: 0;
@@ -1484,7 +1484,7 @@
   text-transform: capitalize;
 }
 .new-layout .content-wrapper .info li .link:hover {
-  color: #ffdd00;
+  color: #0e99b6;
 }
 .new-layout .content-wrapper .info li + li:before {
   border-left: 1px solid #555e69;
@@ -5737,7 +5737,7 @@ div[class*="icon-box"] .contact-list-media .text {
   line-height: 2rem;
 }
 .blog-post .blog-content .heading:hover {
-  color: #ffdd00;
+  color: #0e99b6;
 }
 .blog-post .blog-content .meta-info {
   margin-top: 0;
