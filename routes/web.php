@@ -63,6 +63,19 @@ Route::get('/blog-view', function () {
     return view('blog-view');
 });
 
+Route::get('/doctor', function () {
+    return view('doctor');
+});
+
+Route::get('/doctors', function () {
+    return view('doctors');
+});
+
+
+
+
+
+
 
 
 

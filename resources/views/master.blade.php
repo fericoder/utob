@@ -493,7 +493,7 @@
                     </li>
                     <li id="menu-item-1342"
                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1342 dropdown menu-item-depth1">
-                        <a class="main-menu" href=""><i class="fa  "></i>پزشکان<span class="icons-dropdown"><i
+                        <a class="main-menu" href="/doctors"><i class="fa  "></i>پزشکان<span class="icons-dropdown"><i
                                         class="fa fa-user-md "></i></span></a>
 
                     </li>
@@ -589,8 +589,8 @@
                                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-555 dropdown menu-item-depth1">
                                                     <a class="main-menu" href="/treatments"><i class="fa  "></i><i
                                                     class="fa fa-stethoscope utob-font"></i>درمان ها</a></li>
-                                    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1342 dropdown menu-item-depth1">
-                                        <a class="main-menu" href="#"><i class="fa  "></i><i
+                                    <li class=" {{ request()->is('*doctors*') ? 'active' : '' }}menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1342 dropdown menu-item-depth1">
+                                        <a class="main-menu" href="/doctors"><i
                                                     class="fa fa-user-md utob-font"></i>پزشکان</a></li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-562 dropdown menu-item-depth1">
                                         <a class="main-menu" href="/Hospitals"><i

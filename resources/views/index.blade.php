@@ -420,15 +420,16 @@
                                                                     <div  class="lm-item-price"><i class="icon-dollar"></i>1200 دلار</div>
                                                                 </div>
                                                                 <div class="lm-item-body">
-                                                                    <div class="lm-item-desc"><strong>CUSTOM AIR</strong>
-                                                                        <p>Air, air, air</p>
+                                                                    <div class="lm-item-desc"><strong style="font-family: BYekan">عمل زیبایی</strong>
+                                                                        <p>بینی - بینی - بینی </p>
                                                                     </div>
                                                                     <ul class="lm-item-list">
-                                                                        <li>امکان شماره ۱<i class="icon-cancel"></i></li>
-                                                                        <li>امکان شماره ۱<i class="icon-cancel"></i></li>
-                                                                        <li>امکان شماره ۱<i class="icon-cancel"></i></li>
-                                                                        <li>امکان شماره ۱<i class="icon-ok"></i></li>
-                                                                        <li>امکان شماره ۱<i class="icon-ok"></i></li>
+                                                                        <li>خدمات CIP<i class="icon-cancel"></i></li>
+                                                                        <li>خدمات VIP<i class="icon-cancel"></i></li>
+                                                                        <li>مترجم<i class="icon-cancel"></i></li>
+                                                                        <li>اقامت<i class="icon-ok"></i></li>
+                                                                        <li>ترنسفر<i class="icon-ok"></i></li>
+                                                                        <li>هتل ۳ ستاره<i class="icon-ok"></i></li>
                                                                     </ul>
                                                                     <div class="lm-item-link"><a href="#">
                                                                             <svg width="152" height="52" xmlns="http://www.w3.org/2000/svg">
@@ -449,17 +450,15 @@
                                                                     <div class="lm-item-price"><i class="icon-dollar"></i>2300 دلار</div>
                                                                 </div>
                                                                 <div class="lm-item-body">
-                                                                    <div class="lm-item-desc"><strong>CUSTOM AIR</strong>
-                                                                        <p>Air, air, air</p>
+                                                                    <div class="lm-item-desc"><strong style="font-family: BYekan">جراجی</strong>
+                                                                        <p>توضیحات</p>
                                                                     </div>
                                                                     <ul class="lm-item-list">
-                                                                        <li>امکان شماره ۱<i class="icon-ok"></i></li>
-                                                                        <li>امکان شماره ۱<i class="icon-ok"></i></li>
-                                                                        <li>امکان شماره ۱<i class="icon-ok"></i></li>
-                                                                        <li>امکان شماره ۱<i class="icon-ok"></i></li>
-                                                                        <li>امکان شماره ۱<i class="icon-cancel"></i></li>
-                                                                        <li>امکان شماره ۱<i class="icon-cancel"></i></li>
-                                                                        <li>امکان شماره ۱<i class="icon-cancel"></i></li>
+                                                                        <li>خدمات CIP<i class="icon-ok"></i></li>
+                                                                        <li>خدمات VIP<<i class="icon-ok"></i></li>
+                                                                        <li>رزرواسیون<i class="icon-ok"></i></li>
+                                                                        <li>ترنسفر<i class="icon-ok"></i></li>
+                                                                        <li>هتل ۴ ستاره<i class="icon-cancel"></i></li>
                                                                     </ul>
                                                                     <div class="lm-item-link"><a href="#">
                                                                             <svg width="152" height="52" xmlns="http://www.w3.org/2000/svg">
@@ -480,15 +479,15 @@
                                                                     <div class="lm-item-price"><i class="icon-dollar"></i>3100 دلار</div>
                                                                 </div>
                                                                 <div class="lm-item-body">
-                                                                    <div class="lm-item-desc"><strong>CUSTOM AIR</strong>
-                                                                        <p>Air, air, air</p>
+                                                                    <div class="lm-item-desc"><strong style="font-family: BYekan">عمل قلب</strong>
+                                                                        <p>توضیحات</p>
                                                                     </div>
                                                                     <ul class="lm-item-list">
-                                                                        <li>امکان شماره ۱<i class="icon-ok"></i></li>
-                                                                        <li>امکان شماره ۱<i class="icon-ok"></i></li>
-                                                                        <li>امکان شماره ۱<i class="icon-ok"></i></li>
-                                                                        <li>امکان شماره ۱<i class="icon-ok"></i></li>
-                                                                        <li>امکان شماره ۱<i class="icon-ok"></i></li>
+                                                                        <li>خدمات CIP<i class="icon-ok"></i></li>
+                                                                        <li>خدمات VIP<i class="icon-ok"></i></li>
+                                                                        <li>ترنسفر فرودگاهی<i class="icon-ok"></i></li>
+                                                                        <li>هتل ۵ ستاره<i class="icon-ok"></i></li>
+                                                                        <li>مترجم<i class="icon-ok"></i></li>
                                                                     </ul>
                                                                     <div class="lm-item-link"><a href="#">
                                                                             <svg width="152" height="52" xmlns="http://www.w3.org/2000/svg">
@@ -1573,7 +1572,7 @@
                                                                         <div class="new-layout post-249 post type-post status-publish format-video has-post-thumbnail hentry category-adventure category-discover category-explore tag-adventure tag-explore tag-traveler post_format-post-format-video">
                                                                             <div class="image-wrapper"><a href=""
                                                                                                           class="link"><img
-                                                                                            width="670" height="440"
+                                                                                            style="max-width: 300px;margin: auto;"
                                                                                             src="wp-content/uploads/2016/05/taqzie.jpeg"
                                                                                             class="img-responsive"
                                                                                             alt="249"/></a></div>
@@ -1590,8 +1589,7 @@
                                                                                     </li>
                                                                                 </ul>
                                                                                 <div class="text"><p>
-تغذیه مناسب باعث  سرعت در بهبودی و کاهش خطر ابتلا به عفونت می شود. بنابراین در هفته های آخر نزدیک به عمل  جراحی،  رعایت رژیم غذایی سالم برای بیماران مهم است.  به طورکلی مصرف سبزیجات و میوه ها ، دانه های غلات حاوی پروتئین و همینطور مکمل های تغذیه بسیار مفید می باشد . مصرف مکمل های خاصی از جمله ویتامین A، ویتامین C و بروملین را به کسانی که قصد انجام عمل زیبایی بینی را دارند، توصیه میشود .
-همچنین بعضی از مواد غذایی باعث کند شدن روند درمان میشود . به طور خاص، بیماران باید مکمل های حاوی ویتامین E، زنجبیل، گینگو و جینسنگ را استفاده نکنند؛ به علاوه  برخی از مکملهای هومیوپاتی و گیاهی می توانند عوارض ناشی از بیهوشی را ایجاد کنند، بنابراین بیماران قبل از هر تغزیه اضافه ای  باید با پزشک خود مشورت کنند.
+تغذیه مناسب باعث  سرعت در بهبودی و کاهش خطر ابتلا به عفونت می شود. بنابراین در هفته های آخر نزدیک به عمل  جراحی،  رعایت رژیم غذایی سالم برای بیماران مهم است.  به طورکلی مصرف سبزیجات و میوه ها ، دانه های غلات حاوی پروتئین و همینطور مکمل های تغذیه بسیار مفید می باشد . مصرف مکمل های خاصی از...
 </p>
 
                                                                                     </div>
@@ -1605,8 +1603,7 @@
                                                                         <div class="new-layout post-220 post type-post status-publish format-image has-post-thumbnail hentry category-discover category-the-world category-travel tag-adventure tag-europe tag-explore post_format-post-format-image">
                                                                             <div class="image-wrapper"><a href=""
                                                                                                           class="link"><img
-                                                                                            width="670" height="440"
-                                                                                            src="wp-content/uploads/2016/05/cheshm.jpg"
+                                                                                            style="max-width: 300px;margin: auto;"                                                                                            src="wp-content/uploads/2016/05/cheshm.jpg"
                                                                                             class="img-responsive"
                                                                                             alt="about-us-1"/></a></div>
                                                                             <div class="content-wrapper">
@@ -1620,11 +1617,10 @@
                                                                                     <li><a href="" class="link"><span>اضافه شده توسط شیرازی</span></a>
                                                                                     </li>
                                                                                 </ul>
-                                                                                <div class="text"><p>در عمل لیزیک چشم ، بینایی با تغییر شکلِ قرنیه (سطح جلویی چشم) ، با یک لیزر فوق العاده دقیق بهبود میبخشد . در طی این فرآیند ، برخی از بافت های قرنیه حذف می گردند و به بیانی دیگر لایه ای بسیار نازک از سطح قرنیه برداشته شده و قرنیه ی چشم تصحیح میشود.
+                                                                                <div class="text"><p>در عمل لیزیک چشم ، بینایی با تغییر شکلِ قرنیه (سطح جلویی چشم) ، با یک لیزر فوق العاده دقیق بهبود میبخشد . در طی این فرآیند ، برخی از بافت های قرنیه حذف می گردند و به ....
  </p>
 
-                                                                                    <p> در طی معاینات و مشاوره پیش از عمل جراحی لیزیک ، اندازه گیری های دقیق قرنیه شما ، توسط دستگاههای پیشرفته انجام میشود تا اطمینان حاصل گردد شما دارای قرنیه نرمال و ضخامت قرنیه مناسب برای ایمن بودنِ عمل لیزیک هستید.
-</p></div>
+                                                   </div>
                                                                                 <a href="/blog-view" class="btn btn-maincolor">بیشتر
                                                                                     بخوانید</a>
 
@@ -1635,8 +1631,7 @@
                                                                         <div class="new-layout post-208 post type-post status-publish format-standard has-post-thumbnail hentry category-adventure category-discover category-explore category-the-world category-travel tag-dream tag-europe tag-traveller">
                                                                             <div class="image-wrapper"><a href=""
                                                                                                           class="link"><img
-                                                                                            width="670" height="440"
-                                                                                            src="wp-content/uploads/2016/05/moo.jpg"
+                                                                                            style="max-width: 300px;margin: auto;"                                                                                            src="wp-content/uploads/2016/05/moo.jpg"
                                                                                             class="img-responsive"
                                                                                             alt="Luxury-Private-Jet"/></a>
                                                                             </div>
@@ -1652,7 +1647,7 @@
                                                                                     <li><a href="" class="link"><span>اضافه شده توسط رحمانی</span></a>
                                                                                     </li>
                                                                                 </ul>
-                                                                                <div class="text"><p> روش FIT :عمل برداشت در این روش از ناحیه بانک مو یعنی پشت سر و بالای گوش ها و به وسیله پانچ صورت خواهد گرفت و سپس به صورت مجدد به وسیله پانچ عمل پیوند صورت می گیرد. با توجه به نیاز هر فرد از هر 5-3 واحد فولیکولی که در بانک مو وجود دارد یکی خارج خواهد شد. این روش کاشت در برخی از بخش های خود شبیه روش FUT است که با ایجاد شکاف های ریز، گرافت ها کاشته خواهند شد. در روش غیر ترکیبی این روش مناسب افرادی خواهد بود که ناحیه کاشت موی آن ها محدود و کوچک است و یا افرادی که کاشت مو را برای بخش هایی مثل صورت، ابرو و زخم های قدیمی می خواهند.
+                                                                                <div class="text"><p> روش FIT :عمل برداشت در این روش از ناحیه بانک مو یعنی پشت سر و بالای گوش ها و به وسیله پانچ صورت خواهد گرفت و سپس به صورت مجدد به وسیله پانچ عمل پیوند صورت می گیرد. با توجه به نیاز هر فرد از هر 5-3 واحد فولیکولی که در بانک مو وجود دارد یکی خارج خواهد شد. این روش کاشت در برخی از بخش های خود شبیه روش FUT است که با ایجاد شکاف های ریز، گرافت ها کاشته خ ....
  </p>
 
 
