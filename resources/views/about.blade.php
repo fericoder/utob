@@ -136,7 +136,7 @@
                                                                     <div class="wpb_wrapper">
                                                                         <div class="slz-shortcode icon-box-15875326285e1e882a0b6af ">
                                                                             <div class="our-content"><i
-                                                                                        class="our-icon flaticon-cruise"></i>
+                                                                                        class="our-icon fa fa-phone utob-awesome"></i>
                                                                                 <div class="main-our"><p
                                                                                             class="our-title">7/24 </p>
                                                                                     <div class="text">امکان تماس و دریافت خدمات پشتیبانی در تمامی ساعات روزهای هفته
@@ -150,7 +150,7 @@
                                                                         </div>
                                                                         <div class="slz-shortcode icon-box-12080629165e1e882a0bd40 ">
                                                                             <div class="our-content"><i
-                                                                                        class="our-icon flaticon-transport-10"></i>
+                                                                                        class="our-icon fa fa-plane utob-awesome"></i>
                                                                                 <div class="main-our"><p
                                                                                             class="our-title">Airport pick up</p>
                                                                                     <div class="text">ما در زمان رسیدن شما در فرودگاه منتظر رسیدنتان خواهیم بود
@@ -170,7 +170,7 @@
                                                                     <div class="wpb_wrapper">
                                                                         <div class="slz-shortcode icon-box-2171491325e1e882a0c8af ">
                                                                             <div class="our-content"><i
-                                                                                        class="our-icon flaticon-security-1"></i>
+                                                                                        class="our-icon fa fa-user-plus utob-awesome"></i>
                                                                                 <div class="main-our"><p
                                                                                             class="our-title">همراه و مترجم</p>
                                                                                     <div class="text">با همراهی مترجم هم زبان خود هیچ دغدغه ای برای ارتباط با دیگران نداشته باشید
@@ -184,7 +184,9 @@
                                                                         </div>
                                                                         <div class="slz-shortcode icon-box-17809541365e1e882a0cee6 ">
                                                                             <div class="our-content"><i
-                                                                                        class="our-icon flaticon-people-6"></i>
+                                                                                        class="our-icon fa fa-user-md
+
+utob-awesome"></i>
                                                                                 <div class="main-our"><p
                                                                                             class="our-title">تیم پزشکی مجرب </p>
                                                                                     <div class="text">پزشکانی در رنک جهانی آماده اند تا بیماری شما را درمان کنند.
@@ -204,7 +206,7 @@
                                                                     <div class="wpb_wrapper">
                                                                         <div class="slz-shortcode icon-box-14182512285e1e882a0da5c ">
                                                                             <div class="our-content"><i
-                                                                                        class="our-icon flaticon-direction"></i>
+                                                                                        class="our-icon fa fa-coffee utob-awesome"></i>
                                                                                 <div class="main-our"><p
                                                                                             class="our-title">اقامت راحت </p>
                                                                                     <div class="text">بهترین مراکز اقامت در نزدیکی مناطق دیدنی تهران برای شما رزرو شده است.
@@ -218,7 +220,7 @@
                                                                         </div>
                                                                         <div class="slz-shortcode icon-box-12504489825e1e882a0e098 ">
                                                                             <div class="our-content"><i
-                                                                                        class="our-icon flaticon-man"></i>
+                                                                                        class="our-icon fa fa-bed utob-awesome"></i>
                                                                                 <div class="main-our"><p
                                                                                             class="our-title">سفری برای شما </p>
                                                                                     <div class="text">این سفر برای شما طراحی شده تا در مدت اقامت در ایران به تمام آرزوهای خود برسید
@@ -238,7 +240,7 @@
                                                                     <div class="wpb_wrapper">
                                                                         <div class="slz-shortcode icon-box-12777565055e1e882a0ebf5 ">
                                                                             <div class="our-content"><i
-                                                                                        class="our-icon flaticon-food-3"></i>
+                                                                                        class="our-icon fa fa-book utob-awesome"></i>
                                                                                 <div class="main-our"><p
                                                                                             class="our-title">سفری به تاریخ</p>
                                                                                     <div class="text">با ما میتوانید به دنیای باستانی ایران رفته و شکوه و قدمت آن را ببینید.
@@ -252,7 +254,7 @@
                                                                         </div>
                                                                         <div class="slz-shortcode icon-box-11684260965e1e882a0f29c ">
                                                                             <div class="our-content"><i
-                                                                                        class="our-icon flaticon-food"></i>
+                                                                                        class="our-icon fa fa-bell utob-awesome"></i>
                                                                                 <div class="main-our"><p
                                                                                             class="our-title">پیگیری</p>
                                                                                     <div class="text">حتی بعد از اینکه در کشور خود بودید ما مراقب شما خواهیم بود

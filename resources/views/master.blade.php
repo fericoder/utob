@@ -611,7 +611,7 @@
                                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-558">
                                                 <a class="link-page" href="/hotels"><i class="fa  "></i>هتل ها</a></li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-558">
-                                                <a class="link-page" href="/hotels"><i class="fa  "></i>مقالات</a></li>
+                                                <a class="link-page" href="/blog"><i class="fa  "></i>مقالات</a></li>
 
                                             <li class="menu-item menu-item-type-post_type menu-item-object-slzexploore_tour menu-item-1687">
                                                 <a class="link-page" href="/login"><i class="fa  "></i>ورود به سیستم</a>
