@@ -1806,7 +1806,7 @@
                                                                 <div class="sub-title"><p class="text">یوتاب مد در جهان</p>
                                                                     <i class="icons flaticon-people"></i>
                                                                 </div>
-                                                                <h2 class="main-title">پراکندگی جغرافیایی مشتریان</h2>
+                                                                <h2 class="main-title">پتانسیل ایران در جذب مشتریان</h2>
                                                             </div>
                                                             <p>
                                                                 مشتریان یوتاب مد از اقصی نقاط جهان جهت طی مراحل درمان به ایران سفر میکنند

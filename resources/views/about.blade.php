@@ -42,7 +42,7 @@
                         <div class="page-title-content">
                             <ol class="breadcrumb">
                                 <li><a href="/" class="link home">صفحه اصلی</a></li>
-                                <li class="active"><a href="/about" class="link">درباره یوتاب مد</a></li>
+                                <li class="active"><a href="/about" class="link">درباره شرکت ارکان گستر یوتاب مد</a></li>
                             </ol>
                             <div class="clearfix"></div>
                             <h2 class="captions" style="margin-bottom: 35px;">درباره یوتاب مد</h2>
