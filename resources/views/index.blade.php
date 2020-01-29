@@ -276,126 +276,215 @@
                                 <div class="section-page-content clearfix ">
                                     <div class="entry-content">
                                         <div class="vc_row wpb_row vc_row-fluid vc_custom_1463096648310">
-                                            <div class="slz_col-sm-12 wpb_column vc_column_container vc_col-sm-7">
-                                                <div class="vc_column-inner vc_custom_1468574547376">
-                                                    <div class="wpb_wrapper">
-                                                        <div class="slz-shortcode block-title-16339022535e1ec8d10ad08 ">
+                                            <div class="col-md-12 col-sm-12 col-xs-12">
+                                                <div class="slz-shortcode about-us-wrapper  team-single-10916117745e2fecfb37056">
+                                                    <div class="row group-list contact-list">
 
-                                                            <div class="group-title">
-                                                                <div class="sub-title"><p class="text">درمان در سفر</p>
-                                                                    <i class="icons flaticon-people"></i>
-                                                                </div>
-                                                                <h2 class="main-title">با یک سفر ساده بیماری خود را
-                                                                    درمان کنید</h2>
-                                                            </div>
-                                                        </div>
-                                                        <div class="vc_empty_space" style="height: 10px"><span
-                                                                    class="vc_empty_space_inner"></span></div>
-                                                        <div class="vc_row wpb_row vc_inner vc_row-fluid">
-                                                            <div class="wpb_column vc_column_container vc_col-sm-4">
-                                                                <div class="vc_column-inner ">
-                                                                    <div class="wpb_wrapper">
-                                                                        <div class="slz-shortcode group-list ">
-                                                                            <ul class="list-unstyled about-us-list">
-                                                                                <li><p class="text"><i
-                                                                                                class="fa fa-magic utob-font"
-                                                                                                style="color:#0e99b6;"></i>
-                                                                                        افزایش حجم / پروتز</p></li>
-                                                                                <li><p class="text"><i
-                                                                                                class="fa fa-stethoscope utob-font"
-                                                                                                style="color:#0e99b6;"></i>
-                                                                                        لیپوساکشن</p></li>
-                                                                                <li><p class="text"><i
-                                                                                                class="fa fa-magic utob-font"
-                                                                                                style="color:#0e99b6;"></i>
-                                                                                        رینوپلاستی</p></li>
-                                                                                <li><p class="text"><i
-                                                                                                class="fa fa-stethoscope utob-font"
-                                                                                                style="color:#0e99b6;"></i>جراحی
-                                                                                        پلکی</p></li>
-                                                                            </ul>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="wpb_column vc_column_container vc_col-sm-4">
-                                                                <div class="vc_column-inner ">
-                                                                    <div class="wpb_wrapper">
-                                                                        <div class="slz-shortcode group-list ">
-                                                                            <ul class="list-unstyled about-us-list">
-                                                                                <li><p class="text"><i
-                                                                                                class="fa fa-magic utob-font"
-                                                                                                style="color:#0e99b6;"></i>جراحی
-                                                                                        بینی </p></li>
-                                                                                <li><p class="text"><i
-                                                                                                class="fa fa-stethoscope utob-font"
-                                                                                                style="color:#0e99b6;"></i>
-                                                                                        ابدومینوپلاستی</p></li>
-                                                                                <li><p class="text"><i
-                                                                                                class="fa fa-magic utob-font"
-                                                                                                style="color:#0e99b6;"></i>
-                                                                                        تزریق ژل و چربی</p></li>
-                                                                                <li><p class="text"><i
-                                                                                                class="fa fa-stethoscope utob-font"
-                                                                                                style="color:#0e99b6;"></i>
-                                                                                        بوتاکس</p></li>
-                                                                            </ul>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="wpb_column vc_column_container vc_col-sm-4">
-                                                                <div class="vc_column-inner ">
-                                                                    <div class="wpb_wrapper">
-                                                                        <div class="slz-shortcode group-list ">
-                                                                            <ul class="list-unstyled about-us-list">
-                                                                                <li><p class="text"><i
-                                                                                                class="fa fa-magic utob-font"
-                                                                                                style="color:#0e99b6;"></i>جراحی
-                                                                                        زیبایی پلک </p></li>
-                                                                                <li><p class="text"><i
-                                                                                                class="fa fa-stethoscope utob-font"
-                                                                                                style="color:#0e99b6;"></i>جراحی
-                                                                                        زیبایی‌ گوش </p></li>
-                                                                                <li><p class="text"><i
-                                                                                                class="fa fa-magic utob-font"
-                                                                                                style="color:#0e99b6;"></i>برجسته‌سازی
-                                                                                        گونه</p></li>
-                                                                                <li><p class="text"><i
-                                                                                                class="fa fa-stethoscope utob-font"
-                                                                                                style="color:#0e99b6;"></i>
-                                                                                        کشیدن صورت </p></li>
-                                                                            </ul>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                        <div class="vc_empty_space" style="height: 35px"><span
-                                                                    class="vc_empty_space_inner"></span></div>
-                                                        <a href="/treatments"
-                                                           class="slz-shortcode btn btn-maincolor btn-maincolor-15450137705e1ec8d10dfcd mrm mbm">مشاهده
-                                                            تمامی درمان ها</a></div>
-                                                </div>
-                                            </div>
-                                            <div class="slz_col-sm-12 wpb_column vc_column_container vc_col-sm-5">
-                                                <div class="vc_column-inner vc_custom_1463109325289">
-                                                    <div class="wpb_wrapper">
-                                                        <div class="wpb_single_image wpb_content_element vc_align_left  wpb_animate_when_almost_visible wpb_appear appear vc_custom_1463027357222">
 
-                                                            <figure class="wpb_wrapper vc_figure">
-                                                                <div class="vc_single_image-wrapper   vc_box_border_grey">
-                                                                    <img style="margin-top: 70px; Border-radius:25px;" width="600"
-                                                                         height="367"
-                                                                         src="wp-content/uploads/2016/07/amal2.jpeg"
-                                                                         class="vc_single_image-img attachment-full"
-                                                                         alt="about-us-1"
-                                                                         sizes="(max-width: 450px) 100vw, 450px"/></div>
-                                                            </figure>
+                                                        <div class="col-sm-2 col-xs-2 col-contact">
+
+                                                            <a href="/treatment-view">
+                                                                <div class="media contact-list-media">
+                                                                <div class="media-left">
+                                                                    <span class="icons"><i class="fa fa-stethoscope utob-fa"></i></span>
+                                                                </div>
+                                                                زنان و ناباروری
+                                                            </div>
+                                                            </a>
                                                         </div>
+
+
+                                                        <div class="col-sm-2 col-xs-2 col-contact">
+
+                                                            <a href="/treatment-view">
+                                                                <div class="media contact-list-media">
+                                                                <div class="media-left">
+                                                                    <span class="icons"><i class="fa fa-stethoscope utob-fa"></i></span>
+                                                                </div>
+                                                                جراحی بینی
+                                                            </div>
+                                                            </a>
+                                                        </div>
+
+                                                        <div class="col-sm-2 col-xs-2 col-contact">
+                                                            <a href="/treatment-view">
+                                                                <div class="media contact-list-media">
+                                                                <div class="media-left">
+                                                                    <span class="icons"><i class="fa fa-stethoscope utob-fa"></i></span>
+                                                                </div>
+                                                                پروتز
+                                                            </div>
+                                                            </a>
+                                                        </div>
+
+                                                        <div class="col-sm-2 col-xs-2 col-contact">
+                                                            <a href="/treatment-view">
+                                                                <div class="media contact-list-media">
+                                                                <div class="media-left">
+                                                                    <span class="icons"><i class="fa fa-stethoscope utob-fa"></i></span>
+                                                                </div>
+                                                                زیبایی
+                                                            </div>
+                                                            </a>
+                                                        </div>
+
+                                                        <div class="col-sm-2 col-xs-2 col-contact">
+                                                            <a href="/treatment-view">
+                                                                <div class="media contact-list-media">
+                                                                <div class="media-left">
+                                                                    <span class="icons"><i class="fa fa-stethoscope utob-fa"></i></span>
+                                                                </div>
+                                                                لیپوساکشن
+                                                            </div>
+                                                            </a>
+                                                        </div>
+
+
+                                                        <div class="col-sm-2 col-xs-2 col-contact">
+                                                            <a href="/treatment-view">
+                                                                <div class="media contact-list-media">
+                                                                <div class="media-left">
+                                                                    <span class="icons"><i class="fa fa-stethoscope utob-fa"></i></span>
+                                                                </div>
+                                                                جراجی زیبایی گوش
+                                                            </div>
+                                                            </a>
+                                                        </div>
+
+                                                        <div class="col-sm-2 col-xs-2 col-contact">
+                                                            <a href="/treatment-view">
+                                                                <div class="media contact-list-media">
+                                                                <div class="media-left">
+                                                                    <span class="icons"><i class="fa fa-stethoscope utob-fa"></i></span>
+                                                                </div>
+                                                                تزریق ژل و چربی
+                                                            </div>
+                                                            </a>
+                                                        </div>
+
+
+
+                                                        <div class="col-sm-2 col-xs-2 col-contact">
+
+                                                            <a href="/treatment-view">
+                                                                <div class="media contact-list-media">
+                                                                <div class="media-left">
+                                                                    <span class="icons"><i class="fa fa-stethoscope utob-fa"></i></span>
+                                                                </div>
+                                                                برجسته سازی گونه
+                                                            </div>
+                                                            </a>
+                                                        </div>
+                                                        <div class="col-sm-2 col-xs-2 col-contact">
+                                                            <a href="/treatment-view">
+                                                                <div class="media contact-list-media">
+                                                                <div class="media-left">
+                                                                    <span class="icons"><i class="fa fa-stethoscope utob-fa"></i></span>
+                                                                </div>
+                                                                جراحی پلکی
+                                                            </div>
+                                                            </a>
+                                                        </div>
+                                                        <div class="col-sm-2 col-xs-2 col-contact">
+                                                            <a href="/treatment-view">
+                                                                <div class="media contact-list-media">
+                                                                <div class="media-left">
+                                                                    <span class="icons"><i class="fa fa-stethoscope utob-fa"></i></span>
+                                                                </div>
+                                                                بوتاکس
+                                                            </div>
+                                                            </a>
+                                                        </div>
+                                                        <div class="col-sm-2 col-xs-2 col-contact">
+                                                            <a href="/treatment-view">
+                                                            <div class="media contact-list-media">
+                                                                <div class="media-left">
+                                                                    <span class="icons"><i class="fa fa-stethoscope utob-fa"></i></span>
+                                                                </div>
+                                                                کشیدن صورت
+                                                            </div>
+                                                            </a>
+                                                        </div>
+                                                        <div class="col-sm-2 col-xs-2 col-contact">
+                                                            <a href="/treatment-view">
+                                                                <div class="media contact-list-media">
+                                                                <div class="media-left">
+                                                                    <span class="icons"><i class="fa fa-stethoscope utob-fa"></i></span>
+                                                                </div>
+                                                                جراحی فک
+                                                            </div>
+                                                            </a>
+                                                        </div>
+                                                        <div class="col-sm-2 col-xs-2 col-contact">
+
+                                                            <a href="/treatment-view">
+                                                                <div class="media contact-list-media">
+                                                                <div class="media-left">
+                                                                    <span class="icons"><i class="fa fa-stethoscope utob-fa"></i></span>
+                                                                </div>
+                                                                جراحی قلب
+                                                            </div>
+                                                            </a>
+                                                        </div>
+                                                        <div class="col-sm-2 col-xs-2 col-contact">
+                                                            <a href="/treatment-view">
+                                                            <div class="media contact-list-media">
+                                                                <div class="media-left">
+                                                                    <span class="icons"><i class="fa fa-stethoscope utob-fa"></i></span>
+                                                                </div>
+                                                                آنژیو گرافی
+                                                            </div>
+                                                            </a>
+                                                        </div>
+                                                        <div class="col-sm-2 col-xs-2 col-contact">
+                                                            <a href="/treatment-view">
+                                                                <div class="media contact-list-media">
+                                                                <div class="media-left">
+                                                                    <span class="icons"><i class="fa fa-stethoscope utob-fa"></i></span>
+                                                                </div>
+                                                                جراحی دندان و لثه
+                                                            </div>
+                                                            </a>
+                                                        </div>
+                                                        <div class="col-sm-2 col-xs-2 col-contact">
+                                                            <a href="/treatment-view">
+                                                            <div class="media contact-list-media">
+                                                                <div class="media-left">
+                                                                    <span class="icons"><i class="fa fa-stethoscope utob-fa"></i></span>
+                                                                </div>
+                                                                جراحی مغز و اعصاب
+                                                            </div>
+                                                            </a>
+                                                        </div>
+                                                        <div class="col-sm-2 col-xs-2 col-contact">
+
+                                                            <a href="/treatment-view">
+                                                                <div class="media contact-list-media">
+                                                                <div class="media-left">
+                                                                    <span class="icons"><i class="fa fa-stethoscope utob-fa"></i></span>
+                                                                </div>
+                                                                جراحی پلاستیک
+                                                            </div>
+                                                            </a>
+                                                        </div>
+                                                        <div class="col-sm-2 col-xs-2 col-contact">
+                                                            <a href="/treatment-view">
+                                                            <div class="media contact-list-media">
+                                                                <div class="media-left">
+                                                                    <span class="icons"><i class="fa fa-stethoscope utob-fa"></i></span>
+                                                                </div>
+                                                                جراحی ارتوپدی
+                                                            </div>
+                                                            </a>
+                                                        </div>
+
+
+
+
                                                     </div>
                                                 </div>
                                             </div>
+
                                         </div>
 
 
