@@ -252,7 +252,7 @@
                                                      class="img-logo"></div>
                         <div class="group-title">
                             <h1 class="banner title">توریسم سلامت</h1>
-                            <h4 class="sub-banner text">شرکت ارکان گستر یوتاب مد</h4>
+                            <h4 class="sub-banner text">یوتاب مد</h4>
                         </div>
                         <div class="group-btn">
                             <a href="#" data-hover="کلیک کنید" class="btn-click"><span
