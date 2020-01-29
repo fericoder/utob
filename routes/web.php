@@ -72,6 +72,11 @@ Route::get('/doctors', function () {
 });
 
 
+Route::get('/doctor-view', function () {
+    return view('doctor-view');
+});
+
+
 
 
 
