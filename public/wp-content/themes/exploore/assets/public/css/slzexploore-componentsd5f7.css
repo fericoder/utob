@@ -4140,8 +4140,8 @@ div[class*="icon-box"] .contact-list-media .text {
   color: #ffdd00;
 }
 .contact-list-media:hover .icons {
-  background: #ffdd00;
-  color: #555e69;
+  background: #0e99b6;
+  color: #ffffff;
   border: 1px solid #ffdd00;
   transform: scale(0.9);
   -webkit-transform: scale(0.9);
