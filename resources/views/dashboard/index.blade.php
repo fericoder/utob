@@ -10,7 +10,7 @@
             <div class="row m-row--no-padding m-row--col-separator-xl">
                 <div class="col-md-12 col-lg-6 col-xl-3">
                     <!--begin::Total Profit-->
-                    <a href="{{ route('post.index') }}">
+                    <a href="{{ route('treatment.index') }}">
                         <div class="m-widget24">
                             <div class="m-widget24__item">
                                 <h4 class="m-widget24__title">
@@ -29,7 +29,7 @@
                 </div>
                 <div class="col-md-12 col-lg-6 col-xl-3">
                     <!--begin::New Feedbacks-->
-                    <a href="{{ route('post.index') }}">
+                    <a href="{{ route('treatment.index') }}">
                         <div class="m-widget24">
                             <div class="m-widget24__item">
                                 <h4 class="m-widget24__title">

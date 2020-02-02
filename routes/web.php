@@ -49,7 +49,7 @@ Route::namespace('Dashboard')->prefix('dashboard')->middleware('auth')->group(fu
     Route::resource('incomes', 'IncomeController');
     Route::resource('setting', 'SettingController');
     Route::resource('slide', 'SlideController');
-    Route::resource('post', 'PostController');
+    Route::resource('treatment', 'TreatmentController');
     Route::resource('course', 'CourseController');
     Route::any('course/delete', 'CourseController@destroy');
     Route::post('course/addSection', 'CourseController@addSection')->name('course.addSection');

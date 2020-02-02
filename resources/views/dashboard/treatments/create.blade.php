@@ -1,4 +1,4 @@
-@extends('.dashboard.layouts.master',  ['title' => 'افزودن پست'])
+@extends('.dashboard.layouts.master',  ['title' => 'افزودن درمان'])
 
 @section('headerScripts')
     <link href="/admin/assets/vendors/custom/datatables/datatables.bundle.rtl.css" rel="stylesheet" type="text/css"/>
@@ -15,31 +15,31 @@
 						<i class="la la-gear"></i>
 						</span>
                             <h3 class="m-portlet__head-text">
-                                افزودن پست جدید
+                                افزودن درمان جدید
                             </h3>
                         </div>
                     </div>
                 </div>
                 <!--begin::Form-->
-                <form action="{{ route('post.store')  }}"z method="post" enctype="multipart/form-data"
+                <form action="{{ route('treatment.store')  }}"z method="post" enctype="multipart/form-data"
                       class="m-form m-form--fit m-form--label-align-right m-form--group-seperator">
                     @csrf
                     <div class="m-portlet__body">
                         <div class="form-group m-form__group row">
-                            <label class="col-lg-2 col-form-label">عنوان پست:</label>
+                            <label class="col-lg-2 col-form-label">عنوان درمان:</label>
                             <div class="col-lg-6">
                                 <input type="text" name="title" {{ old('title') }} class="form-control m-input"
-                                       placeholder="عنوان پست را وارد نمایید">
+                                       placeholder="عنوان درمان را وارد نمایید">
                             </div>
                         </div>
 
 
                         <div class="form-group m-form__group row">
-                            <label class="col-lg-2 col-form-label">توضیحات پست:</label>
+                            <label class="col-lg-2 col-form-label">توضیحات درمان:</label>
                             <div class="col-lg-6">
                                 <input type="text" name="description"
                                        {{ old('description') }} class="form-control m-input"
-                                       placeholder="توضیحات پست را وارد نمایید">
+                                       placeholder="توضیحات درمان را وارد نمایید">
                             </div>
                         </div>
 
@@ -93,7 +93,7 @@
 
                         <!--begin::Form-->
                         <div class="form-group m-form__group row">
-                            <label class="col-lg-2 col-form-label">تصویر پست</label>
+                            <label class="col-lg-2 col-form-label">تصویر درمان</label>
                             <div class="col-lg-6">
                                 <input  type="file" name="image" class="custom-file-input" id="image">
                                 <label class="custom-file-label" for="customFile">انتخاب فایل</label>
@@ -116,7 +116,7 @@
                         <!--begin::Form-->
                         <div class="m-form__group m-form__group--last form-group row">
                             <div class="form-group m-form__group row">
-                                <label class="col-lg-2 col-form-label">متن پست</label>
+                                <label class="col-lg-2 col-form-label">متن درمان</label>
                                 <div class="col-lg-10">
                                     <textarea style="direction: rtl"  {{ old('body') }} id="body" name="body"
                                               rows="18"></textarea>
@@ -131,7 +131,7 @@
                                 <div class="row">
                                     <div class="col-lg-2"></div>
                                     <div class="col-lg-6">
-                                        <button type="submit" class="btn btn-success">ثبت پست جدید</button>
+                                        <button type="submit" class="btn btn-success">ثبت درمان جدید</button>
                                     </div>
                                 </div>
                             </div>

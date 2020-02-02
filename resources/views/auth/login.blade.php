@@ -332,11 +332,11 @@
             }
 
             .page-register {
-                background-image: url("wp-content/uploads/2016/05/hotel-result.jpg");
+                background-image: url("/wp-content/uploads/2016/05/bg-section-banner-1.jpg");
             }
 
             .page-login {
-                background-image: url("wp-content/uploads/2016/05/hotel-result.jpg");
+                background-image: url("/wp-content/uploads/2016/05/bg-section-banner-1.jpg");
             }
 
             a {

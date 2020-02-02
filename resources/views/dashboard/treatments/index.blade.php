@@ -1,4 +1,4 @@
-@extends('.dashboard.layouts.master',  ['title' => 'لیست پست ها'])
+@extends('.dashboard.layouts.master',  ['title' => 'لیست درمان ها'])
 
 @section('headerScripts')
     <link href="/admin/assets/vendors/custom/datatables/datatables.bundle.rtl.css" rel="stylesheet" type="text/css"/>
@@ -11,84 +11,7 @@
 
 @section('content')
 
-    <div class="m-portlet ">
-        <div class="m-portlet__body  m-portlet__body--no-padding">
-            <div class="row m-row--no-padding m-row--col-separator-xl">
-                <div class="col-md-12 col-lg-6 col-xl-3">
-                    <!--begin::Total Profit-->
-                    <div class="m-widget24">
-                        <div class="m-widget24__item">
-                            <h4 class="m-widget24__title">
-                                تعداد پست ها
-                            </h4><br>
-                            <span class="m-widget24__desc">
-				            منتشر شده و منتشر نشده
-				        </span>
-                            <span class="m-widget24__stats m--font-brand">
-				            {{ $posts->count() }}
-				        </span>
-                        </div>
-                    </div>
-                    <!--end::Total Profit-->
-                </div>
-                <div class="col-md-12 col-lg-6 col-xl-3">
-                    <!--begin::New Feedbacks-->
-                    <div class="m-widget24">
-                        <div class="m-widget24__item">
-                            <h4 class="m-widget24__title">
-                                پست ها منتشر شده
-                            </h4><br>
-                            <span class="m-widget24__desc">
-				            پست های انتشار یافته
-				        </span>
-                            <span class="m-widget24__stats m--font-info">
-				            {{ $posts->where('published_at', '<',  \Carbon\Carbon::now())->count()  }}
-
-				        </span>
-                            <div class="m--space-10"></div>
-                        </div>
-                    </div>
-                    <!--end::New Feedbacks-->
-                </div>
-                <div class="col-md-12 col-lg-6 col-xl-3">
-                    <!--begin::New Orders-->
-                    <div class="m-widget24">
-                        <div class="m-widget24__item">
-                            <h4 class="m-widget24__title">
-                                پست ها منتشر نشده
-                            </h4><br>
-                            <span class="m-widget24__desc">
-				            پست های زمانبندی شده
-				        </span>
-                            <span class="m-widget24__stats m--font-danger">
-				            {{ $posts->where('published_at', '>',  \Carbon\Carbon::now())->count()  }}
-				        </span>
-                        </div>
-                    </div>
-                    <!--end::New Orders-->
-                </div>
-                <div class="col-md-12 col-lg-6 col-xl-3">
-                    <!--begin::New Users-->
-                    <div class="m-widget24">
-                        <div class="m-widget24__item">
-                            <h4 class="m-widget24__title">
-                                تاریخ آخرین پست
-                            </h4><br>
-                            <span class="m-widget24__desc">
-				            آخرین پست قابل انتشار
-				        </span>
-                            <br><br><span style="direction: ltr" class="m-widget24__stats m--font-success">
-                                {{ $posts->sortByDesc('published_at')->pluck('published_at')->first() }}
-
-				        </span>
-                        </div>
-                    </div>
-                    <!--end::New Users-->
-                </div>
-            </div>
-        </div>
-    </div>
-
+    
 
     <div class="row">
         <div class="col-xl-12">
@@ -98,7 +21,7 @@
                     <div class="m-portlet__head-caption">
                         <div class="m-portlet__head-title">
                             <h3 class="m-portlet__head-text">
-                                لیست پست ها
+                                لیست درمان ها
                             </h3>
                         </div>
                     </div>
@@ -124,11 +47,11 @@
                                 </div>
                             </div>
                             <div class="col-xl-4 order-1 order-xl-2 m--align-right">
-                                <a href="{{ route('post.create')  }}"
+                                <a href="{{ route('treatment.create')  }}"
                                    class="btn btn-primary m-btn m-btn--custom m-btn--icon m-btn--air m-btn--pill">
 						<span>
 							<i class="flaticon-file-1"></i>
-							<span>پست جدید</span>
+							<span>درمان جدید</span>
 						</span>
                                 </a>
                                 <div class="m-separator m-separator--dashed d-xl-none"></div>
@@ -152,21 +75,21 @@
                         </tr>
                         </thead>
                         <tbody>
-                        @foreach ($posts as $post)
+                        @foreach ($treatments as $treatment)
                             <tr>
-                                <td>{{ $post->id  }}</td>
-                                <td>{{ $post->title  }}</td>
-                                <td>{{ $post->user_id  }}</td>
-                                <td>{{ jdate($post->created_at)  }}</td>
-                                <td>{{ jdate($post->published_at)  }}</td>
-                                <td>{{ $post->viewCount  }}</td>
-                                <td>{{ $post->commnetCount  }}</td>
+                                <td>{{ $treatment->id  }}</td>
+                                <td>{{ $treatment->title  }}</td>
+                                <td>{{ $treatment->user_id  }}</td>
+                                <td>{{ jdate($treatment->created_at)  }}</td>
+                                <td>{{ jdate($treatment->published_at)  }}</td>
+                                <td>{{ $treatment->viewCount  }}</td>
+                                <td>{{ $treatment->commnetCount  }}</td>
                                 <td>
                                     <a href=""
-                                       data-id="{{$post->id}}" class="m-portlet__nav-link btn m-btn m-btn--hover-accent m-btn--icon m-btn--icon-only m-btn--pill button"
+                                       data-id="{{$treatment->id}}" class="m-portlet__nav-link btn m-btn m-btn--hover-accent m-btn--icon m-btn--icon-only m-btn--pill button"
                                        title="View "> <i style="color: darkred" class="fa fa-times"></i> </a>
 
-                                    <a href="{{ route('post.edit', $post->id ) }}"
+                                    <a href="{{ route('treatment.edit', $treatment->id ) }}"
                                        class="m-portlet__nav-link btn m-btn m-btn--hover-accent m-btn--icon m-btn--icon-only m-btn--pill"
                                        title="View "> <i style="color: green" class="la la-edit"></i> </a></td>
                             </tr>
@@ -200,8 +123,8 @@
                 },
                 function() {
                     $.ajax({
-                        type: "POST",
-                        url: "{{url('dashboard/post/delete')}}",
+                        type: "treatment",
+                        url: "{{url('dashboard/treatment/delete')}}",
                         data: {id:id},
                         success: function (data) {
                             var url = "<?php echo url()->previous(); ?>";

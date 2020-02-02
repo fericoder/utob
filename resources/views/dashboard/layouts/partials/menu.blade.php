@@ -41,13 +41,13 @@
                         </li>
                         <li class="m-menu__item {{ request()->is('dashboard/post') ? 'm-menu__item--active' : '' }} "
                             aria-haspopup="true"><a
-                                    href="{{ route('post.index')  }}"
+                                    href="{{ route('treatment.index')  }}"
                                     class="m-menu__link "><i
                                         class="m-menu__link-bullet m-menu__link-bullet--dot"><span></span></i><span
                                         class="m-menu__link-text">لیست درمان ها</span></a></li>
                         <li class="m-menu__item {{ request()->is('dashboard/post/create') ? 'm-menu__item--active' : '' }} "
                             aria-haspopup="true"><a
-                                    href="{{ route('post.create')  }}"
+                                    href="{{ route('treatment.create')  }}"
                                     class="m-menu__link "><i
                                         class="m-menu__link-bullet m-menu__link-bullet--dot"><span></span></i><span
                                         class="m-menu__link-text">افزودن درمان جدید</span></a></li>
@@ -266,7 +266,7 @@
 
                         <li class="m-menu__item "
                             {{ request()->is('statistic*') ? 'm-menu__item--active' : '' }} aria-haspopup="true"><a
-                                    href="{{ route('post.create')  }}"
+                                    href="{{ route('treatment.index')  }}"
                                     class="m-menu__link "><i
                                         class="m-menu__link-bullet m-menu__link-bullet--dot"><span></span></i><span
                                         class="m-menu__link-text"> آمار بازدید</span></a></li>

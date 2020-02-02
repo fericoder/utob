@@ -13,9 +13,10 @@ return [
     |
     */
 
-    'reset' => 'Your password has been reset!',
-    'sent' => 'We have e-mailed your password reset link!',
-    'token' => 'This password reset token is invalid.',
-    'user' => "We can't find a user with that e-mail address.",
+    'password' => 'رمز عبور باید حداقل ۸ کاراکتر و با تکرار آن یکسان باشد.',
+    'reset' => 'رمز عبور شما با موفقیت تغییر کرد!',
+    'sent' => 'لینک بازیابی به آدرس ایمیل ارسال شد.',
+    'token' => 'لینک بازیابی پسورد اشتباه است.',
+    'user' => "ایمیل مورد نظر در سیستم وجود ندارد.",
 
 ];
