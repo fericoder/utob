@@ -11,82 +11,27 @@
 |
 */
 
-Route::get('/', function () {
-    return view('index');
-});
+Route::get('/', 'IndexController@index')->name('index');
+Route::get('/about', 'IndexController@about')->name('about');
+Route::get('/contact', 'IndexController@contact')->name('contact');
 
-Route::get('/hotels', function () {
-    return view('hotels');
-});
+Route::get('/hotels', 'HotelController@index')->name('hotels');
+Route::get('/hotels/{id}', 'HotelController@show')->name('hotel');
 
-Route::get('/about', function () {
-    return view('about');
-});
+Route::get('/treatments', 'TreatmentController@index')->name('treatments');
+Route::get('/treatments/{id}', 'TreatmentController@show')->name('treatment');
 
-Route::get('/contact', function () {
-    return view('contact');
-});
+Route::get('/hospitals', 'HospitalController@index')->name('hospitals');
+Route::get('/hospitals/{id}', 'HospitalController@show')->name('hospital');
 
-Route::get('/hotel-view', function () {
-    return view('hotel-view');
-});
+Route::get('/experiences', 'ExperienceController@index')->name('experiences');
+Route::get('/experiences/{id}', 'ExperienceController@show')->name('experience');
 
-Route::get('/treatments', function () {
-    return view('treatments');
-});
+Route::get('/blogs', 'BlogController@index')->name('blogs');
+Route::get('/blogs/{id}', 'BlogController@show')->name('blog');
 
-Route::get('/treatment-view', function () {
-    return view('treatment-view');
-});
-
-Route::get('/Hospitals', function () {
-    return view('Hospitals');
-});
-
-Route::get('/hospital-view', function () {
-    return view('hospital-view');
-});
-
-Route::get('/Customer-Experience', function () {
-    return view('Customer-Experience');
-});
-
-Route::get('/Customer-view', function () {
-    return view('Customer-view');
-});
-
-Route::get('/blog', function () {
-    return view('blog');
-});
-
-Route::get('/blog-view', function () {
-    return view('blog-view');
-});
-
-Route::get('/doctor', function () {
-    return view('doctor');
-});
-
-Route::get('/doctors', function () {
-    return view('doctors');
-});
-
-
-Route::get('/doctor-view', function () {
-    return view('doctor-view');
-});
-
-
-
-
-
-
-
-
-
-
-
-
+Route::get('/doctors', 'DoctorController@index')->name('doctors');
+Route::get('/doctors/{id}', 'DoctorController@show')->name('doctor');
 
 
 

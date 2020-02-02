@@ -1,4 +1,4 @@
-@extends('master')
+@extends('layouts.master')
 
 @section('content')
 
@@ -89,28 +89,28 @@
                                                          data-item=6>
                                                         <div class="item feature-item"><i
                                                                     class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text"><a href="/treatment-view">افزایش حجم / پروتز</a></div>
+                                                            <div class="text"><a href="{{ route('treatment', $treatment->id) }}">افزایش حجم / پروتز</a></div>
                                                         </div>
                                                         <div class="item feature-item"><i
                                                                     class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text"><a href="/treatment-view">جراحی بینی</a></div>
+                                                            <div class="text"><a href="{{ route('treatment', $treatment->id) }}">جراحی بینی</a></div>
                                                         </div>
                                                         <div class="item feature-item"><i
                                                                     class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text"><a href="/treatment-view">جراحی زیبایی پلک</a></div>
+                                                            <div class="text"><a href="{{ route('treatment', $treatment->id) }}">جراحی زیبایی پلک</a></div>
                                                         </div>
                                                         <div class="item feature-item"><i
                                                                     class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text"><a href="/treatment-view"> لیپوساکشن</a></div>
+                                                            <div class="text"><a href="{{ route('treatment', $treatment->id) }}"> لیپوساکشن</a></div>
                                                         </div>
                                                         <div class="item feature-item"><i
                                                                     class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text"><a href="/treatment-view"> ابدومینوپلاستی
+                                                            <div class="text"><a href="{{ route('treatment', $treatment->id) }}"> ابدومینوپلاستی
                                                             </a></div>
                                                         </div>
                                                         <div class="item feature-item"><i
                                                                     class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text"><a href="/treatment-view">جراحی زیبایی‌ گوش</a></div>
+                                                            <div class="text"><a href="{{ route('treatment', $treatment->id) }}">جراحی زیبایی‌ گوش</a></div>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -127,28 +127,28 @@
                                                          data-item=6>
                                                         <div class="item feature-item"><i
                                                                     class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text"><a href="/treatment-view">تزریق ژل و چربی</a></div>
+                                                            <div class="text"><a href="{{ route('treatment', $treatment->id) }}">تزریق ژل و چربی</a></div>
                                                         </div>
                                                         <div class="item feature-item"><i
                                                                     class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text"><a href="/treatment-view">برجسته‌سازی گونه</a></div>
+                                                            <div class="text"><a href="{{ route('treatment', $treatment->id) }}">برجسته‌سازی گونه</a></div>
                                                         </div>
                                                         <div class="item feature-item"><i
                                                                     class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text"><a href="/treatment-view">جراحی پلکی</a></div>
+                                                            <div class="text"><a href="{{ route('treatment', $treatment->id) }}">جراحی پلکی</a></div>
                                                         </div>
                                                         <div class="item feature-item"><i
                                                                     class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text"><a href="/treatment-view"> بوتاکس</a></div>
+                                                            <div class="text"><a href="{{ route('treatment', $treatment->id) }}"> بوتاکس</a></div>
                                                         </div>
                                                         <div class="item feature-item"><i
                                                                     class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text"><a href="/treatment-view"> کشیدن صورت
+                                                            <div class="text"><a href="{{ route('treatment', $treatment->id) }}"> کشیدن صورت
                                                           </a>  </div>
                                                         </div>
                                                         <div class="item feature-item"><i
                                                                     class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text"><a href="/treatment-view">جراحی فک</a></div>
+                                                            <div class="text"><a href="{{ route('treatment', $treatment->id) }}">جراحی فک</a></div>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -165,28 +165,28 @@
                                                          data-item=6>
                                                         <div class="item feature-item"><i
                                                                     class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text"><a href="/treatment-view">جراحی قلب</a></div>
+                                                            <div class="text"><a href="{{ route('treatment', $treatment->id) }}">جراحی قلب</a></div>
                                                         </div>
                                                         <div class="item feature-item"><i
                                                                     class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text"><a href="/treatment-view"> آنژیوگرافی </a></div>
+                                                            <div class="text"><a href="{{ route('treatment', $treatment->id) }}"> آنژیوگرافی </a></div>
                                                         </div>
                                                         <div class="item feature-item"><i
                                                                     class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text"><a href="/treatment-view">جراحی دندان و لثه</a></div>
+                                                            <div class="text"><a href="{{ route('treatment', $treatment->id) }}">جراحی دندان و لثه</a></div>
                                                         </div>
                                                         <div class="item feature-item"><i
                                                                     class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text"><a href="/treatment-view">جراحی مغز و اعصاب</a></div>
+                                                            <div class="text"><a href="{{ route('treatment', $treatment->id) }}">جراحی مغز و اعصاب</a></div>
                                                         </div>
                                                         <div class="item feature-item"><i
                                                                     class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text"><a href="/treatment-view">جراحی پلاستیک
+                                                            <div class="text"><a href="{{ route('treatment', $treatment->id) }}">جراحی پلاستیک
                                                         </a>    </div>
                                                         </div>
                                                         <div class="item feature-item"><i
                                                                     class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text"><a href="/treatment-view">جراحی اتوپدی</a></div>
+                                                            <div class="text"><a href="{{ route('treatment', $treatment->id) }}">جراحی اتوپدی</a></div>
                                                         </div>
                                                     </div>
                                                  </div>

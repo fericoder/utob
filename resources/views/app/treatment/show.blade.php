@@ -1,4 +1,4 @@
-@extends('master')
+@extends('layouts.master')
 
 @section('content')
 
@@ -10,7 +10,7 @@
         <!-- MAIN CONTENT-->
         <div class="main-content">
             <!-- Page Title -->
-            <section style="background-image: url(wp-content/uploads/2016/05/nose.jpg);!important;"
+            <section style="background-image: url(/wp-content/uploads/2016/05/nose.jpg);!important;"
                      class=" page-title">
                 <div class="container">
                     <div class="page-title-wrapper">
@@ -178,7 +178,7 @@
                                                   <a class="link"
                                                      href=""><img width="342"
                                                                                                                            height="257"
-                                                                                                                           src="wp-content/uploads/2016/05/goosh.jpg"
+                                                                                                                           src="/wp-content/uploads/2016/05/goosh.jpg"
                                                                                                                            class="img-responsive"
                                                                                                                            alt="316_langham_modern_Exterior"
                                                                                                                            /></a>
@@ -193,7 +193,7 @@
                                                   <a class="link"
                                                      href=""><img width="342"
                                                                   height="257"
-                                                                  src="wp-content/uploads/2016/05/goosh.jpg"
+                                                                  src="/wp-content/uploads/2016/05/goosh.jpg"
                                                                   class="img-responsive"
                                                                   alt="316_langham_modern_Exterior"
                                                       /></a>
@@ -208,7 +208,7 @@
                                                   <a class="link"
                                                      href=""><img width="342"
                                                                   height="257"
-                                                                  src="wp-content/uploads/2016/05/goosh.jpg"
+                                                                  src="/wp-content/uploads/2016/05/goosh.jpg"
                                                                   class="img-responsive"
                                                                   alt="316_langham_modern_Exterior"
                                                       /></a>
@@ -223,7 +223,7 @@
                                                   <a class="link"
                                                      href=""><img width="342"
                                                                   height="257"
-                                                                  src="wp-content/uploads/2016/05/goosh.jpg"
+                                                                  src="/wp-content/uploads/2016/05/goosh.jpg"
                                                                   class="img-responsive"
                                                                   alt="316_langham_modern_Exterior"
                                                       /></a>
