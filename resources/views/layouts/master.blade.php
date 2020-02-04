@@ -454,9 +454,59 @@
     </noscript>
 </head>
 
-<body class="rtl home page page-id-45 page-template-default  sticky-enable  searchbar-type-2 wpb-js-composer js-comp-ver-5.0.1 vc_responsive"
+<body class="rtl home page page-id-45 page-template-default  sticky-enable   wpb-js-composer js-comp-ver-5.0.1 vc_responsive"
       data-class="header-four">
 <div class="body-wrapper   header-four">
+
+
+    <!-- Modal -->
+    <div class="modal fade" id="freeConsultant" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">فرم درخواست مشاوره رایگان یوتاب مد</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+
+                    <div class="contact-box">
+                        <h5 class="title">باما در ارتباط
+                            باشید</h5>
+                        <p class="text">لحظاتی خوش در
+                            کنار یوتاب مد</p>
+                        <div role="form" class="wpcf7" id="wpcf7-f46-p45-o1" lang="en" dir="ltr">
+                            <div class="screen-reader-response"></div>
+                            <form action="http://wp.swlabs.co/exploore/?d=rtl#wpcf7-f46-p45-o1" method="post" class="wpcf7-form contact-form" novalidate="novalidate" id="contact-form-6023684715e1ec8d47cbee">
+                                <div style="display: none;">
+                                    <input type="hidden" name="_wpcf7" value="46">
+                                    <input type="hidden" name="_wpcf7_version" value="4.5.1">
+                                    <input type="hidden" name="_wpcf7_locale" value="en">
+                                    <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f46-p45-o1">
+                                    <input type="hidden" name="_wpnonce" value="3d209936a5">
+                                </div>
+                                <p>
+                                    <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control form-input" aria-required="true" aria-invalid="false" placeholder="نام و نام خانوادگی"></span><span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form-control form-input" aria-required="true" aria-invalid="false" placeholder="آدرس ایمیل"></span><span class="wpcf7-form-control-wrap your-subject"><textarea name="your-subject" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required form-control form-input" aria-required="true" aria-invalid="false" placeholder="پیام خود را وارد کنید"></textarea></span>
+                                </p>
+                                <div class="contact-submit">
+                                    <button class="wpcf7-form-control wpcf7-submit btn btn-slide" data-hover="پیام را ارسال کنید" type="submit"><span class="text">ارسال پیام</span><span class="icons fa fa-long-arrow-right"></span></button>
+                                </div>
+                                <div class="wpcf7-response-output wpcf7-display-none"></div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">انصراف</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
     <!-- MENU MOBILE-->
     <div class="wrapper-mobile-nav">
         <div class="header-topbar">
@@ -530,6 +580,7 @@
                                     class="fa fa-phone icons-dropdown"></span></a>
 
                     </li>
+
 
                 </ul>
             </div>
@@ -638,16 +689,17 @@
                                     </li>
 
 
+
+
+
+
+
                                 </ul>
-                                <div class="button-search"><span class="main-menu"><i
-                                                class="fa fa-search utob-font"></i></span></div>
-                                <div class="nav-search hide">
-                                    <form role="search" method="get" class="search-form" action="/">
-                                        <input type="text" placeholder="عبارت مورد نظر را وارد کنید ..."
-                                               class="search-field search-input form-control searchbox" name="s"/>
-                                        <button type="submit" class="searchbutton btn-search fa fa-search"></button>
-                                    </form>
+
+                                <div class="button-search">
+                                    <a style="padding: 10px!important;font-size: 13px;" data-toggle="modal" data-target="#freeConsultant" class="btn btn-maincolor btn-maincolor1-12960595115e1ec8d471431">مشاوره رایگان</a>
                                 </div>
+
                             </nav>
                             <div class="clearfix"></div>
                         </div>
@@ -657,7 +709,28 @@
         </header>
 
     @yield('content')
+        <style>
+            .demopop {
 
+                position: fixed;
+                top: 89%;
+                right: 3%;
+                padding: 10px;
+                background: #fffea1;
+                font-family: Yekan;
+                direction: rtl;
+                z-index: 99999;
+                display:block;
+                height: 50px;
+                width: 50px;
+                border-radius: 50%;
+                border: 1px solid red;
+
+            }
+
+        </style>
+
+        <div class="demopop"><i style="font-size: 23px" class="fa fa-weixin"></i></div>
 
     <!-- FOOTER-->
         <footer>
