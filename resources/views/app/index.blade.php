@@ -287,7 +287,8 @@
                                                             <a href="/treatment-view">
                                                                 <div class="media contact-list-media">
                                                                 <div class="media-left">
-                                                                    <span class="icons"><i class="fa fa-stethoscope utob-fa"></i></span>
+                                                                    <span class="icons"><img src="wp-content/uploads/2016/05/nini.png" alt="icon"
+                                                                                                 class="utob-fa" style="height: 50px;"></span>
                                                                 </div>
                                                                 زنان و ناباروری
                                                             </div>
@@ -300,7 +301,8 @@
                                                             <a href="/treatment-view">
                                                                 <div class="media contact-list-media">
                                                                 <div class="media-left">
-                                                                    <span class="icons"><i class="fa fa-stethoscope utob-fa"></i></span>
+                                                                    <span class="icons"><img src="wp-content/uploads/2016/05/vector.png " alt="icon"
+                                                                                                 class="utob-fa" style="height: 50px;"></span>
                                                                 </div>
                                                                 جراحی بینی
                                                             </div>
@@ -311,7 +313,8 @@
                                                             <a href="/treatment-view">
                                                                 <div class="media contact-list-media">
                                                                 <div class="media-left">
-                                                                    <span class="icons"><i class="fa fa-stethoscope utob-fa"></i></span>
+                                                                    <span class="icons"><img src="wp-content/uploads/2016/05/lip.png " alt="icon"
+                                                                                                 class="utob-fa" style="height: 70px;"></span>
                                                                 </div>
                                                                 پروتز
                                                             </div>
@@ -322,7 +325,8 @@
                                                             <a href="/treatment-view">
                                                                 <div class="media contact-list-media">
                                                                 <div class="media-left">
-                                                                    <span class="icons"><i class="fa fa-stethoscope utob-fa"></i></span>
+                                                                    <span class="icons"><img src="wp-content/uploads/2016/05/face.png " alt="icon"
+                                                                                                 class="utob-fa" style="height: 50px;"></span>
                                                                 </div>
                                                                 زیبایی
                                                             </div>
@@ -333,7 +337,8 @@
                                                             <a href="/treatment-view">
                                                                 <div class="media contact-list-media">
                                                                 <div class="media-left">
-                                                                    <span class="icons"><i class="fa fa-stethoscope utob-fa"></i></span>
+                                                                    <span class="icons"><img src="wp-content/uploads/2016/05/Liposuction.png " alt="icon"
+                                                                                                 class="utob-fa" style="height: 45px;"></span>
                                                                 </div>
                                                                 لیپوساکشن
                                                             </div>
@@ -345,7 +350,8 @@
                                                             <a href="/treatment-view">
                                                                 <div class="media contact-list-media">
                                                                 <div class="media-left">
-                                                                    <span class="icons"><i class="fa fa-stethoscope utob-fa"></i></span>
+                                                                    <span class="icons"><img src="wp-content/uploads/2016/05/lisen.png " alt="icon"
+                                                                                                 class="utob-fa" style="height: 50px;"></span>
                                                                 </div>
                                                                 جراجی زیبایی گوش
                                                             </div>
@@ -356,7 +362,8 @@
                                                             <a href="/treatment-view">
                                                                 <div class="media contact-list-media">
                                                                 <div class="media-left">
-                                                                    <span class="icons"><i class="fa fa-stethoscope utob-fa"></i></span>
+                                                                    <span class="icons"><img src="wp-content/uploads/2016/05/gel.png " alt="icon"
+                                                                                                 class="utob-fa" style="height: 45px;"></span>
                                                                 </div>
                                                                 تزریق ژل و چربی
                                                             </div>
@@ -370,7 +377,8 @@
                                                             <a href="/treatment-view">
                                                                 <div class="media contact-list-media">
                                                                 <div class="media-left">
-                                                                    <span class="icons"><i class="fa fa-stethoscope utob-fa"></i></span>
+                                                                    <span class="icons"><img src="wp-content/uploads/2016/05/cheek.png " alt="icon"
+                                                                                                 class="utob-fa" style="height: 50px;"></span>
                                                                 </div>
                                                                 برجسته سازی گونه
                                                             </div>
@@ -380,7 +388,8 @@
                                                             <a href="/treatment-view">
                                                                 <div class="media contact-list-media">
                                                                 <div class="media-left">
-                                                                    <span class="icons"><i class="fa fa-stethoscope utob-fa"></i></span>
+                                                                    <span class="icons"><img src="wp-content/uploads/2016/05/eye.png " alt="icon"
+                                                                                                 class="utob-fa" style="height: 50px;"></span>
                                                                 </div>
                                                                 جراحی پلکی
                                                             </div>
@@ -390,7 +399,8 @@
                                                             <a href="/treatment-view">
                                                                 <div class="media contact-list-media">
                                                                 <div class="media-left">
-                                                                    <span class="icons"><i class="fa fa-stethoscope utob-fa"></i></span>
+                                                                    <span class="icons"><img src="wp-content/uploads/2016/05/a.png " alt="icon"
+                                                                                                 class="utob-fa" style="height: 50px;"></span>
                                                                 </div>
                                                                 بوتاکس
                                                             </div>
@@ -400,7 +410,8 @@
                                                             <a href="/treatment-view">
                                                             <div class="media contact-list-media">
                                                                 <div class="media-left">
-                                                                    <span class="icons"><i class="fa fa-stethoscope utob-fa"></i></span>
+                                                                    <span class="icons"><img src="wp-content/uploads/2016/05/lift.png " alt="icon"
+                                                                                                 class="utob-fa" style="height: 50px;"></span>
                                                                 </div>
                                                                 کشیدن صورت
                                                             </div>
@@ -410,7 +421,8 @@
                                                             <a href="/treatment-view">
                                                                 <div class="media contact-list-media">
                                                                 <div class="media-left">
-                                                                    <span class="icons"><i class="fa fa-stethoscope utob-fa"></i></span>
+                                                                    <span class="icons"><img src="wp-content/uploads/2016/05/smile.png " alt="icon"
+                                                                                                 class="utob-fa" style="height: 50px;"></span>
                                                                 </div>
                                                                 جراحی فک
                                                             </div>
@@ -421,7 +433,8 @@
                                                             <a href="/treatment-view">
                                                                 <div class="media contact-list-media">
                                                                 <div class="media-left">
-                                                                    <span class="icons"><i class="fa fa-stethoscope utob-fa"></i></span>
+                                                                    <span class="icons"><img src="wp-content/uploads/2016/05/heart.png " alt="icon"
+                                                                                                 class="utob-fa" style="height: 70px;"></span>
                                                                 </div>
                                                                 جراحی قلب
                                                             </div>
@@ -431,7 +444,8 @@
                                                             <a href="/treatment-view">
                                                             <div class="media contact-list-media">
                                                                 <div class="media-left">
-                                                                    <span class="icons"><i class="fa fa-stethoscope utob-fa"></i></span>
+                                                                    <span class="icons"><img src="wp-content/uploads/2016/05/qalb.png " alt="icon"
+                                                                                                 class="utob-fa" style="height: 50px;"></span>
                                                                 </div>
                                                                 آنژیو گرافی
                                                             </div>
@@ -441,7 +455,8 @@
                                                             <a href="/treatment-view">
                                                                 <div class="media contact-list-media">
                                                                 <div class="media-left">
-                                                                    <span class="icons"><i class="fa fa-stethoscope utob-fa"></i></span>
+                                                                    <span class="icons"><img src="wp-content/uploads/2016/05/teeth.png " alt="icon"
+                                                                                                 class="utob-fa" style="height: 50px;"></span>
                                                                 </div>
                                                                 جراحی دندان و لثه
                                                             </div>
@@ -451,7 +466,8 @@
                                                             <a href="/treatment-view">
                                                             <div class="media contact-list-media">
                                                                 <div class="media-left">
-                                                                    <span class="icons"><i class="fa fa-stethoscope utob-fa"></i></span>
+                                                                    <span class="icons"><img src="wp-content/uploads/2016/05/brain.png " alt="icon"
+                                                                                                 class="utob-fa" style="height: 50px;"></span>
                                                                 </div>
                                                                 جراحی مغز و اعصاب
                                                             </div>
@@ -462,7 +478,8 @@
                                                             <a href="/treatment-view">
                                                                 <div class="media contact-list-media">
                                                                 <div class="media-left">
-                                                                    <span class="icons"><i class="fa fa-stethoscope utob-fa"></i></span>
+                                                                    <span class="icons"><img src="wp-content/uploads/2016/05/pp.png " alt="icon"
+                                                                                                 class="utob-fa" style="height: 50px;"></span>
                                                                 </div>
                                                                 جراحی پلاستیک
                                                             </div>
@@ -472,7 +489,8 @@
                                                             <a href="/treatment-view">
                                                             <div class="media contact-list-media">
                                                                 <div class="media-left">
-                                                                    <span class="icons"><i class="fa fa-stethoscope utob-fa"></i></span>
+                                                                    <span class="icons"><img src="wp-content/uploads/2016/05/Waistt.png " alt="icon"
+                                                                                                 class="utob-fa" style="height: 50px;"></span>
                                                                 </div>
                                                                 جراحی ارتوپدی
                                                             </div>
