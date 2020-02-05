@@ -4128,6 +4128,7 @@
 div[class*="icon-box"] .contact-list-media .text {
   line-height: 22px;
   margin-top: 10px;
+  text-align: justify;
 }
 .contact-list-media .title {
   margin-bottom: 0px;

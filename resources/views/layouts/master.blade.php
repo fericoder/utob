@@ -562,6 +562,23 @@
                     </li>
                     <li id="menu-item-536"
                         class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-536 dropdown menu-item-depth1">
+                        <a class="main-menu" href="/about"><i class="fa  "></i>خدمات<span class="icons-dropdown"><i
+                                        class="fa fa-angle-down"></i></span></a>
+                        <ul class="dropdown-menu dropdown-menu-1 exploore-dropdown-menu-1">
+                            <li id="menu-item-556"
+                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-556"><a
+                                        class="link-page" href="/login"><i class="fa  "></i>ورود به سیستم</a></li>
+                            <li id="menu-item-556"
+                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-556"><a
+                                        class="link-page" href="/blogs"><i class="fa  "></i>مقالات</a></li>
+                            <li id="menu-item-556"
+                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-556"><a
+                                        class="link-page" href="/services"><i class="fa  "></i>سایر خدمات</a></li>
+
+                        </ul>
+                    </li>
+                    <li id="menu-item-536"
+                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-536 dropdown menu-item-depth1">
                         <a class="main-menu" href="/about"><i class="fa  "></i>درباره ما<span
                                     class="label label-danger">شرکت یوتاب مد</span><span class="icons-dropdown"><i
                                         class="fa fa-angle-down"></i></span></a>
@@ -662,11 +679,14 @@
                                         <ul class="dropdown-menu dropdown-menu-1 exploore-dropdown-menu-1">
                                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-558">
                                                 <a class="link-page" href="/hotels"><i class="fa  "></i>هتل ها</a></li>
+                                                <li class="menu-item menu-item-type-post_type menu-item-object-slzexploore_tour menu-item-1687">
+                                                    <a class="link-page" href="/login"><i class="fa  "></i>ورود به سیستم</a>
+                                                </li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-558">
                                                 <a class="link-page" href="/blog"><i class="fa  "></i>مقالات</a></li>
 
                                             <li class="menu-item menu-item-type-post_type menu-item-object-slzexploore_tour menu-item-1687">
-                                                <a class="link-page" href="/login"><i class="fa  "></i>ورود به سیستم</a>
+                                                <a class="link-page" href="/login"><i class="fa  "></i>سایر خدمات</a>
                                             </li>
                                         </ul>
                                     </li>

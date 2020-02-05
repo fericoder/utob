@@ -35,6 +35,9 @@ Route::get('/doctors/{id}', 'DoctorController@show')->name('doctor');
 
 
 
+Route::get('/services', function() {
+  return view('app.services');
+});
 
 
 
