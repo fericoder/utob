@@ -3,7 +3,11 @@
 @section('headerScripts')
     <link href="/admin/assets/vendors/custom/datatables/datatables.bundle.rtl.css" rel="stylesheet" type="text/css"/>
 @stop
-
+<style>
+    #cke_body{
+        width: 90%!important;
+    }
+</style>
 @section('content')
     <div class="row">
         <div class="col-xl-12">
@@ -21,54 +25,18 @@
                     </div>
                 </div>
                 <!--begin::Form-->
-                <form action="{{ route('treatment.store')  }}"z method="post" enctype="multipart/form-data"
+                <form action="{{ route('treatment.store')  }}" method="post" enctype="multipart/form-data"
                       class="m-form m-form--fit m-form--label-align-right m-form--group-seperator">
                     @csrf
                     <div class="m-portlet__body">
                         <div class="form-group m-form__group row">
                             <label class="col-lg-2 col-form-label">عنوان درمان:</label>
                             <div class="col-lg-6">
-                                <input type="text" name="title" {{ old('title') }} class="form-control m-input"
+                                <input type="text" name="name" {{ old('name') }} class="form-control m-input"
                                        placeholder="عنوان درمان را وارد نمایید">
                             </div>
                         </div>
 
-
-
-                        <div class="form-group m-form__group row">
-                            <label class="col-lg-2 col-form-label">توضیحات درمان:</label>
-                            <div class="col-lg-6">
-                                <input type="text" name="description"
-                                       {{ old('description') }} class="form-control m-input"
-                                       placeholder="توضیحات درمان را وارد نمایید">
-                            </div>
-                        </div>
-
-                        <div class="form-group m-form__group row">
-                            <label class="col-lg-2 col-form-label">دسته بندی:</label>
-                            <div class="col-lg-6">
-                                <select class="form-control m-select2" id="m_select2_1" name="category">
-                                    @foreach ($categories as $category)
-                                        <option value="{{ $category->id }}"> {{ $category->title }} </option>
-                                    @endforeach
-                                </select>
-                            </div>
-                        </div>
-
-
-                        <div class="form-group m-form__group row">
-                            <label class="col-lg-2 col-form-label">زمان انتشار:</label>
-                            <div class="col-lg-6">
-                                <div class="input-group date">
-                                    <input type="text" name="published_at" class="form-control m-input" readonly=""
-                                           placeholder="تاریخ و زمان انتشار را وارد نمایید" id="m_datetimepicker_2">
-                                    <div class="input-group-append">
-                                        <span class="input-group-text"><i
-                                                    class="la la-calendar-check-o glyphicon-th"></i></span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
 
 
                         <div class="form-group m-form__group row">
@@ -81,15 +49,18 @@
                                 </div>
                             </div>
                         </div>
+
+
                         <!--begin::Form-->
-                        <div style="display: none" class="form-group m-form__group row">
-                            <label class="col-lg-2 col-form-label">تگ ها</label>
+                        <div class="form-group m-form__group row">
+                            <label class="col-lg-2 col-form-label">آیکون درمان</label>
                             <div class="col-lg-6">
-                                <select class="form-control m-select2" id="m_select2_11" multiple
-                                        name="tags[]"></select>
+                                <input  type="file" name="icon" class="custom-file-input" id="icon">
+                                <label class="custom-file-label" for="customFile">انتخاب فایل</label>
                             </div>
                         </div>
                         <!--end::Form-->
+
 
 
                         <!--begin::Form-->
@@ -103,24 +74,13 @@
                         <!--end::Form-->
 
 
-                        <!--begin::Form-->
-                        <div class="form-group m-form__group row">
-                            <label class="col-lg-2 col-form-label">فایل ضمیمه</label>
-                            <div class="col-lg-6">
-                                <input  type="file" name="attachment" class="custom-file-input" id="attachment">
-                                <label class="custom-file-label" for="attachment">انتخاب فایل</label>
-                            </div>
-                        </div>
-                        <!--end::Form-->
-
 
                         <!--begin::Form-->
                         <div class="m-form__group m-form__group--last form-group row">
-                            <div class="form-group m-form__group row">
+                            <div class="col-12 form-group m-form__group row">
                                 <label class="col-lg-2 col-form-label">متن درمان</label>
                                 <div class="col-lg-10">
-                                    <textarea style="direction: rtl"  {{ old('body') }} id="body" name="body"
-                                              rows="18"></textarea>
+                                    <textarea style="direction: rtl; width: 90%!important;"   id="body" name="body" rows="18">{{ old('body') }}</textarea>
                                 </div>
                             </div>
                         </div>
@@ -159,20 +119,16 @@
     <script src="/admin/assets/demo/default/custom/crud/forms/widgets/bootstrap-datetimepicker.js"
             type="text/javascript"></script>
     <script src="/admin/assets/demo/default/custom/crud/forms/widgets/select2.js" type="text/javascript"></script>
-    <script src="/vendor/unisharp/laravel-ckeditor/ckeditor.js"></script>
     <script src="/admin/assets/demo/default/custom/crud/forms/widgets/bootstrap-switch.js" type="text/javascript"></script>
 
-    <!--end::Page Scripts -->
-    <script>
-        CKEDITOR.replace( 'body', {
-            filebrowserImageBrowseUrl: '/laravel-filemanager?type=Images',
-            filebrowserImageUploadUrl: '/laravel-filemanager/upload?type=Images&_token=',
-            filebrowserBrowseUrl: '/laravel-filemanager?type=Files',
-            filebrowserUploadUrl: '/laravel-filemanager/upload?type=Files&_token='
+    <script src="{{ asset('ckeditor/ckeditor.js') }}"></script>
 
-        } );
-        CKEDITOR.config.contentsLangDirection='rtl';
-        CKEDITOR.config.width = 800
-        CKEDITOR.config.height = 400
+    <!--end::Page Scripts -->
+    <script type="text/javascript">
+        CKEDITOR.replace('body', {
+            language: 'fa',
+            uiColor: '#F3F6F7'
+        });
+
     </script>
 @stop

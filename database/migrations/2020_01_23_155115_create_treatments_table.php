@@ -16,10 +16,10 @@ class CreateTreatmentsTable extends Migration
         Schema::create('treatments', function (Blueprint $table) {
             $table->bigIncrements('id');
             $table->string('name');
-            $table->string('slug');
+            $table->string('slug')->nullable();
             $table->string('icon');
             $table->text('body');
-            $table->text('images');
+            $table->text('image');
             $table->timestamps();
         });
     }

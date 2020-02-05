@@ -39,7 +39,7 @@
                                     class="m-menu__link"><span
                                         class="m-menu__link-text">مدیریت درمان ها</span></span>
                         </li>
-                        <li class="m-menu__item {{ request()->is('dashboard/post') ? 'm-menu__item--active' : '' }} "
+                        <li class="m-menu__item {{ request()->is('dashboard/treatment') ? 'm-menu__item--active' : '' }} "
                             aria-haspopup="true"><a
                                     href="{{ route('treatment.index')  }}"
                                     class="m-menu__link "><i

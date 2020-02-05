@@ -15,6 +15,9 @@ Route::get('/', 'IndexController@index')->name('index');
 Route::get('/about', 'IndexController@about')->name('about');
 Route::get('/contact', 'IndexController@contact')->name('contact');
 
+Route::get('/packages', 'PackageController@index')->name('packages');
+Route::get('/packages/{id}', 'PackageController@show')->name('package');
+
 Route::get('/hotels', 'HotelController@index')->name('hotels');
 Route::get('/hotels/{id}', 'HotelController@show')->name('hotel');
 
@@ -39,6 +42,11 @@ Route::get('/services', function() {
   return view('app.services');
 });
 
+Route::get('/form', function() {
+    return view('app.form');
+});
+
+
 
 
 Route::namespace('Dashboard')->prefix('dashboard')->middleware('auth')->group(function () {
@@ -53,6 +61,7 @@ Route::namespace('Dashboard')->prefix('dashboard')->middleware('auth')->group(fu
     Route::resource('setting', 'SettingController');
     Route::resource('slide', 'SlideController');
     Route::resource('treatment', 'TreatmentController');
+    Route::any('treatment/delete', 'TreatmentController@destroy');
     Route::resource('course', 'CourseController');
     Route::any('course/delete', 'CourseController@destroy');
     Route::post('course/addSection', 'CourseController@addSection')->name('course.addSection');

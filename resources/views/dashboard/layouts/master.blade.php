@@ -17,6 +17,7 @@ Contact: rahmani@rieco.ir
     <!--begin::Web font -->
     <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.16/webfont.js"></script>
     <link href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
+    <meta name="csrf-token" id="csrf-token" content="{{ csrf_token() }}">
 
     <script>
         WebFont.load({

@@ -66,11 +66,10 @@
                         <tr>
                             <th title="Field #1" data-field="OrderID">ردیف</th>
                             <th title="Field #2" data-field="Owner">عنوان</th>
-                            <th title="Field #3" data-field="Contact">ایجاد کننده</th>
                             <th title="Field #4" data-field="CarMake">تاریخ ایجاد</th>
-                            <th title="Field #5" data-field="CarModel">تاریخ انتشار</th>
-                            <th title="Field #7" data-field="DepositPaid">تعداد نمایش</th>
-                            <th title="Field #8" data-field="OrderDate">تعداد نظرات</th>
+                            {{--<th title="Field #5" data-field="CarModel">تاریخ انتشار</th>--}}
+                            {{--<th title="Field #7" data-field="DepositPaid">تعداد نمایش</th>--}}
+                            {{--<th title="Field #8" data-field="OrderDate">تعداد نظرات</th>--}}
                             <th title="Field #9" data-field="Actions">تغییرات</th>
                         </tr>
                         </thead>
@@ -78,12 +77,11 @@
                         @foreach ($treatments as $treatment)
                             <tr>
                                 <td>{{ $treatment->id  }}</td>
-                                <td>{{ $treatment->title  }}</td>
-                                <td>{{ $treatment->user_id  }}</td>
+                                <td>{{ $treatment->name  }}</td>
                                 <td>{{ jdate($treatment->created_at)  }}</td>
-                                <td>{{ jdate($treatment->published_at)  }}</td>
-                                <td>{{ $treatment->viewCount  }}</td>
-                                <td>{{ $treatment->commnetCount  }}</td>
+                                {{--<td>{{ jdate($treatment->published_at)  }}</td>--}}
+                                {{--<td>{{ $treatment->viewCount  }}</td>--}}
+                                {{--<td>{{ $treatment->commnetCount  }}</td>--}}
                                 <td>
                                     <a href=""
                                        data-id="{{$treatment->id}}" class="m-portlet__nav-link btn m-btn m-btn--hover-accent m-btn--icon m-btn--icon-only m-btn--pill button"
@@ -123,11 +121,11 @@
                 },
                 function() {
                     $.ajax({
-                        type: "treatment",
+                        type: "post",
                         url: "{{url('dashboard/treatment/delete')}}",
                         data: {id:id},
                         success: function (data) {
-                            var url = "<?php echo url()->previous(); ?>";
+                            var url = "/dashboard/treatment";
                             location.href = url;
                         }
                     });

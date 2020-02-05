@@ -10,19 +10,20 @@
         <!-- MAIN CONTENT-->
         <div class="main-content">
             <!-- Page Title -->
-            <section style="background-image: url(/wp-content/uploads/2016/05/nose.jpg);!important;"
+            <section style="background-image: url({{ $treatment->image }});!important;"
                      class=" page-title">
                 <div class="container">
                     <div class="page-title-wrapper">
                         <div class="page-title-content">
                             <ol class="breadcrumb">
                                 <li><a href="/" class="link home">صفحه اصلی</a></li>
-                                <li><a href="/hotels" class="link">درمان ها</a></li>
-                                <li><a href="/hotels" class="link">جراحی بینی</a></li>
+                                <li><a href="{{ route('treatment.index') }}" class="link">درمان ها</a></li>
+                                <li><a href="{{ route('treatment.show', $treatment->id ) }}" class="link">{{ $treatment->name }}</a></li>
                             </ol>
                             <div class="clearfix"></div>
                             <h2 style="margin-bottom: 35px;" class="captions">
-                            جراحی بینی</h2>
+                                {{ $treatment->name }}
+                            </h2>
 
                         </div>
                     </div>
@@ -30,17 +31,13 @@
             </section>
 
             <div class="container">
-
-
               <div class="hotel-view-main padding-top padding-bottom entry-content">
                               <div class="container">
                                   <div class="journey-block">
-
                                       <div class="overview-block clearfix slz-shortcode sc-block-13351890685e273ad44c072 ">
                                           <h3 class="title-style-3">عمل بینی</h3>
                                           <div class="timeline-container">
                                               <div class="timeline timeline-hotel-view">
-
                                                   <div class="timeline-block">
                                                       <div class="timeline-title"><span>دکتر رضایی</span></div>
                                                       <div class="timeline-point">
@@ -119,6 +116,19 @@
                                                                   </div>
                                                               </div>
                                                               <div class="timeline-custom-col full timeline-book-block"></div>
+
+
+                                                              <div class="col-md-12 blog-post post-249 post type-post status-publish format-video has-post-thumbnail hentry category-adventure category-discover category-explore tag-adventure tag-explore tag-traveler post_format-post-format-video">
+                                                                  <div class="blog-content">
+                                                                      <div class="col-xs-12 content-wrapper">
+                                                                          <div style="padding: 20px" class="preview">
+                                                                              {!! $treatment->body !!}
+                                                                          </div>
+                                                                      </div>
+                                                                  </div>
+                                                              </div>
+
+
                                                           </div>
                                                       </div>
                                                   </div>
@@ -130,45 +140,45 @@
                               </div>
 
                               <div class="container">
-                                  <div class="entry-comment entry-page-comment">
-                                      <div class="blog-comment">
-                                          <div class="comment-count blog-comment-title sideline">
-                                              نظرات
-                                          </div>
-                                          <ul class="comment-list list-unstyled">
-                                              <li class="media parent" id="comment-63">
-                                                  <div class="comment-item">
-                                                      <div class="media-left">
-                                                          <div class="media-image">
-                                                              <img src="http://0.gravatar.com/avatar/c06d7331fa01970d75198e6076d796cc?s=96&amp;d=mm&amp;r=g"
-                                                                   width="77" height="77" alt="Avatar"
-                                                                   class="avatar avatar-77wp-user-avatar wp-user-avatar-77 alignnone photo avatar-default">
-                                                          </div>
-                                                      </div>
-                                                      <div class="media-right">
-                                                          <div class="pull-left">
-                                                              <div class="author">
-                                                                  فرزانه علی شیرازی
-                                                              </div>
-                                                          </div>
-                                                          <div class="pull-right time"><i class="fa fa-clock-o"></i>
-                                                              <span class="utob-byekan">
-              بهمن ماه 1398</span>
-                                                          </div>
-                                                          <div class="clearfix"></div>
-                                                          <div class="des"><p> نظر مشتری. نظر مشتری. نظر مشتری. نظر مشتری. نظر مشتری.
-                                                                  نظر مشتری. نظر مشتری. نظر مشتری. نظر مشتری. نظر مشتری. نظر مشتری.
-                                                                  نظر مشتری. نظر مشتری. نظر مشتری. نظر مشتری. نظر مشتری. نظر مشتری.
-                                                                  نظر مشتری. </p>
-                                                          </div>
-                                                          <p class="border-none stars-rating">
-                                                              <span class="review star-5 active">5</span>
-                                                          </p></div>
-                                                  </div>
-                                                  <!-- </li>-->
-                                              </li><!-- #comment-## -->
-                                          </ul>
-                                      </div><!-- /comment-form --></div>
+                                  {{--<div class="entry-comment entry-page-comment">--}}
+                                      {{--<div class="blog-comment">--}}
+                                          {{--<div class="comment-count blog-comment-title sideline">--}}
+                                              {{--نظرات--}}
+                                          {{--</div>--}}
+                                          {{--<ul class="comment-list list-unstyled">--}}
+                                              {{--<li class="media parent" id="comment-63">--}}
+                                                  {{--<div class="comment-item">--}}
+                                                      {{--<div class="media-left">--}}
+                                                          {{--<div class="media-image">--}}
+                                                              {{--<img src="http://0.gravatar.com/avatar/c06d7331fa01970d75198e6076d796cc?s=96&amp;d=mm&amp;r=g"--}}
+                                                                   {{--width="77" height="77" alt="Avatar"--}}
+                                                                   {{--class="avatar avatar-77wp-user-avatar wp-user-avatar-77 alignnone photo avatar-default">--}}
+                                                          {{--</div>--}}
+                                                      {{--</div>--}}
+                                                      {{--<div class="media-right">--}}
+                                                          {{--<div class="pull-left">--}}
+                                                              {{--<div class="author">--}}
+                                                                  {{--فرزانه علی شیرازی--}}
+                                                              {{--</div>--}}
+                                                          {{--</div>--}}
+                                                          {{--<div class="pull-right time"><i class="fa fa-clock-o"></i>--}}
+                                                              {{--<span class="utob-byekan">--}}
+              {{--بهمن ماه 1398</span>--}}
+                                                          {{--</div>--}}
+                                                          {{--<div class="clearfix"></div>--}}
+                                                          {{--<div class="des"><p> نظر مشتری. نظر مشتری. نظر مشتری. نظر مشتری. نظر مشتری.--}}
+                                                                  {{--نظر مشتری. نظر مشتری. نظر مشتری. نظر مشتری. نظر مشتری. نظر مشتری.--}}
+                                                                  {{--نظر مشتری. نظر مشتری. نظر مشتری. نظر مشتری. نظر مشتری. نظر مشتری.--}}
+                                                                  {{--نظر مشتری. </p>--}}
+                                                          {{--</div>--}}
+                                                          {{--<p class="border-none stars-rating">--}}
+                                                              {{--<span class="review star-5 active">5</span>--}}
+                                                          {{--</p></div>--}}
+                                                  {{--</div>--}}
+                                                  {{--<!-- </li>-->--}}
+                                              {{--</li><!-- #comment-## -->--}}
+                                          {{--</ul>--}}
+                                      {{--</div><!-- /comment-form --></div>--}}
                                   <div class="slz-shortcode special-offer margin-top70">
                                       <h3 class="title-style-2">دیگر جراحی ها
                                       </h3>

@@ -32,8 +32,7 @@ class TreatmentController extends Controller
      */
     public function create()
     {
-        $categories = Category::all();
-        return view('dashboard.Treatments.create', compact('categories'));
+        return view('dashboard.treatments.create');
     }
 
     /**
@@ -42,23 +41,23 @@ class TreatmentController extends Controller
      * @param  \Illuminate\Http\Request  $request
      * @return \Illuminate\Http\Response
      */
-    public function store(TreatmentRequest $request)
+    public function store(Request $request)
     {
-        $images = $this->uploadFile($request->file('image'));
-            if ($request->file('attachment') != null){
-                $attachment = $this->uploadFile($request->file('attachment'));
-                $Treatment = Treatment::create(['user_id' => Auth::user()->id , 'title' => $request->title, 'description' => $request->description, 'category_id' => $request->category, 'published_at' => $request->published_at, 'images' => $images, 'attachment' => "$attachment", 'telegram' => $request->telegram, 'episodesCount' => $request->episodesCount, 'type' => $request->type, 'body' => $request->body ]);
+        $image = $this->uploadFile($request->file('image'));
+            if ($request->file('icon') != null){
+                $icon = $this->uploadFile($request->file('icon'));
+                $treatment = Treatment::create(['name' => $request->name, 'image' => $image, 'icon' => "$icon", 'body' => $request->body ]);
             }else{
-                $Treatment = Treatment::create(['user_id' => Auth::user()->id , 'title' => $request->title, 'description' => $request->description, 'category_id' => $request->category, 'published_at' => $request->published_at, 'images' => $images, 'telegram' => $request->telegram,'episodesCount' => $request->episodesCount, 'type' => $request->type, 'body' => $request->body ]);
+                $treatment = Treatment::create(['name' => $request->name, 'image' => $image, 'body' => $request->body ]);
             }
 
             // Run Telegram Event
-        if ($request->published_at < \Carbon\Carbon::now()->toDateTimeString()){
-            $this->dispatchNow(new Telegram($Treatment));
-        }
+//        if ($request->published_at < \Carbon\Carbon::now()->toDateTimeString()){
+//            $this->dispatchNow(new Telegram($treatment));
+//        }
 
         alert()->success('درخواست شما با موفقیت انجام شد.', 'انجام شد');
-        return redirect()->route('Treatment.index');
+        return redirect()->route('treatment.index');
 
     }
 
@@ -81,15 +80,8 @@ class TreatmentController extends Controller
      */
     public function edit($id)
     {
-        $Treatment = Treatment::find($id);
-
-        if (! Auth::user()->can('update', $Treatment )) {
-            alert()->error('شما مجوز مورد نظر را ندارید.', 'عدم دسترسی');
-            return redirect()->back();
-        }
-
-        $categories = Category::all();
-        return view('dashboard.Treatments.edit', compact('Treatment', 'categories'));
+        $treatment = Treatment::find($id);
+        return view('dashboard.treatments.edit', compact('treatment'));
     }
 
     /**
@@ -101,23 +93,23 @@ class TreatmentController extends Controller
      */
     public function update(Request $request, $id)
     {
-        if ($request->file('attachment') == null && $request->file('image') == null){
-            $Treatment = Treatment::where('id', $id)->update(['user_id' => Auth::user()->id , 'title' => $request->title, 'description' => $request->description, 'category_id' => $request->category, 'published_at' => $request->published_at, 'telegram' => $request->telegram, 'body' => $request->body ]);
-        }elseif($request->file('image') == null && $request->file('attachment') != null){
-            $attachment = $this->uploadFile($request->file('attachment'));
-            $Treatment = Treatment::where('id', $id)->update(['user_id' => Auth::user()->id , 'title' => $request->title, 'description' => $request->description, 'category_id' => $request->category, 'published_at' => $request->published_at, 'attachment' => "$attachment", 'telegram' => $request->telegram, 'body' => $request->body ]);
-        }elseif($request->file('image') != null && $request->file('attachment') == null){
+        if ($request->file('icon') == null && $request->file('image') == null){
+            $treatment = Treatment::where('id', $id)->update(['name' => $request->name, 'body' => $request->body ]);
+        }elseif($request->file('image') == null && $request->file('icon') != null){
+            $icon = $this->uploadFile($request->file('icon'));
+            $treatment = Treatment::where('id', $id)->update(['name' => $request->name, 'icon' => "$icon", 'body' => $request->body ]);
+        }elseif($request->file('image') != null && $request->file('icon') == null){
             $image = $this->uploadFile($request->file('image'));
-            $Treatment = Treatment::where('id', $id)->update(['user_id' => Auth::user()->id , 'title' => $request->title, 'description' => $request->description, 'category_id' => $request->category, 'published_at' => $request->published_at, 'image' => "$image", 'telegram' => $request->telegram, 'body' => $request->body ]);
-        }elseif($request->file('image') != null && $request->file('attachment') != null){
+            $treatment = Treatment::where('id', $id)->update(['name' => $request->name, 'image' => "$image", 'body' => $request->body ]);
+        }elseif($request->file('image') != null && $request->file('icon') != null){
             $image = $this->uploadFile($request->file('image'));
-            $attachment = $this->uploadFile($request->file('attachment'));
-            $Treatment = Treatment::where('id', $id)->update(['user_id' => Auth::user()->id , 'title' => $request->title, 'description' => $request->description, 'category_id' => $request->category, 'published_at' => $request->published_at, 'image' => "$image",'attachment' => "$attachment", 'telegram' => $request->telegram, 'body' => $request->body ]);
+            $icon = $this->uploadFile($request->file('icon'));
+            $treatment = Treatment::where('id', $id)->update(['name' => $request->name, 'image' => "$image",'icon' => "$icon", 'body' => $request->body ]);
         }
 
 
         alert()->success('درخواست شما با موفقیت انجام شد.', 'انجام شد');
-        return redirect()->route('Treatment.index');
+        return redirect()->route('treatment.index');
 
     }
 
@@ -127,10 +119,10 @@ class TreatmentController extends Controller
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function destroy(Treatment $Treatment, Request $request)
+    public function destroy(Treatment $treatment, Request $request)
     {
 
-//        if (! Auth::user()->can('delete', $Treatment )) {
+//        if (! Auth::user()->can('delete', $treatment )) {
 //            alert()->error('شما مجوز مورد نظر را ندارید.', 'انجام نشد');
 //            return redirect()->back();
 //        }

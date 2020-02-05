@@ -224,6 +224,8 @@
         .icon-ok:before {
             content: '\e808';
         }
+
+
     </style>
     <!-- WRAPPER-->
     <div id="wrapper-content">
@@ -282,7 +284,6 @@
 
 
                                                         <div class="col-sm-2 col-xs-2 col-contact">
-
                                                             <a href="/treatment-view">
                                                                 <div class="media contact-list-media">
                                                                 <div class="media-left">
@@ -544,7 +545,7 @@
                                                                     </div>
                                                                     <ul class="lm-item-list">
                                                                         <li>خدمات CIP<i class="icon-ok"></i></li>
-                                                                        <li>خدمات VIP<<i class="icon-ok"></i></li>
+                                                                        <li>خدمات VIP<i class="icon-ok"></i></li>
                                                                         <li>رزرواسیون<i class="icon-ok"></i></li>
                                                                         <li>ترنسفر<i class="icon-ok"></i></li>
                                                                         <li>هتل ۴ ستاره<i class="icon-cancel"></i></li>

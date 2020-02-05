@@ -22,7 +22,7 @@
                         <div class="page-title-content">
                             <ol class="breadcrumb">
                                 <li><a href="/" class="link home">صفحه اصلی</a></li>
-                                <li><a href="/hotels" class="link">درمان ها</a></li>
+                                <li><a href="/treatments" class="link">درمان ها</a></li>
                             </ol>
                             <div class="clearfix"></div>
                             <h2 style="margin-bottom: 35px;" class="captions">
@@ -85,115 +85,24 @@
                                         <div class="wpb_column vc_column_container vc_col-sm-12">
                                             <div class="vc_column-inner ">
                                                 <div class="wpb_wrapper">
-                                                    <div class="slz-shortcode item-list-style06 item-list-20322406125e273ad44b5af wrapper-journey "
-                                                         data-item=6>
-                                                        <div class="item feature-item"><i
-                                                                    class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text"><a href="{{ route('treatment', $treatment->id) }}">افزایش حجم / پروتز</a></div>
-                                                        </div>
-                                                        <div class="item feature-item"><i
-                                                                    class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text"><a href="{{ route('treatment', $treatment->id) }}">جراحی بینی</a></div>
-                                                        </div>
-                                                        <div class="item feature-item"><i
-                                                                    class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text"><a href="{{ route('treatment', $treatment->id) }}">جراحی زیبایی پلک</a></div>
-                                                        </div>
-                                                        <div class="item feature-item"><i
-                                                                    class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text"><a href="{{ route('treatment', $treatment->id) }}"> لیپوساکشن</a></div>
-                                                        </div>
-                                                        <div class="item feature-item"><i
-                                                                    class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text"><a href="{{ route('treatment', $treatment->id) }}"> ابدومینوپلاستی
-                                                            </a></div>
-                                                        </div>
-                                                        <div class="item feature-item"><i
-                                                                    class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text"><a href="{{ route('treatment', $treatment->id) }}">جراحی زیبایی‌ گوش</a></div>
-                                                        </div>
+                                                    <div class="slz-shortcode item-list-style06 item-list-20322406125e273ad44b5af wrapper-journey " data-item=6>
+
+
+                                                       @foreach ($treatments as $treatment)
+                                                            <div class="item feature-item"><img style="width: 40px; margin: auto; margin-bottom: 10px" src="{{ $treatment->icon }}" alt="">
+                                                                <div class="text"><a style="color: #0e99b6" href="{{ route('treatment', $treatment->id) }}"> {{ $treatment->name }} </a></div>
+                                                            </div>
+                                                       @endforeach
+
+
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="entry-content">
-                                    <div class="vc_row wpb_row vc_row-fluid">
-                                        <div class="wpb_column vc_column_container vc_col-sm-12">
-                                            <div class="vc_column-inner ">
-                                                <div class="wpb_wrapper">
-                                                    <div class="slz-shortcode item-list-style06 item-list-20322406125e273ad44b5af wrapper-journey "
-                                                         data-item=6>
-                                                        <div class="item feature-item"><i
-                                                                    class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text"><a href="{{ route('treatment', $treatment->id) }}">تزریق ژل و چربی</a></div>
-                                                        </div>
-                                                        <div class="item feature-item"><i
-                                                                    class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text"><a href="{{ route('treatment', $treatment->id) }}">برجسته‌سازی گونه</a></div>
-                                                        </div>
-                                                        <div class="item feature-item"><i
-                                                                    class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text"><a href="{{ route('treatment', $treatment->id) }}">جراحی پلکی</a></div>
-                                                        </div>
-                                                        <div class="item feature-item"><i
-                                                                    class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text"><a href="{{ route('treatment', $treatment->id) }}"> بوتاکس</a></div>
-                                                        </div>
-                                                        <div class="item feature-item"><i
-                                                                    class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text"><a href="{{ route('treatment', $treatment->id) }}"> کشیدن صورت
-                                                          </a>  </div>
-                                                        </div>
-                                                        <div class="item feature-item"><i
-                                                                    class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text"><a href="{{ route('treatment', $treatment->id) }}">جراحی فک</a></div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="entry-content">
-                                    <div class="vc_row wpb_row vc_row-fluid">
-                                        <div class="wpb_column vc_column_container vc_col-sm-12">
-                                            <div class="vc_column-inner ">
-                                                <div class="wpb_wrapper">
-                                                    <div class="slz-shortcode item-list-style06 item-list-20322406125e273ad44b5af wrapper-journey "
-                                                         data-item=6>
-                                                        <div class="item feature-item"><i
-                                                                    class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text"><a href="{{ route('treatment', $treatment->id) }}">جراحی قلب</a></div>
-                                                        </div>
-                                                        <div class="item feature-item"><i
-                                                                    class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text"><a href="{{ route('treatment', $treatment->id) }}"> آنژیوگرافی </a></div>
-                                                        </div>
-                                                        <div class="item feature-item"><i
-                                                                    class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text"><a href="{{ route('treatment', $treatment->id) }}">جراحی دندان و لثه</a></div>
-                                                        </div>
-                                                        <div class="item feature-item"><i
-                                                                    class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text"><a href="{{ route('treatment', $treatment->id) }}">جراحی مغز و اعصاب</a></div>
-                                                        </div>
-                                                        <div class="item feature-item"><i
-                                                                    class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text"><a href="{{ route('treatment', $treatment->id) }}">جراحی پلاستیک
-                                                        </a>    </div>
-                                                        </div>
-                                                        <div class="item feature-item"><i
-                                                                    class="fa fa-stethoscope utob-fa"></i>
-                                                            <div class="text"><a href="{{ route('treatment', $treatment->id) }}">جراحی اتوپدی</a></div>
-                                                        </div>
-                                                    </div>
-                                                 </div>
-                                              </div>
-                                            </div>
-                                        </div>
-                                    </div>
+
+
                                 </div>
                             </div>
                         </div>
