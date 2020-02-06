@@ -1,7 +1,11 @@
 @extends('layouts.master')
 
 @section('content')
-
+    <style>
+        input, select{
+            color: black!important;
+        }
+    </style>
     <!-- WRAPPER-->
     <div id="wrapper-content">
         <!-- MAIN CONTENT-->
@@ -36,100 +40,65 @@
                             <div class="register-form bg-w-form rlp-form">
                                 <div class="row">
                                     <div class="col-md-6">
-                                        <label for="regname" class="control-label form-label">
-                                            نام و نام خانوادگی
-                                            <span class="required" aria-required="true">*</span>
-                                        </label>
-                                        <input id="regname" type="text" placeholder="" class="form-control form-input" value="" name="username" >
-                                        <label for="regname" class="username"></label>
+                                        <label for="regname" class="control-label form-label">نام و نام خانوادگی<span class="required" aria-required="true">*</span></label>
+                                        <input  type="text" placeholder="" class="form-control form-input" value="" name="fullName" >
                                     </div>
 
 
                                     <div class="col-md-6">
-                                        <label for="regemail" class="control-label form-label">
-                                            نوع خدمت مورد نظر
-                                            <span class="required" aria-required="true">*</span>
-                                        </label>
-                                        <input id="regemail" type="email" placeholder="" class="form-control form-input" value="" name="email" >
-                                        <label for="regemail" class="email"></label>
+                                        <label for="regemail" class="control-label form-label">نوع خدمت مورد نظر<span class="required" aria-required="true">*</span></label>
+                                        <input type="text"  class="form-control form-input" value="" name="service" >
                                     </div>
 
 
                                     <div class="col-md-6">
-                                        <label for="reregpassword" class="control-label form-label">
-                                            سابقه بیماری های قبلی
-                                            <span class="required" aria-required="true">*</span>
-                                        </label>
-                                        <input  type="password" placeholder="" class="form-control form-input" name="repassword" >
-                                        <label for="reregpassword"></label>
+                                        <label for="reregpassword" class="control-label form-label">سابقه بیماری های قبلی<span class="required" aria-required="true">*</span></label>
+                                        <input type="text"  class="form-control form-input" name="sabeghe" >
                                     </div>
 
 
                                     <div class="col-md-6">
-                                        <label for="reregpassword" class="control-label form-label">
-                                            سابقه جراحی های قبلی
-                                            <span class="required" aria-required="true">*</span>
-                                        </label>
-                                        <input  type="password" placeholder="" class="form-control form-input" name="repassword" >
-                                        <label for="reregpassword"></label>
+                                        <label for="reregpassword" class="control-label form-label">سابقه جراحی های قبلی<span class="required" aria-required="true">*</span></label>
+                                        <input type="text" class="form-control form-input" name="jarahi" >
                                     </div>
 
 
 
                                     <div class="col-md-6">
-                                        <label for="password" class="control-label form-label">
-                                            داروهای مصرفی
-                                            <span class="required" aria-required="true">*</span>
+                                        <label for="password" class="control-label form-label">داروهای مصرفی<span class="required" aria-required="true">*</span>
                                         </label>
-                                        <input  type="password" placeholder="" class="form-control form-input" name="password">
-                                        <label for="password"></label>
+                                        <input  type="text" class="form-control form-input" name="daroo">
                                     </div>
 
                                     <div class="col-md-6">
-                                        <label for="reregpassword" class="control-label form-label">
-                                            تاریخ مورد نظر برای سفر به ایران
-                                            <span class="required" aria-required="true">*</span>
-                                        </label>
-                                        <input id="reregpassword" type="password" placeholder="" class="form-control form-input" name="repassword" >
-                                        <label for="reregpassword"></label>
+                                        <label for="reregpassword" class="control-label form-label">تاریخ مورد نظر برای سفر به ایران<span class="required" aria-required="true">*</span></label>
+                                        <input type="text"  class="form-control form-input datepicker" name="date" >
                                     </div>
 
 
                                     <div class="col-md-6">
-                                        <label for="password" class="control-label form-label">
-                                            خدمات علاقه مند به استفاده
-                                            <span class="required" aria-required="true">*</span>
-                                        </label>
-                                        <input id="password" type="password" placeholder="" class="form-control form-input" name="password">
-                                        <label for="password"></label>
+                                        <label for="password" class="control-label form-label">خدمات علاقه مند به استفاده<span class="required" aria-required="true">*</span></label>
+                                        <input type="text"  class="form-control form-input" name="services">
                                     </div>
 
                                     <div class="col-md-6">
-                                        <label for="reregpassword" class="control-label form-label">
-                                            تصویر
-                                            <span class="required" aria-required="true">*</span>
-                                        </label>
-                                        <input id="reregpassword" type="password" placeholder="" class="form-control form-input" name="repassword" >
-                                        <label for="reregpassword"></label>
+                                        <label for="reregpassword" class="control-label form-label">تصویر<span class="required" aria-required="true">*</span></label>
+                                        <input type="file" class="form-control form-input" name="picture" >
                                     </div>
 
 
                                     <div class="col-md-6">
-                                        <label for="password" class="control-label form-label">
-                                            سن
-                                            <span class="required" aria-required="true">*</span>
-                                        </label>
-                                        <input id="password" type="password" placeholder="" class="form-control form-input" name="password">
-                                        <label for="password"></label>
+                                        <label for="password" class="control-label form-label">سن<span class="required" aria-required="true">*</span></label>
+                                        <input type="number" class="form-control form-input" name="age">
                                     </div>
 
                                     <div class="col-md-6">
-                                        <label for="reregpassword" class="control-label form-label">
-                                            جنسیت
-                                            <span class="required" aria-required="true">*</span>
-                                        </label>
-                                        <input id="reregpassword" type="password" placeholder="" class="form-control form-input" name="repassword" >
-                                        <label for="reregpassword"></label>
+                                        <label for="reregpassword" class="control-label form-label">جنسیت<span class="required" aria-required="true">*</span></label>
+                                        <select name="gender" class="form-control form-input">
+                                            <option selected value="جنسیت خودرا انتخاب نمایید:">جنسیت خودرا انتخاب نمایید:</option>
+                                            <option value="مذکر">مذکر</option>
+                                            <option value="مونث">مونث</option>
+                                        </select>
                                     </div>
 
 
@@ -149,3 +118,19 @@
     <!-- WRAPPER -->
 
 @endsection
+
+@section('footerScripts')
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+    <link rel="stylesheet" href="/vendors/datepicker/persian-datepicker.min.css"/>
+    <script src="/vendors/datepicker/persian-date.min.js"></script>
+    <script src="/vendors/datepicker/persian-datepicker.min.js"></script>
+
+    <!--begin::Page Scripts -->
+    <script>
+        jQuery(document).ready(function () {
+            jQuery(".datepicker").pDatepicker();
+        });
+    </script>
+
+@stop

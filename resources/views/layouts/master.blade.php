@@ -16,23 +16,23 @@
         }
 
 
-        .menu-mobile .dropdown-menu.dropdown-menu-1{
-            background-color: #97dcf1!important;
+        .menu-mobile .dropdown-menu.dropdown-menu-1 {
+            background-color: #97dcf1 !important;
         }
+
         ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
-            color: white!important;
+            color: white !important;
             opacity: 1; /* Firefox */
         }
 
         :-ms-input-placeholder { /* Internet Explorer 10-11 */
-            color: white!important;
+            color: white !important;
         }
 
         ::-ms-input-placeholder { /* Microsoft Edge */
-            color: white!important;
+            color: white !important;
         }
     </style>
-
 
 
     <style type="text/css">
@@ -59,7 +59,8 @@
           href='/wp-content/plugins/contact-form-7/includes/css/styles-rtl8686.css?ver=4.5.1' type='text/css'
           media='all'/>
     <link rel='stylesheet' id='rs-plugin-settings-css'
-          href='/wp-content/plugins/revslider/public/assets/css/settings7923.css?ver=5.3.1' type='text/css' media='all'/>
+          href='/wp-content/plugins/revslider/public/assets/css/settings7923.css?ver=5.3.1' type='text/css'
+          media='all'/>
     <link rel='stylesheet' id='jquery.fancybox-css'
           href='/wp-content/plugins/slzexploore-core/assets/libs/fancybox/css/jquery.fancybox62d0.css?ver=4.5.3'
           type='text/css' media='all'/>
@@ -459,11 +460,12 @@
         .vc_custom_1463027357222 {
             margin-bottom: 0px !important;
         }
-    .wpcf7-form-control{
-        background-color: rgba(255, 255, 255, 0.2)!important;
-        margin-bottom: 10px!important;
-        padding-left: 20px!important;
-    }
+
+        .wpcf7-form-control {
+            background-color: rgba(255, 255, 255, 0.2) !important;
+            margin-bottom: 10px !important;
+            padding-left: 20px !important;
+        }
 
     </style>
     <noscript>
@@ -479,48 +481,58 @@
 
 
     <!-- Modal -->
-    <div class="modal fade" id="freeConsultant" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal fade" id="freeConsultant" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+         aria-hidden="true">
         <div class="modal-dialog" role="document">
             <div class="">
-                    <div style="border-radius: 20px!important;" class="contact-box">
-                        <h5 class="title">فرم درخواست مشاوره رایگان یوتاب مد</h5>
-                        <p class="text">جهت ثبت درخواست تماس، فرم زیر را تکمیل نمایید.</p>
-                        <div role="form" class="wpcf7" id="wpcf7-f46-p45-o1" lang="en" dir="ltr">
-                            <div class="screen-reader-response"></div>
-                            <form action="http://wp.swlabs.co/exploore/?d=rtl#wpcf7-f46-p45-o1" method="post" class="wpcf7-form contact-form" novalidate="novalidate" id="contact-form-6023684715e1ec8d47cbee">
-                                <div style="display: none;">
-                                    <input type="hidden" name="_wpcf7" value="46">
-                                    <input type="hidden" name="_wpcf7_version" value="4.5.1">
-                                    <input type="hidden" name="_wpcf7_locale" value="en">
-                                    <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f46-p45-o1">
-                                    <input type="hidden" name="_wpnonce" value="3d209936a5">
-                                </div>
-                                <p>
+                <div style="border-radius: 20px!important;" class="contact-box">
+                    <h5 class="title">فرم درخواست مشاوره رایگان یوتاب مد</h5>
+                    <p class="text">جهت ثبت درخواست تماس، فرم زیر را تکمیل نمایید.</p>
+                    <div role="form" class="wpcf7" id="wpcf7-f46-p45-o1" lang="en" dir="ltr">
+                        <div class="screen-reader-response"></div>
+                        <form action="http://wp.swlabs.co/exploore/?d=rtl#wpcf7-f46-p45-o1" method="post"
+                              class="wpcf7-form contact-form" novalidate="novalidate"
+                              id="contact-form-6023684715e1ec8d47cbee">
+                            <div style="display: none;">
+                                <input type="hidden" name="_wpcf7" value="46">
+                                <input type="hidden" name="_wpcf7_version" value="4.5.1">
+                                <input type="hidden" name="_wpcf7_locale" value="en">
+                                <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f46-p45-o1">
+                                <input type="hidden" name="_wpnonce" value="3d209936a5">
+                            </div>
+                            <p>
                                     <span class="wpcf7-form-control-wrap your-name">
-                                        <input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control form-input" aria-required="true" aria-invalid="false" placeholder="نام و نام خانوادگی"></span>
+                                        <input type="text" name="your-name" value="" size="40"
+                                               class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control form-input"
+                                               aria-required="true" aria-invalid="false"
+                                               placeholder="نام و نام خانوادگی"></span>
 
-                                    <span class="wpcf7-form-control-wrap your-email">
-                                        <input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form-control form-input" aria-required="true" aria-invalid="false" placeholder="آدرس ایمیل">
+                                <span class="wpcf7-form-control-wrap your-email">
+                                        <input type="email" name="your-email" value="" size="40"
+                                               class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form-control form-input"
+                                               aria-required="true" aria-invalid="false" placeholder="آدرس ایمیل">
                                     </span>
 
-                                    <span class="wpcf7-form-control-wrap your-email">
-                                        <input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form-control form-input" aria-required="true" aria-invalid="false" placeholder="شماره موبایل">
+                                <span class="wpcf7-form-control-wrap your-email">
+                                        <input type="email" name="your-email" value="" size="40"
+                                               class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form-control form-input"
+                                               aria-required="true" aria-invalid="false" placeholder="شماره موبایل">
                                     </span>
 
-                                    <span class="wpcf7-form-control-wrap ">
+                                <span class="wpcf7-form-control-wrap ">
                                         <select class="wpcf7-form-control wpcf7-text form-control form-input">
                                           <option selected value="روش ارتباطی مدنظر را انتخاب نمایید:">روش ارتباطی مدنظر را انتخاب نمایید:</option>
                                           <option value="تلفنی">تلفنی</option>
                                           <option value="ایمیل">ایمیل</option>
                                           <option value="تلگرام">تلگرام</option>
-                                          <option value="واتس اپ" >واتس اپ</option>
-                                          <option value="ایمو" >ایمو</option>
+                                          <option value="واتس اپ">واتس اپ</option>
+                                          <option value="ایمو">ایمو</option>
                                         </select>
 
                                     </span>
 
 
-                                    <span class="wpcf7-form-control-wrap ">
+                                <span class="wpcf7-form-control-wrap ">
                                         <select class="wpcf7-form-control wpcf7-text form-control form-input">
                                             <option selected value="کشور مبدا خود را انتخاب نمایید:">کشور مبدا خود را انتخاب نمایید:</option>
                                             <option value="Afghanistan">Afghanistan</option>
@@ -772,496 +784,493 @@
                                     </span>
 
 
-                                    <span class="wpcf7-form-control-wrap your-subject">
-                                        <textarea name="your-subject" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required form-control form-input" aria-required="true" aria-invalid="false" placeholder="توضیحات"></textarea>
+                                <span class="wpcf7-form-control-wrap your-subject">
+                                        <textarea name="your-subject" cols="40" rows="10"
+                                                  class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required form-control form-input"
+                                                  aria-required="true" aria-invalid="false"
+                                                  placeholder="توضیحات"></textarea>
                                     </span>
 
-                                </p>
-                                <div class="contact-submit">
-                                    <button class="wpcf7-form-control wpcf7-submit btn btn-slide" data-hover="پیام را ارسال کنید" type="submit"><span class="text">ارسال پیام</span><span class="icons fa fa-long-arrow-right"></span></button>
-                                </div>
-                                <div class="wpcf7-response-output wpcf7-display-none"></div>
-                            </form>
-                        </div>
+                            </p>
+                            <div class="contact-submit">
+                                <button class="wpcf7-form-control wpcf7-submit btn btn-slide"
+                                        data-hover="پیام را ارسال کنید" type="submit"><span
+                                            class="text">ارسال پیام</span><span
+                                            class="icons fa fa-long-arrow-right"></span></button>
+                            </div>
+                            <div class="wpcf7-response-output wpcf7-display-none"></div>
+                        </form>
                     </div>
                 </div>
-
             </div>
+
+        </div>
+    </div>
+</div>
+
+
+<!-- MENU MOBILE-->
+<div class="wrapper-mobile-nav">
+    <div class="header-topbar">
+        <div class="topbar-search search-mobile">
+            <form role="search" method="get" class="search-form" action="/">
+                <input type="text" placeholder="عبارت مورد نظر را اینجا وارد کنید ..."
+                       class="search-field search-input form-control searchbox" name="s"/>
+                <button type="submit" class="searchbutton btn-search fa fa-search"></button>
+            </form>
         </div>
     </div>
 
 
+    <div class="header-main">
+        <div class="menu-mobile">
+            <ul id="menu-main-navigation" class="nav-links nav navbar-nav slzexploore-menu">
+                <li id="menu-item-548"
+                    class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-45 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-548 active dropdown menu-item-depth1">
+                    <a class="main-menu" href="/"><i class="fa  "></i>صفحه اصلی<span class="icons-dropdown"><i
+                                    class="fa fa-home"></i></span></a>
+
+                </li>
+                <li id="menu-item-555"
+                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-555 dropdown menu-item-depth1">
+                    <a class="main-menu" href="/treatments"><i class="fa  "></i>بیماری ها<span class="icons-dropdown"><i
+                                    class="fa fa-stethoscope"></i></span></a>
+
+                </li>
+                <li id="menu-item-554"
+                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-554 dropdown menu-item-depth1">
+                    <a class="main-menu" href=""><i class="fa  "></i>پکیج ها<span class="icons-dropdown"><i
+                                    class="fa fa-medkit"></i></span></a>
+
+                </li>
+                <li id="menu-item-1342"
+                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1342 dropdown menu-item-depth1">
+                    <a class="main-menu" href="/doctors"><i class="fa  "></i>پزشکان<span class="icons-dropdown"><i
+                                    class="fa fa-user-md "></i></span></a>
+
+                </li>
+                <li id="menu-item-562"
+                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-562 dropdown menu-item-depth1">
+                    <a class="main-menu" href="/Hospitals"><i class="fa  "></i>بیمارستان ها<span
+                                class="icons-dropdown"><i class="fa fa-hospital-o"></i></span></a>
+
+                </li>
+                <li id="menu-item-562"
+                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-562 dropdown menu-item-depth1">
+                    <a class="main-menu" href="/hotels"><i class="fa  "></i>هتل ها<span
+                                class="icons-dropdown"><i class="fa fa-building-o"></i></span></a>
+
+                </li>
+                <li id="menu-item-536"
+                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-536 dropdown menu-item-depth1">
+                    <a class="main-menu" href="/about"><i class="fa  "></i>خدمات<span class="icons-dropdown"><i
+                                    class="fa fa-angle-down"></i></span></a>
+                    <ul class="dropdown-menu dropdown-menu-1 exploore-dropdown-menu-1">
+                        <li id="menu-item-556"
+                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-556"><a
+                                    class="link-page" href="/login"><i class="fa  "></i>ورود به سیستم</a></li>
+                        <li id="menu-item-556"
+                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-556"><a
+                                    class="link-page" href="/blogs"><i class="fa  "></i>مقالات</a></li>
+                        <li id="menu-item-556"
+                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-556"><a
+                                    class="link-page" href="/services"><i class="fa  "></i>سایر خدمات</a></li>
+
+                    </ul>
+                </li>
+                <li id="menu-item-536"
+                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-536 dropdown menu-item-depth1">
+                    <a class="main-menu" href="/about"><i class="fa  "></i>درباره ما<span
+                                class="label label-danger">شرکت یوتاب مد</span><span class="icons-dropdown"><i
+                                    class="fa fa-angle-down"></i></span></a>
+                    <ul class="dropdown-menu dropdown-menu-1 exploore-dropdown-menu-1">
+                        <li id="menu-item-556"
+                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-556"><a
+                                    class="link-page" href="/customer-Experience"><i class="fa  "></i>مقالات</a></li>
+                        <li id="menu-item-556"
+                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-556"><a
+                                    class="link-page" href="/about"><i class="fa  "></i>درباره ما</a></li>
+
+                    </ul>
+                </li>
+                <li id="menu-item-1239"
+                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1239 mega-menu dropdown">
+                    <a class="main-menu" href="/Contact"><span class="text"><i class="fa  "></i>تماس باما</span><span
+                                class="fa fa-phone icons-dropdown"></span></a>
+
+                </li>
 
 
-    <!-- MENU MOBILE-->
-    <div class="wrapper-mobile-nav">
-        <div class="header-topbar">
-            <div class="topbar-search search-mobile">
-                <form role="search" method="get" class="search-form" action="/">
-                    <input type="text" placeholder="عبارت مورد نظر را اینجا وارد کنید ..."
-                           class="search-field search-input form-control searchbox" name="s"/>
-                    <button type="submit" class="searchbutton btn-search fa fa-search"></button>
-                </form>
-            </div>
-        </div>
-
-
-        <div class="header-main">
-            <div class="menu-mobile">
-                <ul id="menu-main-navigation" class="nav-links nav navbar-nav slzexploore-menu">
-                    <li id="menu-item-548"
-                        class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-45 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-548 active dropdown menu-item-depth1">
-                        <a class="main-menu" href="/"><i class="fa  "></i>صفحه اصلی<span class="icons-dropdown"><i
-                                        class="fa fa-home"></i></span></a>
-
-                    </li>
-                    <li id="menu-item-555"
-                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-555 dropdown menu-item-depth1">
-                        <a class="main-menu" href="/treatments"><i class="fa  "></i>بیماری ها<span class="icons-dropdown"><i
-                                        class="fa fa-stethoscope"></i></span></a>
-
-                    </li>
-                    <li id="menu-item-554"
-                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-554 dropdown menu-item-depth1">
-                        <a class="main-menu" href=""><i class="fa  "></i>پکیج ها<span class="icons-dropdown"><i
-                                        class="fa fa-medkit"></i></span></a>
-
-                    </li>
-                    <li id="menu-item-1342"
-                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1342 dropdown menu-item-depth1">
-                        <a class="main-menu" href="/doctors"><i class="fa  "></i>پزشکان<span class="icons-dropdown"><i
-                                        class="fa fa-user-md "></i></span></a>
-
-                    </li>
-                    <li id="menu-item-562"
-                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-562 dropdown menu-item-depth1">
-                        <a class="main-menu" href="/Hospitals"><i class="fa  "></i>بیمارستان ها<span
-                                    class="icons-dropdown"><i class="fa fa-hospital-o"></i></span></a>
-
-                    </li>
-                    <li id="menu-item-562"
-                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-562 dropdown menu-item-depth1">
-                        <a class="main-menu" href="/hotels"><i class="fa  "></i>هتل ها<span
-                                    class="icons-dropdown"><i class="fa fa-building-o"></i></span></a>
-
-                    </li>
-                    <li id="menu-item-536"
-                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-536 dropdown menu-item-depth1">
-                        <a class="main-menu" href="/about"><i class="fa  "></i>خدمات<span class="icons-dropdown"><i
-                                        class="fa fa-angle-down"></i></span></a>
-                        <ul class="dropdown-menu dropdown-menu-1 exploore-dropdown-menu-1">
-                            <li id="menu-item-556"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-556"><a
-                                        class="link-page" href="/login"><i class="fa  "></i>ورود به سیستم</a></li>
-                            <li id="menu-item-556"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-556"><a
-                                        class="link-page" href="/blogs"><i class="fa  "></i>مقالات</a></li>
-                            <li id="menu-item-556"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-556"><a
-                                        class="link-page" href="/services"><i class="fa  "></i>سایر خدمات</a></li>
-
-                        </ul>
-                    </li>
-                    <li id="menu-item-536"
-                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-536 dropdown menu-item-depth1">
-                        <a class="main-menu" href="/about"><i class="fa  "></i>درباره ما<span
-                                    class="label label-danger">شرکت یوتاب مد</span><span class="icons-dropdown"><i
-                                        class="fa fa-angle-down"></i></span></a>
-                        <ul class="dropdown-menu dropdown-menu-1 exploore-dropdown-menu-1">
-                            <li id="menu-item-556"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-556"><a
-                                        class="link-page" href="/customer-Experience"><i class="fa  "></i>مقالات</a></li>
-                            <li id="menu-item-556"
-                                class="menu-item menu-item-type-post_type menu-item-object-page menu-item-556"><a
-                                        class="link-page" href="/about"><i class="fa  "></i>درباره ما</a></li>
-
-                        </ul>
-                    </li>
-                    <li id="menu-item-1239"
-                        class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1239 mega-menu dropdown">
-                        <a class="main-menu" href="/Contact"><span class="text"><i class="fa  "></i>تماس باما</span><span
-                                    class="fa fa-phone icons-dropdown"></span></a>
-
-                    </li>
-
-
-                </ul>
-            </div>
-            <ul class="topbar-right pull-right list-unstyled list-inline login-widget">
-                <li><a href="" class="monney dropdown-text"><span style="color:#ffffff;">English</span></a></li>
-                <li><a href="" class="item">العربیه</a></li>
-                <li><a href="" class="item">Turkish</a></li>
             </ul>
         </div>
+        <ul class="topbar-right pull-right list-unstyled list-inline login-widget">
+            <li><a href="" class="monney dropdown-text"><span style="color:#ffffff;">English</span></a></li>
+            <li><a href="" class="item">العربیه</a></li>
+            <li><a href="" class="item">Turkish</a></li>
+        </ul>
     </div>
-    <!-- WRAPPER CONTENT-->
-    <div class="wrapper-content">
-        <!-- HEADER-->
-        <header>
-            <div class="bg-transparent header-04">
-                <div class="header-topbar">
-                    <div class="container">
-                        <ul class="topbar-left list-unstyled list-inline pull-left">
-                            <li><a href="" class="monney dropdown-text"><i
-                                            class="topbar-icon fa fa fa-phone"></i><span
-                                            class=" utob-byekan"> 22094188</span></a>
-                            <li><a href="" class="monney dropdown-text"><i
-                                            class="topbar-icon fa fa fa-envelope-o"></i><span
-                                            style="margin-left: 10px;">info@utob.com</span></a>
-                            </li>
-                        </ul>
-                        <ul class="topbar-right pull-right list-unstyled list-inline login-widget">
-                            <li><a href="" class="monney dropdown-text"><span>English</span></a>
-                            </li>
-                            <li><a href="" class="item">العربیه</a></li>
-                            <li><a href="" class="item">Turkish</a></li>
-                        </ul>
-                    </div>
+</div>
+<!-- WRAPPER CONTENT-->
+<div class="wrapper-content">
+    <!-- HEADER-->
+    <header>
+        <div class="bg-transparent header-04">
+            <div class="header-topbar">
+                <div class="container">
+                    <ul class="topbar-left list-unstyled list-inline pull-left">
+                        <li><a href="" class="monney dropdown-text"><i
+                                        class="topbar-icon fa fa fa-phone"></i><span
+                                        class=" utob-byekan"> 22094188</span></a>
+                        <li><a href="" class="monney dropdown-text"><i
+                                        class="topbar-icon fa fa fa-envelope-o"></i><span
+                                        style="margin-left: 10px;">info@utob.com</span></a>
+                        </li>
+                    </ul>
+                    <ul class="topbar-right pull-right list-unstyled list-inline login-widget">
+                        <li><a href="" class="monney dropdown-text"><span>English</span></a>
+                        </li>
+                        <li><a href="" class="item">العربیه</a></li>
+                        <li><a href="" class="item">Turkish</a></li>
+                    </ul>
                 </div>
-                <div class="header-main">
-                    <div class="container">
-                        <div class="header-main-wrapper">
-                            <div class="hamburger-menu">
-                                <div class="hamburger-menu-wrapper">
-                                    <div class="icons"></div>
-                                </div>
+            </div>
+            <div class="header-main">
+                <div class="container">
+                    <div class="header-main-wrapper">
+                        <div class="hamburger-menu">
+                            <div class="hamburger-menu-wrapper">
+                                <div class="icons"></div>
                             </div>
-                            <div class="navbar-header pull-left">
-                                <div class="logo">
-                                    <a href="" class="header-logo">
-                                        <img src="/wp-content/uploads/2016/06/Logo.png" alt=""> </a>
-                                </div>
+                        </div>
+                        <div class="navbar-header pull-left">
+                            <div class="logo">
+                                <a href="" class="header-logo">
+                                    <img src="/wp-content/uploads/2016/06/Logo.png" alt=""> </a>
                             </div>
-                            <nav class="navigation">
-                                <ul id="menu-main-navigation-1" class="nav-links nav navbar-nav slzexploore-menu">
-                                    <li class="{{ request()->is('/') ? 'active' : '' }} menu-item menu-item-type-post_type menu-item-object-page  page_item page-item-45  current_page_parent current_page_ancestor menu-item-has-children menu-item-548 dropdown menu-item-depth1">
-                                        <a class="main-menu" href="/"><i class="fa fa-home utob-font"></i>صفحه اصلی<span
-                                                    class="icons-dropdown"></span></a></li>
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-554 dropdown menu-item-depth1">
-                                        <a class="main-menu" href=""><i class="fa  "></i><i
-                                                    class="fa fa-medkit utob-font"></i>پکیج ها</a></li>
-                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-555 dropdown menu-item-depth1">
-                                                    <a class="main-menu" href="/treatments"><i class="fa  "></i><i
-                                                    class="fa fa-stethoscope utob-font"></i>درمان ها</a></li>
-                                    <li class=" {{ request()->is('*doctors*') ? 'active' : '' }}menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1342 dropdown menu-item-depth1">
-                                        <a class="main-menu" href="/doctors"><i
-                                                    class="fa fa-user-md utob-font"></i>پزشکان</a></li>
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-562 dropdown menu-item-depth1">
-                                        <a class="main-menu" href="/Hospitals"><i
-                                                    class="fa  "></i><i class="fa fa-hospital-o utob-font"></i>بیمارستان
-                                            ها</a></li>
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-562 dropdown menu-item-depth1">
-                                        <a class="main-menu" href="/Customer-Experience"><i
-                                                    class="fa  "></i><i class="fa fa-check-square-o
+                        </div>
+                        <nav class="navigation">
+                            <ul id="menu-main-navigation-1" class="nav-links nav navbar-nav slzexploore-menu">
+                                <li class="{{ request()->is('/') ? 'active' : '' }} menu-item menu-item-type-post_type menu-item-object-page  page_item page-item-45  current_page_parent current_page_ancestor menu-item-has-children menu-item-548 dropdown menu-item-depth1">
+                                    <a class="main-menu" href="/"><i class="fa fa-home utob-font"></i>صفحه اصلی<span
+                                                class="icons-dropdown"></span></a></li>
+                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-554 dropdown menu-item-depth1">
+                                    <a class="main-menu" href=""><i class="fa  "></i><i
+                                                class="fa fa-medkit utob-font"></i>پکیج ها</a></li>
+                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-555 dropdown menu-item-depth1">
+                                    <a class="main-menu" href="/treatments"><i class="fa  "></i><i
+                                                class="fa fa-stethoscope utob-font"></i>درمان ها</a></li>
+                                <li class=" {{ request()->is('*doctors*') ? 'active' : '' }}menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1342 dropdown menu-item-depth1">
+                                    <a class="main-menu" href="{{ route('doctors') }}"><i
+                                                class="fa fa-user-md utob-font"></i>پزشکان</a></li>
+                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-562 dropdown menu-item-depth1">
+                                    <a class="main-menu" href="{{ route('hospitals') }}"><i
+                                                class="fa  "></i><i class="fa fa-hospital-o utob-font"></i>بیمارستان
+                                        ها</a></li>
+                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-562 dropdown menu-item-depth1">
+                                    <a class="main-menu" href="{{ route('experiences') }}"><i
+                                                class="fa  "></i><i class="fa fa-check-square-o
  utob-font"></i>تجربه مشتریان</a></li>
 
 
+                                <li class=" {{ request()->is('*hotels*') ? 'active' : '' }}  menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-555 dropdown menu-item-depth1">
+                                    <a class="main-menu" href="/about"><i class="fa  "></i>خدمات <span
+                                                class="icons-dropdown"><i class="fa fa-angle-down"></i></span></a>
+                                    <ul class="dropdown-menu dropdown-menu-1 exploore-dropdown-menu-1">
+                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-558">
+                                            <a class="link-page" href="/hotels"><i class="fa  "></i>هتل ها</a></li>
+                                        <li class="menu-item menu-item-type-post_type menu-item-object-slzexploore_tour menu-item-1687">
+                                            <a class="link-page" href="/login"><i class="fa  "></i>ورود به سیستم</a>
+                                        </li>
+                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-558">
+                                            <a class="link-page" href="/blog"><i class="fa  "></i>مقالات</a></li>
+
+                                        <li class="menu-item menu-item-type-post_type menu-item-object-slzexploore_tour menu-item-1687">
+                                            <a class="link-page" href="/services"><i class="fa  "></i>سایر خدمات</a>
+                                        </li>
+                                    </ul>
+                                </li>
 
 
-                                    <li class=" {{ request()->is('*hotels*') ? 'active' : '' }}  menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-555 dropdown menu-item-depth1">
-                                        <a class="main-menu" href="/about"><i class="fa  "></i>خدمات <span
-                                                    class="icons-dropdown"><i class="fa fa-angle-down"></i></span></a>
-                                        <ul class="dropdown-menu dropdown-menu-1 exploore-dropdown-menu-1">
-                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-558">
-                                                <a class="link-page" href="/hotels"><i class="fa  "></i>هتل ها</a></li>
-                                                <li class="menu-item menu-item-type-post_type menu-item-object-slzexploore_tour menu-item-1687">
-                                                    <a class="link-page" href="/login"><i class="fa  "></i>ورود به سیستم</a>
-                                                </li>
-                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-558">
-                                                <a class="link-page" href="/blog"><i class="fa  "></i>مقالات</a></li>
+                                <li class=" {{ request()->is('*about*') ? 'active' : '' }} {{ request()->is('*contact*') ? 'active' : '' }}  menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-555 dropdown menu-item-depth1">
+                                    <a class="main-menu" href="/about"><i class="fa  "></i>درباره<span
+                                                class="label label-danger"> یوتاب مد</span><span
+                                                class="icons-dropdown"><i class="fa fa-angle-down"></i></span></a>
+                                    <ul class="dropdown-menu dropdown-menu-1 exploore-dropdown-menu-1">
 
-                                            <li class="menu-item menu-item-type-post_type menu-item-object-slzexploore_tour menu-item-1687">
-                                                <a class="link-page" href="/services"><i class="fa  "></i>سایر خدمات</a>
-                                            </li>
-                                        </ul>
-                                    </li>
+                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1640">
+                                            <a class="link-page" href="/about"><i class="fa  "></i>درباره ما</a>
+                                        </li>
+                                        <li class="menu-item menu-item-type-post_type menu-item-object-slzexploore_tour menu-item-1687">
+                                            <a class="link-page" href="/contact"><i class="fa  "></i>تماس باما</a>
+                                        </li>
+                                    </ul>
+                                </li>
 
 
+                            </ul>
 
+                            <div class="button-search">
+                                <a style="padding: 10px!important;font-size: 13px;" data-toggle="modal"
+                                   data-target="#freeConsultant"
+                                   class="btn btn-maincolor btn-maincolor1-12960595115e1ec8d471431">مشاوره رایگان</a>
+                            </div>
 
-                                    <li class=" {{ request()->is('*about*') ? 'active' : '' }} {{ request()->is('*contact*') ? 'active' : '' }}  menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-555 dropdown menu-item-depth1">
-                                        <a class="main-menu" href="/about"><i class="fa  "></i>درباره<span
-                                                    class="label label-danger"> یوتاب مد</span><span
-                                                    class="icons-dropdown"><i class="fa fa-angle-down"></i></span></a>
-                                        <ul class="dropdown-menu dropdown-menu-1 exploore-dropdown-menu-1">
-
-                                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1640">
-                                                <a class="link-page" href="/about"><i class="fa  "></i>درباره ما</a>
-                                            </li>
-                                            <li class="menu-item menu-item-type-post_type menu-item-object-slzexploore_tour menu-item-1687">
-                                                <a class="link-page" href="/contact"><i class="fa  "></i>تماس باما</a>
-                                            </li>
-                                        </ul>
-                                    </li>
-
-
-
-
-
-
-
-                                </ul>
-
-                                <div class="button-search">
-                                    <a style="padding: 10px!important;font-size: 13px;" data-toggle="modal" data-target="#freeConsultant" class="btn btn-maincolor btn-maincolor1-12960595115e1ec8d471431">مشاوره رایگان</a>
-                                </div>
-
-                            </nav>
-                            <div class="clearfix"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </header>
-
-    @yield('content')
-        <style>
-            .demopop {
-
-                position: fixed;
-                top: 89%;
-                right: 3%;
-                padding: 10px;
-                background: #fffea1;
-                font-family: Yekan;
-                direction: rtl;
-                z-index: 99999;
-                display:block;
-                height: 50px;
-                width: 50px;
-                border-radius: 50%;
-                border: 1px solid red;
-
-            }
-
-        </style>
-
-        <div class="demopop colorChanger"><i style="font-size: 23px;color: #d9534f" class="fa fa-weixin"></i></div>
-
-    <!-- FOOTER-->
-        <footer>
-            <div class="subscribe-email">
-                <div class="container">
-                    <div class="subscribe-email-wrapper">
-                        <div class="subscribe-email-left">
-                            <p class="subscribe-email-title"> جهت اطلاع از آخرین اخبار یوتاب مد در <span class="logo-text">خبر‌نامه</span> عضو
-                                شوید</p>
-                            <p class="subscribe-email-text">نگران نباشید کسی شما را نمی بیند.</p>
-                        </div>
-                        <div class="subscribe-email-right">
-
-
-                            <script type="text/javascript">
-                                //<![CDATA[
-                                if (typeof newsletter_check !== "function") {
-                                    window.newsletter_check = function (f) {
-                                        var re = /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-]{1,})+\.)+([a-zA-Z0-9]{2,})+$/;
-                                        if (!re.test(f.elements["ne"].value)) {
-                                            alert("The email is not correct");
-                                            return false;
-                                        }
-                                        for (var i = 1; i < 20; i++) {
-                                            if (f.elements["np" + i] && f.elements["np" + i].required && f.elements["np" + i].value == "") {
-                                                alert("");
-                                                return false;
-                                            }
-                                        }
-                                        if (f.elements["ny"] && !f.elements["ny"].checked) {
-                                            alert("You must accept the privacy statement");
-                                            return false;
-                                        }
-                                        return true;
-                                    }
-                                }
-                                //]]>
-                            </script>
-
-                            <form action="/?na=s" onsubmit="return newsletter_check(this)" method="post">
-                                <div class="input-group form-subscribe-email"><input type="hidden" name="nr"
-                                                                                     value="widget"/><input
-                                            class="form-control" type="email" required name="ne"
-                                            placeholder="ایمیل خود را وارد کنید"
-                                            onclick="if (this.defaultValue==this.value) this.value=''"
-                                            onblur="if (this.value=='') this.value=this.defaultValue"/><span
-                                            class="input-group-btn-custom"><button type="submit" class="btn-email">&#8594;</button></span>
-                                </div>
-                            </form>
-                        </div>
+                        </nav>
                         <div class="clearfix"></div>
                     </div>
                 </div>
             </div>
-            <div class="footer-main-container">
-                <div class="footer-main padding-top padding-bottom ">
-                    <div class="container">
-                        <div class="footer-main-wrapper">
-                            <a href="" class="logo-footer"><img src="/wp-content/uploads/2016/06/Logo.png"
-                                                                alt="Logo Footer" class="img-responsive"/></a>
-                            <div class="row">
-                                <div class="col-2">
-                                    <div id="footer_c1" class="footer-area col-md-3 col-xs-5">
-                                        <div id="slzexploore_contact-1"
-                                             class="widget_slz_contact slz-widget widget widget-footer">
-                                            <div class="contact-us-widget widget">
-                                                <div class="title-widget">تماس باما</div>
-                                                <div class="content-widget">
-                                                    <div class="info-list utob-byekan">
-                                                        <div><i class="icons fa fa-map-marker"></i><span
-                                                                    class="utob-byekan">سعادت آباد، میدان بهرود، مجتمع اداری پرواز، طبقه دوم، واحد 1</span>
-                                                        </div>
-                                                        <div><i class="icons fa fa-phone"></i><span class="utob-byekan">021-22094188</span>
-                                                        </div>
-                                                        <div><i class="icons fa fa-envelope-o"></i><a class="link"
-                                                                                                      href="mailto:domain@Utob.com"><span>info@utob.com</span></a>
-                                                        </div>
+        </div>
+    </header>
+
+    @yield('content')
+    <style>
+        .demopop {
+
+            position: fixed;
+            top: 89%;
+            right: 3%;
+            padding: 10px;
+            background: #fffea1;
+            font-family: Yekan;
+            direction: rtl;
+            z-index: 99999;
+            display: block;
+            height: 50px;
+            width: 50px;
+            border-radius: 50%;
+            border: 1px solid red;
+
+        }
+
+    </style>
+
+    <div class="demopop colorChanger"><i style="font-size: 23px;color: #d9534f" class="fa fa-weixin"></i></div>
+
+    <!-- FOOTER-->
+    <footer>
+        <div class="subscribe-email">
+            <div class="container">
+                <div class="subscribe-email-wrapper">
+                    <div class="subscribe-email-left">
+                        <p class="subscribe-email-title"> جهت اطلاع از آخرین اخبار یوتاب مد در <span class="logo-text">خبر‌نامه</span> عضو
+                            شوید</p>
+                        <p class="subscribe-email-text">نگران نباشید کسی شما را نمی بیند.</p>
+                    </div>
+                    <div class="subscribe-email-right">
+
+
+                        <script type="text/javascript">
+                            //<![CDATA[
+                            if (typeof newsletter_check !== "function") {
+                                window.newsletter_check = function (f) {
+                                    var re = /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-]{1,})+\.)+([a-zA-Z0-9]{2,})+$/;
+                                    if (!re.test(f.elements["ne"].value)) {
+                                        alert("The email is not correct");
+                                        return false;
+                                    }
+                                    for (var i = 1; i < 20; i++) {
+                                        if (f.elements["np" + i] && f.elements["np" + i].required && f.elements["np" + i].value == "") {
+                                            alert("");
+                                            return false;
+                                        }
+                                    }
+                                    if (f.elements["ny"] && !f.elements["ny"].checked) {
+                                        alert("You must accept the privacy statement");
+                                        return false;
+                                    }
+                                    return true;
+                                }
+                            }
+                            //]]>
+                        </script>
+
+                        <form action="/?na=s" onsubmit="return newsletter_check(this)" method="post">
+                            <div class="input-group form-subscribe-email"><input type="hidden" name="nr"
+                                                                                 value="widget"/><input
+                                        class="form-control" type="email" required name="ne"
+                                        placeholder="ایمیل خود را وارد کنید"
+                                        onclick="if (this.defaultValue==this.value) this.value=''"
+                                        onblur="if (this.value=='') this.value=this.defaultValue"/><span
+                                        class="input-group-btn-custom"><button type="submit"
+                                                                               class="btn-email">&#8594;</button></span>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-main-container">
+            <div class="footer-main padding-top padding-bottom ">
+                <div class="container">
+                    <div class="footer-main-wrapper">
+                        <a href="" class="logo-footer"><img src="/wp-content/uploads/2016/06/Logo.png"
+                                                            alt="Logo Footer" class="img-responsive"/></a>
+                        <div class="row">
+                            <div class="col-2">
+                                <div id="footer_c1" class="footer-area col-md-3 col-xs-5">
+                                    <div id="slzexploore_contact-1"
+                                         class="widget_slz_contact slz-widget widget widget-footer">
+                                        <div class="contact-us-widget widget">
+                                            <div class="title-widget">تماس باما</div>
+                                            <div class="content-widget">
+                                                <div class="info-list utob-byekan">
+                                                    <div><i class="icons fa fa-map-marker"></i><span
+                                                                class="utob-byekan">سعادت آباد، میدان بهرود، مجتمع اداری پرواز، طبقه دوم، واحد 1</span>
+                                                    </div>
+                                                    <div><i class="icons fa fa-phone"></i><span class="utob-byekan">021-22094188</span>
+                                                    </div>
+                                                    <div><i class="icons fa fa-envelope-o"></i><a class="link"
+                                                                                                  href="mailto:domain@Utob.com"><span>info@utob.com</span></a>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div id="slzexploore_newsletter-1"
-                                             class="widget_slzexploore_newsletter slz-widget widget widget-footer">
-                                            <div class="form-email"><p class="text">برای دریافت آخرین به روزرسانی ها و
-                                                    پیشنهادات، در لیست پستی ما ثبت نام کنید.
-                                                </p>
+                                    </div>
+                                    <div id="slzexploore_newsletter-1"
+                                         class="widget_slzexploore_newsletter slz-widget widget widget-footer">
+                                        <div class="form-email"><p class="text">برای دریافت آخرین به روزرسانی ها و
+                                                پیشنهادات، در لیست پستی ما ثبت نام کنید.
+                                            </p>
 
-                                                <script type="text/javascript">
-                                                    //<![CDATA[
-                                                    if (typeof newsletter_check !== "function") {
-                                                        window.newsletter_check = function (f) {
-                                                            var re = /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-]{1,})+\.)+([a-zA-Z0-9]{2,})+$/;
-                                                            if (!re.test(f.elements["ne"].value)) {
-                                                                alert("The email is not correct");
-                                                                return false;
-                                                            }
-                                                            for (var i = 1; i < 20; i++) {
-                                                                if (f.elements["np" + i] && f.elements["np" + i].required && f.elements["np" + i].value == "") {
-                                                                    alert("");
-                                                                    return false;
-                                                                }
-                                                            }
-                                                            if (f.elements["ny"] && !f.elements["ny"].checked) {
-                                                                alert("You must accept the privacy statement");
-                                                                return false;
-                                                            }
-                                                            return true;
+                                            <script type="text/javascript">
+                                                //<![CDATA[
+                                                if (typeof newsletter_check !== "function") {
+                                                    window.newsletter_check = function (f) {
+                                                        var re = /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-]{1,})+\.)+([a-zA-Z0-9]{2,})+$/;
+                                                        if (!re.test(f.elements["ne"].value)) {
+                                                            alert("The email is not correct");
+                                                            return false;
                                                         }
+                                                        for (var i = 1; i < 20; i++) {
+                                                            if (f.elements["np" + i] && f.elements["np" + i].required && f.elements["np" + i].value == "") {
+                                                                alert("");
+                                                                return false;
+                                                            }
+                                                        }
+                                                        if (f.elements["ny"] && !f.elements["ny"].checked) {
+                                                            alert("You must accept the privacy statement");
+                                                            return false;
+                                                        }
+                                                        return true;
                                                     }
-                                                    //]]>
-                                                </script>
+                                                }
+                                                //]]>
+                                            </script>
 
-                                                <form action="/?na=s" onsubmit="return newsletter_check(this)"
-                                                      method="post">
-                                                    <div class="input-group"><input type="hidden" name="nr"
-                                                                                    value="widget"/><input
-                                                                class="form-control form-email-widget" type="email"
-                                                                required name="ne" placeholder="ایمیل خود را وارد کنید"
-                                                                onclick="if (this.defaultValue==this.value) this.value=''"
-                                                                onblur="if (this.value=='') this.value=this.defaultValue"/><span
-                                                                class="input-group-btn-custom"><button type="submit"
-                                                                                                       class="btn-email">&#10004;</button></span>
-                                                    </div>
-                                                </form>
-                                            </div>
+                                            <form action="/?na=s" onsubmit="return newsletter_check(this)"
+                                                  method="post">
+                                                <div class="input-group"><input type="hidden" name="nr"
+                                                                                value="widget"/><input
+                                                            class="form-control form-email-widget" type="email"
+                                                            required name="ne" placeholder="ایمیل خود را وارد کنید"
+                                                            onclick="if (this.defaultValue==this.value) this.value=''"
+                                                            onblur="if (this.value=='') this.value=this.defaultValue"/><span
+                                                            class="input-group-btn-custom"><button type="submit"
+                                                                                                   class="btn-email">&#10004;</button></span>
+                                                </div>
+                                            </form>
                                         </div>
                                     </div>
-                                    <div id="footer_c2" class="footer-area col-md-2 col-xs-3">
-                                        <div id="slzexploore_custom_link-1"
-                                             class="widget_slz_widget_custom_link slz-widget widget widget-footer">
-                                            <div class="booking-widget widget text-center">
-                                                <div class="title-widget">اکنون ثبت کن
-                                                </div>
-                                                <div class="content-widget">
-                                                    <ul class="list-unstyled">
-                                                        <li><a href="/hotels" class="link">هتل</a></li>
-                                                        <li><a href="" class="link">دکتر</a></li>
-                                                        <li><a href="" class="link">پکیج</a></li>
-                                                        <li><a href="" class="link">تور</a></li>
-                                                        <li><a href="" class="link">رفت و آمد</a></li>
-                                                        <li><a href="" class="link">بیمارستان</a></li>
-                                                    </ul>
-                                                </div>
+                                </div>
+                                <div id="footer_c2" class="footer-area col-md-2 col-xs-3">
+                                    <div id="slzexploore_custom_link-1"
+                                         class="widget_slz_widget_custom_link slz-widget widget widget-footer">
+                                        <div class="booking-widget widget text-center">
+                                            <div class="title-widget">اکنون ثبت کن
                                             </div>
-                                        </div>
-                                    </div>
-                                    <div id="footer_c3" class="footer-area col-md-2 col-xs-4">
-                                        <div id="slzexploore_tour-2"
-                                             class="widget_slz_widget_tour slz-widget widget widget-footer">
-                                            <div class="explore-widget widget">
-                                                <div class="title-widget">اخبار و مقالات</div>
-                                                <div class="content-widget">
-                                                    <ul class="list-unstyled">
-                                                        <li><a href="" class="link">درباره
-                                                                ایران</a></li>
-                                                        <li><a href="" class="link">درباره
-                                                                یوتاب مد</a></li>
-                                                        <li><a href="" class="link">درباره
-                                                                بیماری ها</a></li>
-                                                        <li><a href="" class="link">درباره
-                                                                دکتر ها</a></li>
-                                                        <li><a href="" class="link">درباره
-                                                                بیمارستان ها</a></li>
-                                                        <li><a href="" class="link">درباره
-                                                                هتل ها</a></li>
-                                                    </ul>
-                                                </div>
+                                            <div class="content-widget">
+                                                <ul class="list-unstyled">
+                                                    <li><a href="/hotels" class="link">هتل</a></li>
+                                                    <li><a href="" class="link">دکتر</a></li>
+                                                    <li><a href="" class="link">پکیج</a></li>
+                                                    <li><a href="" class="link">تور</a></li>
+                                                    <li><a href="" class="link">رفت و آمد</a></li>
+                                                    <li><a href="" class="link">بیمارستان</a></li>
+                                                </ul>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-2">
-                                    <div id="footer_c4" class="footer-area col-md-2 col-sm-5 col-xs-6">
-                                        <div id="slzexploore_accommodation-2"
-                                             class="widget_slz_widget_accommodation slz-widget widget widget-footer">
-                                            <div class="explore-widget widget">
-                                                <div class="title-widget">فرم درخواست</div>
-                                                <div class="content-widget">
-                                                    <ul class="list-unstyled">
-                                                        <li><a href="" class="link">درخواست مشاوره</a></li>
-                                                        <li><a href=""
-                                                               class="link">فرم تماس</a></li>
-                                                    </ul>
-                                                </div>
+                                <div id="footer_c3" class="footer-area col-md-2 col-xs-4">
+                                    <div id="slzexploore_tour-2"
+                                         class="widget_slz_widget_tour slz-widget widget widget-footer">
+                                        <div class="explore-widget widget">
+                                            <div class="title-widget">اخبار و مقالات</div>
+                                            <div class="content-widget">
+                                                <ul class="list-unstyled">
+                                                    <li><a href="" class="link">درباره
+                                                            ایران</a></li>
+                                                    <li><a href="" class="link">درباره
+                                                            یوتاب مد</a></li>
+                                                    <li><a href="" class="link">درباره
+                                                            بیماری ها</a></li>
+                                                    <li><a href="" class="link">درباره
+                                                            دکتر ها</a></li>
+                                                    <li><a href="" class="link">درباره
+                                                            بیمارستان ها</a></li>
+                                                    <li><a href="" class="link">درباره
+                                                            هتل ها</a></li>
+                                                </ul>
                                             </div>
                                         </div>
                                     </div>
-                                    <div id="footer_c5" class="footer-area col-md-3 col-sm-7 col-xs-6">
-                                        <div id="slzexploore_gallery-1"
-                                             class="widget_slzexploore_gallery slz-widget widget widget-footer">
-                                            <div class="title-widget">گالری تصاویر</div>
-                                            <div class="destination-widget widget">
-                                                <div class="content-widget ">
-                                                    <ul class="list-unstyled list-inline">
-                                                        <li>
-                                                            <a class="thumb" href=""><img width="100" height="100"
-                                                                                          src="/wp-content/uploads/2016/05/es.jpg"
-                                                                                          class="img-responsive"
-                                                                                          alt="hotelbeauti"/></a></li>
-                                                        <li><a class="thumb" href=""><img width="100" height="100"
-                                                                                          src="/wp-content/uploads/2016/05/es.jpg"
-                                                                                          class="img-responsive"
-                                                                                          alt="316_langham_modern_Exterior"/></a>
-                                                        </li>
-                                                        <li><a class="thumb" href=""><img width="100" height="100"
-                                                                                          src="/wp-content/uploads/2016/05/es.jpg"
-                                                                                          class="img-responsive"
-                                                                                          alt="280821"/></a></li>
-                                                        <li><a class="thumb" href=""><img width="100" height="100"
-                                                                                          src="/wp-content/uploads/2016/05/es.jpg"
-                                                                                          class="img-responsive"
-                                                                                          alt="hanoi-top-luxury-hotel"/></a>
-                                                        </li>
-                                                        <li><a class="thumb" href=""><img width="100" height="100"
-                                                                                          src="/wp-content/uploads/2016/05/es.jpg"
-                                                                                          class="img-responsive"
-                                                                                          alt="inntel-zaandam-bigheader1"/></a>
-                                                        </li>
-                                                        <li><a class="thumb" href=""><img width="100" height="100"
-                                                                                          src="/wp-content/uploads/2016/05/es.jpg"
-                                                                                          class="img-responsive"
-                                                                                          alt="Palais-Namaskar-luxury-dream-hotels-01"/></a>
-                                                        </li>
-                                                    </ul>
-                                                </div>
+                                </div>
+                            </div>
+                            <div class="col-2">
+                                <div id="footer_c4" class="footer-area col-md-2 col-sm-5 col-xs-6">
+                                    <div id="slzexploore_accommodation-2"
+                                         class="widget_slz_widget_accommodation slz-widget widget widget-footer">
+                                        <div class="explore-widget widget">
+                                            <div class="title-widget">فرم درخواست</div>
+                                            <div class="content-widget">
+                                                <ul class="list-unstyled">
+                                                    <li><a href="" class="link">درخواست مشاوره</a></li>
+                                                    <li><a href=""
+                                                           class="link">فرم تماس</a></li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="footer_c5" class="footer-area col-md-3 col-sm-7 col-xs-6">
+                                    <div id="slzexploore_gallery-1"
+                                         class="widget_slzexploore_gallery slz-widget widget widget-footer">
+                                        <div class="title-widget">گالری تصاویر</div>
+                                        <div class="destination-widget widget">
+                                            <div class="content-widget ">
+                                                <ul class="list-unstyled list-inline">
+                                                    <li>
+                                                        <a class="thumb" href=""><img width="100" height="100"
+                                                                                      src="/wp-content/uploads/2016/05/es.jpg"
+                                                                                      class="img-responsive"
+                                                                                      alt="hotelbeauti"/></a></li>
+                                                    <li><a class="thumb" href=""><img width="100" height="100"
+                                                                                      src="/wp-content/uploads/2016/05/es.jpg"
+                                                                                      class="img-responsive"
+                                                                                      alt="316_langham_modern_Exterior"/></a>
+                                                    </li>
+                                                    <li><a class="thumb" href=""><img width="100" height="100"
+                                                                                      src="/wp-content/uploads/2016/05/es.jpg"
+                                                                                      class="img-responsive"
+                                                                                      alt="280821"/></a></li>
+                                                    <li><a class="thumb" href=""><img width="100" height="100"
+                                                                                      src="/wp-content/uploads/2016/05/es.jpg"
+                                                                                      class="img-responsive"
+                                                                                      alt="hanoi-top-luxury-hotel"/></a>
+                                                    </li>
+                                                    <li><a class="thumb" href=""><img width="100" height="100"
+                                                                                      src="/wp-content/uploads/2016/05/es.jpg"
+                                                                                      class="img-responsive"
+                                                                                      alt="inntel-zaandam-bigheader1"/></a>
+                                                    </li>
+                                                    <li><a class="thumb" href=""><img width="100" height="100"
+                                                                                      src="/wp-content/uploads/2016/05/es.jpg"
+                                                                                      class="img-responsive"
+                                                                                      alt="Palais-Namaskar-luxury-dream-hotels-01"/></a>
+                                                    </li>
+                                                </ul>
                                             </div>
                                         </div>
                                     </div>
@@ -1271,311 +1280,312 @@
                     </div>
                 </div>
             </div>
-            <div class="hyperlink ">
-                <div class="container">
-                    <div class="slz-shortcode slide-logo-wrapper ">
-                        <div class="logo-item">
-                            <a href="#" class="link">
-                                <img width="110" height="90" src="/wp-content/uploads/2016/06/Logo.png"
-                                     class="img-responsive" alt="logo-02"/>
-                            </a>
-                        </div>
-
-                        <div class="logo-item">
-                            <a href="#" class="link">
-                                <img width="110" height="90" src="/wp-content/uploads/2016/06/Logo.png"
-                                     class="img-responsive" alt="logo-01"/>
-                            </a>
-                        </div>
-
-                        <div class="logo-item">
-                            <a href="#" class="link">
-                                <img width="110" height="90" src="/wp-content/uploads/2016/06/Logo.png"
-                                     class="img-responsive" alt="logo-06"/>
-                            </a>
-                        </div>
-
-                        <div class="logo-item">
-                            <a href="#" class="link">
-                                <img width="110" height="90" src="/wp-content/uploads/2016/06/Logo.png"
-                                     class="img-responsive" alt="logo-05"/>
-                            </a>
-                        </div>
-
-                        <div class="logo-item">
-                            <a href="#" class="link">
-                                <img width="110" height="90" src="/wp-content/uploads/2016/06/Logo.png"
-                                     class="img-responsive" alt="logo-04"/>
-                            </a>
-                        </div>
-
-                        <div class="logo-item">
-                            <a href="#" class="link">
-                                <img width="110" height="90" src="/wp-content/uploads/2016/06/Logo.png"
-                                     class="img-responsive" alt="logo-03"/>
-                            </a>
-                        </div>
-
-                        <div class="logo-item">
-                            <a href="#" class="link">
-                                <img width="110" height="90" src="/wp-content/uploads/2016/06/Logo.png"
-                                     class="img-responsive" alt="logo-02"/>
-                            </a>
-                        </div>
-
-                        <div class="logo-item">
-                            <a href="#" class="link">
-                                <img width="110" height="90" src="/wp-content/uploads/2016/06/Logo.png"
-                                     class="img-responsive" alt="logo-01"/>
-                            </a>
-                        </div>
+        </div>
+        <div class="hyperlink ">
+            <div class="container">
+                <div class="slz-shortcode slide-logo-wrapper ">
+                    <div class="logo-item">
+                        <a href="#" class="link">
+                            <img width="110" height="90" src="/wp-content/uploads/2016/06/Logo.png"
+                                 class="img-responsive" alt="logo-02"/>
+                        </a>
                     </div>
-                    <div class="social-footer">
-                        <ul class="list-inline list-unstyled">
-                            <li><a href="http://facebook.com/" class="link facebook" target="_blank"><i
-                                            class="fa fa-facebook"></i></a></li>
-                            <li><a href="https://plus.google.com/" class="link google-plus" target="_blank"><i
-                                            class="fa fa-google-plus"></i></a></li>
-                            <li><a href="http://twitter.com/" class="link twitter" target="_blank"><i
-                                            class="fa fa-twitter"></i></a></li>
-                            <li><a href="http://instagram.com/" class="link instagram" target="_blank"><i
-                                            class="fa fa-instagram"></i></a></li>
-                            <li><a href="http://dribbble.com/" class="link dribbble" target="_blank"><i
-                                            class="fa fa-dribbble"></i></a></li>
-                            <li><a href="https://pinterest.com/" class="link pinterest" target="_blank"><i
-                                            class="fa fa-pinterest"></i></a></li>
-                        </ul>
+
+                    <div class="logo-item">
+                        <a href="#" class="link">
+                            <img width="110" height="90" src="/wp-content/uploads/2016/06/Logo.png"
+                                 class="img-responsive" alt="logo-01"/>
+                        </a>
                     </div>
-                    <div class="name-company"><span style="color: white">© طراحی شده توسط تیم برنامه نویسی یوتاب مد</span>
+
+                    <div class="logo-item">
+                        <a href="#" class="link">
+                            <img width="110" height="90" src="/wp-content/uploads/2016/06/Logo.png"
+                                 class="img-responsive" alt="logo-06"/>
+                        </a>
+                    </div>
+
+                    <div class="logo-item">
+                        <a href="#" class="link">
+                            <img width="110" height="90" src="/wp-content/uploads/2016/06/Logo.png"
+                                 class="img-responsive" alt="logo-05"/>
+                        </a>
+                    </div>
+
+                    <div class="logo-item">
+                        <a href="#" class="link">
+                            <img width="110" height="90" src="/wp-content/uploads/2016/06/Logo.png"
+                                 class="img-responsive" alt="logo-04"/>
+                        </a>
+                    </div>
+
+                    <div class="logo-item">
+                        <a href="#" class="link">
+                            <img width="110" height="90" src="/wp-content/uploads/2016/06/Logo.png"
+                                 class="img-responsive" alt="logo-03"/>
+                        </a>
+                    </div>
+
+                    <div class="logo-item">
+                        <a href="#" class="link">
+                            <img width="110" height="90" src="/wp-content/uploads/2016/06/Logo.png"
+                                 class="img-responsive" alt="logo-02"/>
+                        </a>
+                    </div>
+
+                    <div class="logo-item">
+                        <a href="#" class="link">
+                            <img width="110" height="90" src="/wp-content/uploads/2016/06/Logo.png"
+                                 class="img-responsive" alt="logo-01"/>
+                        </a>
                     </div>
                 </div>
+                <div class="social-footer">
+                    <ul class="list-inline list-unstyled">
+                        <li><a href="http://facebook.com/" class="link facebook" target="_blank"><i
+                                        class="fa fa-facebook"></i></a></li>
+                        <li><a href="https://plus.google.com/" class="link google-plus" target="_blank"><i
+                                        class="fa fa-google-plus"></i></a></li>
+                        <li><a href="http://twitter.com/" class="link twitter" target="_blank"><i
+                                        class="fa fa-twitter"></i></a></li>
+                        <li><a href="http://instagram.com/" class="link instagram" target="_blank"><i
+                                        class="fa fa-instagram"></i></a></li>
+                        <li><a href="http://dribbble.com/" class="link dribbble" target="_blank"><i
+                                        class="fa fa-dribbble"></i></a></li>
+                        <li><a href="https://pinterest.com/" class="link pinterest" target="_blank"><i
+                                        class="fa fa-pinterest"></i></a></li>
+                    </ul>
+                </div>
+                <div class="name-company"><span style="color: white">© طراحی شده توسط تیم برنامه نویسی یوتاب مد</span>
+                </div>
             </div>
-        </footer>
-    </div>
-    <div class="slz-button-hove-text hide" data-text="پیام را ارسال کنید"></div>
-    <!-- End #page -->
-    <div id="back-top"><a href="#top" class="link"><i class="fa fa-angle-double-up"></i></a></div>
-    <div class="hidden-sm hidden-xs" id="theme-setting">
+        </div>
+    </footer>
+</div>
+<div class="slz-button-hove-text hide" data-text="پیام را ارسال کنید"></div>
+<!-- End #page -->
+<div id="back-top"><a href="#top" class="link"><i class="fa fa-angle-double-up"></i></a></div>
+<div class="hidden-sm hidden-xs" id="theme-setting">
 
 
+</div>
+<link rel='stylesheet' id='slzexploore-custom-inline-css'
+      href='/wp-content/themes/exploore/assets/public/css/slzexploore-custom-inline62d0.css?ver=4.5.3'
+      type='text/css' media='all'/>
+<style id='slzexploore-custom-inline-inline-css' type='text/css'>
+    .main-content .page-banner-2.homepage-02, .main-content .page-banner.homepage-default, .main-content .page-banner-2.homepage-03 {
+        background-image: url(wp-content/uploads/2016/05/home-banner-3.jpg);
+    }
+</style>
+<link rel='stylesheet' id='slzexploore-core-custom-css'
+      href='/wp-content/plugins/slzexploore-core/assets/css/slzexploore-core-customd5f7.css?ver=2.0' type='text/css'
+      media='all'/>
+<style id='slzexploore-core-custom-inline-css' type='text/css'>
+    .block-title-16339022535e1ec8d10ad08 .group-title {
+        margin-bottom: 20px
+    }
 
+    .btn.btn-maincolor.btn-maincolor-346614225e1ec8d10e289 {
+        background-color: transparent;
+    }
 
-    </div>
-    <link rel='stylesheet' id='slzexploore-custom-inline-css'
-          href='/wp-content/themes/exploore/assets/public/css/slzexploore-custom-inline62d0.css?ver=4.5.3'
-          type='text/css' media='all'/>
-    <style id='slzexploore-custom-inline-inline-css' type='text/css'>
-        .main-content .page-banner-2.homepage-02, .main-content .page-banner.homepage-default, .main-content .page-banner-2.homepage-03 {
-            background-image: url(wp-content/uploads/2016/05/home-banner-3.jpg);
-        }
-    </style>
-    <link rel='stylesheet' id='slzexploore-core-custom-css'
-          href='/wp-content/plugins/slzexploore-core/assets/css/slzexploore-core-customd5f7.css?ver=2.0' type='text/css'
-          media='all'/>
-    <style id='slzexploore-core-custom-inline-css' type='text/css'>
-        .block-title-16339022535e1ec8d10ad08 .group-title {
-            margin-bottom: 20px
-        }
+    .btn.btn-maincolor.btn-maincolor-346614225e1ec8d10e289:hover {
+        background-color: #3c3c3c;
+        border: 1px solid #3c3c3c;
+    }
 
-        .btn.btn-maincolor.btn-maincolor-346614225e1ec8d10e289 {
-            background-color: transparent;
-        }
+    .btn.btn-maincolor.btn-maincolor-346614225e1ec8d10e289:hover {
+        color: #ffffff;
+    }
 
-        .btn.btn-maincolor.btn-maincolor-346614225e1ec8d10e289:hover {
-            background-color: #3c3c3c;
-            border: 1px solid #3c3c3c;
-        }
+    .btn.btn-maincolor.btn-maincolor-346614225e1ec8d10e289 {
+        border: 1px solid #c3c3c3;
+    }
 
-        .btn.btn-maincolor.btn-maincolor-346614225e1ec8d10e289:hover {
-            color: #ffffff;
-        }
+    .block-title-20999045555e1ec8d11193a .group-title {
+        margin-bottom: 70px
+    }
 
-        .btn.btn-maincolor.btn-maincolor-346614225e1ec8d10e289 {
-            border: 1px solid #c3c3c3;
-        }
+    .block-10534581085e1ec8d111dc9 .tours-layout .content-wrapper > .content .group-btn-tours .left-btn {
+        border-radius: 50px;
+        padding-right: 25px;
+        border-right: 0;
+    }
 
-        .block-title-20999045555e1ec8d11193a .group-title {
-            margin-bottom: 70px
-        }
+    .btn.btn-maincolor.btn-maincolor-4943618765e1ec8d423916:hover {
+        color: #434a54;
+    }
 
-        .block-10534581085e1ec8d111dc9 .tours-layout .content-wrapper > .content .group-btn-tours .left-btn {
-            border-radius: 50px;
-            padding-right: 25px;
-            border-right: 0;
-        }
+    .banner-20897404385e1ec8d424fb1 {
+        background-image: url("wp-content/uploads/2016/05/Medical-Tourism.jpg");
+    }
 
-        .btn.btn-maincolor.btn-maincolor-4943618765e1ec8d423916:hover {
-            color: #434a54;
-        }
+    .banner-20897404385e1ec8d424fb1 .about-tours {
+        background-image: url("wp-content/uploads/2016/05/bg-section-videos.jpg");
+    }
 
-        .banner-20897404385e1ec8d424fb1 {
-            background-image: url("wp-content/uploads/2016/05/Medical-Tourism.jpg");
-        }
+    .block-title-5219010795e1ec8d427f08 .group-title {
+        margin-bottom: 70px
+    }
 
-        .banner-20897404385e1ec8d424fb1 .about-tours {
-            background-image: url("wp-content/uploads/2016/05/bg-section-videos.jpg");
-        }
+    .sc-block-7758929165e1ec8d428400 .hotel-list .hotels-layout .content-wrapper {
+        background-color: #ffffff;
+    }
 
-        .block-title-5219010795e1ec8d427f08 .group-title {
-            margin-bottom: 70px
-        }
+    .btn.btn-maincolor.btn-maincolor-13949671765e1ec8d4446d9:hover {
+        color: #434a54;
+    }
 
-        .sc-block-7758929165e1ec8d428400 .hotel-list .hotels-layout .content-wrapper {
-            background-color: #ffffff;
-        }
+    .travel-id-6932734695e1ec8d4458ba {
+        background-image: url("wp-content/uploads/2016/05/bg-section-traveler.jpg");
+    }
 
-        .btn.btn-maincolor.btn-maincolor-13949671765e1ec8d4446d9:hover {
-            color: #434a54;
-        }
+    .btn.btn-maincolor1-12960595115e1ec8d471431:hover {
+        color: #434a54;
+    }
 
-        .travel-id-6932734695e1ec8d4458ba {
-            background-image: url("wp-content/uploads/2016/05/bg-section-traveler.jpg");
-        }
+    .btn.btn-maincolor2-12960595115e1ec8d471431 {
+        color: #ffffff;
+    }
 
-        .btn.btn-maincolor1-12960595115e1ec8d471431:hover {
-            color: #434a54;
-        }
+    .btn.btn-maincolor2-12960595115e1ec8d471431 {
+        background-color: transparent;
+        border: 1px solid rgba(0, 0, 0, 0.01);
+    }
 
-        .btn.btn-maincolor2-12960595115e1ec8d471431 {
-            color: #ffffff;
-        }
+    .btn.btn-maincolor2-12960595115e1ec8d471431:hover {
+        background-color: #3c3c3c;
+        border: 1px solid #3c3c3c;
+    }
 
-        .btn.btn-maincolor2-12960595115e1ec8d471431 {
-            background-color: transparent;
-            border: 1px solid rgba(0, 0, 0, 0.01);
-        }
+    .btn.btn-maincolor2-12960595115e1ec8d471431 {
+        border: 1px solid #ffffff;
+    }
 
-        .btn.btn-maincolor2-12960595115e1ec8d471431:hover {
-            background-color: #3c3c3c;
-            border: 1px solid #3c3c3c;
-        }
+    .banner-sale-1 {
+        height: 500px;
+    }
 
-        .btn.btn-maincolor2-12960595115e1ec8d471431 {
-            border: 1px solid #ffffff;
-        }
+    .banner-sale-1 {
+        background-image: url("wp-content/uploads/2016/05/bg-section-banner-1.jpg");
+    }
 
-        .banner-sale-1 {
-            height: 500px;
-        }
+    .banner-sale-1 .title-box {
+        background-image: url("wp-content/uploads/2016/05/bg-section-banner-1.jpg");
+    }
 
-        .banner-sale-1 {
-            background-image: url("wp-content/uploads/2016/05/bg-section-banner-1.jpg");
-        }
+    .block-title-20933987305e1ec8d472f4d .group-title {
+        margin-bottom: 20px
+    }
 
-        .banner-sale-1 .title-box {
-            background-image: url("wp-content/uploads/2016/05/bg-section-banner-1.jpg");
-        }
+    .contact-6023684715e1ec8d47cbee .contact {
+        background-image: url("wp-content/uploads/2016/05/medical-touris.jpg");
+    }
+</style>
+<link rel='stylesheet' id='animate-css-css'
+      href='/wp-content/plugins/js_composer/assets/lib/bower/animate-css/animate.min972f.css?ver=5.0.1'
+      type='text/css' media=''/>
+<script type='text/javascript'
+        src='/wp-content/plugins/contact-form-7/includes/js/jquery.form.mind03d.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'
+        src='/wp-content/plugins/contact-form-7/includes/js/scripts8686.js?ver=4.5.1'></script>
+<script type='text/javascript'
+        src='/wp-content/plugins/slzexploore-core/assets/libs/bootstrap-datepicker/js/bootstrap-datepicker.min62d0.js?ver=4.5.3'></script>
+<script type='text/javascript'
+        src='/wp-content/plugins/slzexploore-core/assets/libs/fancybox/js/jquery.mousewheel-pack62d0.js?ver=4.5.3'></script>
+<script type='text/javascript'
+        src='/wp-content/plugins/slzexploore-core/assets/libs/fancybox/js/jquery.fancybox62d0.js?ver=4.5.3'></script>
+<script type='text/javascript'
+        src='/wp-content/plugins/slzexploore-core/assets/libs/fancybox/js/jquery.fancybox-buttons62d0.js?ver=4.5.3'></script>
+<script type='text/javascript'
+        src='/wp-content/plugins/slzexploore-core/assets/libs/fancybox/js/jquery.fancybox-thumbs62d0.js?ver=4.5.3'></script>
+<script type='text/javascript'
+        src='/wp-content/plugins/slzexploore-core/assets/libs/please-wait/please-wait.min62d0.js?ver=4.5.3'></script>
+<script type='text/javascript'
+        src='/wp-content/plugins/slzexploore-core/assets/libs/wow-js/wow.min62d0.js?ver=4.5.3'></script>
+<script type='text/javascript'
+        src='/wp-content/plugins/slzexploore-core/assets/libs/mouse-direction-aware/jquery.directional-hover62d0.js?ver=4.5.3'></script>
+<script type='text/javascript'
+        src='/wp-content/plugins/slzexploore-core/assets/libs/isotope/isotope.min62d0.js?ver=4.5.3'></script>
+<script type='text/javascript'
+        src='/wp-content/plugins/slzexploore-core/assets/libs/selectbox/js/jquery.selectbox-0.262d0.js?ver=4.5.3'></script>
+<script type='text/javascript'
+        src='/wp-content/plugins/slzexploore-core/assets/libs/select2/js/select2.min62d0.js?ver=4.5.3'></script>
+<script type='text/javascript'
+        src='/wp-content/plugins/slzexploore-core/assets/libs/plus-minus-input/plus-minus-input62d0.js?ver=4.5.3'></script>
+<script type='text/javascript'
+        src='/wp-content/plugins/slzexploore-core/assets/libs/parallax/TweenMax.min62d0.js?ver=4.5.3'></script>
+<script type='text/javascript'
+        src='/wp-content/plugins/slzexploore-core/assets/libs/parallax/jquery-parallax62d0.js?ver=4.5.3'></script>
+<script type='text/javascript'
+        src='/wp-content/plugins/slzexploore-core/assets/libs/slick-slider/slick.min62d0.js?ver=4.5.3'></script>
+<script type='text/javascript'
+        src='/wp-content/plugins/slzexploore-core/assets/libs/nst-slider/js/jquery.nstSlider.min62d0.js?ver=4.5.3'></script>
+<script type='text/javascript'
+        src='http://maps.googleapis.com/maps/api/js?key=AIzaSyBBU_zpkBrGVM46XQG3dUTz87S2Ig8wNvk&amp;libraries=places&amp;ver=4.5.3'></script>
+<script type='text/javascript'
+        src='/wp-content/plugins/slzexploore-core/assets/libs/google-map/markerclusterer62d0.js?ver=4.5.3'></script>
+<script type='text/javascript'
+        src='/wp-content/plugins/slzexploore-core/assets/js/slzexploore-core-formd5f7.js?ver=2.0'></script>
+<script type='text/javascript'
+        src='/wp-content/plugins/slzexploore-core/assets/js/slzexploore-core-shortcoded5f7.js?ver=2.0'></script>
+<script type='text/javascript'
+        src='/wp-content/plugins/slzexploore-core/assets/js/slzexploore-core-mapsd5f7.js?ver=2.0'></script>
+<script type='text/javascript'
+        src='/wp-content/plugins/slzexploore-core/assets/js/slzexploore-core-multi-mapsd5f7.js?ver=2.0'></script>
+<script type='text/javascript'
+        src='/wp-content/plugins/slzexploore-core/assets/js/slzexploore-core-bookingd5f7.js?ver=2.0'></script>
+<script type='text/javascript'
+        src='/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min44fd.js?ver=2.70'></script>
+<script type='text/javascript'
+        src='/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min32bb.js?ver=2.6.14'></script>
+<script type='text/javascript'
+        src='/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min330a.js?ver=1.4.1'></script>
+<script type='text/javascript'
+        src='/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min32bb.js?ver=2.6.14'></script>
+<script type='text/javascript'
+        src='/wp-content/plugins/woocommerce/assets/js/prettyPhoto/jquery.prettyPhoto.minc6bd.js?ver=3.1.5'></script>
+<script type='text/javascript'
+        src='/wp-content/plugins/woocommerce/assets/js/prettyPhoto/jquery.prettyPhoto.init.min32bb.js?ver=2.6.14'></script>
+<script type='text/javascript'
+        src='/wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.selectBox.min7359.js?ver=1.2.0'></script>
+<script type='text/javascript'
+        src='/wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.yith-wcwl9c6b.js?ver=2.0.16'></script>
+<script type='text/javascript' src='/wp-content/themes/exploore/js/skip-link-focus-fix08e0.js?ver=20130115'></script>
 
-        .block-title-20933987305e1ec8d472f4d .group-title {
-            margin-bottom: 20px
-        }
+<script type='text/javascript'
+        src='/wp-content/themes/exploore/assets/public/libs/bootstrap/js/bootstrap.min62d0.js?ver=4.5.3'></script>
+<script type='text/javascript'
+        src='/wp-content/themes/exploore/assets/public/libs/background-video/video-bg62d0.js?ver=4.5.3'></script>
+<script type='text/javascript'
+        src='/wp-content/themes/exploore/assets/public/libs/detect-browser/browser62d0.js?ver=4.5.3'></script>
+<script type='text/javascript'
+        src='/wp-content/themes/exploore/assets/public/libs/validation/js/jquery.validate.min62d0.js?ver=4.5.3'></script>
+<script type='text/javascript'
+        src='/wp-content/themes/exploore/assets/public/js/slzexploore-maind5f7.js?ver=2.0'></script>
+<script type='text/javascript'
+        src='/wp-content/themes/exploore/assets/public/js/slzexploore-customd5f7.js?ver=2.0'></script>
+<script type='text/javascript'
+        src='/wp-content/themes/exploore/assets/public/js/slzexploore-ajaxd5f7.js?ver=2.0'></script>
+<script type='text/javascript'
+        src='/wp-content/plugins/contact-form-7/includes/js/jquery.form.mind03d.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'
+        src='/wp-content/plugins/contact-form-7/includes/js/scripts8686.js?ver=4.5.1'></script>
+<script type='text/javascript'
+        src='/wp-content/themes/exploore/assets/public/js/slzexploore-woocommerced5f7.js?ver=2.0'></script>
+<script type='text/javascript' src='/wp-content/plugins/newsletter/subscription/validate8bc9.js?ver=6.0.7'></script>
+<script type='text/javascript' src='/wp-includes/js/wp-embed.min62d0.js?ver=4.5.3'></script>
+<script type='text/javascript'
+        src='/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min972f.js?ver=5.0.1'></script>
+<script type='text/javascript'
+        src='/wp-content/plugins/js_composer/assets/lib/waypoints/waypoints.min972f.js?ver=5.0.1'></script>
+<script type='text/javascript'
+        src='/wp-content/themes/exploore/assets/public/js/slz-livesettingd5f7.js?ver=2.0'></script>
 
-        .contact-6023684715e1ec8d47cbee .contact {
-            background-image: url("wp-content/uploads/2016/05/medical-touris.jpg");
-        }
-    </style>
-    <link rel='stylesheet' id='animate-css-css'
-          href='/wp-content/plugins/js_composer/assets/lib/bower/animate-css/animate.min972f.css?ver=5.0.1'
-          type='text/css' media=''/>
-    <script type='text/javascript'
-            src='/wp-content/plugins/contact-form-7/includes/js/jquery.form.mind03d.js?ver=3.51.0-2014.06.20'></script>
-    <script type='text/javascript'
-            src='/wp-content/plugins/contact-form-7/includes/js/scripts8686.js?ver=4.5.1'></script>
-    <script type='text/javascript'
-            src='/wp-content/plugins/slzexploore-core/assets/libs/bootstrap-datepicker/js/bootstrap-datepicker.min62d0.js?ver=4.5.3'></script>
-    <script type='text/javascript'
-            src='/wp-content/plugins/slzexploore-core/assets/libs/fancybox/js/jquery.mousewheel-pack62d0.js?ver=4.5.3'></script>
-    <script type='text/javascript'
-            src='/wp-content/plugins/slzexploore-core/assets/libs/fancybox/js/jquery.fancybox62d0.js?ver=4.5.3'></script>
-    <script type='text/javascript'
-            src='/wp-content/plugins/slzexploore-core/assets/libs/fancybox/js/jquery.fancybox-buttons62d0.js?ver=4.5.3'></script>
-    <script type='text/javascript'
-            src='/wp-content/plugins/slzexploore-core/assets/libs/fancybox/js/jquery.fancybox-thumbs62d0.js?ver=4.5.3'></script>
-    <script type='text/javascript'
-            src='/wp-content/plugins/slzexploore-core/assets/libs/please-wait/please-wait.min62d0.js?ver=4.5.3'></script>
-    <script type='text/javascript'
-            src='/wp-content/plugins/slzexploore-core/assets/libs/wow-js/wow.min62d0.js?ver=4.5.3'></script>
-    <script type='text/javascript'
-            src='/wp-content/plugins/slzexploore-core/assets/libs/mouse-direction-aware/jquery.directional-hover62d0.js?ver=4.5.3'></script>
-    <script type='text/javascript'
-            src='/wp-content/plugins/slzexploore-core/assets/libs/isotope/isotope.min62d0.js?ver=4.5.3'></script>
-    <script type='text/javascript'
-            src='/wp-content/plugins/slzexploore-core/assets/libs/selectbox/js/jquery.selectbox-0.262d0.js?ver=4.5.3'></script>
-    <script type='text/javascript'
-            src='/wp-content/plugins/slzexploore-core/assets/libs/select2/js/select2.min62d0.js?ver=4.5.3'></script>
-    <script type='text/javascript'
-            src='/wp-content/plugins/slzexploore-core/assets/libs/plus-minus-input/plus-minus-input62d0.js?ver=4.5.3'></script>
-    <script type='text/javascript'
-            src='/wp-content/plugins/slzexploore-core/assets/libs/parallax/TweenMax.min62d0.js?ver=4.5.3'></script>
-    <script type='text/javascript'
-            src='/wp-content/plugins/slzexploore-core/assets/libs/parallax/jquery-parallax62d0.js?ver=4.5.3'></script>
-    <script type='text/javascript'
-            src='/wp-content/plugins/slzexploore-core/assets/libs/slick-slider/slick.min62d0.js?ver=4.5.3'></script>
-    <script type='text/javascript'
-            src='/wp-content/plugins/slzexploore-core/assets/libs/nst-slider/js/jquery.nstSlider.min62d0.js?ver=4.5.3'></script>
-    <script type='text/javascript'
-            src='http://maps.googleapis.com/maps/api/js?key=AIzaSyBBU_zpkBrGVM46XQG3dUTz87S2Ig8wNvk&amp;libraries=places&amp;ver=4.5.3'></script>
-    <script type='text/javascript'
-            src='/wp-content/plugins/slzexploore-core/assets/libs/google-map/markerclusterer62d0.js?ver=4.5.3'></script>
-    <script type='text/javascript'
-            src='/wp-content/plugins/slzexploore-core/assets/js/slzexploore-core-formd5f7.js?ver=2.0'></script>
-    <script type='text/javascript'
-            src='/wp-content/plugins/slzexploore-core/assets/js/slzexploore-core-shortcoded5f7.js?ver=2.0'></script>
-    <script type='text/javascript'
-            src='/wp-content/plugins/slzexploore-core/assets/js/slzexploore-core-mapsd5f7.js?ver=2.0'></script>
-    <script type='text/javascript'
-            src='/wp-content/plugins/slzexploore-core/assets/js/slzexploore-core-multi-mapsd5f7.js?ver=2.0'></script>
-    <script type='text/javascript'
-            src='/wp-content/plugins/slzexploore-core/assets/js/slzexploore-core-bookingd5f7.js?ver=2.0'></script>
-    <script type='text/javascript'
-            src='/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min44fd.js?ver=2.70'></script>
-    <script type='text/javascript'
-            src='/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min32bb.js?ver=2.6.14'></script>
-    <script type='text/javascript'
-            src='/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min330a.js?ver=1.4.1'></script>
-    <script type='text/javascript'
-            src='/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min32bb.js?ver=2.6.14'></script>
-    <script type='text/javascript'
-            src='/wp-content/plugins/woocommerce/assets/js/prettyPhoto/jquery.prettyPhoto.minc6bd.js?ver=3.1.5'></script>
-    <script type='text/javascript'
-            src='/wp-content/plugins/woocommerce/assets/js/prettyPhoto/jquery.prettyPhoto.init.min32bb.js?ver=2.6.14'></script>
-    <script type='text/javascript'
-            src='/wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.selectBox.min7359.js?ver=1.2.0'></script>
-    <script type='text/javascript'
-            src='/wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.yith-wcwl9c6b.js?ver=2.0.16'></script>
-    <script type='text/javascript' src='/wp-content/themes/exploore/js/skip-link-focus-fix08e0.js?ver=20130115'></script>
-    <script type='text/javascript'
-            src='/wp-content/themes/exploore/assets/public/libs/bootstrap/js/bootstrap.min62d0.js?ver=4.5.3'></script>
-    <script type='text/javascript'
-            src='/wp-content/themes/exploore/assets/public/libs/background-video/video-bg62d0.js?ver=4.5.3'></script>
-    <script type='text/javascript'
-            src='/wp-content/themes/exploore/assets/public/libs/detect-browser/browser62d0.js?ver=4.5.3'></script>
-    <script type='text/javascript'
-            src='/wp-content/themes/exploore/assets/public/libs/validation/js/jquery.validate.min62d0.js?ver=4.5.3'></script>
-    <script type='text/javascript'
-            src='/wp-content/themes/exploore/assets/public/js/slzexploore-maind5f7.js?ver=2.0'></script>
-    <script type='text/javascript'
-            src='/wp-content/themes/exploore/assets/public/js/slzexploore-customd5f7.js?ver=2.0'></script>
-    <script type='text/javascript'
-            src='/wp-content/themes/exploore/assets/public/js/slzexploore-ajaxd5f7.js?ver=2.0'></script>
-    <script type='text/javascript'
-            src='/wp-content/plugins/contact-form-7/includes/js/jquery.form.mind03d.js?ver=3.51.0-2014.06.20'></script>
-    <script type='text/javascript'
-            src='/wp-content/plugins/contact-form-7/includes/js/scripts8686.js?ver=4.5.1'></script>
-    <script type='text/javascript'
-            src='/wp-content/themes/exploore/assets/public/js/slzexploore-woocommerced5f7.js?ver=2.0'></script>
-    <script type='text/javascript' src='/wp-content/plugins/newsletter/subscription/validate8bc9.js?ver=6.0.7'></script>
-    <script type='text/javascript' src='/wp-includes/js/wp-embed.min62d0.js?ver=4.5.3'></script>
-    <script type='text/javascript'
-            src='/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min972f.js?ver=5.0.1'></script>
-    <script type='text/javascript'
-            src='/wp-content/plugins/js_composer/assets/lib/waypoints/waypoints.min972f.js?ver=5.0.1'></script>
-    <script type='text/javascript'
-            src='/wp-content/themes/exploore/assets/public/js/slz-livesettingd5f7.js?ver=2.0'></script>
-
+@yield('footerScripts')
 <script>
     var flag = false;
-    setInterval(function() {
+    setInterval(function () {
         flag = !flag;
         jQuery(".colorChanger").css("background", flag ? "#ffdd00" : "white");
         jQuery(".colorChanger").css("background", flag ? "white" : "#ffdd00");

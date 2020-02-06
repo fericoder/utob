@@ -280,8 +280,13 @@
                                         <div class="vc_row wpb_row vc_row-fluid vc_custom_1463096648310">
                                             <div class="col-md-12 col-sm-12 col-xs-12">
                                                 <div class="slz-shortcode about-us-wrapper  team-single-10916117745e2fecfb37056">
+                                                    <div class="group-title">
+                                                        <div class="sub-title"><p class="text">درمان ها</p>
+                                                            <i class="icons flaticon-people"></i>
+                                                        </div>
+                                                        <h2 class="main-title">درمان ها</h2>
+                                                    </div>
                                                     <div class="row group-list contact-list">
-
 
                                                         <div class="col-sm-2 col-xs-2 col-contact">
                                                             <a href="/treatment-view">
@@ -508,7 +513,7 @@
 
 
                                         <div class="vc_row wpb_row vc_row-fluid vc_custom_1463096648310">
-                                            <div class="slz_col-sm-12 wpb_column vc_column_container vc_col-sm-7">
+                                            <div class="slz_col-sm-12 wpb_column vc_column_container vc_col-sm-12">
                                                 <div class="vc_column-inner vc_custom_1468574547376">
                                                     <div class="wpb_wrapper">
                                                         <div class="slz-shortcode block-title-16339022535e1ec8d10ad08 ">
@@ -583,7 +588,7 @@
                                                                 <div class="lm-item-bottom">انتخاب اکثر مشتریان</div>
                                                             </div>
                                                             <div class="lm-item lm-item-3">
-                                                                <div class="lm-item-top"><span style="font-family: iranyekan" class="lm-item-title lm-underline">حرفه ای</span>
+                                                                <div class="lm-item-top"><span style="font-family: iranyekan" class="lm-item-title lm-underline">عمل بینی</span>
                                                                     <div class="lm-item-price"><i class="icon-dollar"></i>3100 دلار</div>
                                                                 </div>
                                                                 <div class="lm-item-body">
