@@ -519,18 +519,35 @@
                                                aria-required="true" aria-invalid="false" placeholder="شماره موبایل">
                                     </span>
 
+                                <span style="color: white; float: right; text-align: right" class="wpcf7-form-control-wrap ">
+                                    روش ارتباطی:
+                                      <input style="margin-right: 10px;" type="checkbox" name="تلفنی" value="تلفنی" checked>
+                                      <label for="تلفنی"> تلفنی</label>
+                                      <input style="margin-right: 10px;" type="checkbox" name="ایمیل" value="ایمیل" checked>
+                                      <label for="ایمیل"> ایمیل</label>
+                                      <input style="margin-right: 10px;" type="checkbox" name="تلگرام" value="تلگرام" checked>
+                                      <label for="تلگرام"> تلگرام</label>
+                                      <input style="margin-right: 10px;" type="checkbox" name="واتس اپ" value="واتس اپ" checked>
+                                      <label for="واتس اپ"> واتس اپ</label>
+                                      <input style="margin-right: 10px;" type="checkbox" name="ایمو" value="ایمو" >
+                                      <label for="ایمو"> ایمو</label>
+                                      <input style="margin-right: 10px;" type="checkbox" name="فیس تایم" value="فیس تایم" >
+                                      <label for="فیس تایم"> فیس تایم</label>
+                                        <br>
+                                    </span>
+
+
                                 <span class="wpcf7-form-control-wrap ">
                                         <select class="wpcf7-form-control wpcf7-text form-control form-input">
-                                          <option selected value="روش ارتباطی مدنظر را انتخاب نمایید:">روش ارتباطی مدنظر را انتخاب نمایید:</option>
-                                          <option value="تلفنی">تلفنی</option>
-                                          <option value="ایمیل">ایمیل</option>
-                                          <option value="تلگرام">تلگرام</option>
-                                          <option value="واتس اپ">واتس اپ</option>
-                                          <option value="ایمو">ایمو</option>
+                                            <option selected value="خدمت مورد نظر را انتخاب نمایید:">نوع خدمت مورد نظر:</option>
+                                            <option value="زنان و ناباروری">زنان و ناباروری</option>
+                                            <option value="جراحی بینی">جراحی بینی</option>
+                                            <option value="پروتز">پروتز</option>
+                                            <option value="زیبایی">زیبایی</option>
+                                            <option value="جراحی گوش">جراحی گوش</option>
                                         </select>
 
                                     </span>
-
 
                                 <span class="wpcf7-form-control-wrap ">
                                         <select class="wpcf7-form-control wpcf7-text form-control form-input">
@@ -785,7 +802,7 @@
 
 
                                 <span class="wpcf7-form-control-wrap your-subject">
-                                        <textarea name="your-subject" cols="40" rows="10"
+                                        <textarea name="your-subject" cols="40" rows="3"
                                                   class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required form-control form-input"
                                                   aria-required="true" aria-invalid="false"
                                                   placeholder="توضیحات"></textarea>
@@ -886,7 +903,7 @@
                     <ul class="dropdown-menu dropdown-menu-1 exploore-dropdown-menu-1">
                         <li id="menu-item-556"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-556"><a
-                                    class="link-page" href="/customer-Experience"><i class="fa  "></i>مقالات</a></li>
+                                    class="link-page" href="/blogs"><i class="fa  "></i>مقالات</a></li>
                         <li id="menu-item-556"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-556"><a
                                     class="link-page" href="/about"><i class="fa  "></i>درباره ما</a></li>
@@ -920,10 +937,10 @@
                     <ul class="topbar-left list-unstyled list-inline pull-left">
                         <li><a href="" class="monney dropdown-text"><i
                                         class="topbar-icon fa fa fa-phone"></i><span
-                                        class=" utob-byekan"> 22094188</span></a>
+                                        class=" utob-byekan"> 982122094188</span></a>
                         <li><a href="" class="monney dropdown-text"><i
                                         class="topbar-icon fa fa fa-envelope-o"></i><span
-                                        style="margin-left: 10px;">info@utob.com</span></a>
+                                        style="margin-left: 10px;">info@utobmed.com</span></a>
                         </li>
                     </ul>
                     <ul class="topbar-right pull-right list-unstyled list-inline login-widget">
@@ -982,7 +999,7 @@
                                             <a class="link-page" href="/login"><i class="fa  "></i>ورود به سیستم</a>
                                         </li>
                                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-558">
-                                            <a class="link-page" href="/blog"><i class="fa  "></i>مقالات</a></li>
+                                            <a class="link-page" href="/blogs"><i class="fa  "></i>مقالات</a></li>
 
                                         <li class="menu-item menu-item-type-post_type menu-item-object-slzexploore_tour menu-item-1687">
                                             <a class="link-page" href="/services"><i class="fa  "></i>سایر خدمات</a>
@@ -1024,28 +1041,12 @@
     </header>
 
     @yield('content')
-    <style>
-        .demopop {
 
-            position: fixed;
-            top: 89%;
-            right: 3%;
-            padding: 10px;
-            background: #fffea1;
-            font-family: Yekan;
-            direction: rtl;
-            z-index: 99999;
-            display: block;
-            height: 50px;
-            width: 50px;
-            border-radius: 50%;
-            border: 1px solid red;
-
-        }
-
-    </style>
-
-    <div class="demopop colorChanger"><i style="font-size: 23px;color: #d9534f" class="fa fa-weixin"></i></div>
+    <!---begin GOFTINO code--->
+    <script type="text/javascript">
+        !function(){var g=document.createElement("script"),s="https://www.goftino.com/widget/ZNrRGk",e=document.getElementsByTagName("script")[0];g.type="text/javascript";g.async=!0;g.src=localStorage.getItem("goftino")?s+"?o="+localStorage.getItem("goftino"):s;e.parentNode.insertBefore(g,e);}();
+    </script>
+    <!---end GOFTINO code--->
 
     <!-- FOOTER-->
     <footer>
@@ -1281,85 +1282,7 @@
                 </div>
             </div>
         </div>
-        <div class="hyperlink ">
-            <div class="container">
-                <div class="slz-shortcode slide-logo-wrapper ">
-                    <div class="logo-item">
-                        <a href="#" class="link">
-                            <img width="110" height="90" src="/wp-content/uploads/2016/06/Logo.png"
-                                 class="img-responsive" alt="logo-02"/>
-                        </a>
-                    </div>
 
-                    <div class="logo-item">
-                        <a href="#" class="link">
-                            <img width="110" height="90" src="/wp-content/uploads/2016/06/Logo.png"
-                                 class="img-responsive" alt="logo-01"/>
-                        </a>
-                    </div>
-
-                    <div class="logo-item">
-                        <a href="#" class="link">
-                            <img width="110" height="90" src="/wp-content/uploads/2016/06/Logo.png"
-                                 class="img-responsive" alt="logo-06"/>
-                        </a>
-                    </div>
-
-                    <div class="logo-item">
-                        <a href="#" class="link">
-                            <img width="110" height="90" src="/wp-content/uploads/2016/06/Logo.png"
-                                 class="img-responsive" alt="logo-05"/>
-                        </a>
-                    </div>
-
-                    <div class="logo-item">
-                        <a href="#" class="link">
-                            <img width="110" height="90" src="/wp-content/uploads/2016/06/Logo.png"
-                                 class="img-responsive" alt="logo-04"/>
-                        </a>
-                    </div>
-
-                    <div class="logo-item">
-                        <a href="#" class="link">
-                            <img width="110" height="90" src="/wp-content/uploads/2016/06/Logo.png"
-                                 class="img-responsive" alt="logo-03"/>
-                        </a>
-                    </div>
-
-                    <div class="logo-item">
-                        <a href="#" class="link">
-                            <img width="110" height="90" src="/wp-content/uploads/2016/06/Logo.png"
-                                 class="img-responsive" alt="logo-02"/>
-                        </a>
-                    </div>
-
-                    <div class="logo-item">
-                        <a href="#" class="link">
-                            <img width="110" height="90" src="/wp-content/uploads/2016/06/Logo.png"
-                                 class="img-responsive" alt="logo-01"/>
-                        </a>
-                    </div>
-                </div>
-                <div class="social-footer">
-                    <ul class="list-inline list-unstyled">
-                        <li><a href="http://facebook.com/" class="link facebook" target="_blank"><i
-                                        class="fa fa-facebook"></i></a></li>
-                        <li><a href="https://plus.google.com/" class="link google-plus" target="_blank"><i
-                                        class="fa fa-google-plus"></i></a></li>
-                        <li><a href="http://twitter.com/" class="link twitter" target="_blank"><i
-                                        class="fa fa-twitter"></i></a></li>
-                        <li><a href="http://instagram.com/" class="link instagram" target="_blank"><i
-                                        class="fa fa-instagram"></i></a></li>
-                        <li><a href="http://dribbble.com/" class="link dribbble" target="_blank"><i
-                                        class="fa fa-dribbble"></i></a></li>
-                        <li><a href="https://pinterest.com/" class="link pinterest" target="_blank"><i
-                                        class="fa fa-pinterest"></i></a></li>
-                    </ul>
-                </div>
-                <div class="name-company"><span style="color: white">© طراحی شده توسط تیم برنامه نویسی یوتاب مد</span>
-                </div>
-            </div>
-        </div>
     </footer>
 </div>
 <div class="slz-button-hove-text hide" data-text="پیام را ارسال کنید"></div>

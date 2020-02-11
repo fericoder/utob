@@ -38,230 +38,28 @@
                                                             <h3 class="title-style-2">لیست پزشکان یوتاب مد</h3></div>
                                                         <div class="slz-shortcode row ">
                                                             <div class="wrapper-organization teamlist-1463878591">
-                                                                <div class="row-3">
 
-
+                                                                @foreach ($doctors as $doctor)
                                                                     <div class="col-md-4 col-sm-4 col-xs-3 md-organization">
                                                                         <div class="content-organization">
                                                                             <div class="wrapper-img">
-                                                                                <a href=""><img
+                                                                                <a href="{{route('doctor', $doctor->id )  }}">
+                                                                                    <img
                                                                                             width="200" height="200"
-                                                                                            src="/wp-content/uploads/2016/05/dr.png"
+                                                                                            src="{{ $doctor->avatar }}"
                                                                                             class="img img-responsives"
-                                                                                            alt="avatar-contact-1"/></a>
+                                                                                            alt="avatar-contact-1"/>
                                                                             </div>
                                                                             <div class="main-organization">
                                                                                 <div class="organization-title">
-                                                                                    <a href="" class="title">رضا رضایی، تهران</a>
-                                                                                    <p class="text">فوق تخصص زیبایی</p>
-                                                                                </div>
-                                                                                <div class="content-widget">
-                                                                                    <div class="info-list">
-                                                                                        <ul class="list-unstyled">
-
-                                                                                            {{--<li class="main-list"><i--}}
-                                                                                                        {{--class="icons fa fa-phone"></i><span--}}
-                                                                                                        {{--class="link">021-22094188</span>--}}
-                                                                                            {{--</li>--}}
-                                                                                            {{--<li class="main-list"><i--}}
-                                                                                                        {{--class="icons fa fa-envelope-o"></i><span--}}
-                                                                                                        {{--class="link">info@utob.com</span>--}}
-                                                                                            {{--</li>--}}
-
-                                                                                        </ul>
-                                                                                    </div>
+                                                                                    {{ $doctor->fullName }}
+                                                                                    <p class="text">{{ $doctor->title }}</p>
+                                                                                    </a>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
                                                                     </div>
-
-
-                                                                    <div class="col-md-4 col-sm-4 col-xs-3 md-organization">
-                                                                        <div class="content-organization">
-                                                                            <div class="wrapper-img">
-                                                                                <a href=""><img
-                                                                                            width="200" height="200"
-                                                                                            src="/wp-content/uploads/2016/05/dr.png"
-                                                                                            class="img img-responsives"
-                                                                                            alt="avatar-contact-1"/></a>
-                                                                            </div>
-                                                                            <div class="main-organization">
-                                                                                <div class="organization-title">
-                                                                                    <a href="" class="title">رضا رضایی، تهران</a>
-                                                                                    <p class="text">فوق تخصص زیبایی</p>
-                                                                                </div>
-                                                                                <div class="content-widget">
-                                                                                    <div class="info-list">
-                                                                                        <ul class="list-unstyled">
-
-                                                                                            {{--<li class="main-list"><i--}}
-                                                                                            {{--class="icons fa fa-phone"></i><span--}}
-                                                                                            {{--class="link">021-22094188</span>--}}
-                                                                                            {{--</li>--}}
-                                                                                            {{--<li class="main-list"><i--}}
-                                                                                            {{--class="icons fa fa-envelope-o"></i><span--}}
-                                                                                            {{--class="link">info@utob.com</span>--}}
-                                                                                            {{--</li>--}}
-
-                                                                                        </ul>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-
-                                                                    <div class="col-md-4 col-sm-4 col-xs-3 md-organization">
-                                                                        <div class="content-organization">
-                                                                            <div class="wrapper-img">
-                                                                                <a href=""><img
-                                                                                            width="200" height="200"
-                                                                                            src="/wp-content/uploads/2016/05/dr.png"
-                                                                                            class="img img-responsives"
-                                                                                            alt="avatar-contact-1"/></a>
-                                                                            </div>
-                                                                            <div class="main-organization">
-                                                                                <div class="organization-title">
-                                                                                    <a href="" class="title">رضا رضایی، تهران</a>
-                                                                                    <p class="text">فوق تخصص زیبایی</p>
-
-                                                                                </div>
-                                                                                <div class="content-widget">
-                                                                                    <div class="info-list">
-                                                                                        <ul class="list-unstyled">
-
-                                                                                            {{--<li class="main-list"><i--}}
-                                                                                            {{--class="icons fa fa-phone"></i><span--}}
-                                                                                            {{--class="link">021-22094188</span>--}}
-                                                                                            {{--</li>--}}
-                                                                                            {{--<li class="main-list"><i--}}
-                                                                                            {{--class="icons fa fa-envelope-o"></i><span--}}
-                                                                                            {{--class="link">info@utob.com</span>--}}
-                                                                                            {{--</li>--}}
-
-                                                                                        </ul>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-
-                                                                </div>
-
-
-
-
-
-
-                                                                <div class="row-3">
-
-
-                                                                    <div class="col-md-4 col-sm-4 col-xs-3 md-organization">
-                                                                        <div class="content-organization">
-                                                                            <div class="wrapper-img">
-                                                                                <a href=""><img
-                                                                                            width="200" height="200"
-                                                                                            src="/wp-content/uploads/2016/05/dr.png"
-                                                                                            class="img img-responsives"
-                                                                                            alt="avatar-contact-1"/></a>
-                                                                            </div>
-                                                                            <div class="main-organization">
-                                                                                <div class="organization-title">
-                                                                                    <a href="" class="title">رضا رضایی، تهران</a>
-                                                                                    <p class="text">فوق تخصص زیبایی</p>
-
-                                                                                </div>
-                                                                                <div class="content-widget">
-                                                                                    <div class="info-list">
-                                                                                        <ul class="list-unstyled">
-
-                                                                                            {{--<li class="main-list"><i--}}
-                                                                                            {{--class="icons fa fa-phone"></i><span--}}
-                                                                                            {{--class="link">021-22094188</span>--}}
-                                                                                            {{--</li>--}}
-                                                                                            {{--<li class="main-list"><i--}}
-                                                                                            {{--class="icons fa fa-envelope-o"></i><span--}}
-                                                                                            {{--class="link">info@utob.com</span>--}}
-                                                                                            {{--</li>--}}
-
-                                                                                        </ul>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-
-
-                                                                    <div class="col-md-4 col-sm-4 col-xs-3 md-organization">
-                                                                        <div class="content-organization">
-                                                                            <div class="wrapper-img">
-                                                                                <a href=""><img
-                                                                                            width="200" height="200"
-                                                                                            src="/wp-content/uploads/2016/05/dr.png"
-                                                                                            class="img img-responsives"
-                                                                                            alt="avatar-contact-1"/></a>
-                                                                            </div>
-                                                                            <div class="main-organization">
-                                                                                <div class="organization-title">
-                                                                                    <a href="" class="title">رضا رضایی، تهران</a>
-                                                                                    <p class="text">فوق تخصص زیبایی</p>
-
-                                                                                </div>
-                                                                                <div class="content-widget">
-                                                                                    <div class="info-list">
-                                                                                        <ul class="list-unstyled">
-
-                                                                                            {{--<li class="main-list"><i--}}
-                                                                                            {{--class="icons fa fa-phone"></i><span--}}
-                                                                                            {{--class="link">021-22094188</span>--}}
-                                                                                            {{--</li>--}}
-                                                                                            {{--<li class="main-list"><i--}}
-                                                                                            {{--class="icons fa fa-envelope-o"></i><span--}}
-                                                                                            {{--class="link">info@utob.com</span>--}}
-                                                                                            {{--</li>--}}
-
-                                                                                        </ul>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-
-                                                                    <div class="col-md-4 col-sm-4 col-xs-3 md-organization">
-                                                                        <div class="content-organization">
-                                                                            <div class="wrapper-img">
-                                                                                <a href=""><img
-                                                                                            width="200" height="200"
-                                                                                            src="/wp-content/uploads/2016/05/dr.png"
-                                                                                            class="img img-responsives"
-                                                                                            alt="avatar-contact-1"/></a>
-                                                                            </div>
-                                                                            <div class="main-organization">
-                                                                                <div class="organization-title">
-                                                                                    <a href="" class="title">رضا رضایی، تهران</a>
-                                                                                    <p class="text">فوق تخصص زیبایی</p>
-
-                                                                                </div>
-                                                                                <div class="content-widget">
-                                                                                    <div class="info-list">
-                                                                                        <ul class="list-unstyled">
-
-                                                                                            {{--<li class="main-list"><i--}}
-                                                                                            {{--class="icons fa fa-phone"></i><span--}}
-                                                                                            {{--class="link">021-22094188</span>--}}
-                                                                                            {{--</li>--}}
-                                                                                            {{--<li class="main-list"><i--}}
-                                                                                            {{--class="icons fa fa-envelope-o"></i><span--}}
-                                                                                            {{--class="link">info@utob.com</span>--}}
-                                                                                            {{--</li>--}}
-
-                                                                                        </ul>
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-
-                                                                </div>
+                                                                @endforeach
 
 
 

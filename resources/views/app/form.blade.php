@@ -11,7 +11,7 @@
         <!-- MAIN CONTENT-->
         <div class="main-content">
             <!-- Page Title -->
-            <section style="background-image: url(wp-content/uploads/2016/05/servic.jpg);!important;"
+            <section style="background-image: url(/wp-content/uploads/2016/05/servic.jpg);!important;"
                      class=" page-title">
                 <div class="container">
                     <div class="page-title-wrapper">
@@ -32,9 +32,9 @@
                 <div class="register-wrapper rlp-wrapper">
                     <div style="margin: 30px;" class="register-table rlp-table">
                         <a class="btn-close" href="/">×</a>
-                        <a href="http://wp.swlabs.co/exploore/"><img style="width:200px;" src="/wp-content/uploads/2016/06/logo-1.png" class="login" alt="logo"></a>
+                        <a href=""><img style="width:200px;" src="/wp-content/uploads/2016/06/logo-1.png" class="login" alt="logo"></a>
                         <div style="font-size: 17px" class="register-title rlp-title">
-                            باتشکر از اعتماد شما به مجموعه یوتاب مد، خواهشمنداست جهت تکمیل فرآیند فرم زیر را تکمیل نمایید.
+                            باتشکر از اعتماد شما به مجموعه یوتاب مد، لطفا جهت تکمیل فرآیند فرم زیر را تکمیل نمایید.
                         </div>
                         <form method="post" class="register" novalidate="novalidate">
                             <div class="register-form bg-w-form rlp-form">
@@ -47,7 +47,29 @@
 
                                     <div class="col-md-6">
                                         <label for="regemail" class="control-label form-label">نوع خدمت مورد نظر<span class="required" aria-required="true">*</span></label>
-                                        <input type="text"  class="form-control form-input" value="" name="service" >
+                                        <select class="form-control form-input">
+                                            <option selected value="خدمت مورد نظر را انتخاب نمایید:">نوع خدمت مورد نظر:</option>
+                                            <option value="زنان و ناباروری">زنان و ناباروری</option>
+                                            <option value="جراحی بینی">جراحی بینی</option>
+                                            <option value="پروتز">پروتز</option>
+                                            <option value="زیبایی">زیبایی</option>
+                                            <option value="جراحی گوش">جراحی گوش</option>
+                                        </select>
+                                    </div>
+
+
+                                    <div class="col-md-6">
+                                        <label for="password" class="control-label form-label">سن<span class="required" aria-required="true">*</span></label>
+                                        <input type="number" class="form-control form-input" name="age">
+                                    </div>
+
+                                    <div class="col-md-6">
+                                        <label for="reregpassword" class="control-label form-label">جنسیت<span class="required" aria-required="true">*</span></label>
+                                        <select name="gender" class="form-control form-input">
+                                            <option selected value="جنسیت خودرا انتخاب نمایید:">جنسیت خودرا انتخاب نمایید:</option>
+                                            <option value="مذکر">مذکر</option>
+                                            <option value="مونث">مونث</option>
+                                        </select>
                                     </div>
 
 
@@ -77,8 +99,13 @@
 
 
                                     <div class="col-md-6">
-                                        <label for="password" class="control-label form-label">خدمات علاقه مند به استفاده<span class="required" aria-required="true">*</span></label>
-                                        <input type="text"  class="form-control form-input" name="services">
+                                        <label for="password" class="control-label form-label">میزان آشنایی با زمان انگلیسی<span class="required" aria-required="true">*</span></label>
+                                        <select name="english" class="form-control form-input">
+                                            <option selected value="">میزان آشنایی انتخاب نمایید:</option>
+                                            <option value="کم">کم</option>
+                                            <option value="متوسط">متوسط</option>
+                                            <option value="زیاد">زیاد</option>
+                                        </select>
                                     </div>
 
                                     <div class="col-md-6">
@@ -87,19 +114,6 @@
                                     </div>
 
 
-                                    <div class="col-md-6">
-                                        <label for="password" class="control-label form-label">سن<span class="required" aria-required="true">*</span></label>
-                                        <input type="number" class="form-control form-input" name="age">
-                                    </div>
-
-                                    <div class="col-md-6">
-                                        <label for="reregpassword" class="control-label form-label">جنسیت<span class="required" aria-required="true">*</span></label>
-                                        <select name="gender" class="form-control form-input">
-                                            <option selected value="جنسیت خودرا انتخاب نمایید:">جنسیت خودرا انتخاب نمایید:</option>
-                                            <option value="مذکر">مذکر</option>
-                                            <option value="مونث">مونث</option>
-                                        </select>
-                                    </div>
 
 
 

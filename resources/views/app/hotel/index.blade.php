@@ -54,7 +54,7 @@
                                                                             <div class="hotels-layout">
                                                                                 <div class="image-wrapper">
                                                                                     <a class="link"
-                                                                                       href="/hotel-view"><img
+                                                                                       href="{{ route('hotel' , 1) }}"><img
                                                                                                 width="800" height="540"
                                                                                                 src="wp-content/uploads/2016/05/plus.jpeg"
                                                                                                 class="img-responsive"
@@ -68,7 +68,7 @@
                                                                                                 class="fa fa-bolt"></i><span>جدید</span>
                                                                                     </div>
                                                                                     <div class="title-wrapper">
-                                                                                        <a href="/hotel-view"
+                                                                                        <a href="{{ route('hotel' , 1) }}"
                                                                                            class="title">هتل اسپیناس
                                                                                             پالاس</a>
                                                                                         <div class="stars stars5">5
@@ -88,13 +88,13 @@
                                                                                             توضیحات توضیحات توضیحات
                                                                                         </div>
                                                                                         <div class="group-btn-tours"><a
-                                                                                                    href="/hotel-view"
+                                                                                                    href="{{ route('hotel' , 1) }}"
                                                                                                     class="left-btn">بیشتر
                                                                                                 بخوانید</a></div>
                                                                                     </div>
                                                                                     <ul class="list-info list-unstyle">
                                                                                         <li class="view"><a
-                                                                                                    href="/hotel-view"
+                                                                                                    href="{{ route('hotel' , 1) }}"
                                                                                                     class="link"><i
                                                                                                         class="icons hidden-icon fa fa-eye"></i><span
                                                                                                         class="number utob-byekan">8792</span></a>
@@ -107,7 +107,7 @@
                                                                                                         class="text number utob-byekan">5</span></a>
                                                                                         </li>
                                                                                         <li class="comment"><a
-                                                                                                    href="/hotel-view#comments"
+                                                                                                    href="{{ route('hotel' , 1) }}#comments"
                                                                                                     class="link"><i
                                                                                                         class="icons hidden-icon fa fa-comment"></i><span
                                                                                                         class="number utob-byekan">3/1</span></a>
@@ -151,14 +151,14 @@
                                                                             <div class="hotels-layout">
                                                                                 <div class="image-wrapper">
                                                                                     <a class="link"
-                                                                                       href="/hotel-view"><img
+                                                                                       href="{{ route('hotel' , 1) }}"><img
                                                                                                 width="800" height="540"
                                                                                                 src="wp-content/uploads/2016/05/es.jpg"
                                                                                                 class="img-responsive"
                                                                                                 alt="316_langham_modern_Exterior"
                                                                                                 sizes="(max-width: 800px) 100vw, 800px"/></a>
                                                                                     <div class="title-wrapper">
-                                                                                        <a href="/hotel-view"
+                                                                                        <a href="{{ route('hotel' , 1) }}"
                                                                                            class="title">هتل استقلال</a>
                                                                                         <div class="stars stars5">5
                                                                                         </div>
@@ -177,13 +177,13 @@
                                                                                             توضیحات توضیحات توضیحات
                                                                                         </div>
                                                                                         <div class="group-btn-tours"><a
-                                                                                                    href="/hotel-view"
+                                                                                                    href="{{ route('hotel' , 1) }}"
                                                                                                     class="left-btn">بیشتر
                                                                                                 بخوانید</a></div>
                                                                                     </div>
                                                                                     <ul class="list-info list-unstyle">
                                                                                         <li class="view"><a
-                                                                                                    href="/hotel-view"
+                                                                                                    href="{{ route('hotel' , 1) }}"
                                                                                                     class="link"><i
                                                                                                         class="icons hidden-icon fa fa-eye"></i><span
                                                                                                         class="number utob-byekan">4158</span></a>
@@ -196,7 +196,7 @@
                                                                                                         class="text number utob-byekan">3</span></a>
                                                                                         </li>
                                                                                         <li class="comment"><a
-                                                                                                    href="/hotel-view#respond"
+                                                                                                    href="{{ route('hotel' , 1) }}#respond"
                                                                                                     class="link"><i
                                                                                                         class="icons hidden-icon fa fa-comment"></i><span
                                                                                                         class="number utob-byekan">4/0</span></a>
@@ -240,7 +240,7 @@
                                                                             <div class="hotels-layout">
                                                                                 <div class="image-wrapper">
                                                                                     <a class="link"
-                                                                                       href="/hotel-view"><img
+                                                                                       href="{{ route('hotel' , 1) }}"><img
                                                                                                 width="800" height="540"
                                                                                                 src="wp-content/uploads/2016/05/eskan.jpg"
                                                                                                 class="img-responsive"
@@ -249,7 +249,7 @@
 
 
                                                                                     <div class="title-wrapper">
-                                                                                        <a href="/hotel-view"
+                                                                                        <a href="{{ route('hotel' , 1) }}"
                                                                                            class="title">هتل اسکان
                                                                                             الوند</a>
                                                                                         <div class="stars stars4">4
@@ -269,13 +269,13 @@
                                                                                             توضیحات توضیحات توضیحات
                                                                                         </div>
                                                                                         <div class="group-btn-tours"><a
-                                                                                                    href="/hotel-view"
+                                                                                                    href="{{ route('hotel' , 1) }}"
                                                                                                     class="left-btn">بیشتر
                                                                                                 بخوانید</a></div>
                                                                                     </div>
                                                                                     <ul class="list-info list-unstyle">
                                                                                         <li class="view"><a
-                                                                                                    href="/hotel-view"
+                                                                                                    href="{{ route('hotel' , 1) }}"
                                                                                                     class="link"><i
                                                                                                         class="icons hidden-icon fa fa-eye"></i><span
                                                                                                         class="number utob-byekan">7052</span></a>
@@ -288,7 +288,7 @@
                                                                                                         class="text number utob-byekan">4</span></a>
                                                                                         </li>
                                                                                         <li class="comment"><a
-                                                                                                    href="/hotel-view#comments"
+                                                                                                    href="{{ route('hotel' , 1) }}#comments"
                                                                                                     class="link"><i
                                                                                                         class="icons hidden-icon fa fa-comment"></i><span
                                                                                                         class="number utob-byekan">5/1</span></a>
@@ -332,7 +332,7 @@
                                                                             <div class="hotels-layout">
                                                                                 <div class="image-wrapper">
                                                                                     <a class="link"
-                                                                                       href="/hotel-view"><img
+                                                                                       href="{{ route('hotel' , 1) }}"><img
                                                                                                 width="800" height="540"
                                                                                                 src="wp-content/uploads/2016/05/pars.jpg"
                                                                                                 class="img-responsive"
@@ -341,7 +341,7 @@
 
 
                                                                                     <div class="title-wrapper">
-                                                                                        <a href="/hotel-view"
+                                                                                        <a href="{{ route('hotel' , 1) }}"
                                                                                            class="title">هتل پارسیان</a>
                                                                                         <div class="stars stars4">4
                                                                                         </div>
@@ -360,13 +360,13 @@
                                                                                             توضیحات توضیحات توضیحات
                                                                                         </div>
                                                                                         <div class="group-btn-tours"><a
-                                                                                                    href="/hotel-view"
+                                                                                                    href="{{ route('hotel' , 1) }}"
                                                                                                     class="left-btn">بیشتر
                                                                                                 بخوانید</a></div>
                                                                                     </div>
                                                                                     <ul class="list-info list-unstyle">
                                                                                         <li class="view"><a
-                                                                                                    href="/hotel-view"
+                                                                                                    href="{{ route('hotel' , 1) }}"
                                                                                                     class="link"><i
                                                                                                         class="icons hidden-icon fa fa-eye"></i><span
                                                                                                         class="number utob-byekan">968</span></a>
@@ -379,7 +379,7 @@
                                                                                                         class="text number utob-byekan">6</span></a>
                                                                                         </li>
                                                                                         <li class="comment"><a
-                                                                                                    href="/hotel-view#comments"
+                                                                                                    href="{{ route('hotel' , 1) }}#comments"
                                                                                                     class="link"><i
                                                                                                         class="icons hidden-icon fa fa-comment"></i><span
                                                                                                         class="number utob-byekan">8/2</span></a>
@@ -423,7 +423,7 @@
                                                                             <div class="hotels-layout">
                                                                                 <div class="image-wrapper">
                                                                                     <a class="link"
-                                                                                       href="/hotel-view"><img
+                                                                                       href="{{ route('hotel' , 1) }}"><img
                                                                                                 width="800" height="540"
                                                                                                 src="wp-content/uploads/2016/05/pamchal.jpg"
                                                                                                 class="img-responsive"
@@ -432,7 +432,7 @@
 
 
                                                                                     <div class="title-wrapper">
-                                                                                        <a href="/hotel-view"
+                                                                                        <a href="{{ route('hotel' , 1) }}"
                                                                                            class="title">هتل پامچال</a>
                                                                                         <div class="stars stars3">3
                                                                                         </div>
@@ -451,13 +451,13 @@
                                                                                             توضیحات توضیحات توضیحات
                                                                                         </div>
                                                                                         <div class="group-btn-tours"><a
-                                                                                                    href="/hotel-view"
+                                                                                                    href="{{ route('hotel' , 1) }}"
                                                                                                     class="left-btn">بیشتر
                                                                                                 بخوانید</a></div>
                                                                                     </div>
                                                                                     <ul class="list-info list-unstyle">
                                                                                         <li class="view"><a
-                                                                                                    href="/hotel-view"
+                                                                                                    href="{{ route('hotel' , 1) }}"
                                                                                                     class="link"><i
                                                                                                         class="icons hidden-icon fa fa-eye"></i><span
                                                                                                         class="number utob-byekan">567</span></a>
@@ -470,7 +470,7 @@
                                                                                                         class="text number utob-byekan">2</span></a>
                                                                                         </li>
                                                                                         <li class="comment"><a
-                                                                                                    href="/hotel-view#comments"
+                                                                                                    href="{{ route('hotel' , 1) }}#comments"
                                                                                                     class="link"><i
                                                                                                         class="icons hidden-icon fa fa-comment"></i><span
                                                                                                         class="number utob-byekan">2/6</span></a>
@@ -514,7 +514,7 @@
                                                                             <div class="hotels-layout">
                                                                                 <div class="image-wrapper">
                                                                                     <a class="link"
-                                                                                       href="/hotel-view"><img
+                                                                                       href="{{ route('hotel' , 1) }}"><img
                                                                                                 width="800" height="540"
                                                                                                 src="wp-content/uploads/2016/05/parsss.jpeg"
                                                                                                 class="img-responsive"
@@ -523,7 +523,7 @@
 
 
                                                                                     <div class="title-wrapper">
-                                                                                        <a href="/hotel-view"
+                                                                                        <a href="{{ route('hotel' , 1) }}"
                                                                                            class="title">هتل پارس</a>
                                                                                         <div class="stars stars2">2
                                                                                         </div>
@@ -542,13 +542,13 @@
                                                                                             توضیحات توضیحات توضیحات
                                                                                         </div>
                                                                                         <div class="group-btn-tours"><a
-                                                                                                    href="/hotel-view"
+                                                                                                    href="{{ route('hotel' , 1) }}"
                                                                                                     class="left-btn">بیشتر
                                                                                                 بخوانید</a></div>
                                                                                     </div>
                                                                                     <ul class="list-info list-unstyle">
                                                                                         <li class="view"><a
-                                                                                                    href="/hotel-view"
+                                                                                                    href="{{ route('hotel' , 1) }}"
                                                                                                     class="link"><i
                                                                                                         class="icons hidden-icon fa fa-eye"></i><span
                                                                                                         class="number utob-byekan">5068</span></a>
@@ -561,7 +561,7 @@
                                                                                                         class="text number utob-byekan">1</span></a>
                                                                                         </li>
                                                                                         <li class="comment"><a
-                                                                                                    href="/hotel-view#comments"
+                                                                                                    href="{{ route('hotel' , 1) }}#comments"
                                                                                                     class="link"><i
                                                                                                         class="icons hidden-icon fa fa-comment"></i><span
                                                                                                         class="number utob-byekan">25/2</span></a>

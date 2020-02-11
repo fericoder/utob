@@ -85,17 +85,57 @@
                                         <div class="wpb_column vc_column_container vc_col-sm-12">
                                             <div class="vc_column-inner ">
                                                 <div class="wpb_wrapper">
+
+
                                                     <div class="slz-shortcode item-list-style06 item-list-20322406125e273ad44b5af wrapper-journey " data-item=6>
-
-
-                                                       @foreach ($treatments as $treatment)
-                                                            <div class="item feature-item"><img style="width: 40px; margin: auto; margin-bottom: 10px" src="{{ $treatment->icon }}" alt="">
-                                                                <div class="text"><a style="color: #0e99b6" href="{{ route('treatment', $treatment->id) }}"> {{ $treatment->name }} </a></div>
+                                                       @foreach ($treatments->skip(0)->take(6) as $treatment)
+                                                            <div class="item feature-item">
+                                                                <a style="color: #0e99b6" href="{{ route('treatment', $treatment->id) }}"><img style="width: 40px;height: 40px; margin: auto; margin-bottom: 10px" src="{{ $treatment->icon }}" alt="">
+                                                                    <div class="text">
+                                                                        {{ $treatment->name }}
+                                                                    </div>
+                                                                </a>
                                                             </div>
-                                                       @endforeach
-
-
+                                                        @endforeach
                                                     </div>
+
+
+                                                    <div class="slz-shortcode item-list-style06 item-list-20322406125e273ad44b5af wrapper-journey " data-item=6>
+                                                        @foreach ($treatments->skip(6)->take(6) as $treatment)
+                                                            <div class="item feature-item">
+                                                                <a style="color: #0e99b6" href="{{ route('treatment', $treatment->id) }}"><img style="width: 40px;height: 40px; margin: auto; margin-bottom: 10px" src="{{ $treatment->icon }}" alt="">
+                                                                <div class="text">
+                                                                     {{ $treatment->name }}
+                                                                </div>
+                                                                </a>
+                                                            </div>
+                                                        @endforeach
+                                                    </div>
+
+                                                    <div class="slz-shortcode item-list-style06 item-list-20322406125e273ad44b5af wrapper-journey " data-item=6>
+                                                        @foreach ($treatments->skip(12)->take(6) as $treatment)
+                                                            <div class="item feature-item">
+                                                                <a style="color: #0e99b6" href="{{ route('treatment', $treatment->id) }}"><img style="width: 40px;height: 40px; margin: auto; margin-bottom: 10px" src="{{ $treatment->icon }}" alt="">
+                                                                    <div class="text">
+                                                                        {{ $treatment->name }}
+                                                                    </div>
+                                                                </a>
+                                                            </div>
+                                                        @endforeach
+                                                    </div>
+
+                                                    <div class="slz-shortcode item-list-style06 item-list-20322406125e273ad44b5af wrapper-journey " data-item=6>
+                                                        @foreach ($treatments->skip(18)->take(6) as $treatment)
+                                                            <div class="item feature-item">
+                                                                <a style="color: #0e99b6" href="{{ route('treatment', $treatment->id) }}"><img style="width: 40px;height: 40px; margin: auto; margin-bottom: 10px" src="{{ $treatment->icon }}" alt="">
+                                                                    <div class="text">
+                                                                        {{ $treatment->name }}
+                                                                    </div>
+                                                                </a>
+                                                            </div>
+                                                        @endforeach
+                                                    </div>
+
                                                 </div>
                                             </div>
                                         </div>

@@ -54,7 +54,7 @@
                                                                             <div class="hotels-layout">
                                                                                 <div class="image-wrapper">
                                                                                     <a class="link"
-                                                                                       href="hospital-view"><img
+                                                                                       href="{{ route('hospital' , 1) }}"><img
                                                                                                 width="800" height="540"
                                                                                                 src="wp-content/uploads/2016/05/parsian.jpg"
                                                                                                 class="img-responsive"
@@ -81,13 +81,13 @@
                                                                                             توضیحات توضیحات توضیحات
                                                                                         </div>
                                                                                         <div class="group-btn-tours"><a
-                                                                                                    href="hospital-view"
+                                                                                                    href="{{ route('hospital' , 1) }}"
                                                                                                     class="left-btn">بیشتر
                                                                                                 بخوانید</a></div>
                                                                                     </div>
                                                                                     <ul class="list-info list-unstyle">
                                                                                         <li class="view"><a
-                                                                                                    href="hospital-view"
+                                                                                                    href="{{ route('hospital' , 1) }}"
                                                                                                     class="link"><i
                                                                                                         class="icons hidden-icon fa fa-eye"></i><span
                                                                                                         class="number utob-byekan">8792</span></a>
@@ -100,7 +100,7 @@
                                                                                                         class="text number utob-byekan">5</span></a>
                                                                                         </li>
                                                                                         <li class="comment"><a
-                                                                                                    href="hospital-view#comments"
+                                                                                                    href="{{ route('hospital' , 1) }}#comments"
                                                                                                     class="link"><i
                                                                                                         class="icons hidden-icon fa fa-comment"></i><span
                                                                                                         class="number utob-byekan">3/1</span></a>
@@ -144,14 +144,14 @@
                                                                             <div class="hotels-layout">
                                                                                 <div class="image-wrapper">
                                                                                     <a class="link"
-                                                                                       href="hospital-view"><img
+                                                                                       href="{{ route('hospital' , 1) }}"><img
                                                                                                 width="800" height="540"
                                                                                                 src="wp-content/uploads/2016/05/laleh.jpg"
                                                                                                 class="img-responsive"
                                                                                                 alt="316_langham_modern_Exterior"
                                                                                                 sizes="(max-width: 800px) 100vw, 800px"/></a>
                                                                                     <div class="title-wrapper">
-                                                                                        <a href="hospital-view"
+                                                                                        <a href="{{ route('hospital' , 1) }}"
                                                                                            class="title">بیمارستان لاله</a>
                                                                                     </div>
                                                                                 </div>
@@ -168,13 +168,13 @@
                                                                                             توضیحات توضیحات توضیحات
                                                                                         </div>
                                                                                         <div class="group-btn-tours"><a
-                                                                                                    href="hospital-view"
+                                                                                                    href="{{ route('hospital' , 1) }}"
                                                                                                     class="left-btn">بیشتر
                                                                                                 بخوانید</a></div>
                                                                                     </div>
                                                                                     <ul class="list-info list-unstyle">
                                                                                         <li class="view"><a
-                                                                                                    href="hospital-view"
+                                                                                                    href="{{ route('hospital' , 1) }}"
                                                                                                     class="link"><i
                                                                                                         class="icons hidden-icon fa fa-eye"></i><span
                                                                                                         class="number utob-byekan">4158</span></a>
@@ -187,7 +187,7 @@
                                                                                                         class="text number utob-byekan">3</span></a>
                                                                                         </li>
                                                                                         <li class="comment"><a
-                                                                                                    href="hospital-view#respond"
+                                                                                                    href="{{ route('hospital' , 1) }}#respond"
                                                                                                     class="link"><i
                                                                                                         class="icons hidden-icon fa fa-comment"></i><span
                                                                                                         class="number utob-byekan">4/0</span></a>
@@ -231,7 +231,7 @@
                                                                             <div class="hotels-layout">
                                                                                 <div class="image-wrapper">
                                                                                     <a class="link"
-                                                                                       href="/hospital-view"><img
+                                                                                       href="/{{ route('hospital' , 1) }}"><img
                                                                                                 width="800" height="540"
                                                                                                 src="wp-content/uploads/2016/05/erfan.jpg"
                                                                                                 class="img-responsive"
@@ -240,7 +240,7 @@
 
 
                                                                                     <div class="title-wrapper">
-                                                                                        <a href="hospital-view"
+                                                                                        <a href="{{ route('hospital' , 1) }}"
                                                                                            class="title">بیمارستان عرفان نیایش
 </a>
 
@@ -259,13 +259,13 @@
                                                                                             توضیحات توضیحات توضیحات
                                                                                         </div>
                                                                                         <div class="group-btn-tours"><a
-                                                                                                    href="hospital-view"
+                                                                                                    href="{{ route('hospital' , 1) }}"
                                                                                                     class="left-btn">بیشتر
                                                                                                 بخوانید</a></div>
                                                                                     </div>
                                                                                     <ul class="list-info list-unstyle">
                                                                                         <li class="view"><a
-                                                                                                    href="hospital-view"
+                                                                                                    href="{{ route('hospital' , 1) }}"
                                                                                                     class="link"><i
                                                                                                         class="icons hidden-icon fa fa-eye"></i><span
                                                                                                         class="number utob-byekan">7052</span></a>
@@ -278,7 +278,7 @@
                                                                                                         class="text number utob-byekan">4</span></a>
                                                                                         </li>
                                                                                         <li class="comment"><a
-                                                                                                    href="hospital-view#comments"
+                                                                                                    href="{{ route('hospital' , 1) }}#comments"
                                                                                                     class="link"><i
                                                                                                         class="icons hidden-icon fa fa-comment"></i><span
                                                                                                         class="number utob-byekan">5/1</span></a>
@@ -322,7 +322,7 @@
                                                                             <div class="hotels-layout">
                                                                                 <div class="image-wrapper">
                                                                                     <a class="link"
-                                                                                       href="hospital-view"><img
+                                                                                       href="{{ route('hospital' , 1) }}"><img
                                                                                                 width="800" height="540"
                                                                                                 src="wp-content/uploads/2016/05/bahhman.jpg"
                                                                                                 class="img-responsive"
@@ -331,7 +331,7 @@
 
 
                                                                                     <div class="title-wrapper">
-                                                                                        <a href="hospital-view"
+                                                                                        <a href="{{ route('hospital' , 1) }}"
                                                                                            class="title">بیمارستان بهمن</a>
 
                                                                                     </div>
@@ -349,13 +349,13 @@
                                                                                             توضیحات توضیحات توضیحات
                                                                                         </div>
                                                                                         <div class="group-btn-tours"><a
-                                                                                                    href="hospital-view"
+                                                                                                    href="{{ route('hospital' , 1) }}"
                                                                                                     class="left-btn">بیشتر
                                                                                                 بخوانید</a></div>
                                                                                     </div>
                                                                                     <ul class="list-info list-unstyle">
                                                                                         <li class="view"><a
-                                                                                                    href="hospital-view"
+                                                                                                    href="{{ route('hospital' , 1) }}"
                                                                                                     class="link"><i
                                                                                                         class="icons hidden-icon fa fa-eye"></i><span
                                                                                                         class="number utob-byekan">968</span></a>
@@ -368,7 +368,7 @@
                                                                                                         class="text number utob-byekan">6</span></a>
                                                                                         </li>
                                                                                         <li class="comment"><a
-                                                                                                    href="hospital-view#comments"
+                                                                                                    href="{{ route('hospital' , 1) }}#comments"
                                                                                                     class="link"><i
                                                                                                         class="icons hidden-icon fa fa-comment"></i><span
                                                                                                         class="number utob-byekan">8/2</span></a>
@@ -412,7 +412,7 @@
                                                                             <div class="hotels-layout">
                                                                                 <div class="image-wrapper">
                                                                                     <a class="link"
-                                                                                       href="/hospital-view"><img
+                                                                                       href="/{{ route('hospital' , 1) }}"><img
                                                                                                 width="800" height="540"
                                                                                                 src="wp-content/uploads/2016/05/kosar.jpg"
                                                                                                 class="img-responsive"
@@ -421,7 +421,7 @@
 
 
                                                                                     <div class="title-wrapper">
-                                                                                        <a href="/hospital-view"
+                                                                                        <a href="/{{ route('hospital' , 1) }}"
                                                                                            class="title">بیمارستان محب کوثر
 </a>
 
@@ -440,13 +440,13 @@
                                                                                             توضیحات توضیحات توضیحات
                                                                                         </div>
                                                                                         <div class="group-btn-tours"><a
-                                                                                                    href="hospital-view"
+                                                                                                    href="{{ route('hospital' , 1) }}"
                                                                                                     class="left-btn">بیشتر
                                                                                                 بخوانید</a></div>
                                                                                     </div>
                                                                                     <ul class="list-info list-unstyle">
                                                                                         <li class="view"><a
-                                                                                                    href="hospital-view"
+                                                                                                    href="{{ route('hospital' , 1) }}"
                                                                                                     class="link"><i
                                                                                                         class="icons hidden-icon fa fa-eye"></i><span
                                                                                                         class="number utob-byekan">567</span></a>
@@ -459,7 +459,7 @@
                                                                                                         class="text number utob-byekan">2</span></a>
                                                                                         </li>
                                                                                         <li class="comment"><a
-                                                                                                    href="hospital-view#comments"
+                                                                                                    href="{{ route('hospital' , 1) }}#comments"
                                                                                                     class="link"><i
                                                                                                         class="icons hidden-icon fa fa-comment"></i><span
                                                                                                         class="number utob-byekan">2/6</span></a>
@@ -503,7 +503,7 @@
                                                                             <div class="hotels-layout">
                                                                                 <div class="image-wrapper">
                                                                                     <a class="link"
-                                                                                       href="/hospital-view"><img
+                                                                                       href="/{{ route('hospital' , 1) }}"><img
                                                                                                 width="800" height="540"
                                                                                                 src="wp-content/uploads/2016/05/kh.jpg"
                                                                                                 class="img-responsive"
@@ -512,7 +512,7 @@
 
 
                                                                                     <div class="title-wrapper">
-                                                                                        <a href="/hospital-view"
+                                                                                        <a href="/{{ route('hospital' , 1) }}"
                                                                                            class="title">بیمارستان مصطفی خمینی
 </a>
 
@@ -531,13 +531,13 @@
                                                                                             توضیحات توضیحات توضیحات
                                                                                         </div>
                                                                                         <div class="group-btn-tours"><a
-                                                                                                    href="hospital-view"
+                                                                                                    href="{{ route('hospital' , 1) }}"
                                                                                                     class="left-btn">بیشتر
                                                                                                 بخوانید</a></div>
                                                                                     </div>
                                                                                     <ul class="list-info list-unstyle">
                                                                                         <li class="view"><a
-                                                                                                    href="hospital-view"
+                                                                                                    href="{{ route('hospital' , 1) }}"
                                                                                                     class="link"><i
                                                                                                         class="icons hidden-icon fa fa-eye"></i><span
                                                                                                         class="number utob-byekan">5068</span></a>
@@ -550,7 +550,7 @@
                                                                                                         class="text number utob-byekan">1</span></a>
                                                                                         </li>
                                                                                         <li class="comment"><a
-                                                                                                    href="hospital-view#comments"
+                                                                                                    href="{{ route('hospital' , 1) }}#comments"
                                                                                                     class="link"><i
                                                                                                         class="icons hidden-icon fa fa-comment"></i><span
                                                                                                         class="number utob-byekan">25/2</span></a>

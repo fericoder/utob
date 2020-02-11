@@ -17,8 +17,8 @@
                         <div class="page-title-content">
                             <ol class="breadcrumb">
                                 <li><a href="/" class="link home">صفحه اصلی</a></li>
-                                <li><a href="{{ route('treatment.index') }}" class="link">درمان ها</a></li>
-                                <li><a href="{{ route('treatment.show', $treatment->id ) }}" class="link">{{ $treatment->name }}</a></li>
+                                <li><a href="{{ route('treatments') }}" class="link">درمان ها</a></li>
+                                <li><a href="{{ route('treatment', $treatment->id ) }}" class="link">{{ $treatment->name }}</a></li>
                             </ol>
                             <div class="clearfix"></div>
                             <h2 style="margin-bottom: 35px;" class="captions">
@@ -35,17 +35,17 @@
                               <div class="container">
                                   <div class="journey-block">
                                       <div class="overview-block clearfix slz-shortcode sc-block-13351890685e273ad44c072 ">
-                                          <h3 class="title-style-3">عمل بینی</h3>
                                           <div class="timeline-container">
                                               <div class="timeline timeline-hotel-view">
                                                   <div class="timeline-block">
-                                                      <div class="timeline-title"><span>دکتر رضایی</span></div>
+                                                      <div class="timeline-title"><span> {{ $treatment->name }}</span></div>
                                                       <div class="timeline-point">
                                                           <i class="fa fa-circle-o"></i>
                                                       </div>
+
                                                       <div class="timeline-content">
                                                           <div class="row">
-                                                              <div class="timeline-custom-col">
+                                                              <div style="display: none" class="timeline-custom-col">
                                                                   <div class="image-hotel-view-block">
                                                                       <div class="slider-for">
                                                                           <div class="item"><img width="600" height="270"
@@ -99,22 +99,7 @@
                                                                       </div>
                                                                   </div>
                                                               </div>
-                                                              <div class="timeline-custom-col image-col hotels-layout">
-                                                                  <div class="content-wrapper">
-                                                                      <div class="content">
-                                                                          <div class="title">
-                                                                              <div class="price"><span class="number utob-byekan">3,000,000</span><sup>تومان</sup>
-                                                                              </div>
-                                                                          </div>
-                                                                          <div class="text"> توضیحات توضیحات توضیحات توضیحات توضیحات
-                                                                              توضیحات توضیحات توضیحات توضیحات توضیحات
-                                                                          </div>
-                                                                          <div class="group-btn-tours"><a
-                                                                                      href="accommodations/edemil-hotel/index.html"
-                                                                                      class="left-btn">بیشتر بخوانید</a></div>
-                                                                      </div>
-                                                                  </div>
-                                                              </div>
+
                                                               <div class="timeline-custom-col full timeline-book-block"></div>
 
 
@@ -123,6 +108,7 @@
                                                                       <div class="col-xs-12 content-wrapper">
                                                                           <div style="padding: 20px" class="preview">
                                                                               {!! $treatment->body !!}
+                                                                              <p style="text-align: center"><br><br><a data-toggle="modal" data-target="#freeConsultant" class="btn btn-maincolor btn-maincolor1-12960595115e1ec8d471431 ">مشاوره رایگان</a></p>
                                                                           </div>
                                                                       </div>
                                                                   </div>
@@ -139,109 +125,46 @@
                                   </div>
                               </div>
 
+
+                  <div class="vc_row wpb_row vc_row-fluid vc_custom_1463096648310">
+                      <div class="slz_col-sm-12 wpb_column vc_column_container vc_col-sm-12">
+                          <div class="vc_column-inner vc_custom_1468574547376">
+                              <div class="wpb_wrapper">
+                                  <div class="slz-shortcode block-title-16339022535e1ec8d10ad08 ">
+
+                                      <div class="group-title">
+                                          <div class="sub-title"><p class="text">پکیج ها</p>
+                                              <i class="icons flaticon-people"></i>
+                                          </div>
+                                          <h2 class="main-title">پکیج ها</h2>
+                                      </div>
+                                  </div>
+
+
+                                  @include('layouts.partials.packages')
+
+
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+
                               <div class="container">
-                                  {{--<div class="entry-comment entry-page-comment">--}}
-                                      {{--<div class="blog-comment">--}}
-                                          {{--<div class="comment-count blog-comment-title sideline">--}}
-                                              {{--نظرات--}}
-                                          {{--</div>--}}
-                                          {{--<ul class="comment-list list-unstyled">--}}
-                                              {{--<li class="media parent" id="comment-63">--}}
-                                                  {{--<div class="comment-item">--}}
-                                                      {{--<div class="media-left">--}}
-                                                          {{--<div class="media-image">--}}
-                                                              {{--<img src="http://0.gravatar.com/avatar/c06d7331fa01970d75198e6076d796cc?s=96&amp;d=mm&amp;r=g"--}}
-                                                                   {{--width="77" height="77" alt="Avatar"--}}
-                                                                   {{--class="avatar avatar-77wp-user-avatar wp-user-avatar-77 alignnone photo avatar-default">--}}
-                                                          {{--</div>--}}
-                                                      {{--</div>--}}
-                                                      {{--<div class="media-right">--}}
-                                                          {{--<div class="pull-left">--}}
-                                                              {{--<div class="author">--}}
-                                                                  {{--فرزانه علی شیرازی--}}
-                                                              {{--</div>--}}
-                                                          {{--</div>--}}
-                                                          {{--<div class="pull-right time"><i class="fa fa-clock-o"></i>--}}
-                                                              {{--<span class="utob-byekan">--}}
-              {{--بهمن ماه 1398</span>--}}
-                                                          {{--</div>--}}
-                                                          {{--<div class="clearfix"></div>--}}
-                                                          {{--<div class="des"><p> نظر مشتری. نظر مشتری. نظر مشتری. نظر مشتری. نظر مشتری.--}}
-                                                                  {{--نظر مشتری. نظر مشتری. نظر مشتری. نظر مشتری. نظر مشتری. نظر مشتری.--}}
-                                                                  {{--نظر مشتری. نظر مشتری. نظر مشتری. نظر مشتری. نظر مشتری. نظر مشتری.--}}
-                                                                  {{--نظر مشتری. </p>--}}
-                                                          {{--</div>--}}
-                                                          {{--<p class="border-none stars-rating">--}}
-                                                              {{--<span class="review star-5 active">5</span>--}}
-                                                          {{--</p></div>--}}
-                                                  {{--</div>--}}
-                                                  {{--<!-- </li>-->--}}
-                                              {{--</li><!-- #comment-## -->--}}
-                                          {{--</ul>--}}
-                                      {{--</div><!-- /comment-form --></div>--}}
                                   <div class="slz-shortcode special-offer margin-top70">
-                                      <h3 class="title-style-2">دیگر جراحی ها
-                                      </h3>
+                                      <h3 class="title-style-2">دیگر درمان ها</h3>
                                       <div class="special-offer-list">
-                                          <div class="special-offer-layout post-185 slzexploore_hotel">
-                                              <div class="image-wrapper">
-                                                  <a class="link"
-                                                     href=""><img width="342"
-                                                                                                                           height="257"
-                                                                                                                           src="/wp-content/uploads/2016/05/goosh.jpg"
-                                                                                                                           class="img-responsive"
-                                                                                                                           alt="316_langham_modern_Exterior"
-                                                                                                                           /></a>
-                                                  <div class="title-wrapper"><a
-                                                              href=""
-                                                              class="title">جراحی گوش</a><i class="icons flaticon-circle"></i>
+
+                                        @foreach ($treatments as $treatment)
+                                              <div class="special-offer-layout post-185 slzexploore_hotel">
+                                                  <div style="height: 160px!important;" class="image-wrapper">
+                                                      <a class="link" href="{{ route('treatment', $treatment->id ) }}"><img style="height: 160px!important;" width="342"  src="{{ $treatment->image }}" class="img-responsive" alt="316_langham_modern_Exterior"/></a>
+                                                      <div class="title-wrapper"><a href="" class="title">{{ $treatment->name }}</a><i class="icons flaticon-circle"></i>
+                                                      </div>
                                                   </div>
                                               </div>
-                                          </div>
-                                          <div class="special-offer-layout post-172 slzexploore_hotel">
-                                              <div class="image-wrapper">
-                                                  <a class="link"
-                                                     href=""><img width="342"
-                                                                  height="257"
-                                                                  src="/wp-content/uploads/2016/05/goosh.jpg"
-                                                                  class="img-responsive"
-                                                                  alt="316_langham_modern_Exterior"
-                                                      /></a>
-                                                  <div class="title-wrapper"><a
-                                                              href=""
-                                                              class="title">جراحی گوش</a><i class="icons flaticon-circle"></i>
-                                                  </div>
-                                              </div>
-                                          </div>
-                                          <div class="special-offer-layout post-166 slzexploore_hotel">
-                                              <div class="image-wrapper">
-                                                  <a class="link"
-                                                     href=""><img width="342"
-                                                                  height="257"
-                                                                  src="/wp-content/uploads/2016/05/goosh.jpg"
-                                                                  class="img-responsive"
-                                                                  alt="316_langham_modern_Exterior"
-                                                      /></a>
-                                                  <div class="title-wrapper"><a
-                                                              href=""
-                                                              class="title">جراحی گوش</a><i class="icons flaticon-circle"></i>
-                                                  </div>
-                                              </div>
-                                          </div>
-                                          <div class="special-offer-layout post-84 slzexploore_hotel">
-                                              <div class="image-wrapper">
-                                                  <a class="link"
-                                                     href=""><img width="342"
-                                                                  height="257"
-                                                                  src="/wp-content/uploads/2016/05/goosh.jpg"
-                                                                  class="img-responsive"
-                                                                  alt="316_langham_modern_Exterior"
-                                                      /></a>
-                                                  <div class="title-wrapper"><a
-                                                              href=""
-                                                              class="title">جراحی گوش</a><i class="icons flaticon-circle"></i></div>
-                                              </div>
-                                          </div>
+
+                                        @endforeach
+
                                       </div>
                                   </div>
                               </div>

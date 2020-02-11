@@ -2,13 +2,15 @@
 
 namespace App\Http\Controllers;
 
+use App\Treatment;
 use Illuminate\Http\Request;
 
 class IndexController extends Controller
 {
     public function index()
     {
-        return view('app.index');
+        $treatments = Treatment::where('home', 1)->get();
+        return view('app.index', compact('treatments'));
     }
 
     public function about()

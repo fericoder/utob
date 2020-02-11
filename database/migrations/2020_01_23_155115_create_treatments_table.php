@@ -20,6 +20,7 @@ class CreateTreatmentsTable extends Migration
             $table->string('icon');
             $table->text('body');
             $table->text('image');
+            $table->integer('home');
             $table->timestamps();
         });
     }

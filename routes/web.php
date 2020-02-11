@@ -62,6 +62,8 @@ Route::namespace('Dashboard')->prefix('dashboard')->middleware('auth')->group(fu
     Route::resource('slide', 'SlideController');
     Route::resource('treatment', 'TreatmentController');
     Route::any('treatment/delete', 'TreatmentController@destroy');
+    Route::resource('doctor', 'DoctorController');
+    Route::any('doctor/delete', 'DoctorController@destroy');
     Route::resource('course', 'CourseController');
     Route::any('course/delete', 'CourseController@destroy');
     Route::post('course/addSection', 'CourseController@addSection')->name('course.addSection');

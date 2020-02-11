@@ -72,15 +72,15 @@
                                     class="m-menu__link"><span
                                         class="m-menu__link-text">مدیریت پزشک ها</span></span>
                         </li>
-                        <li class="m-menu__item {{ request()->is('dashboard/course') ? 'm-menu__item--active' : '' }} "
+                        <li class="m-menu__item {{ request()->is('dashboard/doctor') ? 'm-menu__item--active' : '' }} "
                             aria-haspopup="true"><a
-                                    href="{{ route('course.index')  }}"
+                                    href="{{ route('doctor.index')  }}"
                                     class="m-menu__link "><i
                                         class="m-menu__link-bullet m-menu__link-bullet--dot"><span></span></i><span
                                         class="m-menu__link-text">لیست پزشک ها</span></a></li>
-                        <li class="m-menu__item {{ request()->is('dashboard/course/create') ? 'm-menu__item--active' : '' }} "
+                        <li class="m-menu__item {{ request()->is('dashboard/doctor/create') ? 'm-menu__item--active' : '' }} "
                             aria-haspopup="true"><a
-                                    href="{{ route('course.create')  }}"
+                                    href="{{ route('doctor.create')  }}"
                                     class="m-menu__link "><i
                                         class="m-menu__link-bullet m-menu__link-bullet--dot"><span></span></i><span
                                         class="m-menu__link-text">افزودن پزشک جدید</span></a></li>

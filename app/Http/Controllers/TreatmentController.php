@@ -16,7 +16,8 @@ class TreatmentController extends Controller
     public function show($id)
     {
         $treatment = Treatment::find($id);
-        return view('app.treatment.show', compact('treatment'));
+        $treatments = Treatment::all()->random(15);
+        return view('app.treatment.show', compact('treatment', 'treatments'));
     }
 
 }
