@@ -7,7 +7,7 @@
         <!-- MAIN CONTENT-->
         <div class="main-content">
             <!-- Page Title -->
-            <section style="background-image: url(/wp-content/uploads/2016/05/parsiian.jpg);!important;"
+            <section style="background-image: url(/utob-content/uploads/2016/05/parsiian.jpg);!important;"
                      class=" page-title">
                 <div class="container">
                     <div class="page-title-wrapper">
@@ -121,17 +121,17 @@
                                                     <div class="image-hotel-view-block">
                                                         <div class="slider-for">
                                                             <div class="item"><img width="600" height="270"
-                                                                                   src="/wp-content/uploads/2018/10/7.jpg"
+                                                                                   src="/utob-content/uploads/2018/10/7.jpg"
                                                                                    class="" alt="img-2"
                                                                                    />
                                                             </div>
                                                             <div class="item"><img width="600" height="270"
-                                                                                   src="/wp-content/uploads/2018/10/2.jpg"
+                                                                                   src="/utob-content/uploads/2018/10/2.jpg"
                                                                                    class=""
                                                                                    alt="wall-interior-design-ideas-12"/>
                                                             </div>
                                                             <div class="item"><img width="600" height="270"
-                                                                                   src="/wp-content/uploads/2018/10/3.jpg"
+                                                                                   src="/utob-content/uploads/2018/10/3.jpg"
                                                                                    class=""
                                                                                    alt="elderly-person-home-3"/></div>
 
@@ -139,34 +139,34 @@
                                                         </div>
                                                         <div class="slider-nav">
                                                             <div class="item"><img width="116" height="63"
-                                                                                   src="/wp-content/uploads/2018/10/9.jpg"
+                                                                                   src="/utob-content/uploads/2018/10/9.jpg"
                                                                                    class="" alt="img-2"/></div>
                                                             <div class="item"><img width="116" height="63"
-                                                                                   src="/wp-content/uploads/2018/10/5.jpg"
+                                                                                   src="/utob-content/uploads/2018/10/5.jpg"
                                                                                    class=""
                                                                                    alt="wall-interior-design-ideas-12"/>
                                                             </div>
                                                             <div class="item"><img width="116" height="63"
-                                                                                   src="/wp-content/uploads/2018/10/6.jpg"
+                                                                                   src="/utob-content/uploads/2018/10/6.jpg"
                                                                                    class=""
                                                                                    alt="elderly-person-home-3"/></div>
                                                             <div class="item"><img width="116" height="63"
-                                                                                   src="/wp-content/uploads/2018/10/7.jpg"
+                                                                                   src="/utob-content/uploads/2018/10/7.jpg"
                                                                                    class=""
                                                                                    alt="Classic-With-A-Twist10"/></div>
                                                             <div class="item"><img width="116" height="63"
-                                                                                   src="/wp-content/uploads/2018/10/6.jpg"
+                                                                                   src="/utob-content/uploads/2018/10/6.jpg"
                                                                                    class="" alt="1401766004"/></div>
                                                             <div class="item"><img width="116" height="63"
-                                                                                   src="/wp-content/uploads/2018/10/9.jpg"
+                                                                                   src="/utob-content/uploads/2018/10/9.jpg"
                                                                                    class=""
                                                                                    alt="141ee95937e2a3229f6830c5dd0ec2ad"/>
                                                             </div>
                                                             <div class="item"><img width="116" height="63"
-                                                                                   src="/wp-content/uploads/2018/10/1.jpg"
+                                                                                   src="/utob-content/uploads/2018/10/1.jpg"
                                                                                    class="" alt="img-2"/></div>
                                                             <div class="item"><img width="116" height="63"
-                                                                                   src="/wp-content/uploads/2018/10/2.jpg"
+                                                                                   src="/utob-content/uploads/2018/10/2.jpg"
                                                                                    class="" alt="img-1"/></div>
                                                         </div>
                                                     </div>
@@ -247,7 +247,7 @@
                                     <a class="link"
                                        href=""><img width="342"
                                                                                                              height="257"
-                                                                                                             src="wp-content/uploads/2016/05/kosar.jpg"
+                                                                                                             src="utob-content/uploads/2016/05/kosar.jpg"
                                                                                                              class="img-responsive"
                                                                                                              alt="316_langham_modern_Exterior"
                                                                                                              /></a>
@@ -262,7 +262,7 @@
                                     <a class="link"
                                        href=""><img width="342"
                                                     height="257"
-                                                    src="wp-content/uploads/2016/05/kosar.jpg"
+                                                    src="utob-content/uploads/2016/05/kosar.jpg"
                                                     class="img-responsive"
                                                     alt="316_langham_modern_Exterior"
                                         /></a>
@@ -277,7 +277,7 @@
                                     <a class="link"
                                        href=""><img width="342"
                                                     height="257"
-                                                    src="wp-content/uploads/2016/05/kosar.jpg"
+                                                    src="utob-content/uploads/2016/05/kosar.jpg"
                                                     class="img-responsive"
                                                     alt="316_langham_modern_Exterior"
                                         /></a>
@@ -292,7 +292,7 @@
                                     <a class="link"
                                        href=""><img width="342"
                                                     height="257"
-                                                    src="wp-content/uploads/2016/05/kosar.jpg"
+                                                    src="utob-content/uploads/2016/05/kosar.jpg"
                                                     class="img-responsive"
                                                     alt="316_langham_modern_Exterior"
                                         /></a>

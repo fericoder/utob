@@ -11,7 +11,7 @@
         <!-- MAIN CONTENT-->
         <div class="main-content">
             <!-- Page Title -->
-            <section style="background-image: url(/wp-content/uploads/2016/05/servic.jpg);!important;"
+            <section style="background-image: url(/utob-content/uploads/2016/05/servic.jpg);!important;"
                      class=" page-title">
                 <div class="container">
                     <div class="page-title-wrapper">
@@ -32,7 +32,7 @@
                 <div class="register-wrapper rlp-wrapper">
                     <div style="margin: 30px;" class="register-table rlp-table">
                         <a class="btn-close" href="/">×</a>
-                        <a href=""><img style="width:200px;" src="/wp-content/uploads/2016/06/logo-1.png" class="login" alt="logo"></a>
+                        <a href=""><img style="width:200px;" src="/utob-content/uploads/2016/06/logo-1.png" class="login" alt="logo"></a>
                         <div style="font-size: 17px" class="register-title rlp-title">
                             باتشکر از اعتماد شما به مجموعه یوتاب مد، لطفا جهت تکمیل فرآیند فرم زیر را تکمیل نمایید.
                         </div>

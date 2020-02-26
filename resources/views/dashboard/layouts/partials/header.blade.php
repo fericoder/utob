@@ -8,7 +8,7 @@
                     <div class="m-stack__item m-stack__item--middle m-brand__logo">
                         <a href="/dashboard/index"
                            class="m-brand__logo-wrapper">
-                            <img alt="" style="width: 70px!important;" src="/wp-content/uploads/2016/06/logo.png"/>
+                            <img alt="" style="width: 70px!important;" src="/utob-content/uploads/2016/06/logo.png"/>
                         </a>
                     </div>
                     <div class="m-stack__item m-stack__item--middle m-brand__tools">

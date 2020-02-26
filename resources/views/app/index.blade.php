@@ -12,7 +12,7 @@
                     <div class="video-container">
                         <div class="filter">
                             <video autoplay="" loop="" controls="controls" muted="muted" class="fillWidth">
-                                <source src="wp-content/uploads/2016/05/avc_vid.mp4" type="video/mp4">
+                                <source src="utob-content/uploads/2016/05/avc_vid.mp4" type="video/mp4">
                             </video>
                         </div>
                     </div>
@@ -21,11 +21,11 @@
                 <div class="homepage-banner-warpper">
                     <div class="homepage-banner-content">
                         <div class="bg-image show-video"><img width="1920" height="1200"
-                                                              src="wp-content/uploads/2016/05/home-banner-3.jpg"
+                                                              src="utob-content/uploads/2016/05/home-banner-3.jpg"
                                                               class="img-responsive" alt="home-banner-3"
-                                                              srcset="http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/home-banner-3.jpg 1920w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/home-banner-3-300x188.jpg 300w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/home-banner-3-768x480.jpg 768w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/home-banner-3-1024x640.jpg 1024w"
+                                                              srcset="/utob-content/uploads/2016/05/home-banner-3.jpg 1920w, /utob-content/uploads/2016/05/home-banner-3-300x188.jpg 300w, /utob-content/uploads/2016/05/home-banner-3-768x480.jpg 768w, /utob-content/uploads/2016/05/home-banner-3-1024x640.jpg 1024w"
                                                               sizes="(max-width: 1920px) 100vw, 1920px"/></div>
-                        <div class="group-logo"><img src="wp-content/uploads/2016/06/logo.png" alt="logo"
+                        <div class="group-logo"><img src="utob-content/uploads/2016/06/logo.png" alt="logo"
                                                      class="img-logo"></div>
                         <div class="group-title">
                             <h1 class="banner title">یوتاب مد، ارایه کننده خدمات پزشکی سلامت</h1>
@@ -155,7 +155,7 @@
                                                                         <div class="image-wrapper">
                                                                             <a class="link" href="/hospitals/1"><img width="400"
                                                                                                          height="270"
-                                                                                                         src="wp-content/uploads/2016/05/parsian.jpg"
+                                                                                                         src="utob-content/uploads/2016/05/parsian.jpg"
                                                                                                          class="img-responsive"
                                                                                                          alt="coast-863378_960_7201"
                                                                                                          sizes="(max-width: 400px) 100vw, 400px"/></a>
@@ -188,19 +188,19 @@
                                                                                                 class="icons fa fa-share-alt"></i></a>
                                                                                     <ul class="share-social-list">
                                                                                         <li>
-                                                                                            <a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwp.swlabs.co%2Fexploore%2Ftours%2Fmadrid-tour%2F"
+                                                                                            <a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2F%2Fexploore%2Ftours%2Fmadrid-tour%2F"
                                                                                                class="link-social"
                                                                                                onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
                                                                                                 <i class="icons fa fa-facebook"></i></a>
                                                                                         </li>
                                                                                         <li>
-                                                                                            <a href="https://twitter.com/intent/tweet?text=Madrid+Tour&amp;url=http%3A%2F%2Fwp.swlabs.co%2Fexploore%2Ftours%2Fmadrid-tour%2F&amp;via=Exploore+-+Travel%2C+Exploration%2C+Booking+WordPress+Theme"
+                                                                                            <a href="https://twitter.com/intent/tweet?text=Madrid+Tour&amp;url=http%3A%2F%2F%2Fexploore%2Ftours%2Fmadrid-tour%2F&amp;via=Exploore+-+Travel%2C+Exploration%2C+Booking+WordPress+Theme"
                                                                                                class="link-social"
                                                                                                onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
                                                                                                 <i class="icons fa fa-twitter"></i></a>
                                                                                         </li>
                                                                                         <li>
-                                                                                            <a href="http://plus.google.com/share?url=http%3A%2F%2Fwp.swlabs.co%2Fexploore%2Ftours%2Fmadrid-tour%2F"
+                                                                                            <a href="http://plus.google.com/share?url=http%3A%2F%2F%2Fexploore%2Ftours%2Fmadrid-tour%2F"
                                                                                                class="link-social"
                                                                                                onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
                                                                                                 <i class="icons fa fa-google-plus"></i></a>
@@ -239,7 +239,7 @@
                                                                         <div class="image-wrapper">
                                                                             <a class="link" href="/hospitals/1"><img width="400"
                                                                                                          height="270"
-                                                                                                         src="wp-content/uploads/2016/05/kosar.jpg"
+                                                                                                         src="utob-content/uploads/2016/05/kosar.jpg"
                                                                                                          class="img-responsive"
                                                                                                          alt="bg-section-banner-1"
                                                                                                          sizes="(max-width: 400px) 100vw, 400px"/></a>
@@ -270,19 +270,19 @@
                                                                                                 class="icons fa fa-share-alt"></i></a>
                                                                                     <ul class="share-social-list">
                                                                                         <li>
-                                                                                            <a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwp.swlabs.co%2Fexploore%2Ftours%2Fstockholm-city%2F"
+                                                                                            <a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2F%2Fexploore%2Ftours%2Fstockholm-city%2F"
                                                                                                class="link-social"
                                                                                                onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
                                                                                                 <i class="icons fa fa-facebook"></i></a>
                                                                                         </li>
                                                                                         <li>
-                                                                                            <a href="https://twitter.com/intent/tweet?text=Stockholm+City&amp;url=http%3A%2F%2Fwp.swlabs.co%2Fexploore%2Ftours%2Fstockholm-city%2F&amp;via=Exploore+-+Travel%2C+Exploration%2C+Booking+WordPress+Theme"
+                                                                                            <a href="https://twitter.com/intent/tweet?text=Stockholm+City&amp;url=http%3A%2F%2F%2Fexploore%2Ftours%2Fstockholm-city%2F&amp;via=Exploore+-+Travel%2C+Exploration%2C+Booking+WordPress+Theme"
                                                                                                class="link-social"
                                                                                                onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
                                                                                                 <i class="icons fa fa-twitter"></i></a>
                                                                                         </li>
                                                                                         <li>
-                                                                                            <a href="http://plus.google.com/share?url=http%3A%2F%2Fwp.swlabs.co%2Fexploore%2Ftours%2Fstockholm-city%2F"
+                                                                                            <a href="http://plus.google.com/share?url=http%3A%2F%2F%2Fexploore%2Ftours%2Fstockholm-city%2F"
                                                                                                class="link-social"
                                                                                                onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
                                                                                                 <i class="icons fa fa-google-plus"></i></a>
@@ -320,7 +320,7 @@
                                                                         <div class="image-wrapper">
                                                                             <a class="link" href="/hospitals/1"><img width="400"
                                                                                                          height="270"
-                                                                                                         src="wp-content/uploads/2016/05/erfan.jpg"
+                                                                                                         src="utob-content/uploads/2016/05/erfan.jpg"
                                                                                                          class="img-responsive"
                                                                                                          alt="City-of-Rome-Great-View"
                                                                                                          sizes="(max-width: 400px) 100vw, 400px"/></a>
@@ -351,19 +351,19 @@
                                                                                                 class="icons fa fa-share-alt"></i></a>
                                                                                     <ul class="share-social-list">
                                                                                         <li>
-                                                                                            <a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwp.swlabs.co%2Fexploore%2Ftours%2Froma-city%2F"
+                                                                                            <a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2F%2Fexploore%2Ftours%2Froma-city%2F"
                                                                                                class="link-social"
                                                                                                onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
                                                                                                 <i class="icons fa fa-facebook"></i></a>
                                                                                         </li>
                                                                                         <li>
-                                                                                            <a href="https://twitter.com/intent/tweet?text=Roma+City&amp;url=http%3A%2F%2Fwp.swlabs.co%2Fexploore%2Ftours%2Froma-city%2F&amp;via=Exploore+-+Travel%2C+Exploration%2C+Booking+WordPress+Theme"
+                                                                                            <a href="https://twitter.com/intent/tweet?text=Roma+City&amp;url=http%3A%2F%2F%2Fexploore%2Ftours%2Froma-city%2F&amp;via=Exploore+-+Travel%2C+Exploration%2C+Booking+WordPress+Theme"
                                                                                                class="link-social"
                                                                                                onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
                                                                                                 <i class="icons fa fa-twitter"></i></a>
                                                                                         </li>
                                                                                         <li>
-                                                                                            <a href="http://plus.google.com/share?url=http%3A%2F%2Fwp.swlabs.co%2Fexploore%2Ftours%2Froma-city%2F"
+                                                                                            <a href="http://plus.google.com/share?url=http%3A%2F%2F%2Fexploore%2Ftours%2Froma-city%2F"
                                                                                                class="link-social"
                                                                                                onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
                                                                                                 <i class="icons fa fa-google-plus"></i></a>
@@ -402,7 +402,7 @@
                                                                         <div class="image-wrapper">
                                                                             <a class="link" href="/hospitals/1"><img width="400"
                                                                                                          height="270"
-                                                                                                         src="wp-content/uploads/2016/05/bahhman.jpg"
+                                                                                                         src="utob-content/uploads/2016/05/bahhman.jpg"
                                                                                                          class="img-responsive"
                                                                                                          alt="shanghaicity"
                                                                                                          sizes="(max-width: 400px) 100vw, 400px"/></a>
@@ -433,19 +433,19 @@
                                                                                                 class="icons fa fa-share-alt"></i></a>
                                                                                     <ul class="share-social-list">
                                                                                         <li>
-                                                                                            <a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwp.swlabs.co%2Fexploore%2Ftours%2Fshanghai-city%2F"
+                                                                                            <a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2F%2Fexploore%2Ftours%2Fshanghai-city%2F"
                                                                                                class="link-social"
                                                                                                onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
                                                                                                 <i class="icons fa fa-facebook"></i></a>
                                                                                         </li>
                                                                                         <li>
-                                                                                            <a href="https://twitter.com/intent/tweet?text=Shanghai+City&amp;url=http%3A%2F%2Fwp.swlabs.co%2Fexploore%2Ftours%2Fshanghai-city%2F&amp;via=Exploore+-+Travel%2C+Exploration%2C+Booking+WordPress+Theme"
+                                                                                            <a href="https://twitter.com/intent/tweet?text=Shanghai+City&amp;url=http%3A%2F%2F%2Fexploore%2Ftours%2Fshanghai-city%2F&amp;via=Exploore+-+Travel%2C+Exploration%2C+Booking+WordPress+Theme"
                                                                                                class="link-social"
                                                                                                onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
                                                                                                 <i class="icons fa fa-twitter"></i></a>
                                                                                         </li>
                                                                                         <li>
-                                                                                            <a href="http://plus.google.com/share?url=http%3A%2F%2Fwp.swlabs.co%2Fexploore%2Ftours%2Fshanghai-city%2F"
+                                                                                            <a href="http://plus.google.com/share?url=http%3A%2F%2F%2Fexploore%2Ftours%2Fshanghai-city%2F"
                                                                                                class="link-social"
                                                                                                onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
                                                                                                 <i class="icons fa fa-google-plus"></i></a>
@@ -483,7 +483,7 @@
                                                                         <div class="image-wrapper">
                                                                             <a class="link" href="/hospitals/1"><img width="400"
                                                                                                          height="270"
-                                                                                                         src="wp-content/uploads/2016/05/laleh.jpg"
+                                                                                                         src="utob-content/uploads/2016/05/laleh.jpg"
                                                                                                          class="img-responsive"
                                                                                                          alt="du-lich-tokyo"
                                                                                                          sizes="(max-width: 400px) 100vw, 400px"/></a>
@@ -512,19 +512,19 @@
                                                                                                 class="icons fa fa-share-alt"></i></a>
                                                                                     <ul class="share-social-list">
                                                                                         <li>
-                                                                                            <a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwp.swlabs.co%2Fexploore%2Ftours%2Ftokyo-city%2F"
+                                                                                            <a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2F%2Fexploore%2Ftours%2Ftokyo-city%2F"
                                                                                                class="link-social"
                                                                                                onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
                                                                                                 <i class="icons fa fa-facebook"></i></a>
                                                                                         </li>
                                                                                         <li>
-                                                                                            <a href="https://twitter.com/intent/tweet?text=Tokyo+City&amp;url=http%3A%2F%2Fwp.swlabs.co%2Fexploore%2Ftours%2Ftokyo-city%2F&amp;via=Exploore+-+Travel%2C+Exploration%2C+Booking+WordPress+Theme"
+                                                                                            <a href="https://twitter.com/intent/tweet?text=Tokyo+City&amp;url=http%3A%2F%2F%2Fexploore%2Ftours%2Ftokyo-city%2F&amp;via=Exploore+-+Travel%2C+Exploration%2C+Booking+WordPress+Theme"
                                                                                                class="link-social"
                                                                                                onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
                                                                                                 <i class="icons fa fa-twitter"></i></a>
                                                                                         </li>
                                                                                         <li>
-                                                                                            <a href="http://plus.google.com/share?url=http%3A%2F%2Fwp.swlabs.co%2Fexploore%2Ftours%2Ftokyo-city%2F"
+                                                                                            <a href="http://plus.google.com/share?url=http%3A%2F%2F%2Fexploore%2Ftours%2Ftokyo-city%2F"
                                                                                                class="link-social"
                                                                                                onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
                                                                                                 <i class="icons fa fa-google-plus"></i></a>
@@ -614,7 +614,7 @@
                                                                     <div class="col-md-7">
                                                                         <div class="video-thumbnail">
                                                                             <video width="" height="" controls>
-                                                                                <source src="/wp-content/uploads/2016/05/why-iran.mp4" type="video/mp4">
+                                                                                <source src="/utob-content/uploads/2016/05/why-iran.mp4" type="video/mp4">
                                                                             </video>
 
                                                                         </div>
@@ -658,7 +658,7 @@
                                                                                 <div class="image-wrapper">
                                                                                     <a class="link" href="/hotels/1"><img
                                                                                                 width="800" height="540"
-                                                                                                src="wp-content/uploads/2016/05/plus.jpeg"
+                                                                                                src="utob-content/uploads/2016/05/plus.jpeg"
                                                                                                 class="img-responsive"
                                                                                                 alt="hotelbeauti"
                                                                                                 sizes="(max-width: 800px) 100vw, 800px"/></a>
@@ -716,19 +716,19 @@
                                                                                                         class="icons fa fa-share-alt"></i></a>
                                                                                             <ul class="share-social-list">
                                                                                                 <li>
-                                                                                                    <a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwp.swlabs.co%2Fexploore%2Faccommodations%2Fedemil-hotel%2F"
+                                                                                                    <a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2F%2Fexploore%2Faccommodations%2Fedemil-hotel%2F"
                                                                                                        class="link-social"
                                                                                                        onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
                                                                                                         <i class="icons fa fa-facebook"></i></a>
                                                                                                 </li>
                                                                                                 <li>
-                                                                                                    <a href="https://twitter.com/intent/tweet?text=Edemil+Hotel&amp;url=http%3A%2F%2Fwp.swlabs.co%2Fexploore%2Faccommodations%2Fedemil-hotel%2F&amp;via=Exploore+-+Travel%2C+Exploration%2C+Booking+WordPress+Theme"
+                                                                                                    <a href="https://twitter.com/intent/tweet?text=Edemil+Hotel&amp;url=http%3A%2F%2F%2Fexploore%2Faccommodations%2Fedemil-hotel%2F&amp;via=Exploore+-+Travel%2C+Exploration%2C+Booking+WordPress+Theme"
                                                                                                        class="link-social"
                                                                                                        onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
                                                                                                         <i class="icons fa fa-twitter"></i></a>
                                                                                                 </li>
                                                                                                 <li>
-                                                                                                    <a href="http://plus.google.com/share?url=http%3A%2F%2Fwp.swlabs.co%2Fexploore%2Faccommodations%2Fedemil-hotel%2F"
+                                                                                                    <a href="http://plus.google.com/share?url=http%3A%2F%2F%2Fexploore%2Faccommodations%2Fedemil-hotel%2F"
                                                                                                        class="link-social"
                                                                                                        onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
                                                                                                         <i class="icons fa fa-google-plus"></i></a>
@@ -750,7 +750,7 @@
                                                                                 <div class="image-wrapper">
                                                                                     <a class="link" href="/hotels/1"><img
                                                                                                 width="800" height="540"
-                                                                                                src="wp-content/uploads/2016/05/es.jpg"
+                                                                                                src="utob-content/uploads/2016/05/es.jpg"
                                                                                                 class="img-responsive"
                                                                                                 alt="316_langham_modern_Exterior"
                                                                                                 sizes="(max-width: 800px) 100vw, 800px"/></a>
@@ -801,19 +801,19 @@
                                                                                                         class="icons fa fa-share-alt"></i></a>
                                                                                             <ul class="share-social-list">
                                                                                                 <li>
-                                                                                                    <a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwp.swlabs.co%2Fexploore%2Faccommodations%2Fturhal-hotel%2F"
+                                                                                                    <a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2F%2Fexploore%2Faccommodations%2Fturhal-hotel%2F"
                                                                                                        class="link-social"
                                                                                                        onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
                                                                                                         <i class="icons fa fa-facebook"></i></a>
                                                                                                 </li>
                                                                                                 <li>
-                                                                                                    <a href="https://twitter.com/intent/tweet?text=Turhal+Hotel&amp;url=http%3A%2F%2Fwp.swlabs.co%2Fexploore%2Faccommodations%2Fturhal-hotel%2F&amp;via=Exploore+-+Travel%2C+Exploration%2C+Booking+WordPress+Theme"
+                                                                                                    <a href="https://twitter.com/intent/tweet?text=Turhal+Hotel&amp;url=http%3A%2F%2F%2Fexploore%2Faccommodations%2Fturhal-hotel%2F&amp;via=Exploore+-+Travel%2C+Exploration%2C+Booking+WordPress+Theme"
                                                                                                        class="link-social"
                                                                                                        onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
                                                                                                         <i class="icons fa fa-twitter"></i></a>
                                                                                                 </li>
                                                                                                 <li>
-                                                                                                    <a href="http://plus.google.com/share?url=http%3A%2F%2Fwp.swlabs.co%2Fexploore%2Faccommodations%2Fturhal-hotel%2F"
+                                                                                                    <a href="http://plus.google.com/share?url=http%3A%2F%2F%2Fexploore%2Faccommodations%2Fturhal-hotel%2F"
                                                                                                        class="link-social"
                                                                                                        onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
                                                                                                         <i class="icons fa fa-google-plus"></i></a>
@@ -835,7 +835,7 @@
                                                                                 <div class="image-wrapper">
                                                                                     <a class="link" href="/hotels/1"><img
                                                                                                 width="800" height="540"
-                                                                                                src="wp-content/uploads/2016/05/eskan.jpg"
+                                                                                                src="utob-content/uploads/2016/05/eskan.jpg"
                                                                                                 class="img-responsive"
                                                                                                 alt="280821"
                                                                                                 sizes="(max-width: 800px) 100vw, 800px"/></a>
@@ -886,19 +886,19 @@
                                                                                                         class="icons fa fa-share-alt"></i></a>
                                                                                             <ul class="share-social-list">
                                                                                                 <li>
-                                                                                                    <a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwp.swlabs.co%2Fexploore%2Faccommodations%2Fkadirly-hotel%2F"
+                                                                                                    <a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2F%2Fexploore%2Faccommodations%2Fkadirly-hotel%2F"
                                                                                                        class="link-social"
                                                                                                        onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
                                                                                                         <i class="icons fa fa-facebook"></i></a>
                                                                                                 </li>
                                                                                                 <li>
-                                                                                                    <a href="https://twitter.com/intent/tweet?text=Kadirly+Hotel&amp;url=http%3A%2F%2Fwp.swlabs.co%2Fexploore%2Faccommodations%2Fkadirly-hotel%2F&amp;via=Exploore+-+Travel%2C+Exploration%2C+Booking+WordPress+Theme"
+                                                                                                    <a href="https://twitter.com/intent/tweet?text=Kadirly+Hotel&amp;url=http%3A%2F%2F%2Fexploore%2Faccommodations%2Fkadirly-hotel%2F&amp;via=Exploore+-+Travel%2C+Exploration%2C+Booking+WordPress+Theme"
                                                                                                        class="link-social"
                                                                                                        onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
                                                                                                         <i class="icons fa fa-twitter"></i></a>
                                                                                                 </li>
                                                                                                 <li>
-                                                                                                    <a href="http://plus.google.com/share?url=http%3A%2F%2Fwp.swlabs.co%2Fexploore%2Faccommodations%2Fkadirly-hotel%2F"
+                                                                                                    <a href="http://plus.google.com/share?url=http%3A%2F%2F%2Fexploore%2Faccommodations%2Fkadirly-hotel%2F"
                                                                                                        class="link-social"
                                                                                                        onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
                                                                                                         <i class="icons fa fa-google-plus"></i></a>
@@ -920,7 +920,7 @@
                                                                                 <div class="image-wrapper">
                                                                                     <a class="link" href="/hotels/1"><img
                                                                                                 width="800" height="540"
-                                                                                                src="wp-content/uploads/2016/05/pars.jpg"
+                                                                                                src="utob-content/uploads/2016/05/pars.jpg"
                                                                                                 class="img-responsive"
                                                                                                 alt="hanoi-top-luxury-hotel"
                                                                                                 sizes="(max-width: 800px) 100vw, 800px"/></a>
@@ -971,19 +971,19 @@
                                                                                                         class="icons fa fa-share-alt"></i></a>
                                                                                             <ul class="share-social-list">
                                                                                                 <li>
-                                                                                                    <a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwp.swlabs.co%2Fexploore%2Faccommodations%2Fsarina-hotel%2F"
+                                                                                                    <a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2F%2Fexploore%2Faccommodations%2Fsarina-hotel%2F"
                                                                                                        class="link-social"
                                                                                                        onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
                                                                                                         <i class="icons fa fa-facebook"></i></a>
                                                                                                 </li>
                                                                                                 <li>
-                                                                                                    <a href="https://twitter.com/intent/tweet?text=Sarina+Hotel&amp;url=http%3A%2F%2Fwp.swlabs.co%2Fexploore%2Faccommodations%2Fsarina-hotel%2F&amp;via=Exploore+-+Travel%2C+Exploration%2C+Booking+WordPress+Theme"
+                                                                                                    <a href="https://twitter.com/intent/tweet?text=Sarina+Hotel&amp;url=http%3A%2F%2F%2Fexploore%2Faccommodations%2Fsarina-hotel%2F&amp;via=Exploore+-+Travel%2C+Exploration%2C+Booking+WordPress+Theme"
                                                                                                        class="link-social"
                                                                                                        onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
                                                                                                         <i class="icons fa fa-twitter"></i></a>
                                                                                                 </li>
                                                                                                 <li>
-                                                                                                    <a href="http://plus.google.com/share?url=http%3A%2F%2Fwp.swlabs.co%2Fexploore%2Faccommodations%2Fsarina-hotel%2F"
+                                                                                                    <a href="http://plus.google.com/share?url=http%3A%2F%2F%2Fexploore%2Faccommodations%2Fsarina-hotel%2F"
                                                                                                        class="link-social"
                                                                                                        onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
                                                                                                         <i class="icons fa fa-google-plus"></i></a>
@@ -1048,7 +1048,7 @@
                                                                             <div class="traveler">
                                                                                 <div class="cover-image"><img
                                                                                             width="400" height="200"
-                                                                                            src="wp-content/uploads/2016/05/america.jpg"
+                                                                                            src="utob-content/uploads/2016/05/america.jpg"
                                                                                             class="img-responsive"
                                                                                             alt="cover-image-4"
                                                                                             sizes="(max-width: 400px) 100vw, 400px"/>
@@ -1056,10 +1056,10 @@
                                                                                 <div class="wrapper-content">
                                                                                     <div class="avatar">
                                                                                         <img width="200" height="200"
-                                                                                             src="wp-content/uploads/2016/05/avatar-4-200x200.jpg"
+                                                                                             src="utob-content/uploads/2016/05/avatar-4-200x200.jpg"
                                                                                              class="img-responsive"
                                                                                              alt="avatar-4"
-                                                                                             srcset="http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/avatar-4.jpg 200w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/avatar-4-150x150.jpg 150w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/avatar-4-100x100.jpg 100w"
+                                                                                             srcset="/utob-content/uploads/2016/05/avatar-4.jpg 200w, /utob-content/uploads/2016/05/avatar-4-150x150.jpg 150w, /utob-content/uploads/2016/05/avatar-4-100x100.jpg 100w"
                                                                                              sizes="(max-width: 200px) 100vw, 200px"/>
                                                                                     </div>
                                                                                     <p class="name">جان اسمیت</p>
@@ -1074,7 +1074,7 @@
                                                                             <div class="traveler">
                                                                                 <div class="cover-image"><img
                                                                                             width="400" height="200"
-                                                                                            src="wp-content/uploads/2016/05/azar.jpg"
+                                                                                            src="utob-content/uploads/2016/05/azar.jpg"
                                                                                             class="img-responsive"
                                                                                             alt="cover-image-3"
                                                                                             sizes="(max-width: 400px) 100vw, 400px"/>
@@ -1082,7 +1082,7 @@
                                                                                 <div class="wrapper-content">
                                                                                     <div class="avatar">
                                                                                         <img width="200" height="200"
-                                                                                             src="wp-content/uploads/2016/05/azarr.jpg"
+                                                                                             src="utob-content/uploads/2016/05/azarr.jpg"
                                                                                              class="img-responsive"
                                                                                              alt="avatar-3"
 
@@ -1099,7 +1099,7 @@
                                                                             <div class="traveler">
                                                                                 <div class="cover-image"><img
                                                                                             width="400" height="200"
-                                                                                            src="wp-content/uploads/2016/05/eng.jpg"
+                                                                                            src="utob-content/uploads/2016/05/eng.jpg"
                                                                                             class="img-responsive"
                                                                                             alt="cover-image-2"
                                                                                             sizes="(max-width: 400px) 100vw, 400px"/>
@@ -1107,10 +1107,10 @@
                                                                                 <div class="wrapper-content">
                                                                                     <div class="avatar">
                                                                                         <img width="200" height="200"
-                                                                                             src="wp-content/uploads/2016/05/avatar-2-200x200.jpg"
+                                                                                             src="utob-content/uploads/2016/05/avatar-2-200x200.jpg"
                                                                                              class="img-responsive"
                                                                                              alt="avatar-2"
-                                                                                             srcset="http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/avatar-2.jpg 200w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/avatar-2-150x150.jpg 150w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/avatar-2-100x100.jpg 100w"
+                                                                                             srcset="/utob-content/uploads/2016/05/avatar-2.jpg 200w, /utob-content/uploads/2016/05/avatar-2-150x150.jpg 150w, /utob-content/uploads/2016/05/avatar-2-100x100.jpg 100w"
                                                                                              sizes="(max-width: 200px) 100vw, 200px"/>
                                                                                     </div>
                                                                                     <p class="name">جک استیم</p>
@@ -1125,7 +1125,7 @@
                                                                             <div class="traveler">
                                                                                 <div class="cover-image"><img
                                                                                             width="400" height="200"
-                                                                                            src="wp-content/uploads/2016/05/afqanestan.png"
+                                                                                            src="utob-content/uploads/2016/05/afqanestan.png"
                                                                                             class="img-responsive"
                                                                                             alt="cover-image-1"
                                                                                             sizes="(max-width: 400px) 100vw, 400px"/>
@@ -1133,7 +1133,7 @@
                                                                                 <div class="wrapper-content">
                                                                                     <div class="avatar">
                                                                                         <img width="200" height="200"
-                                                                                             src="wp-content/uploads/2016/05/afqan.jpg"
+                                                                                             src="utob-content/uploads/2016/05/afqan.jpg"
                                                                                              class="img-responsive"
                                                                                              alt="avatar-1"
 
@@ -1179,7 +1179,7 @@
                                                                             <div class="image-wrapper"><a href=""
                                                                                                           class="link"><img
                                                                                             style="max-width: 300px;margin: auto;"
-                                                                                            src="wp-content/uploads/2016/05/taqzie.jpeg"
+                                                                                            src="utob-content/uploads/2016/05/taqzie.jpeg"
                                                                                             class="img-responsive"
                                                                                             alt="249"/></a></div>
                                                                             <div class="content-wrapper">
@@ -1209,7 +1209,7 @@
                                                                         <div class="new-layout post-220 post type-post status-publish format-image has-post-thumbnail hentry category-discover category-the-world category-travel tag-adventure tag-europe tag-explore post_format-post-format-image">
                                                                             <div class="image-wrapper"><a href=""
                                                                                                           class="link"><img
-                                                                                            style="max-width: 300px;margin: auto;"                                                                                            src="wp-content/uploads/2016/05/cheshm.jpg"
+                                                                                            style="max-width: 300px;margin: auto;"                                                                                            src="utob-content/uploads/2016/05/cheshm.jpg"
                                                                                             class="img-responsive"
                                                                                             alt="about-us-1"/></a></div>
                                                                             <div class="content-wrapper">
@@ -1237,7 +1237,7 @@
                                                                         <div class="new-layout post-208 post type-post status-publish format-standard has-post-thumbnail hentry category-adventure category-discover category-explore category-the-world category-travel tag-dream tag-europe tag-traveller">
                                                                             <div class="image-wrapper"><a href=""
                                                                                                           class="link"><img
-                                                                                            style="max-width: 300px;margin: auto;"                                                                                            src="wp-content/uploads/2016/05/moo.jpg"
+                                                                                            style="max-width: 300px;margin: auto;"                                                                                            src="utob-content/uploads/2016/05/moo.jpg"
                                                                                             class="img-responsive"
                                                                                             alt="Luxury-Private-Jet"/></a>
                                                                             </div>
@@ -1370,7 +1370,7 @@
                                                                     <a href="#" class="icons icons-1"><i
                                                                                 class="fa fa-users"></i></a>
                                                                     <img width="1171" height="443"
-                                                                         src="wp-content/uploads/2016/05/warea-5.png"
+                                                                         src="utob-content/uploads/2016/05/warea-5.png"
                                                                          class="attachment-full size-full" alt="warea-5"
                                                                          sizes="(max-width: 1171px) 100vw, 1171px"/>
                                                                 </div>
@@ -1379,7 +1379,7 @@
                                                                     <a href="#" class="icons icons-2"><i
                                                                                 class="fa fa-users"></i></a>
                                                                     <img width="1171" height="443"
-                                                                         src="wp-content/uploads/2016/05/warea-2.png"
+                                                                         src="utob-content/uploads/2016/05/warea-2.png"
                                                                          class="attachment-full size-full" alt="warea-2"
                                                                          sizes="(max-width: 1171px) 100vw, 1171px"/>
                                                                 </div>
@@ -1388,7 +1388,7 @@
                                                                     <a href="#" class="icons icons-3"><i
                                                                                 class="fa fa-users"></i></a>
                                                                     <img width="1171" height="443"
-                                                                         src="wp-content/uploads/2016/05/warea-4.png"
+                                                                         src="utob-content/uploads/2016/05/warea-4.png"
                                                                          class="attachment-full size-full" alt="warea-4"
                                                                          sizes="(max-width: 1171px) 100vw, 1171px"/>
                                                                 </div>
@@ -1397,7 +1397,7 @@
                                                                     <a href="#" class="icons icons-4"><i
                                                                                 class="fa fa-users"></i></a>
                                                                     <img width="1171" height="443"
-                                                                         src="wp-content/uploads/2016/05/warea-1.png"
+                                                                         src="utob-content/uploads/2016/05/warea-1.png"
                                                                          class="attachment-full size-full" alt="warea-1"
                                                                          sizes="(max-width: 1171px) 100vw, 1171px"/>
                                                                 </div>
@@ -1406,7 +1406,7 @@
                                                                     <a href="#" class="icons icons-5"><i
                                                                                 class="fa fa-users"></i></a>
                                                                     <img width="1171" height="443"
-                                                                         src="wp-content/uploads/2016/05/warea-3.png"
+                                                                         src="utob-content/uploads/2016/05/warea-3.png"
                                                                          class="attachment-full size-full" alt="warea-3"
                                                                          sizes="(max-width: 1171px) 100vw, 1171px"/>
                                                                 </div>
@@ -1435,10 +1435,10 @@
                                                                             <div data-wow-delay="0.5s"
                                                                                  class="contact-wrapper-images wow fadeInLeft">
                                                                                 <img width="276" height="536"
-                                                                                     src="wp-content/uploads/2016/05/contact-people.png"
+                                                                                     src="utob-content/uploads/2016/05/contact-people.png"
                                                                                      class="img-responsive attachment-full"
                                                                                      alt="contact-people"
-                                                                                     srcset="http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/contact-people.png 276w, http://wp.swlabs.co/exploore/wp-content/uploads/2016/05/contact-people-154x300.png 154w"
+                                                                                     srcset="/utob-content/uploads/2016/05/contact-people.png 276w, /utob-content/uploads/2016/05/contact-people-154x300.png 154w"
                                                                                      sizes="(max-width: 276px) 100vw, 276px"/>
                                                                             </div>
 
@@ -1456,7 +1456,7 @@
                                                                                              id="wpcf7-f46-p45-o1"
                                                                                              lang="en" dir="ltr">
                                                                                             <div class="screen-reader-response"></div>
-                                                                                            <form action="http://wp.swlabs.co/exploore/?d=rtl#wpcf7-f46-p45-o1"
+                                                                                            <form action="/?d=rtl#wpcf7-f46-p45-o1"
                                                                                                   method="post"
                                                                                                   class="wpcf7-form contact-form"
                                                                                                   novalidate="novalidate"

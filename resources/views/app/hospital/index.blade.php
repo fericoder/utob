@@ -7,7 +7,7 @@
         <!-- MAIN CONTENT-->
         <div class="main-content">
             <!-- Page Title -->
-            <section style="background-image: url(wp-content/uploads/2016/07/bima.jpg);!important;"
+            <section style="background-image: url(utob-content/uploads/2016/07/bima.jpg);!important;"
                      class=" page-title">
                 <div class="container">
                     <div class="page-title-wrapper">
@@ -56,7 +56,7 @@
                                                                                     <a class="link"
                                                                                        href="{{ route('hospital' , 1) }}"><img
                                                                                                 width="800" height="540"
-                                                                                                src="wp-content/uploads/2016/05/parsian.jpg"
+                                                                                                src="utob-content/uploads/2016/05/parsian.jpg"
                                                                                                 class="img-responsive"
                                                                                                 alt="hotelbeauti"
                                                                                                 sizes="(max-width: 800px) 100vw, 800px"/></a>
@@ -146,7 +146,7 @@
                                                                                     <a class="link"
                                                                                        href="{{ route('hospital' , 1) }}"><img
                                                                                                 width="800" height="540"
-                                                                                                src="wp-content/uploads/2016/05/laleh.jpg"
+                                                                                                src="utob-content/uploads/2016/05/laleh.jpg"
                                                                                                 class="img-responsive"
                                                                                                 alt="316_langham_modern_Exterior"
                                                                                                 sizes="(max-width: 800px) 100vw, 800px"/></a>
@@ -233,7 +233,7 @@
                                                                                     <a class="link"
                                                                                        href="/{{ route('hospital' , 1) }}"><img
                                                                                                 width="800" height="540"
-                                                                                                src="wp-content/uploads/2016/05/erfan.jpg"
+                                                                                                src="utob-content/uploads/2016/05/erfan.jpg"
                                                                                                 class="img-responsive"
                                                                                                 alt="280821"
                                                                                                 sizes="(max-width: 800px) 100vw, 800px"/></a>
@@ -324,7 +324,7 @@
                                                                                     <a class="link"
                                                                                        href="{{ route('hospital' , 1) }}"><img
                                                                                                 width="800" height="540"
-                                                                                                src="wp-content/uploads/2016/05/bahhman.jpg"
+                                                                                                src="utob-content/uploads/2016/05/bahhman.jpg"
                                                                                                 class="img-responsive"
                                                                                                 alt="hanoi-top-luxury-hotel"
                                                                                                 sizes="(max-width: 800px) 100vw, 800px"/></a>
@@ -414,7 +414,7 @@
                                                                                     <a class="link"
                                                                                        href="/{{ route('hospital' , 1) }}"><img
                                                                                                 width="800" height="540"
-                                                                                                src="wp-content/uploads/2016/05/kosar.jpg"
+                                                                                                src="utob-content/uploads/2016/05/kosar.jpg"
                                                                                                 class="img-responsive"
                                                                                                 alt="hanoi-top-luxury-hotel"
                                                                                                 sizes="(max-width: 800px) 100vw, 800px"/></a>
@@ -505,7 +505,7 @@
                                                                                     <a class="link"
                                                                                        href="/{{ route('hospital' , 1) }}"><img
                                                                                                 width="800" height="540"
-                                                                                                src="wp-content/uploads/2016/05/kh.jpg"
+                                                                                                src="utob-content/uploads/2016/05/kh.jpg"
                                                                                                 class="img-responsive"
                                                                                                 alt="hanoi-top-luxury-hotel"
                                                                                                 sizes="(max-width: 800px) 100vw, 800px"/></a>

@@ -6,7 +6,7 @@
         <!-- MAIN CONTENT-->
         <div class="main-content">
             <!-- Page Title -->
-            <section style="background-image: url(wp-content/uploads/2016/05/doctors.jpg);!important;"
+            <section style="background-image: url(utob-content/uploads/2016/05/doctors.jpg);!important;"
                      class=" page-title">
                 <div class="container">
                     <div class="page-title-wrapper">

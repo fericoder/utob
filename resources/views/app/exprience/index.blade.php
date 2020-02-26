@@ -7,7 +7,7 @@
         <!-- MAIN CONTENT-->
         <div class="main-content">
             <!-- Page Title -->
-            <section style="background-image: url(/wp-content/uploads/2016/07/doctor.jpg);!important;"
+            <section style="background-image: url(/utob-content/uploads/2016/07/doctor.jpg);!important;"
                      class=" page-title">
                 <div class="container">
                     <div class="page-title-wrapper">
@@ -30,7 +30,7 @@
 
     <div class="avatar">
       <div class="image-wrapper">
-      <a href="{{ route('experience' , 1) }}"><img width="200" height="200" src="/wp-content/uploads/2016/05/moshtari.jpg" class="img img-responsive" alt="team-thumbnail"  sizes="(max-width: 200px) 100vw, 200px"></a>
+      <a href="{{ route('experience' , 1) }}"><img width="200" height="200" src="/utob-content/uploads/2016/05/moshtari.jpg" class="img img-responsive" alt="team-thumbnail"  sizes="(max-width: 200px) 100vw, 200px"></a>
       </div>
     <div class="content-wrapper">
     <p class="name"><a href="{{ route('experience' , 1) }}" class="title">هدی جمال</a></p>
@@ -42,7 +42,7 @@
   <div class="col-lg-4">
           <div class="avatar">
             <div class="image-wrapper">
-            <a href="{{ route('experience' , 1) }}"><img width="200" height="200" src="/wp-content/uploads/2016/05/moshtari.jpg" class="img img-responsive" alt="team-thumbnail"  sizes="(max-width: 200px) 100vw, 200px"></a>
+            <a href="{{ route('experience' , 1) }}"><img width="200" height="200" src="/utob-content/uploads/2016/05/moshtari.jpg" class="img img-responsive" alt="team-thumbnail"  sizes="(max-width: 200px) 100vw, 200px"></a>
             </div>
           <div class="content-wrapper">
           <p class="name"><a href="{{ route('experience' , 1) }}" class="title">هدی جمال</a></p>
@@ -53,7 +53,7 @@
   <div class="col-lg-4">
           <div class="avatar">
             <div class="image-wrapper">
-            <a href="{{ route('experience' , 1) }}"><img width="200" height="200" src="/wp-content/uploads/2016/05/moshtari.jpg" class="img img-responsive" alt="team-thumbnail"  sizes="(max-width: 200px) 100vw, 200px"></a>
+            <a href="{{ route('experience' , 1) }}"><img width="200" height="200" src="/utob-content/uploads/2016/05/moshtari.jpg" class="img img-responsive" alt="team-thumbnail"  sizes="(max-width: 200px) 100vw, 200px"></a>
             </div>
           <div class="content-wrapper">
           <p class="name"><a href="{{ route('experience' , 1) }}" class="title">هدی جمال</a></p>
@@ -75,7 +75,7 @@
 
               <div class="avatar">
                 <div class="image-wrapper">
-                <a href="{{ route('experience' , 1) }}"><img width="200" height="200" src="/wp-content/uploads/2016/05/moshtari.jpg" class="img img-responsive" alt="team-thumbnail"  sizes="(max-width: 200px) 100vw, 200px"></a>
+                <a href="{{ route('experience' , 1) }}"><img width="200" height="200" src="/utob-content/uploads/2016/05/moshtari.jpg" class="img img-responsive" alt="team-thumbnail"  sizes="(max-width: 200px) 100vw, 200px"></a>
                 </div>
               <div class="content-wrapper">
               <p class="name"><a href="{{ route('experience' , 1) }}" class="title">هدی جمال</a></p>
@@ -87,7 +87,7 @@
             <div class="col-lg-4">
                     <div class="avatar">
                       <div class="image-wrapper">
-                      <a href="{{ route('experience' , 1) }}"><img width="200" height="200" src="/wp-content/uploads/2016/05/moshtari.jpg" class="img img-responsive" alt="team-thumbnail"  sizes="(max-width: 200px) 100vw, 200px"></a>
+                      <a href="{{ route('experience' , 1) }}"><img width="200" height="200" src="/utob-content/uploads/2016/05/moshtari.jpg" class="img img-responsive" alt="team-thumbnail"  sizes="(max-width: 200px) 100vw, 200px"></a>
                       </div>
                     <div class="content-wrapper">
                     <p class="name"><a href="{{ route('experience' , 1) }}" class="title">هدی جمال</a></p>
@@ -98,7 +98,7 @@
             <div class="col-lg-4">
                     <div class="avatar">
                       <div class="image-wrapper">
-                      <a href="{{ route('experience' , 1) }}"><img width="200" height="200" src="/wp-content/uploads/2016/05/moshtari.jpg" class="img img-responsive" alt="team-thumbnail"  sizes="(max-width: 200px) 100vw, 200px"></a>
+                      <a href="{{ route('experience' , 1) }}"><img width="200" height="200" src="/utob-content/uploads/2016/05/moshtari.jpg" class="img img-responsive" alt="team-thumbnail"  sizes="(max-width: 200px) 100vw, 200px"></a>
                       </div>
                     <div class="content-wrapper">
                     <p class="name"><a href="{{ route('experience' , 1) }}" class="title">هدی جمال</a></p>
@@ -120,7 +120,7 @@
 
                         <div class="avatar">
                           <div class="image-wrapper">
-                          <a href="{{ route('experience' , 1) }}"><img width="200" height="200" src="/wp-content/uploads/2016/05/moshtari.jpg" class="img img-responsive" alt="team-thumbnail"  sizes="(max-width: 200px) 100vw, 200px"></a>
+                          <a href="{{ route('experience' , 1) }}"><img width="200" height="200" src="/utob-content/uploads/2016/05/moshtari.jpg" class="img img-responsive" alt="team-thumbnail"  sizes="(max-width: 200px) 100vw, 200px"></a>
                           </div>
                         <div class="content-wrapper">
                         <p class="name"><a href="{{ route('experience' , 1) }}" class="title">هدی جمال</a></p>
@@ -132,7 +132,7 @@
                       <div class="col-lg-4">
                               <div class="avatar">
                                 <div class="image-wrapper">
-                                <a href="{{ route('experience' , 1) }}"><img width="200" height="200" src="/wp-content/uploads/2016/05/moshtari.jpg" class="img img-responsive" alt="team-thumbnail"  sizes="(max-width: 200px) 100vw, 200px"></a>
+                                <a href="{{ route('experience' , 1) }}"><img width="200" height="200" src="/utob-content/uploads/2016/05/moshtari.jpg" class="img img-responsive" alt="team-thumbnail"  sizes="(max-width: 200px) 100vw, 200px"></a>
                                 </div>
                               <p class="name"><a href="{{ route('experience' , 1) }}" class="title">هدی جمال</a></p>
                               <p class="position">عمل بینی/ عمان</p>
@@ -142,7 +142,7 @@
                       <div class="col-lg-4">
                               <div class="avatar">
                                 <div class="image-wrapper">
-                                <a href="{{ route('experience' , 1) }}"><img width="200" height="200" src="/wp-content/uploads/2016/05/moshtari.jpg" class="img img-responsive" alt="team-thumbnail"  sizes="(max-width: 200px) 100vw, 200px"></a>
+                                <a href="{{ route('experience' , 1) }}"><img width="200" height="200" src="/utob-content/uploads/2016/05/moshtari.jpg" class="img img-responsive" alt="team-thumbnail"  sizes="(max-width: 200px) 100vw, 200px"></a>
                                 </div>
                               <div class="content-wrapper">
                               <p class="name"><a href="{{ route('experience' , 1) }}" class="title">هدی جمال</a></p>
@@ -165,7 +165,7 @@
 
                                   <div class="avatar">
                                     <div class="image-wrapper">
-                                    <a href="{{ route('experience' , 1) }}"><img width="200" height="200" src="/wp-content/uploads/2016/05/moshtari.jpg" class="img img-responsive" alt="team-thumbnail"  sizes="(max-width: 200px) 100vw, 200px"></a>
+                                    <a href="{{ route('experience' , 1) }}"><img width="200" height="200" src="/utob-content/uploads/2016/05/moshtari.jpg" class="img img-responsive" alt="team-thumbnail"  sizes="(max-width: 200px) 100vw, 200px"></a>
                                     </div>
                                   <div class="content-wrapper">
                                   <p class="name"><a href="{{ route('experience' , 1) }}" class="title">هدی جمال</a></p>
@@ -177,7 +177,7 @@
                                 <div class="col-lg-4">
                                         <div class="avatar">
                                           <div class="image-wrapper">
-                                          <a href="{{ route('experience' , 1) }}"><img width="200" height="200" src="/wp-content/uploads/2016/05/moshtari.jpg" class="img img-responsive" alt="team-thumbnail"  sizes="(max-width: 200px) 100vw, 200px"></a>
+                                          <a href="{{ route('experience' , 1) }}"><img width="200" height="200" src="/utob-content/uploads/2016/05/moshtari.jpg" class="img img-responsive" alt="team-thumbnail"  sizes="(max-width: 200px) 100vw, 200px"></a>
                                           </div>
                                         <div class="content-wrapper">
                                         <p class="name"><a href="{{ route('experience' , 1) }}" class="title">هدی جمال</a></p>
@@ -188,7 +188,7 @@
                                 <div class="col-lg-4">
                                         <div class="avatar">
                                           <div class="image-wrapper">
-                                          <a href="{{ route('experience' , 1) }}"><img width="200" height="200" src="/wp-content/uploads/2016/05/moshtari.jpg" class="img img-responsive" alt="team-thumbnail"  sizes="(max-width: 200px) 100vw, 200px"></a>
+                                          <a href="{{ route('experience' , 1) }}"><img width="200" height="200" src="/utob-content/uploads/2016/05/moshtari.jpg" class="img img-responsive" alt="team-thumbnail"  sizes="(max-width: 200px) 100vw, 200px"></a>
                                           </div>
                                         <div class="content-wrapper">
                                         <p class="name"><a href="{{ route('experience' , 1) }}" class="title">هدی جمال</a></p>

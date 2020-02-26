@@ -49,17 +49,17 @@
                                                                   <div class="image-hotel-view-block">
                                                                       <div class="slider-for">
                                                                           <div class="item"><img width="600" height="270"
-                                                                                                 src="/wp-content/uploads/2018/10/bini.jpg"
+                                                                                                 src="/utob-content/uploads/2018/10/bini.jpg"
                                                                                                  class="" alt="img-2"
                                                                                                  />
                                                                           </div>
                                                                           <div class="item"><img width="600" height="270"
-                                                                                                 src="/wp-content/uploads/2018/10/bini2.jpg"
+                                                                                                 src="/utob-content/uploads/2018/10/bini2.jpg"
                                                                                                  class=""
                                                                                                  alt="wall-interior-design-ideas-12"/>
                                                                           </div>
                                                                           <div class="item"><img width="600" height="270"
-                                                                                                 src="/wp-content/uploads/2018/10/bini3.jpg"
+                                                                                                 src="/utob-content/uploads/2018/10/bini3.jpg"
                                                                                                  class=""
                                                                                                  alt="elderly-person-home-3"/></div>
 
@@ -67,34 +67,34 @@
                                                                       </div>
                                                                       <div class="slider-nav">
                                                                           <div class="item"><img width="116" height="63"
-                                                                                                 src="/wp-content/uploads/2018/10/bini4.jpg"
+                                                                                                 src="/utob-content/uploads/2018/10/bini4.jpg"
                                                                                                  class="" alt="img-2"/></div>
                                                                           <div class="item"><img width="116" height="63"
-                                                                                                 src="/wp-content/uploads/2018/10/bini9.jpg"
+                                                                                                 src="/utob-content/uploads/2018/10/bini9.jpg"
                                                                                                  class=""
                                                                                                  alt="wall-interior-design-ideas-12"/>
                                                                           </div>
                                                                           <div class="item"><img width="116" height="63"
-                                                                                                 src="/wp-content/uploads/2018/10/bini6.jpg"
+                                                                                                 src="/utob-content/uploads/2018/10/bini6.jpg"
                                                                                                  class=""
                                                                                                  alt="elderly-person-home-3"/></div>
                                                                           <div class="item"><img width="116" height="63"
-                                                                                                 src="/wp-content/uploads/2018/10/bini7.jpg"
+                                                                                                 src="/utob-content/uploads/2018/10/bini7.jpg"
                                                                                                  class=""
                                                                                                  alt="Classic-With-A-Twist10"/></div>
                                                                           <div class="item"><img width="116" height="63"
-                                                                                                 src="/wp-content/uploads/2018/10/bini8.jpg"
+                                                                                                 src="/utob-content/uploads/2018/10/bini8.jpg"
                                                                                                  class="" alt="1401766004"/></div>
                                                                           <div class="item"><img width="116" height="63"
-                                                                                                 src="/wp-content/uploads/2018/10/bini9.jpg"
+                                                                                                 src="/utob-content/uploads/2018/10/bini9.jpg"
                                                                                                  class=""
                                                                                                  alt="141ee95937e2a3229f6830c5dd0ec2ad"/>
                                                                           </div>
                                                                           <div class="item"><img width="116" height="63"
-                                                                                                 src="/wp-content/uploads/2018/10/bini.jpg"
+                                                                                                 src="/utob-content/uploads/2018/10/bini.jpg"
                                                                                                  class="" alt="img-2"/></div>
                                                                           <div class="item"><img width="116" height="63"
-                                                                                                 src="/wp-content/uploads/2018/10/bini2.jpg"
+                                                                                                 src="/utob-content/uploads/2018/10/bini2.jpg"
                                                                                                  class="" alt="img-1"/></div>
                                                                       </div>
                                                                   </div>
@@ -148,6 +148,57 @@
                           </div>
                       </div>
                   </div>
+
+
+
+
+
+
+                  <div class="slz-shortcode block-title-16339022535e1ec8d10ad08 ">
+
+                      <div class="group-title">
+                          <div class="sub-title"><p class="text">مسیر</p>
+                              <i class="icons flaticon-people"></i>
+                          </div>
+                          <h2 class="main-title">مسیر درمان در یوتاب مد</h2>
+                      </div>
+                  </div>
+                  <div class="vc_row wpb_row vc_row-fluid vc_custom_1466739801596">
+                      <div class="wpb_column vc_column_container vc_col-sm-12">
+                          <div class="vc_column-inner ">
+                              <div class="wpb_wrapper">
+                                  <div class="slz-shortcode list-continents item-list-style06 item-list-17193194245e566a62198cb ">
+                                      <div class="list-continent-wrapper">
+                                          <div class="continent"><i class="icons flaticon-transport-1"></i><span class="text">ورودبه فرودگاه</span></div>
+                                      </div>
+                                      <div class="list-continent-wrapper">
+                                          <div class="continent"><i class="icons flaticon-building"></i><span class="text">رفتن به هتل</span></div>
+                                      </div>
+                                      <div class="list-continent-wrapper">
+                                          <div class="continent"><i class="icons fa fa-user-md"></i><span class="text">آزمایش|ویزیت</span></div>
+                                      </div>
+                                      <div class="list-continent-wrapper">
+                                          <div class="continent"><i class="icons fa fa-medkit"></i><span class="text">بیمارستان</span></div>
+                                      </div>
+                                      <div class="list-continent-wrapper">
+                                          <div class="continent"><i class="icons fa fa-bed"></i><span class="text">هتل | استراحت</span></div>
+                                      </div>
+                                      <div class="list-continent-wrapper">
+                                          <div class="continent"><i class="icons fa fa-thumbs-up"></i><span class="text">ویزیت نهایی</span></div>
+                                      </div>
+                                      <div class="list-continent-wrapper">
+                                          <div class="continent"><i class="icons flaticon-food-3"></i><span class="text">همراهی تا فرودگاه</span></div>
+                                      </div>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+
+
+
+
+
 
                               <div class="container">
                                   <div class="slz-shortcode special-offer margin-top70">

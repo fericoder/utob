@@ -7,7 +7,7 @@
         <!-- MAIN CONTENT-->
         <div class="main-content">
             <!-- Page Title -->
-            <section style="background-image: url(wp-content/uploads/2016/07/old-1130738_1920.jpg);!important;"
+            <section style="background-image: url(utob-content/uploads/2016/07/old-1130738_1920.jpg);!important;"
                      class=" page-title">
                 <div class="container">
                     <div class="page-title-wrapper">
@@ -56,7 +56,7 @@
                                                                                     <a class="link"
                                                                                        href="{{ route('hotel' , 1) }}"><img
                                                                                                 width="800" height="540"
-                                                                                                src="wp-content/uploads/2016/05/plus.jpeg"
+                                                                                                src="utob-content/uploads/2016/05/plus.jpeg"
                                                                                                 class="img-responsive"
                                                                                                 alt="hotelbeauti"
                                                                                                 sizes="(max-width: 800px) 100vw, 800px"/></a>
@@ -153,7 +153,7 @@
                                                                                     <a class="link"
                                                                                        href="{{ route('hotel' , 1) }}"><img
                                                                                                 width="800" height="540"
-                                                                                                src="wp-content/uploads/2016/05/es.jpg"
+                                                                                                src="utob-content/uploads/2016/05/es.jpg"
                                                                                                 class="img-responsive"
                                                                                                 alt="316_langham_modern_Exterior"
                                                                                                 sizes="(max-width: 800px) 100vw, 800px"/></a>
@@ -242,7 +242,7 @@
                                                                                     <a class="link"
                                                                                        href="{{ route('hotel' , 1) }}"><img
                                                                                                 width="800" height="540"
-                                                                                                src="wp-content/uploads/2016/05/eskan.jpg"
+                                                                                                src="utob-content/uploads/2016/05/eskan.jpg"
                                                                                                 class="img-responsive"
                                                                                                 alt="280821"
                                                                                                 sizes="(max-width: 800px) 100vw, 800px"/></a>
@@ -334,7 +334,7 @@
                                                                                     <a class="link"
                                                                                        href="{{ route('hotel' , 1) }}"><img
                                                                                                 width="800" height="540"
-                                                                                                src="wp-content/uploads/2016/05/pars.jpg"
+                                                                                                src="utob-content/uploads/2016/05/pars.jpg"
                                                                                                 class="img-responsive"
                                                                                                 alt="hanoi-top-luxury-hotel"
                                                                                                 sizes="(max-width: 800px) 100vw, 800px"/></a>
@@ -425,7 +425,7 @@
                                                                                     <a class="link"
                                                                                        href="{{ route('hotel' , 1) }}"><img
                                                                                                 width="800" height="540"
-                                                                                                src="wp-content/uploads/2016/05/pamchal.jpg"
+                                                                                                src="utob-content/uploads/2016/05/pamchal.jpg"
                                                                                                 class="img-responsive"
                                                                                                 alt="hanoi-top-luxury-hotel"
                                                                                                 sizes="(max-width: 800px) 100vw, 800px"/></a>
@@ -516,7 +516,7 @@
                                                                                     <a class="link"
                                                                                        href="{{ route('hotel' , 1) }}"><img
                                                                                                 width="800" height="540"
-                                                                                                src="wp-content/uploads/2016/05/parsss.jpeg"
+                                                                                                src="utob-content/uploads/2016/05/parsss.jpeg"
                                                                                                 class="img-responsive"
                                                                                                 alt="hanoi-top-luxury-hotel"
                                                                                                 sizes="(max-width: 800px) 100vw, 800px"/></a>

@@ -31,13 +31,13 @@
     .lm-item-2 .lm-item-bottom,
     .lm-item-2 .lm-item-top {
         background-color: #e30a51;
-        background-image: linear-gradient(-45deg, #efe4a1, #a29020);
+        background-image: linear-gradient(-45deg, #07505f, #4eafc3);
     }
 
     .lm-item-3 .lm-item-bottom,
     .lm-item-3 .lm-item-top {
         background-color: #286caa;
-        background-image: linear-gradient(-45deg, #ef9592, #9a211d);
+        background-image: linear-gradient(-45deg, #07505f, #4eafc3);
     }
 
     .lm-item {
@@ -103,8 +103,8 @@
 
     .lm-item-price {
         background: rgba(255, 255, 255, 0.05);
-        margin-top: 20px;
-        font-size: 40px;
+        margin-top: 0px;
+        font-size: 20px;
         line-height: 50px;
         color: #fff;
     }
@@ -264,8 +264,8 @@
 </style>
 <div class="lm-tabel">
     <div class="lm-item lm-item-2">
-        <div class="lm-item-top"><span style="font-family: iranyekan" class="lm-item-title lm-underline">جراحی زیبایی</span>
-            <div class="lm-item-price"><i class="icon-dollar"></i>1200 دلار</div>
+        <div class="lm-item-top"><img class="m-3" src="/storage/upload/2020/2/11/1581411309_face.png" style="width: 100px" alt=""><span style="font-family: iranyekan" class="lm-item-title lm-underline">عمل بینی</span>
+            <div class="lm-item-price"><i class="icon-dollar"></i>هزینه عمل 1200 دلار</div>
         </div>
         <div class="lm-item-body">
             <div class="lm-item-desc">
@@ -283,21 +283,22 @@
             <div class="lm-item-link"><a href="#">
                     <svg width="152" height="52" xmlns="http://www.w3.org/2000/svg">
                         <defs>
-                            <lineargradient id="lm-gr-2" x1="0" y1="0" x2="100%" y2="100%">
-                                <stop offset="0%" stop-color="#7E052D"></stop>
-                                <stop offset="100%" stop-color="#F6266B"></stop>
-                            </lineargradient>
+                            <linearGradient id="lm-gr" x1="0" y1="0" x2="100%" y2="100%">
+                                <stop offset="0%" stop-color="#1A466F"></stop>
+                                <stop offset="100%" stop-color="#4D93D5"></stop>
+                            </linearGradient>
                         </defs>
-                        <rect x="1" y="1" width="150" height="50" rx="25" fill="#fff" stroke="url(#lm-gr-2)"
-                              stroke-width="1"></rect>
-                        <text x="70%" y="65%" fill="url(&quot;#lm-gr-2&quot;)">انتخاب</text>
+                        <rect x="1" y="1" width="150" height="50" rx="25" fill="#fff" stroke="url(#lm-gr)" stroke-width="1"></rect>
+                        <text x="70%" y="65%" fill="url(&quot;#lm-gr&quot;)">انتخاب</text>
                     </svg>
-                </a></div>
+                </a>
+            </div>
+
         </div>
-        <div class="lm-item-bottom">اقتصادی</div>
+        <div style="color: white; font-size: 20px;" class="lm-item-bottom">قیمت کل: ۱۰۰۰ دلار</div>
     </div>
     <div class="lm-item lm-item-1">
-        <div class="lm-item-top"><span style="font-family: iranyekan" class="lm-item-title lm-underline">جراحی زیبایی</span>
+        <div class="lm-item-top"><img class="m-3" src="/storage/upload/2020/2/11/1581411309_face.png" style="width: 50px" alt=""><span style="font-family: iranyekan" class="lm-item-title lm-underline">جراحی زیبایی</span>
             <div class="lm-item-price"><i class="icon-dollar"></i>2300 دلار</div>
         </div>
         <div class="lm-item-body">
@@ -330,7 +331,7 @@
         <div class="lm-item-bottom">انتخاب اکثر مشتریان</div>
     </div>
     <div class="lm-item lm-item-3">
-        <div class="lm-item-top"><span style="font-family: iranyekan" class="lm-item-title lm-underline">جراحی زیبایی</span>
+        <div class="lm-item-top"><img class="m-3" src="/storage/upload/2020/2/11/1581411309_face.png" style="width: 50px" alt=""><span style="font-family: iranyekan" class="lm-item-title lm-underline">جراحی زیبایی</span>
             <div class="lm-item-price"><i class="icon-dollar"></i>3100 دلار</div>
         </div>
         <div class="lm-item-body">

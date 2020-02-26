@@ -54,123 +54,123 @@
         }
     </style>
     <link rel='stylesheet' id='contact-form-7-css'
-          href='/wp-content/plugins/contact-form-7/includes/css/styles8686.css?ver=4.5.1' type='text/css' media='all'/>
+          href='/utob-content/plugins/contact-form-7/includes/css/styles8686.css?ver=4.5.1' type='text/css' media='all'/>
     <link rel='stylesheet' id='contact-form-7-rtl-css'
-          href='/wp-content/plugins/contact-form-7/includes/css/styles-rtl8686.css?ver=4.5.1' type='text/css'
+          href='/utob-content/plugins/contact-form-7/includes/css/styles-rtl8686.css?ver=4.5.1' type='text/css'
           media='all'/>
     <link rel='stylesheet' id='rs-plugin-settings-css'
-          href='/wp-content/plugins/revslider/public/assets/css/settings7923.css?ver=5.3.1' type='text/css'
+          href='/utob-content/plugins/revslider/public/assets/css/settings7923.css?ver=5.3.1' type='text/css'
           media='all'/>
     <link rel='stylesheet' id='jquery.fancybox-css'
-          href='/wp-content/plugins/slzexploore-core/assets/libs/fancybox/css/jquery.fancybox62d0.css?ver=4.5.3'
+          href='/utob-content/plugins/utob-core/assets/libs/fancybox/css/jquery.fancybox62d0.css?ver=4.5.3'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='jquery.fancybox-buttons-css'
-          href='/wp-content/plugins/slzexploore-core/assets/libs/fancybox/css/jquery.fancybox-buttons62d0.css?ver=4.5.3'
+          href='/utob-content/plugins/utob-core/assets/libs/fancybox/css/jquery.fancybox-buttons62d0.css?ver=4.5.3'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='jquery.fancybox-thumbs-css'
-          href='/wp-content/plugins/slzexploore-core/assets/libs/fancybox/css/jquery.fancybox-thumbs62d0.css?ver=4.5.3'
+          href='/utob-content/plugins/utob-core/assets/libs/fancybox/css/jquery.fancybox-thumbs62d0.css?ver=4.5.3'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='jquery.directional-hover-css'
-          href='/wp-content/plugins/slzexploore-core/assets/libs/mouse-direction-aware/jquery.directional-hover62d0.css?ver=4.5.3'
+          href='/utob-content/plugins/utob-core/assets/libs/mouse-direction-aware/jquery.directional-hover62d0.css?ver=4.5.3'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='slick-css'
-          href='/wp-content/plugins/slzexploore-core/assets/libs/slick-slider/slick62d0.css?ver=4.5.3' type='text/css'
+          href='/utob-content/plugins/utob-core/assets/libs/slick-slider/slick62d0.css?ver=4.5.3' type='text/css'
           media='all'/>
     <link rel='stylesheet' id='slick-theme-css'
-          href='/wp-content/plugins/slzexploore-core/assets/libs/slick-slider/slick-theme62d0.css?ver=4.5.3'
+          href='/utob-content/plugins/utob-core/assets/libs/slick-slider/slick-theme62d0.css?ver=4.5.3'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='jquery.selectbox-css'
-          href='/wp-content/plugins/slzexploore-core/assets/libs/selectbox/css/jquery.selectbox62d0.css?ver=4.5.3'
+          href='/utob-content/plugins/utob-core/assets/libs/selectbox/css/jquery.selectbox62d0.css?ver=4.5.3'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='jquery.select2-css'
-          href='/wp-content/plugins/slzexploore-core/assets/libs/select2/css/select2.min62d0.css?ver=4.5.3'
+          href='/utob-content/plugins/utob-core/assets/libs/select2/css/select2.min62d0.css?ver=4.5.3'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='please-wait-css'
-          href='/wp-content/plugins/slzexploore-core/assets/libs/please-wait/please-wait62d0.css?ver=4.5.3'
+          href='/utob-content/plugins/utob-core/assets/libs/please-wait/please-wait62d0.css?ver=4.5.3'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='jquery.nstSlider.min-css'
-          href='/wp-content/plugins/slzexploore-core/assets/libs/nst-slider/css/jquery.nstSlider.min62d0.css?ver=4.5.3'
+          href='/utob-content/plugins/utob-core/assets/libs/nst-slider/css/jquery.nstSlider.min62d0.css?ver=4.5.3'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='woocommerce-layout-css'
-          href='/wp-content/plugins/woocommerce/assets/css/woocommerce-layout32bb.css?ver=2.6.14' type='text/css'
+          href='/utob-content/plugins/woocommerce/assets/css/woocommerce-layout32bb.css?ver=2.6.14' type='text/css'
           media='all'/>
     <link rel='stylesheet' id='woocommerce-smallscreen-css'
-          href='/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen32bb.css?ver=2.6.14' type='text/css'
+          href='/utob-content/plugins/woocommerce/assets/css/woocommerce-smallscreen32bb.css?ver=2.6.14' type='text/css'
           media='only screen and (max-width: 768px)'/>
     <link rel='stylesheet' id='woocommerce-general-css'
-          href='/wp-content/plugins/woocommerce/assets/css/woocommerce32bb.css?ver=2.6.14' type='text/css' media='all'/>
+          href='/utob-content/plugins/woocommerce/assets/css/woocommerce32bb.css?ver=2.6.14' type='text/css' media='all'/>
     <link rel='stylesheet' id='woocommerce_prettyPhoto_css-css'
-          href='/wp-content/plugins/woocommerce/assets/css/prettyPhoto005e.css?ver=3.1.6' type='text/css' media='all'/>
+          href='/utob-content/plugins/woocommerce/assets/css/prettyPhoto005e.css?ver=3.1.6' type='text/css' media='all'/>
     <link rel='stylesheet' id='jquery-selectBox-css'
-          href='/wp-content/plugins/yith-woocommerce-wishlist/assets/css/jquery.selectBox7359.css?ver=1.2.0'
+          href='/utob-content/plugins/yith-woocommerce-wishlist/assets/css/jquery.selectBox7359.css?ver=1.2.0'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='yith-wcwl-main-css'
-          href='/wp-content/plugins/yith-woocommerce-wishlist/assets/css/style9c6b.css?ver=2.0.16' type='text/css'
+          href='/utob-content/plugins/yith-woocommerce-wishlist/assets/css/style9c6b.css?ver=2.0.16' type='text/css'
           media='all'/>
     <link rel='stylesheet' id='yith-wcwl-font-awesome-css'
-          href='/wp-content/plugins/yith-woocommerce-wishlist/assets/css/font-awesome.minb2f9.css?ver=4.3.0'
+          href='/utob-content/plugins/yith-woocommerce-wishlist/assets/css/font-awesome.minb2f9.css?ver=4.3.0'
           type='text/css' media='all'/>
-    <link rel='stylesheet' id='slzexploore-style-css' href='/wp-content/themes/exploore/styled5f7.css?ver=2.0'
+    <link rel='stylesheet' id='slzexploore-style-css' href='/utob-content/themes/utob/styled5f7.css?ver=2.0'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='slzexploore-fonts-css'
           href='https://fonts.googleapis.com/css?family=Roboto%3A300%2C400%2C500%2C700%2C900%7CMontserrat%3A400%2C700&amp;subset=latin%2Clatin-ext'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='font-awesome.min-css'
-          href='/wp-content/themes/exploore/assets/public/font/font-icon/font-awesome/css/font-awesome.min62d0.css?ver=4.5.3'
+          href='/utob-content/themes/utob/assets/public/font/font-icon/font-awesome/css/font-awesome.min62d0.css?ver=4.5.3'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='slzexploore-font-flaticon-css'
-          href='/wp-content/themes/exploore/assets/public/font/font-icon/font-flaticon/flaticond5f7.css?ver=2.0'
+          href='/utob-content/themes/utob/assets/public/font/font-icon/font-flaticon/flaticond5f7.css?ver=2.0'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='slzexploore-font-icomoon-css'
-          href='/wp-content/themes/exploore/assets/public/font/font-icon/font-icomoon/icomoond5f7.css?ver=2.0'
+          href='/utob-content/themes/utob/assets/public/font/font-icon/font-icomoon/icomoond5f7.css?ver=2.0'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='bootstrap.min-css'
-          href='/wp-content/themes/exploore/assets/public/libs/bootstrap/css/bootstrap.min62d0.css?ver=4.5.3'
+          href='/utob-content/themes/utob/assets/public/libs/bootstrap/css/bootstrap.min62d0.css?ver=4.5.3'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='animate-css'
-          href='/wp-content/themes/exploore/assets/public/libs/animate/animate62d0.css?ver=4.5.3' type='text/css'
+          href='/utob-content/themes/utob/assets/public/libs/animate/animate62d0.css?ver=4.5.3' type='text/css'
           media='all'/>
     <link rel='stylesheet' id='bootstrap-datetimepicker-css'
-          href='/wp-content/themes/exploore/assets/public/libs/bootstrap-datepicker/css/bootstrap-datepicker.min62d0.css?ver=4.5.3'
+          href='/utob-content/themes/utob/assets/public/libs/bootstrap-datepicker/css/bootstrap-datepicker.min62d0.css?ver=4.5.3'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='validate-css'
-          href='/wp-content/themes/exploore/assets/public/libs/validation/css/validate92e2.css?ver=1.15.0'
+          href='/utob-content/themes/utob/assets/public/libs/validation/css/validate92e2.css?ver=1.15.0'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='slzexploore-layout-css'
-          href='/wp-content/themes/exploore/assets/public/css/slzexploore-layoutd5f7.css?ver=2.0' type='text/css'
+          href='/utob-content/themes/utob/assets/public/css/slzexploore-layoutd5f7.css?ver=2.0' type='text/css'
           media='all'/>
     <link rel='stylesheet' id='slzexploore-components-css'
-          href='/wp-content/themes/exploore/assets/public/css/slzexploore-componentsd5f7.css?ver=2.0' type='text/css'
+          href='/utob-content/themes/utob/assets/public/css/slzexploore-componentsd5f7.css?ver=2.0' type='text/css'
           media='all'/>
     <link rel='stylesheet' id='slzexploore-responsive-css'
-          href='/wp-content/themes/exploore/assets/public/css/slzexploore-responsived5f7.css?ver=2.0' type='text/css'
+          href='/utob-content/themes/utob/assets/public/css/slzexploore-responsived5f7.css?ver=2.0' type='text/css'
           media='all'/>
     <link rel='stylesheet' id='slzexploore-custom-theme-css'
-          href='/wp-content/themes/exploore/assets/public/css/slzexploore-custom-themed5f7.css?ver=2.0' type='text/css'
+          href='/utob-content/themes/utob/assets/public/css/slzexploore-custom-themed5f7.css?ver=2.0' type='text/css'
           media='all'/>
     <link rel='stylesheet' id='slzexploore-custom-editor-css'
-          href='/wp-content/themes/exploore/assets/public/css/slzexploore-custom-editord5f7.css?ver=2.0' type='text/css'
+          href='/utob-content/themes/utob/assets/public/css/slzexploore-custom-editord5f7.css?ver=2.0' type='text/css'
           media='all'/>
     <link rel='stylesheet' id='slzexploore-custom-css'
-          href='/wp-content/themes/exploore/assets/public/css/slzexploore-customd5f7.css?ver=2.0' type='text/css'
+          href='/utob-content/themes/utob/assets/public/css/slzexploore-customd5f7.css?ver=2.0' type='text/css'
           media='all'/>
     <link rel='stylesheet' id='slzexploore-woocommerce-css'
-          href='/wp-content/themes/exploore/assets/public/css/slzexploore-woocommerced5f7.css?ver=2.0' type='text/css'
+          href='/utob-content/themes/utob/assets/public/css/slzexploore-woocommerced5f7.css?ver=2.0' type='text/css'
           media='all'/>
     <link rel='stylesheet' id='slzexploore-bootstrap-rtl-css'
-          href='/wp-content/themes/exploore/assets/public/libs/bootstrap-rtl.min62d0.css?ver=4.5.3' type='text/css'
+          href='/utob-content/themes/utob/assets/public/libs/bootstrap-rtl.min62d0.css?ver=4.5.3' type='text/css'
           media='all'/>
-    <link rel='stylesheet' id='newsletter-css' href='/wp-content/plugins/newsletter/style8bc9.css?ver=6.0.7'
+    <link rel='stylesheet' id='newsletter-css' href='/utob-content/plugins/newsletter/style8bc9.css?ver=6.0.7'
           type='text/css' media='all'/>
     <link rel='stylesheet' id='js_composer_front-css'
-          href='/wp-content/plugins/js_composer/assets/css/js_composer.min972f.css?ver=5.0.1' type='text/css'
+          href='/utob-content/plugins/js_composer/assets/css/js_composer.min972f.css?ver=5.0.1' type='text/css'
           media='all'/>
-    <script type='text/javascript' src='/wp-includes/js/jquery/jqueryb8ff.js?ver=1.12.4'></script>
-    <script type='text/javascript' src='/wp-includes/js/jquery/jquery-migrate.min330a.js?ver=1.4.1'></script>
+    <script type='text/javascript' src='/utob-includes/js/jquery/jqueryb8ff.js?ver=1.12.4'></script>
+    <script type='text/javascript' src='/utob-includes/js/jquery/jquery-migrate.min330a.js?ver=1.4.1'></script>
     <script type='text/javascript'
-            src='/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min7923.js?ver=5.3.1'></script>
+            src='/utob-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min7923.js?ver=5.3.1'></script>
     <script type='text/javascript'
-            src='/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min7923.js?ver=5.3.1'></script>
+            src='/utob-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min7923.js?ver=5.3.1'></script>
     <script type='text/javascript'>
         /* <![CDATA[ */
         var wc_add_to_cart_params = {
@@ -184,12 +184,12 @@
         /* ]]> */
     </script>
     <script type='text/javascript'
-            src='/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min32bb.js?ver=2.6.14'></script>
+            src='/utob-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min32bb.js?ver=2.6.14'></script>
     <script type='text/javascript'
-            src='/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart972f.js?ver=5.0.1'></script>
+            src='/utob-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart972f.js?ver=5.0.1'></script>
     <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd"/>
-    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml"/>
-    <link rel="stylesheet" href="/wp-content/themes/exploore/rtl.css" type="text/css" media="screen"/>
+    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="utob-includes/wlwmanifest.xml"/>
+    <link rel="stylesheet" href="/utob-content/themes/utob/rtl.css" type="text/css" media="screen"/>
     <meta name="generator" content="WordPress 4.5.3"/>
     <meta name="generator" content="WooCommerce 2.6.14"/>
     <link rel="canonical" href="/"/>
@@ -223,7 +223,7 @@
             }
 
             .page-title {
-                background-image: url("/wp-content/uploads/2016/07/old-1130738_1920.jpg");
+                background-image: url("/utob-content/uploads/2016/07/old-1130738_1920.jpg");
             }
 
             .page-title:before {
@@ -283,7 +283,7 @@
 
             .footer-main-container {
                 background-color: #292F32;
-                background-image: url("/wp-content/uploads/2016/12/bg-footer.jpg");
+                background-image: url("/utob-content/uploads/2016/12/bg-footer.jpg");
                 background-repeat: no-repeat;
                 background-attachment: fixed;
                 background-position: center center;
@@ -304,11 +304,11 @@
             }
 
             .page-register {
-                background-image: url("/wp-content/uploads/2016/05/hotel-result.jpg");
+                background-image: url("/utob-content/uploads/2016/05/hotel-result.jpg");
             }
 
             .page-login {
-                background-image: url("/wp-content/uploads/2016/05/hotel-result.jpg");
+                background-image: url("/utob-content/uploads/2016/05/hotel-result.jpg");
             }
 
             a {
@@ -328,7 +328,7 @@
         @media screen and (min-width: 767px) {
             .page-title {
                 background-color: #f3f3f3;
-                background-image: url("/wp-content/uploads/2016/07/old-1130738_1920.jpg");
+                background-image: url("/utob-content/uploads/2016/07/old-1130738_1920.jpg");
                 background-repeat: no-repeat;
                 background-attachment: fixed;
                 background-position: center center;
@@ -409,14 +409,14 @@
 
     <meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
     <!--[if lte IE 9]>
-    <link rel="stylesheet" type="text/css" href="/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css"
+    <link rel="stylesheet" type="text/css" href="/utob-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css"
           media="screen"><![endif]-->
     <meta name="generator"
           content="Powered by Slider Revolution 5.3.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface."/>
-    <link rel="icon" href="/wp-content/uploads/2018/10/Asset_29_2x.png" sizes="32x32"/>
-    <link rel="icon" href="/wp-content/uploads/2018/10/Asset_29_2x.png" sizes="192x192"/>
-    <link rel="apple-touch-icon-precomposed" href="/wp-content/uploads/2018/10/Asset_29_2x.png"/>
-    <meta name="msapplication-TileImage" content="/wp-content/uploads/2018/10/Asset_29_2x.png"/>
+    <link rel="icon" href="/utob-content/uploads/2018/10/Asset_29_2x.png" sizes="32x32"/>
+    <link rel="icon" href="/utob-content/uploads/2018/10/Asset_29_2x.png" sizes="192x192"/>
+    <link rel="apple-touch-icon-precomposed" href="/utob-content/uploads/2018/10/Asset_29_2x.png"/>
+    <meta name="msapplication-TileImage" content="/utob-content/uploads/2018/10/Asset_29_2x.png"/>
     <style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1463096648310 {
             padding-top: 100px !important;
             padding-bottom: 60px !important;
@@ -425,13 +425,13 @@
         .vc_custom_1463027505022 {
             padding-top: 65px !important;
             padding-bottom: 100px !important;
-            background-image: url(/wp-content/uploads/2016/05/bg-section-tour78d7.jpg?id=405) !important;
+            background-image: url(/utob-content/uploads/2016/05/bg-section-tour78d7.jpg?id=405) !important;
         }
 
         .vc_custom_1463028221790 {
             padding-top: 65px !important;
             padding-bottom: 100px !important;
-            background-image: url(/wp-content/uploads/2016/05/bg-section-hotel.jpg?id=218) !important;
+            background-image: url(/utob-content/uploads/2016/05/bg-section-hotel.jpg?id=218) !important;
         }
 
         .vc_custom_1463017194672 {
@@ -490,7 +490,7 @@
                     <p class="text">جهت ثبت درخواست تماس، فرم زیر را تکمیل نمایید.</p>
                     <div role="form" class="wpcf7" id="wpcf7-f46-p45-o1" lang="en" dir="ltr">
                         <div class="screen-reader-response"></div>
-                        <form action="http://wp.swlabs.co/exploore/?d=rtl#wpcf7-f46-p45-o1" method="post"
+                        <form action="" method="post"
                               class="wpcf7-form contact-form" novalidate="novalidate"
                               id="contact-form-6023684715e1ec8d47cbee">
                             <div style="display: none;">
@@ -962,7 +962,7 @@
                         <div class="navbar-header pull-left">
                             <div class="logo">
                                 <a href="" class="header-logo">
-                                    <img src="/wp-content/uploads/2016/06/Logo.png" alt=""> </a>
+                                    <img src="/utob-content/uploads/2016/06/Logo.png" alt=""> </a>
                             </div>
                         </div>
                         <nav class="navigation">
@@ -1106,11 +1106,9 @@
             <div class="footer-main padding-top padding-bottom ">
                 <div class="container">
                     <div class="footer-main-wrapper">
-                        <a href="" class="logo-footer"><img src="/wp-content/uploads/2016/06/Logo.png"
-                                                            alt="Logo Footer" class="img-responsive"/></a>
                         <div class="row">
                             <div class="col-2">
-                                <div id="footer_c1" class="footer-area col-md-3 col-xs-5">
+                                <div id="footer_c1" class="footer-area col-md-4 col-xs-5">
                                     <div id="slzexploore_contact-1"
                                          class="widget_slz_contact slz-widget widget widget-footer">
                                         <div class="contact-us-widget widget">
@@ -1123,159 +1121,66 @@
                                                     <div><i class="icons fa fa-phone"></i><span class="utob-byekan">021-22094188</span>
                                                     </div>
                                                     <div><i class="icons fa fa-envelope-o"></i><a class="link"
-                                                                                                  href="mailto:domain@Utob.com"><span>info@utob.com</span></a>
+                                                                                                  href="mailto:domain@Utob.com"><span>info@utobmed.com</span></a>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                    <div id="slzexploore_newsletter-1"
-                                         class="widget_slzexploore_newsletter slz-widget widget widget-footer">
-                                        <div class="form-email"><p class="text">برای دریافت آخرین به روزرسانی ها و
-                                                پیشنهادات، در لیست پستی ما ثبت نام کنید.
-                                            </p>
 
-                                            <script type="text/javascript">
-                                                //<![CDATA[
-                                                if (typeof newsletter_check !== "function") {
-                                                    window.newsletter_check = function (f) {
-                                                        var re = /^([a-zA-Z0-9_\.\-\+])+\@(([a-zA-Z0-9\-]{1,})+\.)+([a-zA-Z0-9]{2,})+$/;
-                                                        if (!re.test(f.elements["ne"].value)) {
-                                                            alert("The email is not correct");
-                                                            return false;
-                                                        }
-                                                        for (var i = 1; i < 20; i++) {
-                                                            if (f.elements["np" + i] && f.elements["np" + i].required && f.elements["np" + i].value == "") {
-                                                                alert("");
-                                                                return false;
-                                                            }
-                                                        }
-                                                        if (f.elements["ny"] && !f.elements["ny"].checked) {
-                                                            alert("You must accept the privacy statement");
-                                                            return false;
-                                                        }
-                                                        return true;
-                                                    }
-                                                }
-                                                //]]>
-                                            </script>
-
-                                            <form action="/?na=s" onsubmit="return newsletter_check(this)"
-                                                  method="post">
-                                                <div class="input-group"><input type="hidden" name="nr"
-                                                                                value="widget"/><input
-                                                            class="form-control form-email-widget" type="email"
-                                                            required name="ne" placeholder="ایمیل خود را وارد کنید"
-                                                            onclick="if (this.defaultValue==this.value) this.value=''"
-                                                            onblur="if (this.value=='') this.value=this.defaultValue"/><span
-                                                            class="input-group-btn-custom"><button type="submit"
-                                                                                                   class="btn-email">&#10004;</button></span>
-                                                </div>
-                                            </form>
-                                        </div>
-                                    </div>
                                 </div>
-                                <div id="footer_c2" class="footer-area col-md-2 col-xs-3">
+                                <div id="footer_c2" class="footer-area col-md-3 col-xs-3">
                                     <div id="slzexploore_custom_link-1"
                                          class="widget_slz_widget_custom_link slz-widget widget widget-footer">
                                         <div class="booking-widget widget text-center">
-                                            <div class="title-widget">اکنون ثبت کن
+                                            <div class="title-widget">لینک های کاربردی
                                             </div>
                                             <div class="content-widget">
                                                 <ul class="list-unstyled">
-                                                    <li><a href="/hotels" class="link">هتل</a></li>
-                                                    <li><a href="" class="link">دکتر</a></li>
-                                                    <li><a href="" class="link">پکیج</a></li>
-                                                    <li><a href="" class="link">تور</a></li>
-                                                    <li><a href="" class="link">رفت و آمد</a></li>
-                                                    <li><a href="" class="link">بیمارستان</a></li>
+                                                    <li><a href="/treatments" class="link">درمان ها</a></li>
+                                                    <li><a href="/doctors" class="link">پزشکان</a></li>
+                                                    <li><a href="/hospitals" class="link">بیمارستان ها</a></li>
+                                                    <li><a href="/experiences" class="link">تجربه مشتریان</a></li>
                                                 </ul>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <div id="footer_c3" class="footer-area col-md-2 col-xs-4">
+                                <div id="footer_c3" class="footer-area col-md-3 col-xs-3">
                                     <div id="slzexploore_tour-2"
                                          class="widget_slz_widget_tour slz-widget widget widget-footer">
                                         <div class="explore-widget widget">
-                                            <div class="title-widget">اخبار و مقالات</div>
+                                            <div class="title-widget">خدمات</div>
                                             <div class="content-widget">
                                                 <ul class="list-unstyled">
-                                                    <li><a href="" class="link">درباره
-                                                            ایران</a></li>
-                                                    <li><a href="" class="link">درباره
-                                                            یوتاب مد</a></li>
-                                                    <li><a href="" class="link">درباره
-                                                            بیماری ها</a></li>
-                                                    <li><a href="" class="link">درباره
-                                                            دکتر ها</a></li>
-                                                    <li><a href="" class="link">درباره
-                                                            بیمارستان ها</a></li>
-                                                    <li><a href="" class="link">درباره
-                                                            هتل ها</a></li>
+                                                    <li><a href="/hotels" class="link">هتل ها</a></li>
+                                                    <li><a href="/blogs" class="link">مقالات</a></li>
+                                                    <li><a href="/services" class="link">سایر خدمات</a></li>
+                                                    <li><a href="/login" class="link">حساب کاربری</a></li>
                                                 </ul>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
+
+
                             <div class="col-2">
                                 <div id="footer_c4" class="footer-area col-md-2 col-sm-5 col-xs-6">
                                     <div id="slzexploore_accommodation-2"
                                          class="widget_slz_widget_accommodation slz-widget widget widget-footer">
                                         <div class="explore-widget widget">
-                                            <div class="title-widget">فرم درخواست</div>
+                                            <div class="title-widget">درباره یوتاب مد</div>
                                             <div class="content-widget">
                                                 <ul class="list-unstyled">
-                                                    <li><a href="" class="link">درخواست مشاوره</a></li>
-                                                    <li><a href=""
-                                                           class="link">فرم تماس</a></li>
+                                                    <li><a href="/about" class="link">درباره ما</a></li>
+                                                    <li><a href="/contact" class="link">تماس باما</a></li>
                                                 </ul>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-                                <div id="footer_c5" class="footer-area col-md-3 col-sm-7 col-xs-6">
-                                    <div id="slzexploore_gallery-1"
-                                         class="widget_slzexploore_gallery slz-widget widget widget-footer">
-                                        <div class="title-widget">گالری تصاویر</div>
-                                        <div class="destination-widget widget">
-                                            <div class="content-widget ">
-                                                <ul class="list-unstyled list-inline">
-                                                    <li>
-                                                        <a class="thumb" href=""><img width="100" height="100"
-                                                                                      src="/wp-content/uploads/2016/05/es.jpg"
-                                                                                      class="img-responsive"
-                                                                                      alt="hotelbeauti"/></a></li>
-                                                    <li><a class="thumb" href=""><img width="100" height="100"
-                                                                                      src="/wp-content/uploads/2016/05/es.jpg"
-                                                                                      class="img-responsive"
-                                                                                      alt="316_langham_modern_Exterior"/></a>
-                                                    </li>
-                                                    <li><a class="thumb" href=""><img width="100" height="100"
-                                                                                      src="/wp-content/uploads/2016/05/es.jpg"
-                                                                                      class="img-responsive"
-                                                                                      alt="280821"/></a></li>
-                                                    <li><a class="thumb" href=""><img width="100" height="100"
-                                                                                      src="/wp-content/uploads/2016/05/es.jpg"
-                                                                                      class="img-responsive"
-                                                                                      alt="hanoi-top-luxury-hotel"/></a>
-                                                    </li>
-                                                    <li><a class="thumb" href=""><img width="100" height="100"
-                                                                                      src="/wp-content/uploads/2016/05/es.jpg"
-                                                                                      class="img-responsive"
-                                                                                      alt="inntel-zaandam-bigheader1"/></a>
-                                                    </li>
-                                                    <li><a class="thumb" href=""><img width="100" height="100"
-                                                                                      src="/wp-content/uploads/2016/05/es.jpg"
-                                                                                      class="img-responsive"
-                                                                                      alt="Palais-Namaskar-luxury-dream-hotels-01"/></a>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+
                             </div>
                         </div>
                     </div>
@@ -1293,15 +1198,15 @@
 
 </div>
 <link rel='stylesheet' id='slzexploore-custom-inline-css'
-      href='/wp-content/themes/exploore/assets/public/css/slzexploore-custom-inline62d0.css?ver=4.5.3'
+      href='/utob-content/themes/utob/assets/public/css/slzexploore-custom-inline62d0.css?ver=4.5.3'
       type='text/css' media='all'/>
 <style id='slzexploore-custom-inline-inline-css' type='text/css'>
     .main-content .page-banner-2.homepage-02, .main-content .page-banner.homepage-default, .main-content .page-banner-2.homepage-03 {
-        background-image: url(wp-content/uploads/2016/05/home-banner-3.jpg);
+        background-image: url(utob-content/uploads/2016/05/home-banner-3.jpg);
     }
 </style>
 <link rel='stylesheet' id='slzexploore-core-custom-css'
-      href='/wp-content/plugins/slzexploore-core/assets/css/slzexploore-core-customd5f7.css?ver=2.0' type='text/css'
+      href='/utob-content/plugins/utob-core/assets/css/slzexploore-core-customd5f7.css?ver=2.0' type='text/css'
       media='all'/>
 <style id='slzexploore-core-custom-inline-css' type='text/css'>
     .block-title-16339022535e1ec8d10ad08 .group-title {
@@ -1340,11 +1245,11 @@
     }
 
     .banner-20897404385e1ec8d424fb1 {
-        background-image: url("wp-content/uploads/2016/05/Medical-Tourism.jpg");
+        background-image: url("utob-content/uploads/2016/05/Medical-Tourism.jpg");
     }
 
     .banner-20897404385e1ec8d424fb1 .about-tours {
-        background-image: url("wp-content/uploads/2016/05/bg-section-videos.jpg");
+        background-image: url("utob-content/uploads/2016/05/bg-section-videos.jpg");
     }
 
     .block-title-5219010795e1ec8d427f08 .group-title {
@@ -1360,7 +1265,7 @@
     }
 
     .travel-id-6932734695e1ec8d4458ba {
-        background-image: url("wp-content/uploads/2016/05/bg-section-traveler.jpg");
+        background-image: url("utob-content/uploads/2016/05/bg-section-traveler.jpg");
     }
 
     .btn.btn-maincolor1-12960595115e1ec8d471431:hover {
@@ -1390,11 +1295,11 @@
     }
 
     .banner-sale-1 {
-        background-image: url("wp-content/uploads/2016/05/bg-section-banner-1.jpg");
+        background-image: url("utob-content/uploads/2016/05/bg-section-banner-1.jpg");
     }
 
     .banner-sale-1 .title-box {
-        background-image: url("wp-content/uploads/2016/05/bg-section-banner-1.jpg");
+        background-image: url("utob-content/uploads/2016/05/bg-section-banner-1.jpg");
     }
 
     .block-title-20933987305e1ec8d472f4d .group-title {
@@ -1402,108 +1307,108 @@
     }
 
     .contact-6023684715e1ec8d47cbee .contact {
-        background-image: url("wp-content/uploads/2016/05/medical-touris.jpg");
+        background-image: url("utob-content/uploads/2016/05/medical-touris.jpg");
     }
 </style>
 <link rel='stylesheet' id='animate-css-css'
-      href='/wp-content/plugins/js_composer/assets/lib/bower/animate-css/animate.min972f.css?ver=5.0.1'
+      href='/utob-content/plugins/js_composer/assets/lib/bower/animate-css/animate.min972f.css?ver=5.0.1'
       type='text/css' media=''/>
 <script type='text/javascript'
-        src='/wp-content/plugins/contact-form-7/includes/js/jquery.form.mind03d.js?ver=3.51.0-2014.06.20'></script>
+        src='/utob-content/plugins/contact-form-7/includes/js/jquery.form.mind03d.js?ver=3.51.0-2014.06.20'></script>
 <script type='text/javascript'
-        src='/wp-content/plugins/contact-form-7/includes/js/scripts8686.js?ver=4.5.1'></script>
+        src='/utob-content/plugins/contact-form-7/includes/js/scripts8686.js?ver=4.5.1'></script>
 <script type='text/javascript'
-        src='/wp-content/plugins/slzexploore-core/assets/libs/bootstrap-datepicker/js/bootstrap-datepicker.min62d0.js?ver=4.5.3'></script>
+        src='/utob-content/plugins/utob-core/assets/libs/bootstrap-datepicker/js/bootstrap-datepicker.min62d0.js?ver=4.5.3'></script>
 <script type='text/javascript'
-        src='/wp-content/plugins/slzexploore-core/assets/libs/fancybox/js/jquery.mousewheel-pack62d0.js?ver=4.5.3'></script>
+        src='/utob-content/plugins/utob-core/assets/libs/fancybox/js/jquery.mousewheel-pack62d0.js?ver=4.5.3'></script>
 <script type='text/javascript'
-        src='/wp-content/plugins/slzexploore-core/assets/libs/fancybox/js/jquery.fancybox62d0.js?ver=4.5.3'></script>
+        src='/utob-content/plugins/utob-core/assets/libs/fancybox/js/jquery.fancybox62d0.js?ver=4.5.3'></script>
 <script type='text/javascript'
-        src='/wp-content/plugins/slzexploore-core/assets/libs/fancybox/js/jquery.fancybox-buttons62d0.js?ver=4.5.3'></script>
+        src='/utob-content/plugins/utob-core/assets/libs/fancybox/js/jquery.fancybox-buttons62d0.js?ver=4.5.3'></script>
 <script type='text/javascript'
-        src='/wp-content/plugins/slzexploore-core/assets/libs/fancybox/js/jquery.fancybox-thumbs62d0.js?ver=4.5.3'></script>
+        src='/utob-content/plugins/utob-core/assets/libs/fancybox/js/jquery.fancybox-thumbs62d0.js?ver=4.5.3'></script>
 <script type='text/javascript'
-        src='/wp-content/plugins/slzexploore-core/assets/libs/please-wait/please-wait.min62d0.js?ver=4.5.3'></script>
+        src='/utob-content/plugins/utob-core/assets/libs/please-wait/please-wait.min62d0.js?ver=4.5.3'></script>
 <script type='text/javascript'
-        src='/wp-content/plugins/slzexploore-core/assets/libs/wow-js/wow.min62d0.js?ver=4.5.3'></script>
+        src='/utob-content/plugins/utob-core/assets/libs/wow-js/wow.min62d0.js?ver=4.5.3'></script>
 <script type='text/javascript'
-        src='/wp-content/plugins/slzexploore-core/assets/libs/mouse-direction-aware/jquery.directional-hover62d0.js?ver=4.5.3'></script>
+        src='/utob-content/plugins/utob-core/assets/libs/mouse-direction-aware/jquery.directional-hover62d0.js?ver=4.5.3'></script>
 <script type='text/javascript'
-        src='/wp-content/plugins/slzexploore-core/assets/libs/isotope/isotope.min62d0.js?ver=4.5.3'></script>
+        src='/utob-content/plugins/utob-core/assets/libs/isotope/isotope.min62d0.js?ver=4.5.3'></script>
 <script type='text/javascript'
-        src='/wp-content/plugins/slzexploore-core/assets/libs/selectbox/js/jquery.selectbox-0.262d0.js?ver=4.5.3'></script>
+        src='/utob-content/plugins/utob-core/assets/libs/selectbox/js/jquery.selectbox-0.262d0.js?ver=4.5.3'></script>
 <script type='text/javascript'
-        src='/wp-content/plugins/slzexploore-core/assets/libs/select2/js/select2.min62d0.js?ver=4.5.3'></script>
+        src='/utob-content/plugins/utob-core/assets/libs/select2/js/select2.min62d0.js?ver=4.5.3'></script>
 <script type='text/javascript'
-        src='/wp-content/plugins/slzexploore-core/assets/libs/plus-minus-input/plus-minus-input62d0.js?ver=4.5.3'></script>
+        src='/utob-content/plugins/utob-core/assets/libs/plus-minus-input/plus-minus-input62d0.js?ver=4.5.3'></script>
 <script type='text/javascript'
-        src='/wp-content/plugins/slzexploore-core/assets/libs/parallax/TweenMax.min62d0.js?ver=4.5.3'></script>
+        src='/utob-content/plugins/utob-core/assets/libs/parallax/TweenMax.min62d0.js?ver=4.5.3'></script>
 <script type='text/javascript'
-        src='/wp-content/plugins/slzexploore-core/assets/libs/parallax/jquery-parallax62d0.js?ver=4.5.3'></script>
+        src='/utob-content/plugins/utob-core/assets/libs/parallax/jquery-parallax62d0.js?ver=4.5.3'></script>
 <script type='text/javascript'
-        src='/wp-content/plugins/slzexploore-core/assets/libs/slick-slider/slick.min62d0.js?ver=4.5.3'></script>
+        src='/utob-content/plugins/utob-core/assets/libs/slick-slider/slick.min62d0.js?ver=4.5.3'></script>
 <script type='text/javascript'
-        src='/wp-content/plugins/slzexploore-core/assets/libs/nst-slider/js/jquery.nstSlider.min62d0.js?ver=4.5.3'></script>
+        src='/utob-content/plugins/utob-core/assets/libs/nst-slider/js/jquery.nstSlider.min62d0.js?ver=4.5.3'></script>
 <script type='text/javascript'
         src='http://maps.googleapis.com/maps/api/js?key=AIzaSyBBU_zpkBrGVM46XQG3dUTz87S2Ig8wNvk&amp;libraries=places&amp;ver=4.5.3'></script>
 <script type='text/javascript'
-        src='/wp-content/plugins/slzexploore-core/assets/libs/google-map/markerclusterer62d0.js?ver=4.5.3'></script>
+        src='/utob-content/plugins/utob-core/assets/libs/google-map/markerclusterer62d0.js?ver=4.5.3'></script>
 <script type='text/javascript'
-        src='/wp-content/plugins/slzexploore-core/assets/js/slzexploore-core-formd5f7.js?ver=2.0'></script>
+        src='/utob-content/plugins/utob-core/assets/js/slzexploore-core-formd5f7.js?ver=2.0'></script>
 <script type='text/javascript'
-        src='/wp-content/plugins/slzexploore-core/assets/js/slzexploore-core-shortcoded5f7.js?ver=2.0'></script>
+        src='/utob-content/plugins/utob-core/assets/js/slzexploore-core-shortcoded5f7.js?ver=2.0'></script>
 <script type='text/javascript'
-        src='/wp-content/plugins/slzexploore-core/assets/js/slzexploore-core-mapsd5f7.js?ver=2.0'></script>
+        src='/utob-content/plugins/utob-core/assets/js/slzexploore-core-mapsd5f7.js?ver=2.0'></script>
 <script type='text/javascript'
-        src='/wp-content/plugins/slzexploore-core/assets/js/slzexploore-core-multi-mapsd5f7.js?ver=2.0'></script>
+        src='/utob-content/plugins/utob-core/assets/js/slzexploore-core-multi-mapsd5f7.js?ver=2.0'></script>
 <script type='text/javascript'
-        src='/wp-content/plugins/slzexploore-core/assets/js/slzexploore-core-bookingd5f7.js?ver=2.0'></script>
+        src='/utob-content/plugins/utob-core/assets/js/slzexploore-core-bookingd5f7.js?ver=2.0'></script>
 <script type='text/javascript'
-        src='/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min44fd.js?ver=2.70'></script>
+        src='/utob-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min44fd.js?ver=2.70'></script>
 <script type='text/javascript'
-        src='/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min32bb.js?ver=2.6.14'></script>
+        src='/utob-content/plugins/woocommerce/assets/js/frontend/woocommerce.min32bb.js?ver=2.6.14'></script>
 <script type='text/javascript'
-        src='/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min330a.js?ver=1.4.1'></script>
+        src='/utob-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min330a.js?ver=1.4.1'></script>
 <script type='text/javascript'
-        src='/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min32bb.js?ver=2.6.14'></script>
+        src='/utob-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min32bb.js?ver=2.6.14'></script>
 <script type='text/javascript'
-        src='/wp-content/plugins/woocommerce/assets/js/prettyPhoto/jquery.prettyPhoto.minc6bd.js?ver=3.1.5'></script>
+        src='/utob-content/plugins/woocommerce/assets/js/prettyPhoto/jquery.prettyPhoto.minc6bd.js?ver=3.1.5'></script>
 <script type='text/javascript'
-        src='/wp-content/plugins/woocommerce/assets/js/prettyPhoto/jquery.prettyPhoto.init.min32bb.js?ver=2.6.14'></script>
+        src='/utob-content/plugins/woocommerce/assets/js/prettyPhoto/jquery.prettyPhoto.init.min32bb.js?ver=2.6.14'></script>
 <script type='text/javascript'
-        src='/wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.selectBox.min7359.js?ver=1.2.0'></script>
+        src='/utob-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.selectBox.min7359.js?ver=1.2.0'></script>
 <script type='text/javascript'
-        src='/wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.yith-wcwl9c6b.js?ver=2.0.16'></script>
-<script type='text/javascript' src='/wp-content/themes/exploore/js/skip-link-focus-fix08e0.js?ver=20130115'></script>
+        src='/utob-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.yith-wcwl9c6b.js?ver=2.0.16'></script>
+<script type='text/javascript' src='/utob-content/themes/utob/js/skip-link-focus-fix08e0.js?ver=20130115'></script>
 
 <script type='text/javascript'
-        src='/wp-content/themes/exploore/assets/public/libs/bootstrap/js/bootstrap.min62d0.js?ver=4.5.3'></script>
+        src='/utob-content/themes/utob/assets/public/libs/bootstrap/js/bootstrap.min62d0.js?ver=4.5.3'></script>
 <script type='text/javascript'
-        src='/wp-content/themes/exploore/assets/public/libs/background-video/video-bg62d0.js?ver=4.5.3'></script>
+        src='/utob-content/themes/utob/assets/public/libs/background-video/video-bg62d0.js?ver=4.5.3'></script>
 <script type='text/javascript'
-        src='/wp-content/themes/exploore/assets/public/libs/detect-browser/browser62d0.js?ver=4.5.3'></script>
+        src='/utob-content/themes/utob/assets/public/libs/detect-browser/browser62d0.js?ver=4.5.3'></script>
 <script type='text/javascript'
-        src='/wp-content/themes/exploore/assets/public/libs/validation/js/jquery.validate.min62d0.js?ver=4.5.3'></script>
+        src='/utob-content/themes/utob/assets/public/libs/validation/js/jquery.validate.min62d0.js?ver=4.5.3'></script>
 <script type='text/javascript'
-        src='/wp-content/themes/exploore/assets/public/js/slzexploore-maind5f7.js?ver=2.0'></script>
+        src='/utob-content/themes/utob/assets/public/js/slzexploore-maind5f7.js?ver=2.0'></script>
 <script type='text/javascript'
-        src='/wp-content/themes/exploore/assets/public/js/slzexploore-customd5f7.js?ver=2.0'></script>
+        src='/utob-content/themes/utob/assets/public/js/slzexploore-customd5f7.js?ver=2.0'></script>
 <script type='text/javascript'
-        src='/wp-content/themes/exploore/assets/public/js/slzexploore-ajaxd5f7.js?ver=2.0'></script>
+        src='/utob-content/themes/utob/assets/public/js/slzexploore-ajaxd5f7.js?ver=2.0'></script>
 <script type='text/javascript'
-        src='/wp-content/plugins/contact-form-7/includes/js/jquery.form.mind03d.js?ver=3.51.0-2014.06.20'></script>
+        src='/utob-content/plugins/contact-form-7/includes/js/jquery.form.mind03d.js?ver=3.51.0-2014.06.20'></script>
 <script type='text/javascript'
-        src='/wp-content/plugins/contact-form-7/includes/js/scripts8686.js?ver=4.5.1'></script>
+        src='/utob-content/plugins/contact-form-7/includes/js/scripts8686.js?ver=4.5.1'></script>
 <script type='text/javascript'
-        src='/wp-content/themes/exploore/assets/public/js/slzexploore-woocommerced5f7.js?ver=2.0'></script>
-<script type='text/javascript' src='/wp-content/plugins/newsletter/subscription/validate8bc9.js?ver=6.0.7'></script>
-<script type='text/javascript' src='/wp-includes/js/wp-embed.min62d0.js?ver=4.5.3'></script>
+        src='/utob-content/themes/utob/assets/public/js/slzexploore-woocommerced5f7.js?ver=2.0'></script>
+<script type='text/javascript' src='/utob-content/plugins/newsletter/subscription/validate8bc9.js?ver=6.0.7'></script>
+<script type='text/javascript' src='/utob-includes/js/wp-embed.min62d0.js?ver=4.5.3'></script>
 <script type='text/javascript'
-        src='/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min972f.js?ver=5.0.1'></script>
+        src='/utob-content/plugins/js_composer/assets/js/dist/js_composer_front.min972f.js?ver=5.0.1'></script>
 <script type='text/javascript'
-        src='/wp-content/plugins/js_composer/assets/lib/waypoints/waypoints.min972f.js?ver=5.0.1'></script>
+        src='/utob-content/plugins/js_composer/assets/lib/waypoints/waypoints.min972f.js?ver=5.0.1'></script>
 <script type='text/javascript'
-        src='/wp-content/themes/exploore/assets/public/js/slz-livesettingd5f7.js?ver=2.0'></script>
+        src='/utob-content/themes/utob/assets/public/js/slz-livesettingd5f7.js?ver=2.0'></script>
 
 @yield('footerScripts')
 <script>

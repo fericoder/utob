@@ -7,7 +7,7 @@
         <!-- MAIN CONTENT-->
         <div class="main-content">
             <!-- Page Title -->
-            <section style="background-image: url(/wp-content/uploads/2016/05/location.jpg);!important;"
+            <section style="background-image: url(/utob-content/uploads/2016/05/location.jpg);!important;"
                      class=" page-title">
                 <div class="container">
                     <div class="page-title-wrapper">
@@ -45,7 +45,7 @@
                                                                             <div class="wrapper-img">
                                                                                 <a href=""><img
                                                                                             width="200" height="200"
-                                                                                            src="/wp-content/uploads/2018/10/iran.png"
+                                                                                            src="/utob-content/uploads/2018/10/iran.png"
                                                                                             class="img img-responsives"
                                                                                             alt="avatar-contact-1"/></a>
                                                                             </div>
@@ -81,7 +81,7 @@
                                                                             <div class="wrapper-img">
                                                                                 <a href=""><img
                                                                                             width="200" height="200"
-                                                                                            src="/wp-content/uploads/2018/10/uae.png"
+                                                                                            src="/utob-content/uploads/2018/10/uae.png"
                                                                                             class="img img-responsives"
                                                                                             alt="avatar-contact-2"/></a>
                                                                             </div>
@@ -117,13 +117,13 @@
                                                                             <div class="wrapper-img">
                                                                                 <a href=""><img
                                                                                             width="200" height="200"
-                                                                                            src="/wp-content/uploads/2018/10/iraq.png"
+                                                                                            src="/utob-content/uploads/2018/10/iraq.png"
                                                                                             class="img img-responsives"
                                                                                             alt="avatar-contact-3"/></a>
                                                                             </div>
                                                                             <div class="main-organization">
                                                                                 <div class="organization-title">
-                                                                                    <a href="/wp-content/uploads/2018/10/iraq.png"
+                                                                                    <a href="/utob-content/uploads/2018/10/iraq.png"
                                                                                        class="title">دفتر اربیل</a>
                                                                                     <p class="text">مدیر: رضا رضایی</p>
                                                                                 </div>
@@ -238,7 +238,7 @@
                                                                         <div data-wow-delay="0.5s"
                                                                              class="wrapper-form-images wow fadeInRight">
                                                                             <img width="870" height="550"
-                                                                                 src="../wp-content/uploads/2016/05/waze2.jpeg"
+                                                                                 src="../utob-content/uploads/2016/05/waze2.jpeg"
                                                                                  class="img-responsive attachment-full"
                                                                                  alt="bg-banner-contact-form"
                                                                                  sizes="(max-width: 870px) 100vw, 870px"/>
@@ -282,7 +282,7 @@
                                                                     </div>
                                                                 </div>
                                                                 <div id="googleMap"
-                                                                     data-img-url="/wp-content/plugins/slzexploore-core/assets/images/marker.png"
+                                                                     data-img-url="/utob-content/plugins/utob-core/assets/images/marker.png"
                                                                      data-address="333 Moo 10, Chert Wudthakas Road, Srikan, Don Mueang, Bangkok, Thailand"></div>
                                                             </div>
                                                         </div>

@@ -7,7 +7,7 @@
         <!-- MAIN CONTENT-->
         <div class="main-content">
             <!-- Page Title -->
-            <section style="background-image: url(wp-content/uploads/2016/05/medicina-interna.jpg);!important;"
+            <section style="background-image: url(utob-content/uploads/2016/05/medicina-interna.jpg);!important;"
                      class=" page-title">
                 <div class="container">
                     <div class="page-title-wrapper">
@@ -39,7 +39,7 @@
     <div class="blog-wrapper">
     <div class="row multi-column">
     <div class="col-md-6 blog-post post-249 post type-post status-publish format-video has-post-thumbnail hentry category-adventure category-discover category-explore tag-adventure tag-explore tag-traveler post_format-post-format-video">
-      <div class="blog-image"><a href="{{ route('blog', 1) }}" class="link"><img width="750" height="350" src="/wp-content/uploads/2016/05/jk.jpg" class="img-responsive" alt="about-us-1" /></a></div>
+      <div class="blog-image"><a href="{{ route('blog', 1) }}" class="link"><img width="750" height="350" src="/utob-content/uploads/2016/05/jk.jpg" class="img-responsive" alt="about-us-1" /></a></div>
     <div class="blog-content">
     <div class="col-xs-2">
     <div class="row"><div class="date"><h1 class="day utob-byekan">15</h1><div class="month">بهمن</div><div class="year utob-byekan">1398</div></div></div>
@@ -55,7 +55,7 @@
     </div>
     </div>
     <div class="col-md-6 blog-post post-220 post type-post status-publish format-image has-post-thumbnail hentry category-discover category-the-world category-travel tag-adventure tag-europe tag-explore post_format-post-format-image">
-    <div class="blog-image"><a href="{{ route('blog', 1) }}" class="link"><img width="750" height="350" src="/wp-content/uploads/2016/05/mashroob.jpg" class="img-responsive" alt="about-us-1" /></a></div>
+    <div class="blog-image"><a href="{{ route('blog', 1) }}" class="link"><img width="750" height="350" src="/utob-content/uploads/2016/05/mashroob.jpg" class="img-responsive" alt="about-us-1" /></a></div>
     <div class="blog-content">
     <div class="col-xs-2">
     <div class="row"><div class="date"><h1 class="day utob-byekan">4</h1><div class="month">بهمن</div><div class="year utob-byekan">1398</div></div></div>
@@ -71,7 +71,7 @@
     </div>
     </div></div><div class="row multi-column">
     <div class="col-md-6 blog-post post-208 post type-post status-publish format-standard has-post-thumbnail hentry category-adventure category-discover category-explore category-the-world category-travel tag-dream tag-europe tag-traveller">
-    <div class="blog-image"><a href="{{ route('blog', 1) }}" class="link"><img width="750" height="350" src="/wp-content/uploads/2016/05/sigar.jpg" class="img-responsive" alt="Luxury-Private-Jet" /></a></div>
+    <div class="blog-image"><a href="{{ route('blog', 1) }}" class="link"><img width="750" height="350" src="/utob-content/uploads/2016/05/sigar.jpg" class="img-responsive" alt="Luxury-Private-Jet" /></a></div>
     <div class="blog-content">
     <div class="col-xs-2">
     <div class="row"><div class="date"><h1 class="day utob-byekan">28</h1><div class="month">آبان</div><div class="year utob-byekan">1398</div></div></div>
@@ -88,7 +88,7 @@
     </div>
     </div>
     <div class="col-md-6 blog-post post-207 post type-post status-publish format-standard has-post-thumbnail hentry category-explore category-travel tag-adventure tag-dream tag-explore">
-    <div class="blog-image"><a href="{{ route('blog', 1) }}" class="link"><img width="750" height="350" src="/wp-content/uploads/2016/05/mooo.jpg" class="img-responsive" alt="hotel-6" /></a></div>
+    <div class="blog-image"><a href="{{ route('blog', 1) }}" class="link"><img width="750" height="350" src="/utob-content/uploads/2016/05/mooo.jpg" class="img-responsive" alt="hotel-6" /></a></div>
     <div class="blog-content">
     <div class="col-xs-2">
     <div class="row"><div class="date"><h1 class="day utob-byekan">11</h1><div class="month">آذر</div><div class="year utob-byekan">1398</div></div></div>
@@ -103,7 +103,7 @@
     <a href="{{ route('blog', 1) }}" class="btn btn-gray btn-fit btn-capitalize">بیشتر بخوانید</a>
     </div>
     </div>
-    </div></div><div class="row multi-column"></div><div class="clearfix"></div><nav class="pagination-list margin-top70"><ul class="pagination"><li class=" disable"><a href="" rel="prev" class="btn-pagination previous"><span aria-hidden="true" class="fa fa-angle-left"></span></a></li><li><span class="btn-pagination active">1</span></li><li><a href="http://wp.swlabs.co/exploore/blog-list-no-sidebar/page/2/" class="btn-pagination" >2</a></li><li><a href="http://wp.swlabs.co/exploore/blog-list-no-sidebar/page/3/" class="btn-pagination" >3</a></li><li class=""><a href="http://wp.swlabs.co/exploore/blog-list-no-sidebar/page/2/" rel="next" class="btn-pagination next"><span aria-hidden="true" class="fa fa-angle-right"></span></a></li></ul>
+    </div></div><div class="row multi-column"></div><div class="clearfix"></div><nav class="pagination-list margin-top70"><ul class="pagination"><li class=" disable"><a href="" rel="prev" class="btn-pagination previous"><span aria-hidden="true" class="fa fa-angle-left"></span></a></li><li><span class="btn-pagination active">1</span></li><li><a href="" class="btn-pagination" >2</a></li><li><a href="" class="btn-pagination" >3</a></li><li class=""><a href="" rel="next" class="btn-pagination next"><span aria-hidden="true" class="fa fa-angle-right"></span></a></li></ul>
     </nav>			</div>
     </div>
     </div></div></div></div>

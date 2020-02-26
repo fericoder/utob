@@ -6,20 +6,20 @@
         .vc_custom_1463130581815 {
             padding-top: 100px !important;
             padding-bottom: 60px !important;
-            background-image: url(/wp-content/uploads/2016/05/bg-section-about-values.jpg?id=351) !important;
+            background-image: url(/utob-content/uploads/2016/05/bg-section-about-values.jpg?id=351) !important;
         }
 
         .vc_custom_1462962657163 {
             padding-top: 100px !important;
             padding-bottom: 0px !important;
-            background-image: url(/wp-content/uploads/2016/05/bg-section-about.jpg?id=353) !important;
+            background-image: url(/utob-content/uploads/2016/05/bg-section-about.jpg?id=353) !important;
         }
 
 
         .vc_custom_1462963146083 {
             padding-top: 100px !important;
             padding-bottom: 100px !important;
-            background-image: url(/wp-content/uploads/2016/05/about-us-1-1.jpg?id=356) !important;
+            background-image: url(/utob-content/uploads/2016/05/about-us-1-1.jpg?id=356) !important;
         }
 
         .title-style-2{
@@ -35,7 +35,7 @@
         <div class="main-content">
 
 
-            <section style="background-image: url(/wp-content/uploads/2016/07/milad.jpg);!important;"
+            <section style="background-image: url(/utob-content/uploads/2016/07/milad.jpg);!important;"
                      class=" page-title">
                 <div class="container">
                     <div class="page-title-wrapper">
@@ -86,7 +86,7 @@
                                                             <figure class="wpb_wrapper vc_figure">
                                                                 <div class="vc_single_image-wrapper   vc_box_border_grey">
                                                                     <img width="570" height="533"
-                                                                         src="../wp-content/uploads/2016/05/amal.jpg"
+                                                                         src="../utob-content/uploads/2016/05/amal.jpg"
                                                                          class="vc_single_image-img attachment-full" style="border-radius: 25px;"
                                                                          alt="about-us-4"
                                                                          sizes="(max-width: 570px) 100vw, 570px"/></div>
@@ -287,7 +287,7 @@ utob-awesome"></i>
                                                                     <a class="img-expert"
                                                                        href=""><img
                                                                                 width="260" height="365"
-                                                                                src="/wp-content/uploads/2018/10/j.jpg"
+                                                                                src="/utob-content/uploads/2018/10/j.jpg"
                                                                                 class="img img-responsive"
                                                                                 alt="about-7"/></a>
                                                                     <div class="caption-expert"><a
@@ -318,7 +318,7 @@ utob-awesome"></i>
                                                                     <a class="img-expert"
                                                                        href=""><img
                                                                                 width="260" height="365"
-                                                                                src="/wp-content/uploads/2018/10/j.jpg"
+                                                                                src="/utob-content/uploads/2018/10/j.jpg"
                                                                                 class="img img-responsive"
                                                                                 alt="about-8"/></a>
                                                                     <div class="caption-expert"><a
@@ -349,7 +349,7 @@ utob-awesome"></i>
                                                                     <a class="img-expert"
                                                                        href=""><img
                                                                                 width="260" height="365"
-                                                                                src="/wp-content/uploads/2018/10/j.jpg"
+                                                                                src="/utob-content/uploads/2018/10/j.jpg"
                                                                                 class="img img-responsive"
                                                                                 alt="about-6"/></a>
                                                                     <div class="caption-expert"><a
@@ -380,7 +380,7 @@ utob-awesome"></i>
                                                                     <a class="img-expert"
                                                                        href=""><img
                                                                                 width="260" height="365"
-                                                                                src="/wp-content/uploads/2018/10/j.jpg"
+                                                                                src="/utob-content/uploads/2018/10/j.jpg"
                                                                                 class="img img-responsive"
                                                                                 alt="about-5"/></a>
                                                                     <div class="caption-expert"><a
@@ -411,7 +411,7 @@ utob-awesome"></i>
                                                                     <a class="img-expert"
                                                                        href=""><img
                                                                                 width="260" height="365"
-                                                                                src="/wp-content/uploads/2018/10/j.jpg"
+                                                                                src="/utob-content/uploads/2018/10/j.jpg"
                                                                                 class="img img-responsive" alt="team"/></a>
                                                                     <div class="caption-expert"><a
                                                                                 href="../teams/peter-wilson/index.html"
@@ -521,13 +521,13 @@ utob-awesome"></i>
                                                                 <div class="content-banner">
                                                                     <a class="img-banner" href="#">
                                                                         <img style="width: 100px!important;"
-                                                                             src="https://ariamedtour.com/intro/wp-content/uploads/2018/07/TEMOS.png"
+                                                                             src="https://ariamedtour.com/intro/utob-content/uploads/2018/07/TEMOS.png"
                                                                              class="img-responsive"
                                                                              alt="about-banner-6"/>
                                                                     </a>
                                                                     <a class="img-banner" href="#">
                                                                         <img style="width: 100px!important;"
-                                                                             src="https://ariamedtour.com/intro/wp-content/uploads/2018/07/Paypal.png"
+                                                                             src="https://ariamedtour.com/intro/utob-content/uploads/2018/07/Paypal.png"
                                                                              class="img-responsive"
                                                                              alt="about-banner-1"/>
                                                                     </a>
@@ -535,13 +535,13 @@ utob-awesome"></i>
                                                                 <div class="content-banner">
                                                                     <a class="img-banner" href="#">
                                                                         <img style="width: 100px!important;"
-                                                                             src="https://ariamedtour.com/intro/wp-content/uploads/2018/07/IFDA.png"
+                                                                             src="https://ariamedtour.com/intro/utob-content/uploads/2018/07/IFDA.png"
                                                                              class="img-responsive"
                                                                              alt="about-banner-4"/>
                                                                     </a>
                                                                     <a class="img-banner" href="#">
                                                                         <img style="width: 100px!important;"
-                                                                             src="https://ariamedtour.com/intro/wp-content/uploads/2018/07/Mahan-air.png"
+                                                                             src="https://ariamedtour.com/intro/utob-content/uploads/2018/07/Mahan-air.png"
                                                                              class="img-responsive"
                                                                              alt="about-banner-3"/>
                                                                     </a>
@@ -549,13 +549,13 @@ utob-awesome"></i>
                                                                 <div class="content-banner">
                                                                     <a class="img-banner" href="#">
                                                                         <img style="width: 100px!important;"
-                                                                             src="https://ariamedtour.com/intro/wp-content/uploads/2018/07/mastercard.png"
+                                                                             src="https://ariamedtour.com/intro/utob-content/uploads/2018/07/mastercard.png"
                                                                              class="img-responsive"
                                                                              alt="about-banner-6"/>
                                                                     </a>
                                                                     <a class="img-banner" href="#">
                                                                         <img style="width: 100px!important;"
-                                                                             src="https://ariamedtour.com/intro/wp-content/uploads/2018/07/medical-tourism-magazine.png"
+                                                                             src="https://ariamedtour.com/intro/utob-content/uploads/2018/07/medical-tourism-magazine.png"
                                                                              class="img-responsive"
                                                                              alt="about-banner-2"/>
                                                                     </a>
@@ -563,13 +563,13 @@ utob-awesome"></i>
                                                                 <div class="content-banner">
                                                                     <a class="img-banner" href="#">
                                                                         <img style="width: 100px!important;"
-                                                                             src="https://ariamedtour.com/intro/wp-content/uploads/2018/07/visa.png"
+                                                                             src="https://ariamedtour.com/intro/utob-content/uploads/2018/07/visa.png"
                                                                              class="img-responsive"
                                                                              alt="about-banner-6"/>
                                                                     </a>
                                                                     <a class="img-banner" href="#">
                                                                         <img style="width: 100px!important;"
-                                                                             src="https://ariamedtour.com/intro/wp-content/uploads/2018/07/bookings.png"
+                                                                             src="https://ariamedtour.com/intro/utob-content/uploads/2018/07/bookings.png"
                                                                              class="img-responsive"
                                                                              alt="about-banner-5"/>
                                                                     </a>
@@ -577,13 +577,13 @@ utob-awesome"></i>
                                                                 <div class="content-banner">
                                                                     <a class="img-banner" href="#">
                                                                         <img style="width: 100px!important;"
-                                                                             src="https://ariamedtour.com/intro/wp-content/uploads/2018/07/GHR.png"
+                                                                             src="https://ariamedtour.com/intro/utob-content/uploads/2018/07/GHR.png"
                                                                              class="img-responsive"
                                                                              alt="about-banner-3"/>
                                                                     </a>
                                                                     <a class="img-banner" href="#">
                                                                         <img style="width: 100px!important;"
-                                                                             src="https://ariamedtour.com/intro/wp-content/uploads/2018/07/acccreditation.png"
+                                                                             src="https://ariamedtour.com/intro/utob-content/uploads/2018/07/acccreditation.png"
                                                                              class="img-responsive"
                                                                              alt="about-banner-4"/>
                                                                     </a>
@@ -591,13 +591,13 @@ utob-awesome"></i>
                                                                 <div class="content-banner">
                                                                     <a class="img-banner" href="#">
                                                                         <img style="width: 100px!important;"
-                                                                             src="https://ariamedtour.com/intro/wp-content/uploads/2018/07/UNWTO.png"
+                                                                             src="https://ariamedtour.com/intro/utob-content/uploads/2018/07/UNWTO.png"
                                                                              class="img-responsive"
                                                                              alt="about-banner-2"/>
                                                                     </a>
                                                                     <a class="img-banner" href="#">
                                                                         <img style="width: 100px!important;"
-                                                                             src="https://ariamedtour.com/intro/wp-content/uploads/2018/07/Tripadvisor.png"
+                                                                             src="https://ariamedtour.com/intro/utob-content/uploads/2018/07/Tripadvisor.png"
                                                                              class="img-responsive"
                                                                              alt="about-banner-1"/>
                                                                     </a>
@@ -622,7 +622,7 @@ utob-awesome"></i>
                                                                             <div data-wow-delay="0.5s"
                                                                                  class="contact-wrapper-images wow fadeInLeft">
                                                                                 <img width="276" height="536"
-                                                                                     src="wp-content/uploads/2016/05/contact-people.png"
+                                                                                     src="utob-content/uploads/2016/05/contact-people.png"
                                                                                      class="img-responsive attachment-full"
                                                                                      alt="contact-people"/></div>
                                                                             <div class="col-lg-6 col-sm-7 col-lg-offset-4 col-sm-offset-5">

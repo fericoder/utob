@@ -7,7 +7,7 @@
         <!-- MAIN CONTENT-->
         <div class="main-content">
             <!-- Page Title -->
-            <section style="background-image: url(/wp-content/uploads/2016/05/moshtari6.jpg);!important;"
+            <section style="background-image: url(/utob-content/uploads/2016/05/moshtari6.jpg);!important;"
                      class=" page-title">
                 <div class="container">
                     <div class="page-title-wrapper">
@@ -31,7 +31,7 @@
                     <div class="media blog-author-content">
                         <div class="media-left">
                             <a class="media-image" href="">
-                                <img src="/wp-content/uploads/2016/05/Oman-Flag.jpg" width="100" height="100"
+                                <img src="/utob-content/uploads/2016/05/Oman-Flag.jpg" width="100" height="100"
                                      alt="Exploorer"
                                      class="avatar avatar-100 wp-user-avatar wp-user-avatar-100 alignnone photo"/> </a>
                         </div>
@@ -66,7 +66,7 @@
                             <div class="vc_column-inner ">
                                 <div class="wpb_wrapper">
                                     <div class="slz-shortcode videos layout-2 padding-top banner-10693445365e2bd8c5dff89"
-                                         style="background-image: url(wp-content/uploads/2016/07/amal1.jpg);!important;">
+                                         style="background-image: url(utob-content/uploads/2016/07/amal1.jpg);!important;">
                                         <div class="container">
                                             <div class="row">
                                                 <div class="col-md-8 col-md-offset-2">
@@ -77,7 +77,7 @@
                                                         </div>
                                                         <div class="video-thumbnail">
                                                             <div class="video-bg">
-                                                                <img src="/wp-content/uploads/2016/05/amall.jpg" alt=""
+                                                                <img src="/utob-content/uploads/2016/05/amall.jpg" alt=""
                                                                      class="img-responsive">
                                                             </div>
                                                             <div class="video-button-play"><i
@@ -108,7 +108,7 @@
                                 <div class="video-bg"><a
                                             href=""
                                             class="link"><img width="750" height="350"
-                                                              src="/wp-content/uploads/2016/05/moshtari4.jpg"
+                                                              src="/utob-content/uploads/2016/05/moshtari4.jpg"
                                                               class="img-responsive" alt="249"
                                                               style="margin-top:130px;height: 150px;width: 270px; Border-radius:25px; margin-right: 406px;"></a>
                                 </div>
@@ -155,7 +155,7 @@
                                     <a class="link"
                                        href=""><img width="342"
                                                     height="257"
-                                                    src="/wp-content/uploads/2016/05/goosh.jpg"
+                                                    src="/utob-content/uploads/2016/05/goosh.jpg"
                                                     class="img-responsive"
                                                     alt="316_langham_modern_Exterior"
                                         /></a>
@@ -170,7 +170,7 @@
                                     <a class="link"
                                        href=""><img width="342"
                                                     height="257"
-                                                    src="/wp-content/uploads/2016/05/goosh.jpg"
+                                                    src="/utob-content/uploads/2016/05/goosh.jpg"
                                                     class="img-responsive"
                                                     alt="316_langham_modern_Exterior"
                                         /></a>
@@ -185,7 +185,7 @@
                                     <a class="link"
                                        href=""><img width="342"
                                                     height="257"
-                                                    src="/wp-content/uploads/2016/05/goosh.jpg"
+                                                    src="/utob-content/uploads/2016/05/goosh.jpg"
                                                     class="img-responsive"
                                                     alt="316_langham_modern_Exterior"
                                         /></a>
@@ -200,7 +200,7 @@
                                     <a class="link"
                                        href=""><img width="342"
                                                     height="257"
-                                                    src="/wp-content/uploads/2016/05/goosh.jpg"
+                                                    src="/utob-content/uploads/2016/05/goosh.jpg"
                                                     class="img-responsive"
                                                     alt="316_langham_modern_Exterior"
                                         /></a>
