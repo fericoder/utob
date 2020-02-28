@@ -615,7 +615,6 @@
                                                                             <video width="" height="" controls>
                                                                                 <source src="/utob-content/uploads/2016/05/why-iran.mp4" type="video/mp4">
                                                                             </video>
-
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -1455,62 +1454,25 @@
                                                                                              id="wpcf7-f46-p45-o1"
                                                                                              lang="en" dir="ltr">
                                                                                             <div class="screen-reader-response"></div>
-                                                                                            <form action="/?d=rtl#wpcf7-f46-p45-o1"
-                                                                                                  method="post"
+                                                                                            <form action="<?php echo e(route('mail.footer')); ?>" method="post"
                                                                                                   class="wpcf7-form contact-form"
-                                                                                                  novalidate="novalidate"
-                                                                                                  id="contact-form-6023684715e1ec8d47cbee">
-                                                                                                <div style="display: none;">
-                                                                                                    <input type="hidden"
-                                                                                                           name="_wpcf7"
-                                                                                                           value="46"/>
-                                                                                                    <input type="hidden"
-                                                                                                           name="_wpcf7_version"
-                                                                                                           value="4.5.1"/>
-                                                                                                    <input type="hidden"
-                                                                                                           name="_wpcf7_locale"
-                                                                                                           value="en"/>
-                                                                                                    <input type="hidden"
-                                                                                                           name="_wpcf7_unit_tag"
-                                                                                                           value="wpcf7-f46-p45-o1"/>
-                                                                                                    <input type="hidden"
-                                                                                                           name="_wpnonce"
-                                                                                                           value="3d209936a5"/>
-                                                                                                </div>
+                                                                                                  novalidate="novalidate">
+                                                                                                <?php echo csrf_field(); ?>
                                                                                                 <p>
-                                                                                                    <span class="wpcf7-form-control-wrap your-name"><input
-                                                                                                                type="text"
-                                                                                                                name="your-name"
-                                                                                                                value=""
-                                                                                                                size="40"
-                                                                                                                class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control form-input"
-                                                                                                                aria-required="true"
-                                                                                                                aria-invalid="false"
-                                                                                                                placeholder="نام و نام خانوادگی"/></span><span
-                                                                                                            class="wpcf7-form-control-wrap your-email"><input
-                                                                                                                type="email"
-                                                                                                                name="your-email"
-                                                                                                                value=""
-                                                                                                                size="40"
-                                                                                                                class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form-control form-input"
-                                                                                                                aria-required="true"
-                                                                                                                aria-invalid="false"
-                                                                                                                placeholder="آدرس ایمیل"/></span><span
-                                                                                                            class="wpcf7-form-control-wrap your-subject"><textarea
-                                                                                                                name="your-subject"
-                                                                                                                cols="40"
-                                                                                                                rows="10"
-                                                                                                                class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required form-control form-input"
-                                                                                                                aria-required="true"
-                                                                                                                aria-invalid="false"
-                                                                                                                placeholder="پیام خود را وارد کنید"></textarea></span>
+                                                                                            <span class="wpcf7-form-control-wrap your-name">
+                                                                                                <input type="text" name="fullName" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control form-input" aria-required="true" aria-invalid="false" placeholder="نام و نام خانوادگی"/>
+                                                                                            </span>
+                                                                                                    <span class="wpcf7-form-control-wrap your-email">
+                                                                                                <input type="email" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form-control form-input" aria-required="true" aria-invalid="false" placeholder="آدرس ایمیل"/>
+                                                                                            </span>
+
+                                                                                                    <span class="wpcf7-form-control-wrap your-subject">
+                                                                                                <textarea name="description" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required form-control form-input" aria-required="true" aria-invalid="false" placeholder="پیام خود را وارد کنید"></textarea>
+                                                                                            </span>
                                                                                                 </p>
                                                                                                 <div class="contact-submit">
-                                                                                                    <input type="submit"
-                                                                                                           value="ارسال پیام"
-                                                                                                           class="wpcf7-form-control wpcf7-submit btn btn-slide"/>
+                                                                                                    <input type="submit" value="ارسال پیام" class="wpcf7-form-control wpcf7-submit btn btn-slide"/>
                                                                                                 </div>
-                                                                                                <div class="wpcf7-response-output wpcf7-display-none"></div>
                                                                                             </form>
                                                                                         </div>
                                                                                     </div>

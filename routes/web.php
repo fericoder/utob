@@ -36,6 +36,7 @@ Route::get('/blogs/{id}', 'BlogController@show')->name('blog');
 Route::get('/doctors', 'DoctorController@index')->name('doctors');
 Route::get('/doctors/{id}', 'DoctorController@show')->name('doctor');
 
+Route::post('mail/footer', 'MailController@footer')->name('mail.footer');
 
 
 Route::get('/services', function() {
