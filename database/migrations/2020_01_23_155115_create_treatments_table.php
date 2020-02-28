@@ -21,6 +21,9 @@ class CreateTreatmentsTable extends Migration
             $table->text('body');
             $table->text('image');
             $table->integer('home');
+            $table->unsignedInteger('parent_id')->default(0);
+            $table->enum('type', ['parent', 'child'])->default('parent');
+            $table->unsignedInteger('order')->default(999);
             $table->timestamps();
         });
     }

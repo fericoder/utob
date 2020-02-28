@@ -93,11 +93,41 @@
 
 
 
-
-            <li class="m-menu__item  m-menu__item--submenu  {{ request()->is('dashboard/category*') ? 'm-menu__item--open' : '' }}  "
+            <li class="m-menu__item  m-menu__item--submenu  {{ request()->is('dashboard/hotel*') ? 'm-menu__item--open' : '' }}  "
                 aria-haspopup="true" m-menu-submenu-toggle="hover">
                 <a href="javascript:;" class="m-menu__link m-menu__toggle"><i
-                            class="m-menu__link-icon fa fa-hospital-o"></i><span
+                            class="m-menu__link-icon fa fa-hotel"></i><span
+                            class="m-menu__link-text" style="font-family: BYekan">مدیریت هتل ها</span><i
+                            class="m-menu__ver-arrow la la-angle-right"></i></a>
+                <div class="m-menu__submenu "><span class="m-menu__arrow"></span>
+                    <ul class="m-menu__subnav">
+                        <li class="m-menu__item  m-menu__item--parent  " aria-haspopup="true"><span
+                                    class="m-menu__link"><span
+                                        class="m-menu__link-text">مدیریت هتل ها</span></span>
+                        </li>
+                        <li class="m-menu__item {{ request()->is('dashboard/hotel') ? 'm-menu__item--active' : '' }} "
+                            aria-haspopup="true"><a
+                                    href="{{ route('hotel.index')  }}"
+                                    class="m-menu__link "><i
+                                        class="m-menu__link-bullet m-menu__link-bullet--dot"><span></span></i><span
+                                        class="m-menu__link-text">لیست هتل ها</span></a></li>
+                        <li class="m-menu__item {{ request()->is('dashboard/hotel/create') ? 'm-menu__item--active' : '' }}"
+                            aria-haspopup="true"><a
+                                    href="{{ route('hotel.create')  }}"
+                                    class="m-menu__link "><i
+                                        class="m-menu__link-bullet m-menu__link-bullet--dot"><span></span></i><span
+                                        class="m-menu__link-text">افزودن هتل</span></a></li>
+                    </ul>
+                </div>
+            </li>
+
+
+
+
+            <li class="m-menu__item  m-menu__item--submenu  {{ request()->is('dashboard/hospital*') ? 'm-menu__item--open' : '' }}  "
+                aria-haspopup="true" m-menu-submenu-toggle="hover">
+                <a href="javascript:;" class="m-menu__link m-menu__toggle"><i
+                            class="m-menu__link-icon fa fa-hospital"></i><span
                             class="m-menu__link-text" style="font-family: BYekan">مدیریت بیمارستان ها</span><i
                             class="m-menu__ver-arrow la la-angle-right"></i></a>
                 <div class="m-menu__submenu "><span class="m-menu__arrow"></span>
@@ -106,18 +136,47 @@
                                     class="m-menu__link"><span
                                         class="m-menu__link-text">مدیریت بیمارستان ها</span></span>
                         </li>
-                        <li class="m-menu__item {{ request()->is('dashboard/category') ? 'm-menu__item--active' : '' }} "
+                        <li class="m-menu__item {{ request()->is('dashboard/hospital') ? 'm-menu__item--active' : '' }} "
                             aria-haspopup="true"><a
-                                    href="{{ route('category.index')  }}"
+                                    href="{{ route('hospital.index')  }}"
                                     class="m-menu__link "><i
                                         class="m-menu__link-bullet m-menu__link-bullet--dot"><span></span></i><span
                                         class="m-menu__link-text">لیست بیمارستان ها</span></a></li>
-                        <li class="m-menu__item {{ request()->is('dashboard/category/create') ? 'm-menu__item--active' : '' }}"
+                        <li class="m-menu__item {{ request()->is('dashboard/hospital/create') ? 'm-menu__item--active' : '' }}"
                             aria-haspopup="true"><a
-                                    href="{{ route('category.create')  }}"
+                                    href="{{ route('hospital.create')  }}"
                                     class="m-menu__link "><i
                                         class="m-menu__link-bullet m-menu__link-bullet--dot"><span></span></i><span
                                         class="m-menu__link-text">افزودن بیمارستان</span></a></li>
+                    </ul>
+                </div>
+            </li>
+
+
+            <li class="m-menu__item  m-menu__item--submenu  {{ request()->is('dashboard/experience*') ? 'm-menu__item--open' : '' }}  "
+                aria-haspopup="true" m-menu-submenu-toggle="hover">
+                <a href="javascript:;" class="m-menu__link m-menu__toggle"><i
+                            class="m-menu__link-icon fa fa-comment"></i><span
+                            class="m-menu__link-text" style="font-family: BYekan">مدیریت تجربه ها</span><i
+                            class="m-menu__ver-arrow la la-angle-right"></i></a>
+                <div class="m-menu__submenu "><span class="m-menu__arrow"></span>
+                    <ul class="m-menu__subnav">
+                        <li class="m-menu__item  m-menu__item--parent  " aria-haspopup="true"><span
+                                    class="m-menu__link"><span
+                                        class="m-menu__link-text">مدیریت تجربه ها</span></span>
+                        </li>
+                        <li class="m-menu__item {{ request()->is('dashboard/experience') ? 'm-menu__item--active' : '' }} "
+                            aria-haspopup="true"><a
+                                    href="{{ route('experience.index')  }}"
+                                    class="m-menu__link "><i
+                                        class="m-menu__link-bullet m-menu__link-bullet--dot"><span></span></i><span
+                                        class="m-menu__link-text">لیست تجربه ها</span></a></li>
+                        <li class="m-menu__item {{ request()->is('dashboard/experience/create') ? 'm-menu__item--active' : '' }}"
+                            aria-haspopup="true"><a
+                                    href="{{ route('experience.create')  }}"
+                                    class="m-menu__link "><i
+                                        class="m-menu__link-bullet m-menu__link-bullet--dot"><span></span></i><span
+                                        class="m-menu__link-text">افزودن تجربه</span></a></li>
                     </ul>
                 </div>
             </li>

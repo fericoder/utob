@@ -32,6 +32,21 @@
             <div class="container">
               <div class="hotel-view-main padding-top padding-bottom entry-content">
                               <div class="container">
+
+                                  <?php if($treatment->id == 5): ?>
+                                      <div style="display: flex;justify-content: center;align-items: center;flex-wrap: wrap;">
+                                          <?php $__currentLoopData = $treatments->where('parent_id', 5); $__env->addLoop($__currentLoopData); foreach($__currentLoopData as $treatment): $__env->incrementLoopIndices(); $loop = $__env->getLastLoop(); ?>
+                                              <div style="width: 150px;height: 100px; margin: 5px;padding: 5px;" class="item feature-item">
+                                                  <a style="color: #0e99b6" href="<?php echo e(route('treatment', $treatment->id)); ?>"><img style="width: 40px;height: 40px; margin: auto; margin-bottom: 10px" src="<?php echo e($treatment->icon); ?>" alt="">
+                                                      <div class="text">
+                                                          <?php echo e($treatment->name); ?>
+
+                                                      </div>
+                                                  </a>
+                                              </div>
+                                          <?php endforeach; $__env->popLoop(); $loop = $__env->getLastLoop(); ?>
+                                    <?php endif; ?>
+                                  </div>
                                   <div class="journey-block">
                                       <div class="overview-block clearfix slz-shortcode sc-block-13351890685e273ad44c072 ">
                                           <div class="timeline-container">

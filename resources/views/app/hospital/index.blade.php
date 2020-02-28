@@ -14,11 +14,11 @@
                         <div class="page-title-content">
                             <ol class="breadcrumb">
                                 <li><a href="/" class="link home">صفحه اصلی</a></li>
-                                <li class="active"><a href="/hotels" class="link">لیست بیمارستان
+                                <li class="active"><a href="/hospitals" class="link">بیمارستان
                                         ها</a></li>
                             </ol>
                             <div class="clearfix"></div>
-                            <h2 class="captions" style="margin-bottom:35px;">بیمارستان ها</h2>
+                            <h2 class="captions" style="margin-bottom:35px;">لیست بیمارستان ها</h2>
                         </div>
                     </div>
                 </div>
@@ -50,546 +50,97 @@
                                                             <div class="main-right f-none hotel-result-content sc-block-15015746545e24334581b1b">
                                                                 <div class="hotel-list">
                                                                     <div class="row">
-                                                                        <div class="col-md-4 col-sm-6 col-xs-12 post-186 slzexploore_hotel">
-                                                                            <div class="hotels-layout">
-                                                                                <div class="image-wrapper">
-                                                                                    <a class="link"
-                                                                                       href="{{ route('hospital' , 1) }}"><img
-                                                                                                width="800" height="540"
-                                                                                                src="utob-content/uploads/2016/05/parsian.jpg"
-                                                                                                class="img-responsive"
-                                                                                                alt="hotelbeauti"
-                                                                                                sizes="(max-width: 800px) 100vw, 800px"/></a>
 
 
-                                                                                    <div class="title-wrapper">
-                                                                                        <a href="/Hospitals"
-                                                                                           class="title">بیمارستان پارسیان</a>
+                                                                        @foreach ($hospitals as $hospital)
+                                                                            <div class="col-md-4 col-sm-6 col-xs-12 post-84 slzexploore_hotel">
+                                                                                <div class="hotels-layout">
+                                                                                    <div class="image-wrapper">
+                                                                                        <a class="link"
+                                                                                           href="{{ route('hospital' , $hospital->id) }}"><img
+                                                                                                    width="800" height="540"
+                                                                                                    src="{{ $hospital->image }}"
+                                                                                                    class="img-responsive"
+                                                                                                    alt="hanoi-top-luxury-hotel"
+                                                                                                    sizes="(max-width: 800px) 100vw, 800px"/></a>
 
-                                                                                    </div>
-                                                                                </div>
-                                                                                <div class="content-wrapper ">
-                                                                                    <div class="content">
-                                                                                        <div class="title">
-                                                                                            <div class="price"><span
-                                                                                                        class="number utob-byekan">300,000</span><sup>تومان</sup>
+
+                                                                                        <div class="title-wrapper">
+                                                                                            <a href="{{ route('hospital' , $hospital->id) }}"
+                                                                                               class="title">{{ $hospital->name }}</a>
+                                                                                            <div class="stars stars{{ $hospital->stars }}">{{ $hospital->stars }}
                                                                                             </div>
                                                                                         </div>
-                                                                                        <div class="text"> توضیحات
-                                                                                            توضیحات توضیحات توضیحات
-                                                                                            توضیحات توضیحات توضیحات
-                                                                                            توضیحات توضیحات توضیحات
-                                                                                        </div>
-                                                                                        <div class="group-btn-tours"><a
-                                                                                                    href="{{ route('hospital' , 1) }}"
-                                                                                                    class="left-btn">بیشتر
-                                                                                                بخوانید</a></div>
                                                                                     </div>
-                                                                                    <ul class="list-info list-unstyle">
-                                                                                        <li class="view"><a
-                                                                                                    href="{{ route('hospital' , 1) }}"
-                                                                                                    class="link"><i
-                                                                                                        class="icons hidden-icon fa fa-eye"></i><span
-                                                                                                        class="number utob-byekan">8792</span></a>
-                                                                                        </li>
-                                                                                        <li class="wishlist"><a
-                                                                                                    href="shop/login/index.html"
-                                                                                                    class="link "
-                                                                                                    data-item="186"><i
-                                                                                                        class="icons hidden-icon fa fa-heart"></i><span
-                                                                                                        class="text number utob-byekan">5</span></a>
-                                                                                        </li>
-                                                                                        <li class="comment"><a
-                                                                                                    href="{{ route('hospital' , 1) }}#comments"
-                                                                                                    class="link"><i
-                                                                                                        class="icons hidden-icon fa fa-comment"></i><span
-                                                                                                        class="number utob-byekan">3/1</span></a>
-                                                                                        </li>
-                                                                                        <li class="share"><a
-                                                                                                    href="javascript:void(0);"
-                                                                                                    class="link"><i
-                                                                                                        class="icons fa fa-share-alt"></i></a>
-                                                                                            <ul class="share-social-list">
-                                                                                                <li>
-                                                                                                    <a href=""
-                                                                                                       class="link-social"
-                                                                                                       onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
-                                                                                                        <i class="icons fa fa-facebook"></i></a>
-                                                                                                </li>
-                                                                                                <li>
-                                                                                                    <a href=""
-                                                                                                       class="link-social"
-                                                                                                       onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
-                                                                                                        <i class="icons fa fa-twitter"></i></a>
-                                                                                                </li>
-                                                                                                <li>
-                                                                                                    <a href=""
-                                                                                                       class="link-social"
-                                                                                                       onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
-                                                                                                        <i class="icons fa fa-google-plus"></i></a>
-                                                                                                </li>
-                                                                                            </ul>
-                                                                                        </li>
-                                                                                        <li class="address"><a
-                                                                                                    href="javascript:void(0);"
-                                                                                                    class="link"
-                                                                                                    title=" 111 Bang Rak, Bangkok, Thailand"><i
-                                                                                                        class="icons fa fa-map-marker"></i></a>
-                                                                                        </li>
-                                                                                    </ul>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                        <div class="col-md-4 col-sm-6 col-xs-12 post-185 slzexploore_hotel">
-                                                                            <div class="hotels-layout">
-                                                                                <div class="image-wrapper">
-                                                                                    <a class="link"
-                                                                                       href="{{ route('hospital' , 1) }}"><img
-                                                                                                width="800" height="540"
-                                                                                                src="utob-content/uploads/2016/05/laleh.jpg"
-                                                                                                class="img-responsive"
-                                                                                                alt="316_langham_modern_Exterior"
-                                                                                                sizes="(max-width: 800px) 100vw, 800px"/></a>
-                                                                                    <div class="title-wrapper">
-                                                                                        <a href="{{ route('hospital' , 1) }}"
-                                                                                           class="title">بیمارستان لاله</a>
-                                                                                    </div>
-                                                                                </div>
-                                                                                <div class="content-wrapper ">
-                                                                                    <div class="content">
-                                                                                        <div class="title">
-                                                                                            <div class="price"><span
-                                                                                                        class="number utob-byekan">300,000</span><sup>تومان</sup>
+                                                                                    <div class="content-wrapper ">
+                                                                                        <div class="content">
+                                                                                            <div class="title">
+                                                                                                <div class="price"><sup>قیمت از شبی</sup><span
+                                                                                                            class="number utob-byekan">{{ $hospital->price }} دلار </span>
+                                                                                                </div>
                                                                                             </div>
+                                                                                            <div style="margin-top: 20px!important;" class="group-btn-tours"><a href="{{ route('hospital' , $hospital->id) }}" class="left-btn">مشاهده جزییات</a></div>
                                                                                         </div>
-                                                                                        <div class="text"> توضیحات
-                                                                                            توضیحات توضیحات توضیحات
-                                                                                            توضیحات توضیحات توضیحات
-                                                                                            توضیحات توضیحات توضیحات
-                                                                                        </div>
-                                                                                        <div class="group-btn-tours"><a
-                                                                                                    href="{{ route('hospital' , 1) }}"
-                                                                                                    class="left-btn">بیشتر
-                                                                                                بخوانید</a></div>
+                                                                                        <ul style="display: none" class="list-info list-unstyle">
+                                                                                            <li class="view"><a
+                                                                                                        href="{{ route('hospital' , $hospital->id) }}"
+                                                                                                        class="link"><i
+                                                                                                            class="icons hidden-icon fa fa-eye"></i><span
+                                                                                                            class="number utob-byekan">5068</span></a>
+                                                                                            </li>
+                                                                                            <li class="wishlist"><a
+                                                                                                        href="shop/login/index.html"
+                                                                                                        class="link "
+                                                                                                        data-item="172"><i
+                                                                                                            class="icons hidden-icon fa fa-heart"></i><span
+                                                                                                            class="text number utob-byekan">1</span></a>
+                                                                                            </li>
+                                                                                            <li class="comment"><a
+                                                                                                        href="{{ route('hospital' , 1) }}#comments"
+                                                                                                        class="link"><i
+                                                                                                            class="icons hidden-icon fa fa-comment"></i><span
+                                                                                                            class="number utob-byekan">25/2</span></a>
+                                                                                            </li>
+                                                                                            <li class="share"><a
+                                                                                                        href="javascript:void(0);"
+                                                                                                        class="link"><i
+                                                                                                            class="icons fa fa-share-alt"></i></a>
+                                                                                                <ul class="share-social-list">
+                                                                                                    <li>
+                                                                                                        <a href=""
+                                                                                                           class="link-social"
+                                                                                                           onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
+                                                                                                            <i class="icons fa fa-facebook"></i></a>
+                                                                                                    </li>
+                                                                                                    <li>
+                                                                                                        <a href=""
+                                                                                                           class="link-social"
+                                                                                                           onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
+                                                                                                            <i class="icons fa fa-twitter"></i></a>
+                                                                                                    </li>
+                                                                                                    <li>
+                                                                                                        <a href=""
+                                                                                                           class="link-social"
+                                                                                                           onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
+                                                                                                            <i class="icons fa fa-google-plus"></i></a>
+                                                                                                    </li>
+                                                                                                </ul>
+                                                                                            </li>
+                                                                                            <li class="address"><a
+                                                                                                        href="javascript:void(0);"
+                                                                                                        class="link"
+                                                                                                        title="222 Bang Kabi, Bangkok, Thailand"><i
+                                                                                                            class="icons fa fa-map-marker"></i></a>
+                                                                                            </li>
+                                                                                        </ul>
                                                                                     </div>
-                                                                                    <ul class="list-info list-unstyle">
-                                                                                        <li class="view"><a
-                                                                                                    href="{{ route('hospital' , 1) }}"
-                                                                                                    class="link"><i
-                                                                                                        class="icons hidden-icon fa fa-eye"></i><span
-                                                                                                        class="number utob-byekan">4158</span></a>
-                                                                                        </li>
-                                                                                        <li class="wishlist"><a
-                                                                                                    href="shop/login/index.html"
-                                                                                                    class="link "
-                                                                                                    data-item="185"><i
-                                                                                                        class="icons hidden-icon fa fa-heart"></i><span
-                                                                                                        class="text number utob-byekan">3</span></a>
-                                                                                        </li>
-                                                                                        <li class="comment"><a
-                                                                                                    href="{{ route('hospital' , 1) }}#respond"
-                                                                                                    class="link"><i
-                                                                                                        class="icons hidden-icon fa fa-comment"></i><span
-                                                                                                        class="number utob-byekan">4/0</span></a>
-                                                                                        </li>
-                                                                                        <li class="share"><a
-                                                                                                    href="javascript:void(0);"
-                                                                                                    class="link"><i
-                                                                                                        class="icons fa fa-share-alt"></i></a>
-                                                                                            <ul class="share-social-list">
-                                                                                                <li>
-                                                                                                    <a href=""
-                                                                                                       class="link-social"
-                                                                                                       onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
-                                                                                                        <i class="icons fa fa-facebook"></i></a>
-                                                                                                </li>
-                                                                                                <li>
-                                                                                                    <a href=""
-                                                                                                       class="link-social"
-                                                                                                       onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
-                                                                                                        <i class="icons fa fa-twitter"></i></a>
-                                                                                                </li>
-                                                                                                <li>
-                                                                                                    <a href=""
-                                                                                                       class="link-social"
-                                                                                                       onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
-                                                                                                        <i class="icons fa fa-google-plus"></i></a>
-                                                                                                </li>
-                                                                                            </ul>
-                                                                                        </li>
-                                                                                        <li class="address"><a
-                                                                                                    href="javascript:void(0);"
-                                                                                                    class="link"
-                                                                                                    title=" 333 Soi Song Prapha, Don Mueang, Bangkok, Thailand"><i
-                                                                                                        class="icons fa fa-map-marker"></i></a>
-                                                                                        </li>
-                                                                                    </ul>
                                                                                 </div>
                                                                             </div>
-                                                                        </div>
-                                                                        <div class="col-md-4 col-sm-6 col-xs-12 post-184 slzexploore_hotel">
-                                                                            <div class="hotels-layout">
-                                                                                <div class="image-wrapper">
-                                                                                    <a class="link"
-                                                                                       href="/{{ route('hospital' , 1) }}"><img
-                                                                                                width="800" height="540"
-                                                                                                src="utob-content/uploads/2016/05/erfan.jpg"
-                                                                                                class="img-responsive"
-                                                                                                alt="280821"
-                                                                                                sizes="(max-width: 800px) 100vw, 800px"/></a>
+                                                                        @endforeach
 
 
-                                                                                    <div class="title-wrapper">
-                                                                                        <a href="{{ route('hospital' , 1) }}"
-                                                                                           class="title">بیمارستان عرفان نیایش
-</a>
-
-                                                                                    </div>
-                                                                                </div>
-                                                                                <div class="content-wrapper ">
-                                                                                    <div class="content">
-                                                                                        <div class="title">
-                                                                                            <div class="price"><span
-                                                                                                        class="number utob-byekan">200,000</span><sup>تومان</sup>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                        <div class="text"> توضیحات
-                                                                                            توضیحات توضیحات توضیحات
-                                                                                            توضیحات توضیحات توضیحات
-                                                                                            توضیحات توضیحات توضیحات
-                                                                                        </div>
-                                                                                        <div class="group-btn-tours"><a
-                                                                                                    href="{{ route('hospital' , 1) }}"
-                                                                                                    class="left-btn">بیشتر
-                                                                                                بخوانید</a></div>
-                                                                                    </div>
-                                                                                    <ul class="list-info list-unstyle">
-                                                                                        <li class="view"><a
-                                                                                                    href="{{ route('hospital' , 1) }}"
-                                                                                                    class="link"><i
-                                                                                                        class="icons hidden-icon fa fa-eye"></i><span
-                                                                                                        class="number utob-byekan">7052</span></a>
-                                                                                        </li>
-                                                                                        <li class="wishlist"><a
-                                                                                                    href="shop/login/index.html"
-                                                                                                    class="link "
-                                                                                                    data-item="184"><i
-                                                                                                        class="icons hidden-icon fa fa-heart"></i><span
-                                                                                                        class="text number utob-byekan">4</span></a>
-                                                                                        </li>
-                                                                                        <li class="comment"><a
-                                                                                                    href="{{ route('hospital' , 1) }}#comments"
-                                                                                                    class="link"><i
-                                                                                                        class="icons hidden-icon fa fa-comment"></i><span
-                                                                                                        class="number utob-byekan">5/1</span></a>
-                                                                                        </li>
-                                                                                        <li class="share"><a
-                                                                                                    href="javascript:void(0);"
-                                                                                                    class="link"><i
-                                                                                                        class="icons fa fa-share-alt"></i></a>
-                                                                                            <ul class="share-social-list">
-                                                                                                <li>
-                                                                                                    <a href=""
-                                                                                                       class="link-social"
-                                                                                                       onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
-                                                                                                        <i class="icons fa fa-facebook"></i></a>
-                                                                                                </li>
-                                                                                                <li>
-                                                                                                    <a href=""
-                                                                                                       class="link-social"
-                                                                                                       onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
-                                                                                                        <i class="icons fa fa-twitter"></i></a>
-                                                                                                </li>
-                                                                                                <li>
-                                                                                                    <a href=""
-                                                                                                       class="link-social"
-                                                                                                       onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
-                                                                                                        <i class="icons fa fa-google-plus"></i></a>
-                                                                                                </li>
-                                                                                            </ul>
-                                                                                        </li>
-                                                                                        <li class="address"><a
-                                                                                                    href="javascript:void(0);"
-                                                                                                    class="link"
-                                                                                                    title="111 Pirachai Village, Bangkok, Thailand"><i
-                                                                                                        class="icons fa fa-map-marker"></i></a>
-                                                                                        </li>
-                                                                                    </ul>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                        <div class="col-md-4 col-sm-6 col-xs-12 post-172 slzexploore_hotel">
-                                                                            <div class="hotels-layout">
-                                                                                <div class="image-wrapper">
-                                                                                    <a class="link"
-                                                                                       href="{{ route('hospital' , 1) }}"><img
-                                                                                                width="800" height="540"
-                                                                                                src="utob-content/uploads/2016/05/bahhman.jpg"
-                                                                                                class="img-responsive"
-                                                                                                alt="hanoi-top-luxury-hotel"
-                                                                                                sizes="(max-width: 800px) 100vw, 800px"/></a>
 
 
-                                                                                    <div class="title-wrapper">
-                                                                                        <a href="{{ route('hospital' , 1) }}"
-                                                                                           class="title">بیمارستان بهمن</a>
-
-                                                                                    </div>
-                                                                                </div>
-                                                                                <div class="content-wrapper ">
-                                                                                    <div class="content">
-                                                                                        <div class="title">
-                                                                                            <div class="price"><span
-                                                                                                        class="number utob-byekan">200,000</span><sup>تومان</sup>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                        <div class="text"> توضیحات
-                                                                                            توضیحات توضیحات توضیحات
-                                                                                            توضیحات توضیحات توضیحات
-                                                                                            توضیحات توضیحات توضیحات
-                                                                                        </div>
-                                                                                        <div class="group-btn-tours"><a
-                                                                                                    href="{{ route('hospital' , 1) }}"
-                                                                                                    class="left-btn">بیشتر
-                                                                                                بخوانید</a></div>
-                                                                                    </div>
-                                                                                    <ul class="list-info list-unstyle">
-                                                                                        <li class="view"><a
-                                                                                                    href="{{ route('hospital' , 1) }}"
-                                                                                                    class="link"><i
-                                                                                                        class="icons hidden-icon fa fa-eye"></i><span
-                                                                                                        class="number utob-byekan">968</span></a>
-                                                                                        </li>
-                                                                                        <li class="wishlist"><a
-                                                                                                    href="shop/login/index.html"
-                                                                                                    class="link "
-                                                                                                    data-item="172"><i
-                                                                                                        class="icons hidden-icon fa fa-heart"></i><span
-                                                                                                        class="text number utob-byekan">6</span></a>
-                                                                                        </li>
-                                                                                        <li class="comment"><a
-                                                                                                    href="{{ route('hospital' , 1) }}#comments"
-                                                                                                    class="link"><i
-                                                                                                        class="icons hidden-icon fa fa-comment"></i><span
-                                                                                                        class="number utob-byekan">8/2</span></a>
-                                                                                        </li>
-                                                                                        <li class="share"><a
-                                                                                                    href="javascript:void(0);"
-                                                                                                    class="link"><i
-                                                                                                        class="icons fa fa-share-alt"></i></a>
-                                                                                            <ul class="share-social-list">
-                                                                                                <li>
-                                                                                                    <a href=""
-                                                                                                       class="link-social"
-                                                                                                       onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
-                                                                                                        <i class="icons fa fa-facebook"></i></a>
-                                                                                                </li>
-                                                                                                <li>
-                                                                                                    <a href=""
-                                                                                                       class="link-social"
-                                                                                                       onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
-                                                                                                        <i class="icons fa fa-twitter"></i></a>
-                                                                                                </li>
-                                                                                                <li>
-                                                                                                    <a href=""
-                                                                                                       class="link-social"
-                                                                                                       onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
-                                                                                                        <i class="icons fa fa-google-plus"></i></a>
-                                                                                                </li>
-                                                                                            </ul>
-                                                                                        </li>
-                                                                                        <li class="address"><a
-                                                                                                    href="javascript:void(0);"
-                                                                                                    class="link"
-                                                                                                    title="222 Bang Kabi, Bangkok, Thailand"><i
-                                                                                                        class="icons fa fa-map-marker"></i></a>
-                                                                                        </li>
-                                                                                    </ul>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                        <div class="col-md-4 col-sm-6 col-xs-12 post-166 slzexploore_hotel">
-                                                                            <div class="hotels-layout">
-                                                                                <div class="image-wrapper">
-                                                                                    <a class="link"
-                                                                                       href="/{{ route('hospital' , 1) }}"><img
-                                                                                                width="800" height="540"
-                                                                                                src="utob-content/uploads/2016/05/kosar.jpg"
-                                                                                                class="img-responsive"
-                                                                                                alt="hanoi-top-luxury-hotel"
-                                                                                                sizes="(max-width: 800px) 100vw, 800px"/></a>
-
-
-                                                                                    <div class="title-wrapper">
-                                                                                        <a href="/{{ route('hospital' , 1) }}"
-                                                                                           class="title">بیمارستان محب کوثر
-</a>
-
-                                                                                    </div>
-                                                                                </div>
-                                                                                <div class="content-wrapper ">
-                                                                                    <div class="content">
-                                                                                        <div class="title">
-                                                                                            <div class="price"><span
-                                                                                                        class="number utob-byekan">150,000</span><sup>تومان</sup>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                        <div class="text"> توضیحات
-                                                                                            توضیحات توضیحات توضیحات
-                                                                                            توضیحات توضیحات توضیحات
-                                                                                            توضیحات توضیحات توضیحات
-                                                                                        </div>
-                                                                                        <div class="group-btn-tours"><a
-                                                                                                    href="{{ route('hospital' , 1) }}"
-                                                                                                    class="left-btn">بیشتر
-                                                                                                بخوانید</a></div>
-                                                                                    </div>
-                                                                                    <ul class="list-info list-unstyle">
-                                                                                        <li class="view"><a
-                                                                                                    href="{{ route('hospital' , 1) }}"
-                                                                                                    class="link"><i
-                                                                                                        class="icons hidden-icon fa fa-eye"></i><span
-                                                                                                        class="number utob-byekan">567</span></a>
-                                                                                        </li>
-                                                                                        <li class="wishlist"><a
-                                                                                                    href="shop/login/index.html"
-                                                                                                    class="link "
-                                                                                                    data-item="172"><i
-                                                                                                        class="icons hidden-icon fa fa-heart"></i><span
-                                                                                                        class="text number utob-byekan">2</span></a>
-                                                                                        </li>
-                                                                                        <li class="comment"><a
-                                                                                                    href="{{ route('hospital' , 1) }}#comments"
-                                                                                                    class="link"><i
-                                                                                                        class="icons hidden-icon fa fa-comment"></i><span
-                                                                                                        class="number utob-byekan">2/6</span></a>
-                                                                                        </li>
-                                                                                        <li class="share"><a
-                                                                                                    href="javascript:void(0);"
-                                                                                                    class="link"><i
-                                                                                                        class="icons fa fa-share-alt"></i></a>
-                                                                                            <ul class="share-social-list">
-                                                                                                <li>
-                                                                                                    <a href=""
-                                                                                                       class="link-social"
-                                                                                                       onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
-                                                                                                        <i class="icons fa fa-facebook"></i></a>
-                                                                                                </li>
-                                                                                                <li>
-                                                                                                    <a href=""
-                                                                                                       class="link-social"
-                                                                                                       onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
-                                                                                                        <i class="icons fa fa-twitter"></i></a>
-                                                                                                </li>
-                                                                                                <li>
-                                                                                                    <a href=""
-                                                                                                       class="link-social"
-                                                                                                       onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
-                                                                                                        <i class="icons fa fa-google-plus"></i></a>
-                                                                                                </li>
-                                                                                            </ul>
-                                                                                        </li>
-                                                                                        <li class="address"><a
-                                                                                                    href="javascript:void(0);"
-                                                                                                    class="link"
-                                                                                                    title="222 Bang Kabi, Bangkok, Thailand"><i
-                                                                                                        class="icons fa fa-map-marker"></i></a>
-                                                                                        </li>
-                                                                                    </ul>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                        <div class="col-md-4 col-sm-6 col-xs-12 post-84 slzexploore_hotel">
-                                                                            <div class="hotels-layout">
-                                                                                <div class="image-wrapper">
-                                                                                    <a class="link"
-                                                                                       href="/{{ route('hospital' , 1) }}"><img
-                                                                                                width="800" height="540"
-                                                                                                src="utob-content/uploads/2016/05/kh.jpg"
-                                                                                                class="img-responsive"
-                                                                                                alt="hanoi-top-luxury-hotel"
-                                                                                                sizes="(max-width: 800px) 100vw, 800px"/></a>
-
-
-                                                                                    <div class="title-wrapper">
-                                                                                        <a href="/{{ route('hospital' , 1) }}"
-                                                                                           class="title">بیمارستان مصطفی خمینی
-</a>
-
-                                                                                    </div>
-                                                                                </div>
-                                                                                <div class="content-wrapper ">
-                                                                                    <div class="content">
-                                                                                        <div class="title">
-                                                                                            <div class="price"><span
-                                                                                                        class="number utob-byekan">100,000</span><sup>تومان</sup>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                        <div class="text"> توضیحات
-                                                                                            توضیحات توضیحات توضیحات
-                                                                                            توضیحات توضیحات توضیحات
-                                                                                            توضیحات توضیحات توضیحات
-                                                                                        </div>
-                                                                                        <div class="group-btn-tours"><a
-                                                                                                    href="{{ route('hospital' , 1) }}"
-                                                                                                    class="left-btn">بیشتر
-                                                                                                بخوانید</a></div>
-                                                                                    </div>
-                                                                                    <ul class="list-info list-unstyle">
-                                                                                        <li class="view"><a
-                                                                                                    href="{{ route('hospital' , 1) }}"
-                                                                                                    class="link"><i
-                                                                                                        class="icons hidden-icon fa fa-eye"></i><span
-                                                                                                        class="number utob-byekan">5068</span></a>
-                                                                                        </li>
-                                                                                        <li class="wishlist"><a
-                                                                                                    href="shop/login/index.html"
-                                                                                                    class="link "
-                                                                                                    data-item="172"><i
-                                                                                                        class="icons hidden-icon fa fa-heart"></i><span
-                                                                                                        class="text number utob-byekan">1</span></a>
-                                                                                        </li>
-                                                                                        <li class="comment"><a
-                                                                                                    href="{{ route('hospital' , 1) }}#comments"
-                                                                                                    class="link"><i
-                                                                                                        class="icons hidden-icon fa fa-comment"></i><span
-                                                                                                        class="number utob-byekan">25/2</span></a>
-                                                                                        </li>
-                                                                                        <li class="share"><a
-                                                                                                    href="javascript:void(0);"
-                                                                                                    class="link"><i
-                                                                                                        class="icons fa fa-share-alt"></i></a>
-                                                                                            <ul class="share-social-list">
-                                                                                                <li>
-                                                                                                    <a href=""
-                                                                                                       class="link-social"
-                                                                                                       onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
-                                                                                                        <i class="icons fa fa-facebook"></i></a>
-                                                                                                </li>
-                                                                                                <li>
-                                                                                                    <a href=""
-                                                                                                       class="link-social"
-                                                                                                       onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
-                                                                                                        <i class="icons fa fa-twitter"></i></a>
-                                                                                                </li>
-                                                                                                <li>
-                                                                                                    <a href=""
-                                                                                                       class="link-social"
-                                                                                                       onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0'); return false;">
-                                                                                                        <i class="icons fa fa-google-plus"></i></a>
-                                                                                                </li>
-                                                                                            </ul>
-                                                                                        </li>
-                                                                                        <li class="address"><a
-                                                                                                    href="javascript:void(0);"
-                                                                                                    class="link"
-                                                                                                    title="222 Bang Kabi, Bangkok, Thailand"><i
-                                                                                                        class="icons fa fa-map-marker"></i></a>
-                                                                                        </li>
-                                                                                    </ul>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
                                                                     </div>
                                                                 </div>
                                                                 <div class="hide pagination-json"

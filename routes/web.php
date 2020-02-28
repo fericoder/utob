@@ -64,6 +64,13 @@ Route::namespace('Dashboard')->prefix('dashboard')->middleware('auth')->group(fu
     Route::any('treatment/delete', 'TreatmentController@destroy');
     Route::resource('doctor', 'DoctorController');
     Route::any('doctor/delete', 'DoctorController@destroy');
+    Route::resource('hotel', 'HotelController');
+    Route::any('hotel/delete', 'HotelController@destroy');
+    Route::resource('hospital', 'HospitalController');
+    Route::any('hospital/delete', 'HospitalController@destroy');
+    Route::resource('experience', 'ExperienceController');
+    Route::any('experience/delete', 'ExperienceController@destroy');
+
     Route::resource('course', 'CourseController');
     Route::any('course/delete', 'CourseController@destroy');
     Route::post('course/addSection', 'CourseController@addSection')->name('course.addSection');

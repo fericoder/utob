@@ -16,7 +16,8 @@ class ExperienceController extends Controller
     public function show($id)
     {
         $experience = Experience::find($id);
-        return view('app.exprience.show', compact('experience'));
+        $experiences = Experience::all();
+        return view('app.exprience.show', compact('experience', 'experiences'));
     }
 
 }

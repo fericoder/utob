@@ -9,7 +9,7 @@ class IndexController extends Controller
 {
     public function index()
     {
-        $treatments = Treatment::where('home', 1)->get();
+        $treatments = Treatment::where('home', 1)->orderBy('order')->get();
         return view('app.index', compact('treatments'));
     }
 

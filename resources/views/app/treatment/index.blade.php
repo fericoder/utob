@@ -50,36 +50,9 @@
                                         آورده است.
 
                                     </p>
-                                <div class="tours-layout">
-                                    <div class="content-wrapper">
-                                        <ul class="list-info list-inline list-unstyle">
-                                            <li class="share">
-                                                <a href="javascript:void(0);" class="link"><i
-                                                            class="icons fa fa-share-alt"></i></a>
-                                                <ul class="share-social-list">
-                                                    <li>
-                                                        <a href=""
-                                                           onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0');; return false;"
-                                                           class="link-social">
-                                                            <i class="icons fa fa-facebook"></i>
-                                                        </a></li>
-                                                    <li>
-                                                        <a href=""
-                                                           onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0');; return false;"
-                                                           class="link-social">
-                                                            <i class="icons fa fa-twitter"></i>
-                                                        </a></li>
-                                                    <li>
-                                                        <a href=""
-                                                           onclick="window.open(this.href, 'Share Window','left=50,top=50,width=600,height=350,toolbar=0');; return false;"
-                                                           class="link-social">
-                                                            <i class="icons fa fa-google-plus"></i>
-                                                        </a></li>
-                                                </ul>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
+
+
+
                                 <div class="entry-content">
                                     <div class="vc_row wpb_row vc_row-fluid">
                                         <div class="wpb_column vc_column_container vc_col-sm-12">
@@ -87,54 +60,18 @@
                                                 <div class="wpb_wrapper">
 
 
-                                                    <div class="slz-shortcode item-list-style06 item-list-20322406125e273ad44b5af wrapper-journey " data-item=6>
-                                                       @foreach ($treatments->skip(0)->take(6) as $treatment)
-                                                            <div class="item feature-item">
-                                                                <a style="color: #0e99b6" href="{{ route('treatment', $treatment->id) }}"><img style="width: 40px;height: 40px; margin: auto; margin-bottom: 10px" src="{{ $treatment->icon }}" alt="">
-                                                                    <div class="text">
-                                                                        {{ $treatment->name }}
+                                                     <div style="display: flex;justify-content: center;align-items: center;flex-wrap: wrap;">
+                                                               @foreach ($treatments as $treatment)
+                                                                    <div style="width: 150px;height: 100px; margin: 5px;padding: 5px;" class="item feature-item">
+                                                                        <a style="color: #0e99b6" href="{{ route('treatment', $treatment->id) }}"><img style="width: 40px;height: 40px; margin: auto; margin-bottom: 10px" src="{{ $treatment->icon }}" alt="">
+                                                                            <div class="text">
+                                                                                {{ $treatment->name }}
+                                                                            </div>
+                                                                        </a>
                                                                     </div>
-                                                                </a>
-                                                            </div>
-                                                        @endforeach
-                                                    </div>
+                                                                @endforeach
 
-
-                                                    <div class="slz-shortcode item-list-style06 item-list-20322406125e273ad44b5af wrapper-journey " data-item=6>
-                                                        @foreach ($treatments->skip(6)->take(6) as $treatment)
-                                                            <div class="item feature-item">
-                                                                <a style="color: #0e99b6" href="{{ route('treatment', $treatment->id) }}"><img style="width: 40px;height: 40px; margin: auto; margin-bottom: 10px" src="{{ $treatment->icon }}" alt="">
-                                                                <div class="text">
-                                                                     {{ $treatment->name }}
-                                                                </div>
-                                                                </a>
-                                                            </div>
-                                                        @endforeach
-                                                    </div>
-
-                                                    <div class="slz-shortcode item-list-style06 item-list-20322406125e273ad44b5af wrapper-journey " data-item=6>
-                                                        @foreach ($treatments->skip(12)->take(6) as $treatment)
-                                                            <div class="item feature-item">
-                                                                <a style="color: #0e99b6" href="{{ route('treatment', $treatment->id) }}"><img style="width: 40px;height: 40px; margin: auto; margin-bottom: 10px" src="{{ $treatment->icon }}" alt="">
-                                                                    <div class="text">
-                                                                        {{ $treatment->name }}
-                                                                    </div>
-                                                                </a>
-                                                            </div>
-                                                        @endforeach
-                                                    </div>
-
-                                                    <div class="slz-shortcode item-list-style06 item-list-20322406125e273ad44b5af wrapper-journey " data-item=6>
-                                                        @foreach ($treatments->skip(18)->take(6) as $treatment)
-                                                            <div class="item feature-item">
-                                                                <a style="color: #0e99b6" href="{{ route('treatment', $treatment->id) }}"><img style="width: 40px;height: 40px; margin: auto; margin-bottom: 10px" src="{{ $treatment->icon }}" alt="">
-                                                                    <div class="text">
-                                                                        {{ $treatment->name }}
-                                                                    </div>
-                                                                </a>
-                                                            </div>
-                                                        @endforeach
-                                                    </div>
+                                                        </div>
 
                                                 </div>
                                             </div>

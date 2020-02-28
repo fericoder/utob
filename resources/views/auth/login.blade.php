@@ -527,7 +527,7 @@
                                                     آدرس ایمیل
                                                     <span class="required">*</span>
                                                 </label>
-                                                <input type="email" placeholder="" name="email"
+                                                <input style="color: black!important;" type="email" placeholder="" name="email"
                                                        class="form-control form-input">
                                             </div>
                                             <div class="col-md-12">
@@ -535,7 +535,7 @@
                                                     رمز عبور
                                                     <span class="required">*</span>
                                                 </label>
-                                                <input type="password" name="password" placeholder="" class="form-control form-input">
+                                                <input style="color: black!important;" type="password" name="password" placeholder="" class="form-control form-input">
                                             </div>
                                         </div>
                                         <div class="">

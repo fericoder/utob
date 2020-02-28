@@ -9,14 +9,15 @@ class HospitalController extends Controller
 {
     public function index()
     {
-        $hospitals = Hospital::all();
+        $hospitals = Hospital::orderBy('order')->get();
         return view('app.hospital.index', compact('hospitals'));
     }
 
     public function show($id)
     {
         $hospital = Hospital::find($id);
-        return view('app.hospital.show', compact('hospital'));
+        $hospitals = Hospital::all();
+        return view('app.hospital.show', compact('hospital', 'hospitals'));
     }
 
 }

@@ -62,7 +62,7 @@
 
 
                                                         @foreach ($treatments as $treatment)
-                                                            <div class="col-sm-2 col-xs-2 col-contact">
+                                                            <div class="col-sm-3 col-xs-3 col-contact">
                                                                 <a href="{{ route('treatment', $treatment->id ) }}">
                                                                     <div class="media contact-list-media">
                                                                         <div class="media-left">
@@ -616,7 +616,6 @@
                                                                             <video width="" height="" controls>
                                                                                 <source src="/utob-content/uploads/2016/05/why-iran.mp4" type="video/mp4">
                                                                             </video>
-
                                                                         </div>
                                                                     </div>
                                                                 </div>

@@ -33,6 +33,20 @@
             <div class="container">
               <div class="hotel-view-main padding-top padding-bottom entry-content">
                               <div class="container">
+
+                                  @if($treatment->id == 5)
+                                      <div style="display: flex;justify-content: center;align-items: center;flex-wrap: wrap;">
+                                          @foreach ($treatments->where('parent_id', 5) as $treatment)
+                                              <div style="width: 150px;height: 100px; margin: 5px;padding: 5px;" class="item feature-item">
+                                                  <a style="color: #0e99b6" href="{{ route('treatment', $treatment->id) }}"><img style="width: 40px;height: 40px; margin: auto; margin-bottom: 10px" src="{{ $treatment->icon }}" alt="">
+                                                      <div class="text">
+                                                          {{ $treatment->name }}
+                                                      </div>
+                                                  </a>
+                                              </div>
+                                          @endforeach
+                                    @endif
+                                  </div>
                                   <div class="journey-block">
                                       <div class="overview-block clearfix slz-shortcode sc-block-13351890685e273ad44c072 ">
                                           <div class="timeline-container">

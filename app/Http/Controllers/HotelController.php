@@ -10,14 +10,15 @@ class HotelController extends Controller
 {
     public function index()
     {
-        $hotels = Hotel::all();
+        $hotels = Hotel::orderBy('order')->get();
         return view('app.hotel.index', compact('hotels'));
     }
 
     public function show($id)
     {
         $hotel = Hotel::find($id);
-        return view('app.hotel.show', compact('hotel'));
+        $hotels = Hotel::all();
+        return view('app.hotel.show', compact('hotel', 'hotels'));
     }
 
 }

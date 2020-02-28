@@ -47,76 +47,29 @@
                     </div>
 
                 </div>
-                
+
 
                 <div class="container">
-                    <div class="slz-shortcode special-offer margin-top70" style="margin-bottom:50px;">
-                        <h3 class="title-style-2">دیگر پزشکان
-                        </h3>
+                    <div class="slz-shortcode special-offer margin-top70">
+                        <h3 class="title-style-2">دیگر پزشک ها</h3>
                         <div class="special-offer-list">
-                            <div class="special-offer-layout post-185 slzexploore_hotel">
-                                <div class="image-wrapper">
-                                    <a class="link"
-                                       href=""><img width="342"
-                                                    height="257"
-                                                    src="/utob-content/uploads/2016/05/doki2.jpg"
-                                                    class="img-responsive"
-                                                    alt="316_langham_modern_Exterior"
-                                        /></a>
-                                    <div class="title-wrapper"><a
-                                                href=""
-                                                class="title">نرگس زندوکیل</a><i class="icons flaticon-circle"></i>
+
+                            @foreach ($doctors as $doctor)
+                                <div class="special-offer-layout post-185 slzexploore_hotel">
+                                    <div style="height: 160px!important;" class="image-wrapper">
+                                        <a class="link" href="{{ route('doctor', $doctor->id ) }}"><img style="height: 160px!important;" width="342"  src="{{ $doctor->avatar }}" class="img-responsive" alt=""/></a>
+                                        <div class="title-wrapper"><a href="{{ route('hotel', $doctor->id ) }}" class="title">{{ $doctor->name }}</a><i class="icons flaticon-circle"></i>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div class="special-offer-layout post-172 slzexploore_hotel">
-                                <div class="image-wrapper">
-                                    <a class="link"
-                                       href=""><img width="342"
-                                                    height="257"
-                                                    src="/utob-content/uploads/2016/05/doki2.jpg"
-                                                    class="img-responsive"
-                                                    alt="316_langham_modern_Exterior"
-                                        /></a>
-                                    <div class="title-wrapper"><a
-                                                href=""
-                                                class="title">نرگس زندوکیل</a><i class="icons flaticon-circle"></i>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="special-offer-layout post-166 slzexploore_hotel">
-                                <div class="image-wrapper">
-                                    <a class="link"
-                                       href=""><img width="342"
-                                                    height="257"
-                                                    src="/utob-content/uploads/2016/05/doki2.jpg"
-                                                    class="img-responsive"
-                                                    alt="316_langham_modern_Exterior"
-                                        /></a>
-                                    <div class="title-wrapper"><a
-                                                href=""
-                                                class="title">نرگس زندوکیل</a><i class="icons flaticon-circle"></i>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="special-offer-layout post-84 slzexploore_hotel">
-                                <div class="image-wrapper">
-                                    <a class="link"
-                                       href=""><img width="342"
-                                                    height="257"
-                                                    src="/utob-content/uploads/2016/05/doki2.jpg"
-                                                    class="img-responsive"
-                                                    alt="316_langham_modern_Exterior"
-                                        /></a>
-                                    <div class="title-wrapper"><a
-                                                href=""
-                                                class="title">نرگس زندوکیل</a><i class="icons flaticon-circle"></i>
-                                    </div>
-                                </div>
-                            </div>
+
+                            @endforeach
+
                         </div>
                     </div>
                 </div>
+
+
             </div>
         </div>
     </div>

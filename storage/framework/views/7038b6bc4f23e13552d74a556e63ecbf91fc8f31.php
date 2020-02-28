@@ -60,7 +60,7 @@
 
 
                                                         <?php $__currentLoopData = $treatments; $__env->addLoop($__currentLoopData); foreach($__currentLoopData as $treatment): $__env->incrementLoopIndices(); $loop = $__env->getLastLoop(); ?>
-                                                            <div class="col-sm-2 col-xs-2 col-contact">
+                                                            <div class="col-sm-3 col-xs-3 col-contact">
                                                                 <a href="<?php echo e(route('treatment', $treatment->id )); ?>">
                                                                     <div class="media contact-list-media">
                                                                         <div class="media-left">

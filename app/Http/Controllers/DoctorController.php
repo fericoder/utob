@@ -16,7 +16,8 @@ class DoctorController extends Controller
     public function show($id)
     {
         $doctor = Doctor::find($id);
-        return view('app.doctor.show', compact('doctor'));
+        $doctors = Doctor::all();
+        return view('app.doctor.show', compact('doctor', 'doctors'));
     }
 
 
