@@ -11,6 +11,12 @@
 |
 */
 
+Route::get('/lang/{locale}', function ($locale, Request $request) {
+    \Cookie::queue('lang', $locale, 999999);
+    return redirect()->back();
+});
+
+
 Route::get('/', 'IndexController@index')->name('index');
 Route::get('/about', 'IndexController@about')->name('about');
 Route::get('/contact', 'IndexController@contact')->name('contact');

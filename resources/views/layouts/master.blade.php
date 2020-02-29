@@ -844,7 +844,7 @@
             <ul id="menu-main-navigation" class="nav-links nav navbar-nav slzexploore-menu">
                 <li id="menu-item-548"
                     class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-45 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-548 active dropdown menu-item-depth1">
-                    <a class="main-menu" href="/"><i class="fa  "></i>صفحه اصلی<span class="icons-dropdown"><i
+                    <a class="main-menu" href="/"><i class="fa  "></i>{{ __('translate.safeasli') }}<span class="icons-dropdown"><i
                                     class="fa fa-home"></i></span></a>
 
                 </li>
@@ -921,9 +921,10 @@
             </ul>
         </div>
         <ul class="topbar-right pull-right list-unstyled list-inline login-widget">
-            <li><a href="" class="monney dropdown-text"><span style="color:#ffffff;">English</span></a></li>
-            <li><a href="" class="item">العربیه</a></li>
-            <li><a href="" class="item">Turkish</a></li>
+            <li><a href="/lang/fa" class="item">فارسی</a></li>
+            <li><a href="/lang/en" class="item">English</span></a></li>
+            <li><a href="/lang/ar" class="item">العربیه</a></li>
+            <li><a href="/lang/ru" class="item">Russia</a></li>
         </ul>
     </div>
 </div>
@@ -944,10 +945,11 @@
                         </li>
                     </ul>
                     <ul class="topbar-right pull-right list-unstyled list-inline login-widget">
-                        <li><a href="" class="monney dropdown-text"><span>English</span></a>
-                        </li>
-                        <li><a href="" class="item">العربیه</a></li>
-                        <li><a href="" class="item">Turkish</a></li>
+                        <li><a href="/lang/fa" class="item">فارسی</a></li>
+                        <li><a href="/lang/en" class="item">English</span></a></li>
+                        <li><a href="/lang/ar" class="item">العربیه</a></li>
+                        <li><a href="/lang/ru" class="item">Russia</a></li>
+                        <li><a href="/lang/tr" class="item">Turkish</a></li>
                     </ul>
                 </div>
             </div>
@@ -968,7 +970,7 @@
                         <nav class="navigation">
                             <ul id="menu-main-navigation-1" class="nav-links nav navbar-nav slzexploore-menu">
                                 <li class="{{ request()->is('/') ? 'active' : '' }} menu-item menu-item-type-post_type menu-item-object-page  page_item page-item-45  current_page_parent current_page_ancestor menu-item-has-children menu-item-548 dropdown menu-item-depth1">
-                                    <a class="main-menu" href="/"><i class="fa fa-home utob-font"></i>صفحه اصلی<span
+                                    <a class="main-menu" href="/"><i class="fa fa-home utob-font"></i>{{ __('translate.safeasli') }}<span
                                                 class="icons-dropdown"></span></a></li>
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-554 dropdown menu-item-depth1">
                                     <a class="main-menu" href=""><i class="fa  "></i><i
