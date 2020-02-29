@@ -200,7 +200,7 @@
           href="wp-json/oembed/1.0/embed6364?url=http%3A%2F%2F%2Fexploore%2F&amp;format=xml"/>
     <!-- Start Dynamic Styling -->
     <style type="text/css">
-        @media screen {
+        @media  screen {
             #wrapper-content .section.page-detail {
                 padding-top: 0px;
                 padding-bottom: 0px;
@@ -325,7 +325,7 @@
         }</style> <!-- End Dynamic Styling -->
     <!-- Start Dynamic Styling only for desktop -->
     <style type="text/css">
-        @media screen and (min-width: 767px) {
+        @media  screen and (min-width: 767px) {
             .page-title {
                 background-color: #f3f3f3;
                 background-image: url("/utob-content/uploads/2016/07/old-1130738_1920.jpg");
@@ -400,7 +400,7 @@
             display: inline;
         }
 
-        @media screen and (max-width: 600px) {
+        @media  screen and (max-width: 600px) {
             .rlp-table {
                 padding: 30px 15px;
             }
@@ -844,7 +844,7 @@
             <ul id="menu-main-navigation" class="nav-links nav navbar-nav slzexploore-menu">
                 <li id="menu-item-548"
                     class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-45 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-548 active dropdown menu-item-depth1">
-                    <a class="main-menu" href="/"><i class="fa  "></i>{{ __('translate.safeasli') }}<span class="icons-dropdown"><i
+                    <a class="main-menu" href="/"><i class="fa  "></i><?php echo e(__('translate.safeasli')); ?><span class="icons-dropdown"><i
                                     class="fa fa-home"></i></span></a>
 
                 </li>
@@ -856,63 +856,63 @@
                 </li>
                 <li id="menu-item-554"
                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-554 dropdown menu-item-depth1">
-                    <a class="main-menu" href=""><i class="fa  "></i>{{ __('translate.pakeyjha') }}<span class="icons-dropdown"><i
+                    <a class="main-menu" href=""><i class="fa  "></i><?php echo e(__('translate.pakeyjha')); ?><span class="icons-dropdown"><i
                                     class="fa fa-medkit"></i></span></a>
 
                 </li>
                 <li id="menu-item-1342"
                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1342 dropdown menu-item-depth1">
-                    <a class="main-menu" href="/doctors"><i class="fa  "></i>{{ __('translate.pezeshkan') }}<span class="icons-dropdown"><i
+                    <a class="main-menu" href="/doctors"><i class="fa  "></i><?php echo e(__('translate.pezeshkan')); ?><span class="icons-dropdown"><i
                                     class="fa fa-user-md "></i></span></a>
 
                 </li>
                 <li id="menu-item-562"
                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-562 dropdown menu-item-depth1">
-                    <a class="main-menu" href="/Hospitals"><i class="fa  "></i>{{ __('translate.bimarestanha') }}<span
+                    <a class="main-menu" href="/Hospitals"><i class="fa  "></i><?php echo e(__('translate.bimarestanha')); ?><span
                                 class="icons-dropdown"><i class="fa fa-hospital-o"></i></span></a>
 
                 </li>
                 <li id="menu-item-562"
                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-562 dropdown menu-item-depth1">
-                    <a class="main-menu" href="/hotels"><i class="fa  "></i>{{ __('translate.hotelha') }}<span
+                    <a class="main-menu" href="/hotels"><i class="fa  "></i><?php echo e(__('translate.hotelha')); ?><span
                                 class="icons-dropdown"><i class="fa fa-building-o"></i></span></a>
 
                 </li>
                 <li id="menu-item-536"
                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-536 dropdown menu-item-depth1">
-                    <a class="main-menu" href="/about"><i class="fa  "></i>{{ __('translate.hotelha') }}<span class="icons-dropdown"><i
+                    <a class="main-menu" href="/about"><i class="fa  "></i><?php echo e(__('translate.hotelha')); ?><span class="icons-dropdown"><i
                                     class="fa fa-angle-down"></i></span></a>
                     <ul class="dropdown-menu dropdown-menu-1 exploore-dropdown-menu-1">
                         <li id="menu-item-556"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-556"><a
-                                    class="link-page" href="/login"><i class="fa  "></i>{{ __('translate.vorodbsistem') }}</a></li>
+                                    class="link-page" href="/login"><i class="fa  "></i><?php echo e(__('translate.vorodbsistem')); ?></a></li>
                         <li id="menu-item-556"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-556"><a
-                                    class="link-page" href="/blogs"><i class="fa  "></i>{{ __('translate.maqalat') }}</a></li>
+                                    class="link-page" href="/blogs"><i class="fa  "></i><?php echo e(__('translate.maqalat')); ?></a></li>
                         <li id="menu-item-556"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-556"><a
-                                    class="link-page" href="/services"><i class="fa  "></i>{{ __('translate.sayerkhadamat') }}</a></li>
+                                    class="link-page" href="/services"><i class="fa  "></i><?php echo e(__('translate.sayerkhadamat')); ?></a></li>
 
                     </ul>
                 </li>
                 <li id="menu-item-536"
                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-536 dropdown menu-item-depth1">
-                    <a class="main-menu" href="/about"><i class="fa  "></i>{{ __('translate.darbarema') }}<span
+                    <a class="main-menu" href="/about"><i class="fa  "></i><?php echo e(__('translate.darbarema')); ?><span
                                 class="label label-danger">شرکت یوتاب مد</span><span class="icons-dropdown"><i
                                     class="fa fa-angle-down"></i></span></a>
                     <ul class="dropdown-menu dropdown-menu-1 exploore-dropdown-menu-1">
                         <li id="menu-item-556"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-556"><a
-                                    class="link-page" href="/blogs"><i class="fa  "></i>{{ __('translate.maqalat') }}</a></li>
+                                    class="link-page" href="/blogs"><i class="fa  "></i><?php echo e(__('translate.maqalat')); ?></a></li>
                         <li id="menu-item-556"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-556"><a
-                                    class="link-page" href="/about"><i class="fa  "></i>{{ __('translate.darbarema') }}</a></li>
+                                    class="link-page" href="/about"><i class="fa  "></i><?php echo e(__('translate.darbarema')); ?></a></li>
 
                     </ul>
                 </li>
                 <li id="menu-item-1239"
                     class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1239 mega-menu dropdown">
-                    <a class="main-menu" href="/Contact"><span class="text"><i class="fa  "></i>{{ __('translate.tamasbama') }}</span><span
+                    <a class="main-menu" href="/Contact"><span class="text"><i class="fa  "></i><?php echo e(__('translate.tamasbama')); ?></span><span
                                 class="fa fa-phone icons-dropdown"></span></a>
 
                 </li>
@@ -969,57 +969,57 @@
                         </div>
                         <nav class="navigation">
                             <ul id="menu-main-navigation-1" class="nav-links nav navbar-nav slzexploore-menu">
-                                <li class="{{ request()->is('/') ? 'active' : '' }} menu-item menu-item-type-post_type menu-item-object-page  page_item page-item-45  current_page_parent current_page_ancestor menu-item-has-children menu-item-548 dropdown menu-item-depth1">
-                                    <a class="main-menu" href="/"><i class="fa fa-home utob-font"></i>{{ __('translate.safeasli') }}<span
+                                <li class="<?php echo e(request()->is('/') ? 'active' : ''); ?> menu-item menu-item-type-post_type menu-item-object-page  page_item page-item-45  current_page_parent current_page_ancestor menu-item-has-children menu-item-548 dropdown menu-item-depth1">
+                                    <a class="main-menu" href="/"><i class="fa fa-home utob-font"></i><?php echo e(__('translate.safeasli')); ?><span
                                                 class="icons-dropdown"></span></a></li>
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-554 dropdown menu-item-depth1">
                                     <a class="main-menu" href=""><i class="fa  "></i><i
-                                                class="fa fa-medkit utob-font"></i>{{ __('translate.pakeyjha') }}</a></li>
+                                                class="fa fa-medkit utob-font"></i><?php echo e(__('translate.pakeyjha')); ?></a></li>
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-555 dropdown menu-item-depth1">
                                     <a class="main-menu" href="/treatments"><i class="fa  "></i><i
-                                                class="fa fa-stethoscope utob-font"></i>{{ __('translate.darmanha') }}</a></li>
-                                <li class=" {{ request()->is('*doctors*') ? 'active' : '' }}menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1342 dropdown menu-item-depth1">
-                                    <a class="main-menu" href="{{ route('doctors') }}"><i
-                                                class="fa fa-user-md utob-font"></i>{{ __('translate.pezeshkan') }}</a></li>
+                                                class="fa fa-stethoscope utob-font"></i><?php echo e(__('translate.darmanha')); ?></a></li>
+                                <li class=" <?php echo e(request()->is('*doctors*') ? 'active' : ''); ?>menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1342 dropdown menu-item-depth1">
+                                    <a class="main-menu" href="<?php echo e(route('doctors')); ?>"><i
+                                                class="fa fa-user-md utob-font"></i><?php echo e(__('translate.pezeshkan')); ?></a></li>
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-562 dropdown menu-item-depth1">
-                                    <a class="main-menu" href="{{ route('hospitals') }}"><i
-                                                class="fa  "></i><i class="fa fa-hospital-o utob-font"></i>{{ __('translate.bimarestanha') }}</a></li>
+                                    <a class="main-menu" href="<?php echo e(route('hospitals')); ?>"><i
+                                                class="fa  "></i><i class="fa fa-hospital-o utob-font"></i><?php echo e(__('translate.bimarestanha')); ?></a></li>
                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-562 dropdown menu-item-depth1">
-                                    <a class="main-menu" href="{{ route('experiences') }}"><i
+                                    <a class="main-menu" href="<?php echo e(route('experiences')); ?>"><i
                                                 class="fa  "></i><i class="fa fa-check-square-o
- utob-font"></i>{{ __('translate.tajrobemoshtarian') }}</a></li>
+ utob-font"></i><?php echo e(__('translate.tajrobemoshtarian')); ?></a></li>
 
 
-                                <li class=" {{ request()->is('*hotels*') ? 'active' : '' }}  menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-555 dropdown menu-item-depth1">
-                                    <a class="main-menu" href="/about"><i class="fa  "></i>{{ __('translate.khadamat') }}<span
+                                <li class=" <?php echo e(request()->is('*hotels*') ? 'active' : ''); ?>  menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-555 dropdown menu-item-depth1">
+                                    <a class="main-menu" href="/about"><i class="fa  "></i>خدمات <span
                                                 class="icons-dropdown"><i class="fa fa-angle-down"></i></span></a>
                                     <ul class="dropdown-menu dropdown-menu-1 exploore-dropdown-menu-1">
                                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-558">
-                                            <a class="link-page" href="/hotels"><i class="fa  "></i>{{ __('translate.hotelha') }}</a></li>
+                                            <a class="link-page" href="/hotels"><i class="fa  "></i><?php echo e(__('translate.hotelha')); ?></a></li>
                                         <li class="menu-item menu-item-type-post_type menu-item-object-slzexploore_tour menu-item-1687">
-                                            <a class="link-page" href="/login"><i class="fa  "></i>{{ __('translate.vorodbsistem') }}</a>
+                                            <a class="link-page" href="/login"><i class="fa  "></i>ورود به سیستم</a>
                                         </li>
                                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-558">
-                                            <a class="link-page" href="/blogs"><i class="fa  "></i>{{ __('translate.hotelha') }}</a></li>
+                                            <a class="link-page" href="/blogs"><i class="fa  "></i>مقالات</a></li>
 
                                         <li class="menu-item menu-item-type-post_type menu-item-object-slzexploore_tour menu-item-1687">
-                                            <a class="link-page" href="/services"><i class="fa  "></i>{{ __('translate.sayerkhadamat') }}</a>
+                                            <a class="link-page" href="/services"><i class="fa  "></i>سایر خدمات</a>
                                         </li>
                                     </ul>
                                 </li>
 
 
-                                <li class=" {{ request()->is('*about*') ? 'active' : '' }} {{ request()->is('*contact*') ? 'active' : '' }}  menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-555 dropdown menu-item-depth1">
-                                    <a class="main-menu" href="/about"><i class="fa  "></i>{{ __('translate.darbare') }}<span
-                                                class="label label-danger"> {{ __('translate.utobmed') }}</span><span
+                                <li class=" <?php echo e(request()->is('*about*') ? 'active' : ''); ?> <?php echo e(request()->is('*contact*') ? 'active' : ''); ?>  menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-555 dropdown menu-item-depth1">
+                                    <a class="main-menu" href="/about"><i class="fa  "></i>درباره<span
+                                                class="label label-danger"> یوتاب مد</span><span
                                                 class="icons-dropdown"><i class="fa fa-angle-down"></i></span></a>
                                     <ul class="dropdown-menu dropdown-menu-1 exploore-dropdown-menu-1">
 
                                         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1640">
-                                            <a class="link-page" href="/about"><i class="fa  "></i> {{ __('translate.darbarema') }}</a>
+                                            <a class="link-page" href="/about"><i class="fa  "></i>درباره ما</a>
                                         </li>
                                         <li class="menu-item menu-item-type-post_type menu-item-object-slzexploore_tour menu-item-1687">
-                                            <a class="link-page" href="/contact"><i class="fa  "></i> {{ __('translate.tamasbama') }}</a>
+                                            <a class="link-page" href="/contact"><i class="fa  "></i>تماس باما</a>
                                         </li>
                                     </ul>
                                 </li>
@@ -1030,7 +1030,7 @@
                             <div class="button-search">
                                 <a style="padding: 10px!important;font-size: 13px;" data-toggle="modal"
                                    data-target="#freeConsultant"
-                                   class="btn btn-maincolor btn-maincolor1-12960595115e1ec8d471431">{{ __('translate.moshavererayegan') }}</a>
+                                   class="btn btn-maincolor btn-maincolor1-12960595115e1ec8d471431">مشاوره رایگان</a>
                             </div>
 
                         </nav>
@@ -1041,7 +1041,7 @@
         </div>
     </header>
 
-    @yield('content')
+    <?php echo $__env->yieldContent('content'); ?>
 
     <!---begin GOFTINO code--->
     <script type="text/javascript">
@@ -1411,7 +1411,7 @@
 <script type='text/javascript'
         src='/utob-content/themes/utob/assets/public/js/slz-livesettingd5f7.js?ver=2.0'></script>
 
-@yield('footerScripts')
+<?php echo $__env->yieldContent('footerScripts'); ?>
 <script>
     var flag = false;
     setInterval(function () {
@@ -1424,3 +1424,4 @@
 </body>
 
 </html>
+<?php /**PATH E:\Web Projects\Laravel\utob\resources\views/layouts/master.blade.php ENDPATH**/ ?>
