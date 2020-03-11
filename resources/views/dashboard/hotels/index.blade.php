@@ -11,7 +11,7 @@
 
 @section('content')
 
-    
+
 
     <div class="row">
         <div class="col-xl-12">
@@ -81,6 +81,7 @@
                                 <td>{{ jdate($hotel->created_at)  }}</td>
                                 {{--<td>{{ jdate($hotel->published_at)  }}</td>--}}
                                 {{--<td>{{ $hotel->viewCount  }}</td>--}}
+
                                 {{--<td>{{ $hotel->commnetCount  }}</td>--}}
                                 <td>
                                     <a href=""

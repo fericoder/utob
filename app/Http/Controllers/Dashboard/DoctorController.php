@@ -21,7 +21,8 @@ class DoctorController extends Controller
      */
     public function index()
     {
-        $doctors = Doctor::orderBy('created_at', 'desc')->get();
+      //  $doctors = Doctor::orderBy('created_at', 'desc')->get();
+        $doctors = \DB::table('doctors')->orderBy('created_at', 'desc')->get();
         return view('dashboard.doctors.index', compact('doctors'));
     }
 

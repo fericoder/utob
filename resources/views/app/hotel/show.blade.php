@@ -17,7 +17,7 @@
                         <div class="page-title-content">
                             <ol class="breadcrumb">
                                 <li><a href="/" class="link home">صفحه اصلی</a></li>
-                                <li><a href="{{ route('hotels') }}" class="link">هتل ها</a></li>
+                                <li><a href="{{ route('hotels') }}" class="link">بیمارستان ها</a></li>
                                 <li><a href="{{ route('hotel', $hotel->id ) }}" class="link">{{ $hotel->name }}</a></li>
                             </ol>
                             <div class="clearfix"></div>
